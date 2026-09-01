@@ -1,30 +1,54 @@
-# ❓ Venice & Madrid Extension Questions
+# 🦞 Nova Scotia 2026 — Trip Calibration Questions
 
-To finalize the exact schedule for our newly added **Venice (Sept 23 - 25)** and **Madrid (Sept 25 - 27)** legs, please discuss the following questions as a group and let me know the consensus!
+This project is being converted from the Dolomites trip to your **Nova Scotia** trip. Answer these questions and I'll rebuild the site with researched day-by-day itineraries, logistics, maps, and packing.
 
-## 🛶 1. Venice Accommodation Vibes
-Where do we want our home base in Venice Island to be?
-* **San Marco**: Very central, close to the main sights, but very touristy and expensive.
-* **San Polo / Santa Croce**: More authentic, quieter, and closer to the train station (easier for arrival).
-* **Cannaregio**: Very local feel, lots of great cheap eats, further walk to St. Mark's.
+---
 
-## 🍝 2. Venice Activities
-On our full day in Venice (Thursday), do we want to:
-* Stay entirely on the main islands, visiting St. Mark's and taking a gondola ride?
-* Take a water bus out to **Murano** (glass blowing) or **Burano** (colorful houses) for a half-day trip?
+## 📅 1. Dates & Length
+- What are the exact travel dates (2026)? Any hard constraints (work, flights already booked)?
+- How many travel days total?
+- Round-trip from **Halifax (YHZ)**, or fly in/out of different airports?
+- Home airport? (Toronto YYZ, based on the Madrid flight reference?)
 
-## 🚆 3. Madrid Airport Arrival & Base
-We arrive in Madrid on Friday afternoon. Where do we want to stay?
-* **Malasaña / Chueca**: Super trendy, hipster, incredible nightlife, vintage shops, loud and vibrant.
-* **La Latina**: Very traditional, older architecture, famous for tapas and Sunday markets.
-* **Centro (Sol / Plaza Mayor)**: Right in the middle of all the tourist attractions. Very convenient but very busy and touristy.
+## 👥 2. Group & Pace
+- How many people, ages, and any mobility considerations?
+- Travel style: jam-packed every day, or relaxed mornings?
+- Who's driving? Single driver or split?
 
-## 🥘 4. Madrid Dining and Tapas
-Madrid is one of the best food cities in the world. How do we want to handle dinner on Friday?
-* Do we want to book a guided **Tapas & Wine tasting tour** to get the lay of the land immediately upon arrival?
-* Are there any specific dining experiences you want me to book? (e.g., *Botín*, the oldest restaurant in the world, famous for roast suckling pig).
+## 🚙 3. Ground Transportation
+- Car rental arranged? (Nova Scotia really needs a car — pick-up/drop-off at YHZ?)
+- Are ferries on the table (e.g., North Sydney → Newfoundland, Digby → Saint John, or a PEI side-trip)?
 
-## 🪩 5. ANYMA Concert Logistics
-The ANYMA presents ÆDEN event is on Saturday (Sept 26). 
-* Do we know if this is a daytime festival or a late-night club set? (Electronic events in Spain often start very late and end at sunrise).
-* If it's an all-nighter, we will be extremely tired on Sunday (Sept 27) for the flight home. Are we okay with a brutal travel day, or should we try to book an afternoon/evening flight?
+## 🗺️ 4. Regions & Must-Sees
+Rank these or tell me your priorities:
+- **Halifax**: Citadel, waterfront boardwalk, food scene (donairs, seafood), Peggy's Cove day-trip
+- **South Shore**: Lunenburg, Mahone Bay, LaHave
+- **Bay of Fundy**: World's highest tides, tidal bore rafting, Cape Split hike
+- **Annapolis Valley**: Wine country, Wolfville, Grand Pré (UNESCO)
+- **Cape Breton**: Cabot Trail, Skyline Trail, Celtic music, Fortress of Louisbourg
+- **PEI side-trip** via Confederation Bridge, or ferry to Newfoundland?
+- Any non-negotiables (lobster suppers, Digby scallops, oyster farms, whale watching)?
+
+## 🥾 5. Activities & Interests
+- Hiking appetite: Skyline Trail, Cape Split, Uisge Ban Falls, Pollet's Cove, Cape Chignecto?
+- Water: whale watching (Bay of Fundy), kayaking, surfing (Lawrencetown Beach)?
+- Culture: ceilidhs / Celtic music sessions, Fortress of Louisbourg re-enactments, maritime museums?
+- Wine/cider/golf or other hobbies?
+
+## 🛏️ 6. Accommodation
+- Style: cottages/Airbnbs, hotels/B&Bs, campgrounds?
+- Move every 2–3 nights (e.g., Halifax → Lunenburg → Wolfville → Baddeck → Ingonish) or two longer bases?
+- Per-night budget?
+
+## 💰 7. Budget & Bookings
+- Anything already booked (flights, car, lodgings)? Point me at the receipts.
+- Activity/dining budget ranges?
+- Carry-overs from the Dolomites project: Wise Card, travel insurance, packing-list philosophy?
+
+## ⏰ 8. Timing Nuances (2026)
+- **Celtic Colours** (Cape Breton festival) is early October 2026 — relevant?
+- Trade-offs you care about: fall colours vs. summer weather, whale season (best May–Oct), Lobster season windows?
+
+---
+
+Once I have these answers, I'll draft the date-by-date skeleton for your review before filling in research detail.
