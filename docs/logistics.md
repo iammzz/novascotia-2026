@@ -1,8 +1,9 @@
 # ✈️ Logistics Master: Flights, Rental Car & Accommodations
 
-!!! warning "🚨 Current Logistics Status: 🔴 NOT BOOKED (Planning & Research Phase)"
+!!! info "📋 Current Logistics Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates**: October 10 – 14, 2026 (5 Days)  
     **Buffer Window**: Depart Toronto Oct 8/9, Return Oct 15/16 (Pending Flight Booking)  
+    **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sun, Oct 11 @ 4:00 PM)**  
     **Immediate Focus**: Lock in Toronto → Halifax flights and secure Cape Breton accommodations before Celtic Colours festival sell-out.
 
 ---
@@ -59,7 +60,7 @@
 | Activity / Pass | Timing / Date | Pricing (CAD) | Booking Requirement | Status |
 |:---|:---|:---:|:---|:---:|
 | **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Alexander Graham Bell NHS gate on Day 1 | 🔴 NOT BOOKED |
-| **Skyline Trail Timed Parking Reservation (NEW 2026)** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | ~$3 – $11 CAD reservation fee | **Mandatory advance parking reservation** via [Parks Canada Reservation Service](https://reservation.pc.gc.ca/) (Required June 26–Oct 25, 2026). Print offline confirmation! | 🔴 NOT BOOKED |
+| **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service *(Receipt `receipts/skyline_parking.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
 | **Alexander Keith's Brewery Historic Tour** | Day 5 (Oct 14) | ~$32 / person | Online reservation recommended 2 weeks prior | 🔴 NOT BOOKED |
 | **Halifax Citadel Historic Site Admission** | Day 5 (Oct 14) | Included in Discovery Pass | Show pass at vehicle entrance or main entry gate | 🟢 COVERED BY PASS |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |

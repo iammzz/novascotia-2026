@@ -47,10 +47,11 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-!!! warning "🚨 Status: Planning & Research Phase"
+!!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates Locked**: **October 10 – 14, 2026** (Canadian Thanksgiving Peak Foliage Window)  
     **Buffer Windows**: Potential early arrival (Oct 8/9) and late departure (Oct 15/16) pending flight price optimization.  
-    **Current Action Items**: Review Toronto–Halifax flight value matrix in [Flight Research](research.md) & lock in rental car + Cape Breton lodgings (see [To-Do List](todo.md)).
+    **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sunday, Oct 11 @ 4:00 PM)**  
+    **Current Next Priorities**: Lock in Toronto → Halifax flights and Cape Breton accommodations (see [To-Do List](todo.md) & [Logistics](logistics.md)).
 
 ---
 

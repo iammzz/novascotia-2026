@@ -1,9 +1,9 @@
 # 📋 Master To-Do & Booking Checklist: Nova Scotia 2026
 
-!!! warning "🚨 Global Booking Status: 🔴 NOT BOOKED (Planning & Research Phase)"
+!!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates**: **October 10 – 14, 2026**  
     **Buffer Window**: Pre-trip Oct 8/9, Post-trip Oct 15/16 (Dependent on flight prices).  
-    **Immediate High Priority**: Finalize exact flight dates from Toronto (YYZ/YTZ) and secure Cape Breton accommodations before Celtic Colours festival sell-out.
+    **Current Status**: 🟢 **Skyline Trail Parking confirmed for Sunday, Oct 11 @ 4:00 PM**! Immediate next priority: Lock in Toronto → Halifax flights and Cape Breton accommodations.
 
 ---
 
@@ -28,11 +28,10 @@
 
 - [ ] **Parks Canada Passes & Admissions**:
   - [ ] Decide on Family/Group Discovery Pass ($145.25 CAD) vs Daily Admissions ($86.50 CAD for 2 adults).
-- [ ] **Skyline Trail Timed Parking Reservation (⚡ NEW FOR 2026)**:
-  - [ ] Set up an account on the [Parks Canada Reservation Service](https://reservation.pc.gc.ca/).
-  - [ ] Book parking for **Sunday, October 11, 2026** (Target time slot: **16:00 / 4:00 PM** for the sunset hike).
+- [x] **Skyline Trail Timed Parking Reservation (⚡ CONFIRMED BOOKED)**:
+  - [x] Parks Canada Reservation Service account created.
+  - [x] Parking booked for **Sunday, October 11, 2026** (Check-in slot: **4:00 PM / 16:00** for sunset hike). *(Receipt `skyline_parking.pdf` stored in `receipts/`)*.
   - [ ] Download/print the reservation confirmation PDF for offline use (cell service is unavailable at the trailhead).
-  - ⚠️ *Note*: Parks Canada has instituted a **mandatory parking reservation system from June 26 to October 25, 2026**. Drive-up access without a booking is strictly prohibited when lots are full.
 - [ ] **Celtic Colours International Festival**:
   - [ ] Check Celtic Colours 2026 artist lineup (released July 2026).
   - [ ] Purchase tickets for Saturday Oct 10 or Sunday Oct 11 evening concerts in Baddeck / Chéticamp / St. Ann's.
@@ -61,4 +60,4 @@
 
 ## ✅ Completed Tasks
 
-*No bookings completed yet — all tasks active in planning & research.*
+- [x] **Skyline Trail Sunset Parking Reservation**: Confirmed for **Sunday, October 11, 2026 @ 4:00 PM (16:00)** *(Receipt stored in `receipts/skyline_parking.pdf`)*.
