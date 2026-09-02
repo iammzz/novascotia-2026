@@ -59,7 +59,7 @@
 | Activity / Pass | Timing / Date | Pricing (CAD) | Booking Requirement | Status |
 |:---|:---|:---:|:---|:---:|
 | **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Alexander Graham Bell NHS gate on Day 1 | 🔴 NOT BOOKED |
-| **Skyline Trail Guided / Sunset Access** | Day 2 (Oct 11) | Free with Park Pass | No pre-registration required; arrive at trailhead by 03:45 PM | 🟢 READY (Self-Guided) |
+| **Skyline Trail Timed Parking Reservation (NEW 2026)** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | ~$3 – $11 CAD reservation fee | **Mandatory advance parking reservation** via [Parks Canada Reservation Service](https://reservation.pc.gc.ca/) (Required June 26–Oct 25, 2026). Print offline confirmation! | 🔴 NOT BOOKED |
 | **Alexander Keith's Brewery Historic Tour** | Day 5 (Oct 14) | ~$32 / person | Online reservation recommended 2 weeks prior | 🔴 NOT BOOKED |
 | **Halifax Citadel Historic Site Admission** | Day 5 (Oct 14) | Included in Discovery Pass | Show pass at vehicle entrance or main entry gate | 🟢 COVERED BY PASS |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |

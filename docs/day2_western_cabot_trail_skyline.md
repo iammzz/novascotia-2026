@@ -58,6 +58,11 @@ graph TD
 *The undisputed signature hike of Nova Scotia.*
 
 - **Trailhead Coordinates**: 46.7410° N, 60.8804° W (Large paved parking area with Parks Canada interpretive panels and pit toilets).
+- **⚠️ Mandatory 2026 Parking Reservation Rule**:
+  - Parks Canada has instituted a **mandatory timed parking reservation system from June 26 to October 25, 2026**.
+  - You **must book your parking slot in advance** via [Parks Canada Reservation Service](https://reservation.pc.gc.ca/).
+  - **Target Booking Slot**: Select the **16:00 (4:00 PM – 9:00 PM)** time slot. You must arrive between 03:50 PM and 05:00 PM (within 1 hour of the start time).
+  - **Offline Confirmation**: Cellular reception is non-existent on French Mountain. Take a screenshot or print your reservation confirmation PDF prior to entering the park.
 - **Trail Specifications**:
   - **Distance**: 6.5 km out-and-back (direct trail) or 8.2 km loop trail.
   - **Elevation Gain**: ~145 m (gentle undulating gravel path leading to steep descending cliff-side boardwalk stairs).

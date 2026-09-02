@@ -81,12 +81,24 @@ By structuring our trip around the **core activity window (Oct 10–14)** and in
 
 ---
 
-## 🎟️ 4. National Park Pass Analysis (Cape Breton Highlands + Bell NHS + Citadel)
+## 🎟️ 4. National Park Pass & Skyline Trail Reservation Analysis
 
+### Parks Canada Discovery Pass vs Daily Admissions
 | Pass Type | Cost (Adult) | Cost (Group/Family up to 7 people) | Inclusions for Our Itinerary | Recommendation |
 |:---|:---|:---|:---|:---|
-| **Parks Canada Discovery Pass** | $72.25 CAD | **$145.25 CAD** | Cape Breton Highlands NP + Alexander Graham Bell NHS + Halifax Citadel NHS + Grand-Pré NHS | **Best for Groups/Pairs**: If 2+ adults visit 3+ national sites, the Discovery Pass breaks even and provides express drive-through entry. |
-| **Daily Site Admissions** | Cape Breton NP: $10.50/day<br>Bell NHS: $9.00<br>Citadel NHS: $13.25 | Daily family passes available per site | Total separate entry for 2 days park + 2 NHS = ~$43.25/adult. |
+| **Daily Site Admissions (2 Adults)** | Cape Breton NP: $21/day ($42 total)<br>Bell NHS: $18<br>Citadel NHS: $26.50 | **$86.50 CAD Total** | Cape Breton NP (2 days) + Bell NHS + Halifax Citadel NHS | **Cheapest Option**: Saves ~$58 CAD compared to the Discovery Pass for the core itinerary. |
+| **Parks Canada Discovery Pass** | $72.25 CAD / person | **$145.25 CAD** (Family/Group) | All National Parks & National Historic Sites nationwide for 12 months | Best if visiting other Canadian national parks within a year or adding Fortress of Louisbourg + Grand-Pré. |
+
+---
+
+### 🅿️ Mandatory Skyline Trail Parking Reservation System (NEW for 2026)
+Parks Canada has introduced a **mandatory timed parking reservation system for the Skyline Trail** running from **June 26 to October 25, 2026**.
+
+- **Why**: The trail regularly exceeds capacity during peak foliage and summer months, causing roadside parking hazards on the Cabot Trail.
+- **How to Book**: Reserve via the [Parks Canada Reservation Service](https://reservation.pc.gc.ca/).
+- **Time Slots**: Visitors select from six timed start windows. For our **sunset hike on Day 2 (Sunday, Oct 11)**, we target the **16:00 (4:00 PM – 9:00 PM)** window.
+- **Arrival Rule**: You must arrive between 03:50 PM and 05:00 PM (within 1 hour of the reservation start time), or the spot is released.
+- **Offline Confirmation**: Print or screenshot the booking confirmation PDF prior to driving into the highlands, as cellular coverage is non-existent at French Mountain.
 
 ---
 

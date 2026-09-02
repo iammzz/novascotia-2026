@@ -26,9 +26,13 @@
 
 ## 🎟️ Phase 2: Passes, Festival Tickets & Experiences (Target: Summer 2026)
 
-- [ ] **Parks Canada Discovery Pass (Covers Skyline Trail)**:
-  - [ ] Order Parks Canada Family/Group Discovery Pass online ($145.25 CAD covers Cape Breton Highlands NP, Alexander Graham Bell NHS, Halifax Citadel, Grand-Pré NHS).
-  - ℹ️ *Note on Skyline Trail*: **No advance trail booking or timed-entry reservation is required** for the Skyline Trail. Your Parks Canada Pass grants complete, open access. Simply arrive at the trailhead by 03:45 PM for the sunset hike.
+- [ ] **Parks Canada Passes & Admissions**:
+  - [ ] Decide on Family/Group Discovery Pass ($145.25 CAD) vs Daily Admissions ($86.50 CAD for 2 adults).
+- [ ] **Skyline Trail Timed Parking Reservation (⚡ NEW FOR 2026)**:
+  - [ ] Set up an account on the [Parks Canada Reservation Service](https://reservation.pc.gc.ca/).
+  - [ ] Book parking for **Sunday, October 11, 2026** (Target time slot: **16:00 / 4:00 PM** for the sunset hike).
+  - [ ] Download/print the reservation confirmation PDF for offline use (cell service is unavailable at the trailhead).
+  - ⚠️ *Note*: Parks Canada has instituted a **mandatory parking reservation system from June 26 to October 25, 2026**. Drive-up access without a booking is strictly prohibited when lots are full.
 - [ ] **Celtic Colours International Festival**:
   - [ ] Check Celtic Colours 2026 artist lineup (released July 2026).
   - [ ] Purchase tickets for Saturday Oct 10 or Sunday Oct 11 evening concerts in Baddeck / Chéticamp / St. Ann's.
