@@ -1,74 +1,71 @@
-# 🎒 Packing List
+# 🎒 Master Packing List: Nova Scotia Autumn Road Trip
 
-This comprehensive packing list is tailored to the specific requirements of our Dolomites 2026 trip. It includes hiking gear, specialty via ferrata gear, WWI tunnel exploration needs, and essential travel/finance documents.
-
----
-
-## 🪪 Essential Documents & Finance
-
-*   **Passport**: Valid for at least 3 months beyond departure date.
-*   **International Driving Permit (IDP)**: **[CRITICAL]** Legally required in Italy to rent and drive a car. You must carry both your home country driving license and your IDP.
-*   **Wise Card**: **[RECOMMENDED]** A physical multi-currency card is highly recommended to easily convert CAD to EUR with mid-market rates and to make low-fee ATM cash withdrawals in Italy.
-*   **Cash (Euros)**: **[CRITICAL]** Bring at least **€150–200 in cash per person**. Many mountain rifugios (e.g., Geisleralm, Averau, Nuvolau, Locatelli) have poor cellular reception, meaning card readers fail frequently. Cash is king in the mountains.
-*   **Travel/Rescue Insurance Card**: Printout of travel health insurance and your **Dolomiti Emergency** rescue certificate.
+Mid-October in Nova Scotia delivers crisp, vibrant autumn days with temperature ranges between **2°C (36°F) and 16°C (61°F)**. Maritime coastal winds and elevation changes in the Cape Breton Highlands necessitate a flexible three-layer system.
 
 ---
 
-## ⛰️ Hiking & Navigation Gear
+## 🥾 1. Essential Trail & Hiking Gear
 
-*   **Daypack (20L - 30L)**: With a built-in waterproof rain cover.
-*   **Hiking Boots**: High-cut or mid-cut boots with deep Vibram soles. Make sure they are thoroughly broken in before the trip to avoid blisters.
-*   **Trekking Poles**: Highly recommended to save your knees on steep descents (such as the Lago di Sorapis hike on Day 11).
-    *   **[BAGGAGE WARNING]**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound from Canada/US and intra-Europe on Ryanair). If you try to bring them in carry-on, security will confiscate them. You must check them in a bag or rent them locally in Val Gardena / Cortina to avoid checked baggage fees.
-*   **Water Bladder / Bottles**: Minimum **2L capacity** per person.
-*   **Offline Navigation Apps**: Download offline areas on **Google Maps** and save GPX routes on **AllTrails** or **Outdooractive** before heading into valleys with no cellular reception.
-*   **Sun & Wind Protection**:
-    *   Polarized sunglasses (intense alpine sun reflection).
-    *   Sunscreen (SPF 50+).
-    *   Lip balm with SPF.
+- [ ] **Headlamp with Fresh Batteries / USB Charger** (⚡ **Mandatory** for the Skyline Trail sunset return hike in twilight).
+- [ ] **Sturdy Hiking Boots or Trail Runners** (Waterproof/Gore-Tex recommended for muddy trails and rocky terrain on Franey Mountain and Cape Split).
+- [ ] **Lightweight Trekking Poles** (Collapsible, essential for the steep 365m descent on Franey Mountain and 13.2 km Cape Split trek).
+- [ ] **Daypack (20L – 30L)** with integrated rain cover for snacks, water, and extra layers.
+- [ ] **Binoculars (8x42 or 10x42)** (Crucial for spotting Eastern Canadian Moose on the Skyline plateau, bald eagles along the Cabot Trail, and minke/pilot whales off Middle Head).
+- [ ] **Reusable Water Bottle or Hydration Bladder (1.5L – 2L)**.
+- [ ] **Compact First Aid & Blister Kit** (Band-Aids, moleskin, antiseptic wipes, ibuprofen).
 
 ---
 
-## 🧗‍♂️ Specialty Gear
+## 🧥 2. Clothing & Layering System
 
-### For Group A (Gran Cir Via Ferrata - Day 6)
-*   **Climbing Harness**: Standard adjustable harness.
-*   **Climbing Helmet**: Certified climbing helmet (mandatory to protect against falling rocks).
-*   **Via Ferrata Lanyard**: Certified energy-absorbing lanyard set (Y-system with two auto-locking carabiners).
-*   **Climbing Gloves**: Full-finger or fingerless leather gloves (essential to protect your hands from frayed steel cables and cold metal).
-*   *Note: All via ferrata gear sets can be rented in Ortisei/Selva for ~€25-30/day.*
+### Outer Layer (Weather & Wind Protection)
+- [ ] **Waterproof & Windproof Rain Shell Jacket** (Breathable Gore-Tex or similar; essential for coastal ocean gales at Peggy's Cove, French Mountain, and Meat Cove).
+- [ ] **Lightweight Packable Down or Synthetic Insulated Jacket** (For early mornings and sunset viewing on the highland plateau).
+- [ ] **Wind-resistant Hiking Pants / Leggings** (Quick-dry material, avoid denim on hikes).
 
-### For Lagazuoi Tunnels (Day 7)
-*   **Headlamp or Strong Flashlight**: **[MANDATORY]** The WWI tunnel descent at Lagazuoi is a steep, wet, completely pitch-black staircase carved inside the mountain. You cannot safely navigate it without hands-free light. Bring a spare battery or power bank.
+### Mid-Layer (Insulation)
+- [ ] **Fleece Pullover or Wool Mid-Layer Sweater** (2–3 items).
+- [ ] **Long-Sleeve Technical Baselayers / Merino Wool Tops** (3–4 tops).
 
----
-
-## 🥼 Clothing & Layering System
-Dolomites weather in mid-September can quickly transition from warm, sunny valley days (20°C) to freezing, windy conditions on high peaks (0°C or snow). **Layering is essential.**
-
-*   **Base Layer**: Moisture-wicking synthetic or merino wool t-shirts (avoid cotton, which stays wet and cold).
-*   **Insulating Mid-Layer**: Lightweight fleece jacket, fleece pullover, or packable down jacket (crucial for summit rests).
-*   **Weatherproof Outer Shell**: Windproof and waterproof GORE-TEX jacket (essential for mountain wind).
-*   **Hiking Pants**: Sturdy, breathable, quick-dry pants. Zip-off convertible pants are great for fluctuating temperatures.
-*   **Merino Wool Hiking Socks**: 3–4 pairs. Prevents friction and blisters.
-*   **Cold-Weather Accessories**: Warm beanie/hat and lightweight gloves (peaks get cold very quickly).
-*   **Casual Wear**: Outfits for evenings in Venice, Ortisei, Cortina, and Madrid.
+### Base Layer & Underwear
+- [ ] **Merino Wool Hiking Socks** (4–5 pairs of medium-cushion wool socks like Smartwool / Darn Tough).
+- [ ] **Moisture-wicking Thermal Underwear** (Top and bottoms for cool evenings).
+- [ ] **Warm Knit Beanie / Toque & Lightweight Fleece Gloves** (Indispensable for chilly coastal lookouts).
+- [ ] **Baseball Cap / Sun Visor & Sunglasses** (Polarized lenses help cut glare on the water).
 
 ---
 
-## 🔌 Electronics & Accessories
+## 🏙️ 3. Urban & Dining Casual Wear (Halifax & Baddeck)
 
-*   **Power Bank**: Minimum 10,000 mAh to recharge phones/cameras on long hiking days.
-*   **European Plug Adapters**: **Type C** (standard Europlug) and **Type L** (three-prong Italian plug).
-*   **Camera / GoPro**: With extra SD cards.
-*   **Dry Bag / Ziploc Bags**: To keep electronics dry inside your backpack in case of heavy downpours.
+- [ ] **Smart Casual Outfits** (Jeans, chinos, sweaters, or casual collared shirts for dining at *The Bicycle Thief*, *Drift*, or *The Freight Shed*).
+- [ ] **Comfortable City Walking Shoes** (For the 4.4 km Halifax Waterfront Boardwalk and Citadel Hill).
+- [ ] **Casual Jacket / Peacoat** for evening city strolls.
 
 ---
 
-## 🩹 First Aid & Personal Care
+## 📱 4. Electronics, Navigation & Photography
 
-*   **Blister Plasters (Compeed)**: **[MANDATORY]** Bring multiple sizes. The steep descents will test your feet.
-*   **Personal Medications**: Enough supply for the entire duration.
-*   **Pain Relievers & Anti-inflammatories**: Ibuprofen or Acetaminophen.
-*   **Hand Sanitizer & Wet Wipes**: Huts sometimes lack running water.
-*   **Microfiber Travel Towel**: Compact and quick-drying.
+- [ ] **Smartphone & Car Phone Mount** (For navigation along the Cabot Trail).
+- [ ] **Car USB 12V Fast Charger & Charging Cables** (Keep devices topped up on long driving legs).
+- [ ] **Portable Power Bank (10,000 – 20,000 mAh)** (For keeping phones charged on long hikes with GPS active).
+- [ ] **Camera with Polarizing Filter & Zoom Lens** (Enhances rich autumn foliage reds/golds and captures wildlife).
+- [ ] **Offline Navigation Apps Downloaded** (Download Nova Scotia offline maps on Google Maps or Apple Maps before heading into the highlands).
+
+---
+
+## 📄 5. Documents, Cards & Passes
+
+- [ ] **Driver's License** (Valid Canadian or International driving license for rental car pickup at YHZ).
+- [ ] **Major Credit Card** (Required under the primary driver’s name for rental car deposit).
+- [ ] **Parks Canada Discovery Pass** (Hang from rearview mirror when parked in Cape Breton Highlands NP, Bell NHS, and Halifax Citadel).
+- [ ] **Digital & Printed Confirmations** (Flight boarding passes, car rental vouchers, hotel reservations, concert/festival tickets).
+
+---
+
+## 🧼 6. Toiletries & Personal Care
+
+- [ ] **Lip Balm with SPF & Moisturizer** (Cold maritime coastal winds can dry skin quickly).
+- [ ] **Travel Sunscreen (SPF 30+)**.
+- [ ] **Insect Repellent** (Blackflies and mosquitoes are mostly gone by mid-October, but a small spray is helpful for warmer hardwood valleys).
+- [ ] **Personal Medications & Motion Sickness Relief** (For winding mountain switchbacks on the Cabot Trail).
+- [ ] **Plastic / Waterproof Bags** for separating muddy trail shoes in luggage.

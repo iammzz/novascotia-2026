@@ -1,175 +1,66 @@
-# 🧳 Trip Logistics
+# ✈️ Logistics Master: Flights, Rental Car & Accommodations
 
-This document warehouses all the critical logistics for the Dolomites 2026 trip. As bookings are confirmed, their exact details (confirmation numbers, addresses, costs) will be tracked here.
-
----
-
-## ✈️ Flights
-* **Outbound**: Toronto (YYZ) to Venice (VCE)
-  * *Status*: 🟢 **BOOKED (Entire Group)**
-  * *Airline*: Air Transat (Flight TS 306)
-  * *Booking Ref*: Confirmed (Emma, Matthew, Kevin) / *Pending* (Sunny, Kevin He)
-  * *Schedule*: Departs YYZ Terminal 3 on Fri, Sept 11 at 21:10. Arrives VCE on Sat, Sept 12 at 11:30.
-  * *Passengers*: Emma Zeng, Matthew Zhang, Kevin Yuan, Sunny, Kevin He
-  * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
-  * *Cost Range*: **$700–$1,200 CAD per individual** (depending on booking date; Sunny & Kevin He pending)
-* **Intra-Europe**: Venice (VCE) to Madrid (MAD)
-  * *Status*: 🟢 **BOOKED** (Entire Group)
-  * *Airline*: Ryanair (Flight FR1207)
-  * *Schedule*: Departs VCE on Fri, Sept 25 at 09:20. Arrives MAD at 12:00.
-  * *Passengers*: Matthew Ming Zhou Zhang, Yi Yang Zeng, Liang Kun Yuan, Sunny Huang, Kevin He
-  * *Baggage Note*: Priority & 2 Cabin Bags.
-  * *Cost Range*: **€40–€120 EUR per individual** (including Ryanair priority baggage upgrade)
-* **Return**: Madrid (MAD) to Toronto (YYZ)
-  * *Status*: 🔴 **NOT BOOKED**
-  * *Details*: Flight on Sept 27.
-  * *Estimated Cost Range*: **$800–$1,300 CAD per individual**
-
-### ✈️ Venice Airport (VCE) Transit Logistics
-
-*   **Day 1 Arrival (Airport → Venice-Mestre Beautiful Apartment)**:
-    *   **Direct Taxi (Recommended)**: A flat-rate taxi from VCE Airport directly to your Mestre apartment (Via della Brenta Vecchia, 34) is approximately **€35–40** and takes 15–20 minutes. For a group of 5 adults with heavy luggage, this is the most convenient door-to-door option.
-    *   **Express Bus**: The **ATVO Fly Bus** (€10 per person, departs every 20-30 min) or **ACTV Bus Line 15** (€8 per person) runs directly to Mestre Railway Station. From the station, you will need a local bus or taxi to the apartment.
-*   **Day 14 Departure (Venice Island → VCE Airport)**:
-    *   **Private Water Taxi (Highly Recommended)**: Since your flight departs VCE at 09:20 AM (checkout by 05:45 AM), lugging heavy bags over Venice's stair-stepped bridges to public docks is exhausting. A private water taxi from the canal nearest your hotel directly to the airport dock costs **€120–€140 total for 5 people**. It takes ~25 minutes and avoids all bridge-crossing hassles. **Action**: Pre-book a water taxi 1-2 weeks in advance.
-    *   **Alilaguna Water Bus**: The Blue or Orange Line runs early morning from major docks to VCE Airport (~€15 per person, takes 45–60 mins). Requires walking to the nearest Alilaguna dock.
+!!! warning "🚨 Current Logistics Status: 🔴 NOT BOOKED (Planning & Research Phase)"
+    **Core Activity Dates**: October 10 – 14, 2026 (5 Days)  
+    **Buffer Window**: Depart Toronto Oct 8/9, Return Oct 15/16 (Pending Flight Booking)  
+    **Immediate Focus**: Lock in Toronto → Halifax flights and secure Cape Breton accommodations before Celtic Colours festival sell-out.
 
 ---
 
-## 🚗 Rental Car
-* **Provider**: National Car Rental
-* **Pickup**: Venice Mestre Rail Station on Sun, Sept 13 at 12:00 PM
-* **Drop-off**: Venice Mestre Rail Station on Wed, Sept 23 at 12:00 PM
-* *Status*: 🟢 **BOOKED**
-* *Details*: Needs to comfortably fit the group and luggage. Must be automatic transmission (unless all drivers can drive manual on steep mountain passes).
-* *Cost Range*: **~€120–€180 EUR per individual** (estimated total: €600–€900 EUR for 10 days, split among 5 adults).
+## ✈️ 1. Flights: Toronto to Halifax
+
+| Leg | Route | Carrier Options | Target Date Range | Status | Notes / Pricing Target |
+|:---|:---|:---|:---|:---:|:---|
+| **Outbound** | **Toronto (YTZ / YYZ) → Halifax (YHZ)** | Porter Airlines / Air Canada / WestJet | **Oct 8, 9, or 10, 2026** (Morning departure) | 🔴 NOT BOOKED | Direct non-stop (2h 10m). Target fare: $130–$220 CAD one-way. Porter from YTZ or Air Canada from YYZ. |
+| **Inbound** | **Halifax (YHZ) → Toronto (YTZ / YYZ)** | Porter Airlines / Air Canada / WestJet | **Oct 14, 15, or 16, 2026** (Evening departure) | 🔴 NOT BOOKED | Direct non-stop (2h 20m). Avoid Oct 12 Thanksgiving holiday surge. Target fare: $130–$220 CAD one-way. |
 
 ---
 
-## 🏨 Accommodation
+## 🚗 2. Ground Transportation: Rental Vehicle (YHZ)
 
-### Base 1: Venice/Mestre (1 Night)
-* **Dates**: Sept 12 - Sept 13
-* **Accommodation**: [Venice-Mestre Beautiful Apartment](https://www.booking.com)
-* **Address**: Via della Brenta Vecchia, 34, 30171 Mestre, Italia
-* **Phone**: +39 379 218 2489
-* **GPS Coordinates**: N 045° 29.459, E 12° 14.455
-* *Status*: 🟢 **BOOKED**
-* **Check-in**: Sat, Sept 12, 14:00 - 21:00 (Special request: arrival planned between 12:00 - 13:00)
-* **Check-out**: Sun, Sept 13, before 10:00
-* **Details**: Two-Bedroom Apartment for 5 adults (Guest: Matthew Zhang)
-* **Parking**: Private parking available nearby without reservation
-* **Cost**: €250.00 EUR total (**€50.00 EUR per person per day** split among 5 adults)
-
-### Base 2: Val Gardena / West (5 Nights)
-* **Dates**: Sept 13 - Sept 18
-* **Accommodation**: [Apartments Promenade](https://www.apartments-promenade.com) — SASLONCH Apartment
-* **Address**: Via Stufan 72, Ortisei (Val Gardena), Italy
-* **Host**: Helene Hofer — +39 335 8421168 — info@apartments-promenade.com
-* **Booked by**: Sunny Huang
-* *Status*: 🟢 **BOOKED**
-* **Check-in**: Sun, Sept 13, from 2:00 PM
-* **Check-out**: Fri, Sept 18, by 9:00 AM
-* **Details**: Apartment for 5 adults. On arrival, call Helene when leaving the Chiusa motorway exit so she can welcome you.
-* **Cost**: €1,500.00 rental + €100.00 cleaning (€20/pp) + ~€75.00 tourist tax (€3/pp/night)
-  * *Deposit*: €450.00 paid Jul 21 (Sunny)
-  * *Balance*: ~€1,225.00 cash on arrival
-
-### Base 3: Cortina d'Ampezzo / East (5 Nights)
-* **Dates**: Sept 18 - Sept 23
-* **Location**: Cortina d'Ampezzo (town center or immediate outskirts)
-* *Status*: 🔴 **NOT BOOKED**
-* *Details*: Needs parking. Proximity to Corso Italia is a bonus.
-* **Estimated Cost Range**: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults)
-
-### Base 4: Venice Island (2 Nights)
-* **Dates**: Sept 23 - Sept 25
-* **Accommodation**: [Cà Landillo — Venice 10 mins from station](https://www.airbnb.ca/trips/v1/1732691254834949612/)
-* **Address**: Rio Terà Farsetti, 1844, Venice, Veneto 30121, Italy
-* **GPS / Maps**: [📍 Maps](https://maps.app.goo.gl/tWkcB33qsikMHdMKA)
-* **Host**: Alex (Cà Landillo)
-* *Status*: 🟢 **BOOKED**
-* **Confirmation Code**: HMMKHJCXJ3
-* **Check-in**: Wed, Sept 23, 3:00 PM (self check-in with keypad — instructions arrive 24 hrs before)
-* **Check-out**: Fri, Sept 25, 10:00 AM
-* **Details**: Entire home for 5 adults
-* **Cancellation**: Free cancellation before Sept 22 at 3:00 PM; partial refund after
-
-### Base 5: Madrid (2 Nights)
-* **Dates**: Sept 25 - Sept 27
-* **Location**: Madrid (TBD Neighborhood)
-* *Status*: 🔴 **NOT BOOKED**
-* **Estimated Cost Range**: **~€40.00–€60.00 EUR per person per day** (estimated total: €400–€600 EUR for 2 nights, shared lodging for 5 adults)
----
-
-## 🎟️ Activities & Permits
-* **Tre Cime Toll Road**: €45.00 EUR per vehicle (split among 5 is **€9.00 EUR per individual**).
-  * *Status*: 🟢 **BOOKED**
-  * *Ticket Code*: **P26216461** (State: DA ATTIVARE — awaiting activation)
-  * *Validity*: Sept 20 (Day 9), 7:30 AM – 7:29 PM (12-hour pass)
-  * *Sector*: PARCHEGGIO AUTO/MOTO — TARIFFA AUTO
-  * *Notes*: Parking for the Tre Cime + Cadini di Misurina day. Activation pending — check before departure.
-* **DoloMithes Spa Passes**: 🔴 **NOT BOOKED** (estimated **~€50.00–€60.00 EUR per individual** depending on package).
-* **Via Ferrata Gear Rental**: **~€25.00–€30.00 EUR per individual** per day for full set (helmet, harness, lanyard) rented locally in Ortisei or Cortina.
-* **Trekking Poles Rental (Baggage Alert)**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound on Air Transat and intra-Europe on Ryanair). If you do not plan to pay for checked bags, you should rent poles locally along with your via ferrata gear. Local shops in Ortisei (e.g. *Sport Kostner*, *Sport Bruno Riffeser*) and Cortina (e.g. *Snow Service*) offer pole rentals for **~€5.00–€10.00 EUR per individual** per day.
-* **Val Gardena Lifts (Gardena Card)**: Individual lift tickets are recommended instead of the pass (see details in daily itineraries). See the [Gardena Card Cost-Benefit Analysis](research.md#gardena-card-cost-benefit-analysis-summer-2026) for details.
-* **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED** (estimated **~€45.00–€80.00 EUR per individual** per day depending on bike model).
-  * *[Alpin Center (Bike Rent Lodge)](https://www.alpincenter.it/)*: ~€65-€80/day | **Distance**: 0m (Located directly in the main Compatsch parking lot P2).
-  * *[Sport Hans](https://www.sporthans.com/en/)*: ~€60-€80/day | **Distance**: 200m from main parking.
-  * *[K&K Sports](https://www.kksports.com/en/)*: ~€55-€60/day | **Distance**: ~300m (at the cable car mountain station).
-  * *[GASKO E.Bike](https://www.gasko-ebike.it/)*: ~€45-€55/day | **Distance**: N/A (Main shop in valley, requires coordinating drop-off/shuttle to the plateau).
+| Parameter | Specification | Details | Status |
+|:---|:---|:---|:---:|
+| **Pick-up Location** | Halifax Stanfield Airport (YHZ) | Airport On-Site Rental Car Garage (Lower level parkade) | 🔴 NOT BOOKED |
+| **Drop-off Location** | Halifax Stanfield Airport (YHZ) | Same location (Avoids one-way drop-off surcharges) | 🔴 NOT BOOKED |
+| **Vehicle Category** | Standard / Full-Size SUV or AWD Crossover | Recommended for Cabot Trail mountain switchbacks and gravel road (Meat Cove) | 🔴 NOT BOOKED |
+| **Preferred Providers** | National Car Rental / Enterprise / Avis / Hertz | Free cancellation reservation recommended immediately | 🔴 NOT BOOKED |
+| **Est. Cost** | ~$75 – $110 CAD / day | Approx. $450 – $650 CAD total for 5–7 days | 🔴 NOT BOOKED |
 
 ---
 
-## 🚗 Italian Driving & Navigation Rules
+## 🏨 3. Accommodation Hubs & Bases
 
-*   **ZTL (Zona a Traffico Limitato)**: 
-    *   Many Italian town centers have camera-enforced restricted zones (ZTL) where private cars are banned. Driving into one results in steep automated fines (~€110+).
-    *   **Venice-Mestre**: The area around Mestre Centro (Piazza Ferretto) has ZTL zones. Do not drive our rental car into these streets.
-    *   **Bolzano (Day 6 Split)**: The historic center is a strict ZTL. If visiting Bolzano, park in a public garage outside the ZTL (e.g., *Parcheggio Piazza Walther* or *Parcheggio Bolzano Centro*) and walk in.
-*   **Color-Coded Parking**:
-    *   **Blue Lines**: Paid public parking. You must pay at a nearby ticket machine (and display it on the dashboard) or use the **EasyPark** app.
-    *   **White Lines**: Free public parking, but often time-limited. You must display a physical "parking disk" set to your arrival time.
-    *   **Yellow Lines**: Reserved exclusively for residents or disabled badge holders. Do not park here.
-*   **Autostrada Tolls & Vignettes**:
-    *   **Brenner Pass (A22)**: Motorway tolls apply. For the drive north and south, we can pre-purchase the digital toll (Videomaut) to link our license plate and drive through the automated green toll lanes.
-    *   **Austrian Border Warning**: If driving north on the A22 close to the Austrian border, note that Austria requires a highway vignette. Do not cross the border without a vignette or you will receive an automatic fine at the border checkpoint.
+### Base 1: Cape Breton Hub (Baddeck or Chéticamp) — 3 Nights (Oct 10 – 13)
+*Central launchpad for the Cabot Trail loop, Skyline Trail, and Celtic Colours festivities.*
+
+| Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
+|:---|:---|:---:|:---|:---:|
+| **Inverary Resort** *(Baddeck)* | Lakeside Resort & Spa | $220 – $320 CAD | Waterfront on Bras d'Or Lake, indoor pool, on-site dining, 5-min walk to town. | 🔴 NOT BOOKED |
+| **Silver Dart Lodge** *(Baddeck)* | Scenic Hilltop Lodge | $180 – $260 CAD | Sweeping panoramic views of the lake, quiet Chalet-style rooms. | 🔴 NOT BOOKED |
+| **Auberge Doucet Inn / Laurie's Motor Inn** *(Chéticamp)* | Acadian Motel / Inn | $160 – $240 CAD | 20 mins from Skyline Trailhead—ideal if splitting base for sunset hike. | 🔴 NOT BOOKED |
+| **Keltic Lodge at the Highlands** *(Ingonish Beach)* | Historic Luxury Resort | $290 – $450 CAD | Perched on the Middle Head cliffs; legendary Highlands golf and dining. | 🔴 NOT BOOKED |
 
 ---
 
-## 🚑 Alpine Safety & Rescue Insurance
+### Base 2: Downtown Halifax Waterfront — 2 to 3 Nights (Oct 8/9 & Oct 13–15)
+*Walkable access to Halifax Harbour boardwalk, Citadel Hill, Argyle Street restaurants, and Peggy's Cove day trips.*
 
-*   **Emergency Contact**: Dial **112** for all emergency services in Italy (including Alpine Rescue / Soccorso Alpino).
-*   **Dolomiti Emergency Insurance**: 
-    *   Standard travel and health insurance policy limits often **exclude** high-altitude mountain search and rescue (specifically helicopter transport, which costs ~€100–150 per minute).
-    *   **Action**: It is highly recommended that every traveler purchases a local **Dolomiti Emergency** insurance policy (~€22 per person) for the duration of the trip, or holds an Alpine Club membership (e.g., Austrian OEAV or German DAV) which includes international rescue coverage.
-*   **Offline Navigation**: 
-    *   Cell coverage is non-existent in valleys and gorges. All drivers and hikers must pre-download **Google Maps Offline Areas** for Northern Italy (Veneto/Trentino) and download hiking routes on **AllTrails** or **Outdooractive**.
-
----
-
-## 📸 Live Peak Webcams & Weather Portal
-
-Before heading out for high-altitude cable cars or mountain pass drives, always verify local visibility. Checking these live webcams saves you from paying for lift tickets when the summits are completely fogged in.
-
-*   **Seceda (Day 5)**:
-    *   [Val Gardena Seceda Panorama Livecam](https://www.valgardena.it/en/webcams/)
-    *   [Seceda Cableway Upstream Live Cam](https://www.seceda.it/en/live-cam)
-*   **Passo Giau & Cinque Torri (Day 8)**:
-    *   [Passo Giau Live Stream Webcams (Da Aurelio)](https://da-aurelio.it/webcam/)
-*   **Tre Cime di Lavaredo (Day 9)**:
-    *   [Drei Zinnen region Webcams Portal](https://www.drei-zinnen.it/en/webcams.html)
-*   **Micro-Regional Weather Forecasts (More accurate than standard apps)**:
-    *   [Meteotrentino (Val Gardena region)](https://www.meteotrentino.it/)
-    *   [ARPAV Veneto (Cortina / Cadore region)](https://www.arpa.veneto.it/previsioni/it/html/meteo_dolomiti.php)
+| Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
+|:---|:---|:---:|:---|:---:|
+| **The Muir Hotel** *(Queen's Marque)* | Luxury Waterfront Hotel | $380 – $550 CAD | Premium waterfront design hotel, steps from top dining and harbor ferries. | 🔴 NOT BOOKED |
+| **The Westin Nova Scotian** *(Seaport District)* | Historic Full-Service Hotel | $220 – $310 CAD | Adjacent to Halifax Seaport Farmers' Market and direct boardwalk access. | 🔴 NOT BOOKED |
+| **Halifax Marriott Harbourfront** *(Waterfront)* | Harbourfront Hotel | $240 – $340 CAD | Direct indoor/outdoor boardwalk access, harbor-view rooms. | 🔴 NOT BOOKED |
+| **The Prince George Hotel** *(Downtown Core)* | Boutique Business Hotel | $210 – $290 CAD | In the heart of the dining district, 3 blocks to Citadel Hill. | 🔴 NOT BOOKED |
 
 ---
 
-## 🇪🇸 Madrid (Post-Trip)
-* **ANYMA presents ÆDEN - Madrid**
-  * *Dates*: Sept 26 - Sept 27, 2026
-  * *Location*: Venue to be announced (Madrid, España)
-  * *Status*: 🟢 **BOOKED (3 Tickets)**
-  * *Tickets*: Yi Yang Zeng, Matthew Zhang, Shu Cheng (Purchased by Emma Z)
-  * *Cost*: Paid (**€89.00 EUR per individual** ticket, total €267.00 EUR for 3 tickets)
-  * *Note*: QR codes for tickets will be available starting Sept 24, 2026 at 17:00.
+## 🎟️ 4. Passes, Tours & Activity Bookings
+
+| Activity / Pass | Timing / Date | Pricing (CAD) | Booking Requirement | Status |
+|:---|:---|:---:|:---|:---:|
+| **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Alexander Graham Bell NHS gate on Day 1 | 🔴 NOT BOOKED |
+| **Skyline Trail Guided / Sunset Access** | Day 2 (Oct 11) | Free with Park Pass | No pre-registration required; arrive at trailhead by 03:45 PM | 🟢 READY (Self-Guided) |
+| **Alexander Keith's Brewery Historic Tour** | Day 5 (Oct 14) | ~$32 / person | Online reservation recommended 2 weeks prior | 🔴 NOT BOOKED |
+| **Halifax Citadel Historic Site Admission** | Day 5 (Oct 14) | Included in Discovery Pass | Show pass at vehicle entrance or main entry gate | 🟢 COVERED BY PASS |
+| **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |
+| **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🔴 NOT BOOKED |

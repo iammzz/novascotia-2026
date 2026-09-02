@@ -1,62 +1,59 @@
-# ✅ To-Do List
+# 📋 Master To-Do & Booking Checklist: Nova Scotia 2026
 
-This page tracks all outstanding items required to successfully execute the trip.
-
----
-
-## 🚨 Outstanding
-
-### ✈️ Flights
-- [ ] **Return Flight (MAD → YYZ)**: [Google Flights](https://www.google.com/flights)
-  - *Nuance*: Entire group needs to book Madrid → Toronto for Sept 27. Target **$800–$1,300 CAD per individual**.
-
-### 🏨 Accommodation
-- [ ] **Book Cortina Base**: [Booking.com](https://www.booking.com)
-  - *Nuance*: 5 nights (Sept 18 - Sept 23). Must have dedicated parking, ideally walking distance to Corso Italia.
-- [ ] **Book Madrid Base**: [Airbnb](https://www.airbnb.ca) / [Booking.com](https://www.booking.com)
-  - *Nuance*: 2 nights (Sept 25 - Sept 27). Neighborhoods: Malasaña, Chueca, Centro.
-
-### 🚗 Transportation
-- [ ] **Bring cash for A22 toll booths**: You'll drive the A22 Brenner highway twice (Sept 13 northbound, ~Sept 18 or 23 southbound). Cash/card at the barrier works fine — no need to pre-purchase.
-
-### 🎟️ Activities & Gear
-- [ ] **E-Bike Rentals (Alpe di Siusi, Day 4)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
-  - *Nuance*: Reserve in Compatsch (top of plateau) so you don't carry bikes up the gondola. ~€45–€80/pp/day.
-- [ ] **Reserve Lago di Braies Parking**: [pragsparking.com](https://www.pragsparking.com)
-  - *Nuance*: Only needed if Group B does Lago di Braies on Sept 21 (Day 10 East Split). Mandatory online reservation.
-- [ ] **Research Via Ferrata Gear Rentals**: Identify shops in Ortisei (Sport Kostner) and Cortina (Snow Service) for helmet/harness/lanyard rentals.
-- [ ] **Book Spa Passes**: [QC Terme Dolomiti](https://www.qcterme.com/en/val-di-fassa/qc-terme-dolomiti)
-  - *Nuance*: Needed for the relax group on Split Days. Spas have capacity limits.
-
-### 🍽️ Restaurants
-- [ ] **Book Key Restaurants**:
-  - *Rifugio Averau Lunch (Day 8)*: Email `rifugioaverau@gmail.com` to book.
-  - *Michelin / high-end dinners in Cortina or Ortisei*
-
-### 📱 Pre-Departure
-- [ ] **Download Offline Maps**: Google Maps & AllTrails for Veneto and Trentino-Alto Adige regions.
-  - *Nuance*: Zero cell service in valley gorges and high summits.
-
-### 🎒 One Week Out / On Arrival
-- [ ] **Pre-Book Cable Car Tickets**: [Seceda](https://www.seceda.it/en) / [Dolomiti SuperSummer](https://www.dolomitisuperski.com/en/SuperSummer)
-  - *Nuance*: Book 1-2 days before to skip ticket lines.
-- [ ] **Via Ferrata Gear Rental**: Call [Sport Kostner (Ortisei)](https://www.sportkostner.com/) or [Snow Service (Cortina)](https://www.snowservice.it/en/) 2-3 days ahead to reserve sizes.
-- [ ] **Withdraw Cash (Euros)**: Many mountain rifugios are **cash-only**.
-- [ ] **Review Trail Conditions**: [AllTrails](https://www.alltrails.com/) for closures or weather warnings.
+!!! warning "🚨 Global Booking Status: 🔴 NOT BOOKED (Planning & Research Phase)"
+    **Core Activity Dates**: **October 10 – 14, 2026**  
+    **Buffer Window**: Pre-trip Oct 8/9, Post-trip Oct 15/16 (Dependent on flight prices).  
+    **Immediate High Priority**: Finalize exact flight dates from Toronto (YYZ/YTZ) and secure Cape Breton accommodations before Celtic Colours festival sell-out.
 
 ---
 
-## ✅ Completed
+## 🚀 Phase 1: Core Logistics & Flight Bookings (Target: Q1–Q2 2026)
 
-| Task | How Satisfied |
-|------|---------------|
-| **Outbound Flights (YYZ → VCE, Sept 11)** | **Entire group booked** on Air Transat TS 306 |
-| **Intra-Europe Flight (VCE → MAD, Sept 25)** | **Entire group booked** on Ryanair FR1207 (Priority & 2 Cabin Bags) |
-| **Venice Arrival Hotel (Sept 12)** | **Booked** — Venice-Mestre Beautiful Apartment (€250 total) |
-| **Val Gardena Apartment (Sept 13-18)** | **Booked by Sunny** — Apartments Promenade, SASLONCH (€1,500 + cleaning + tax) |
-| **Venice Island Airbnb (Sept 23-25)** | **Booked** — Cà Landillo (Confirmation HMMKHJCXJ3) |
-| **Rental Car** | **Booked** — National Car Rental, Mestre station pickup/drop-off |
-| **ANYMA Concert (Madrid, Sept 26)** | **Booked by Emma** — 3 tickets (€89/pp) |
-| **Wise Card** | **Matthew has one** — multi-currency card loaded with Euros |
-| **International Driving Permit (IDP)** | **Matthew has one** — required for rental car in Italy |
-| **Tre Cime Parking (Sept 20)** | **Booked** — Ticket P26216461 (DA ATTIVARE, €45/vehicle) |
+- [ ] **Flight Value Analysis & Date Lock**:
+  - [ ] Compare Porter Airlines (YTZ & YYZ) vs Air Canada (YYZ) for outbound Oct 8, 9, vs 10.
+  - [ ] Compare return flight prices for Wednesday Oct 14 vs Thursday Oct 15 vs Friday Oct 16.
+  - [ ] Book roundtrip non-stop flights between Toronto and Halifax (YHZ).
+- [ ] **Rental Vehicle Reservation (YHZ)**:
+  - [ ] Reserve AWD SUV or Crossover via National / Enterprise / Avis (YHZ pickup & drop-off).
+  - [ ] Confirm unlimited kilometers and secondary driver coverage.
+- [ ] **Cape Breton Accommodation (Oct 10 – 13 / 3 Nights)**:
+  - [ ] Select base style: Central Hub (Baddeck - *Inverary Resort* or *Silver Dart Lodge*) vs Split Base (*Laurie's Chéticamp* + *Keltic Lodge Ingonish*).
+  - [ ] Reserve Cape Breton lodgings with free cancellation.
+- [ ] **Halifax Downtown Accommodation (Oct 8/9 & Oct 13–15)**:
+  - [ ] Reserve waterfront / downtown hotel (*The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, or *The Prince George*).
+
+---
+
+## 🎟️ Phase 2: Passes, Festival Tickets & Experiences (Target: Summer 2026)
+
+- [ ] **Parks Canada Discovery Pass**:
+  - [ ] Order Parks Canada Family/Group Discovery Pass online ($145.25 CAD covers Cape Breton Highlands NP, Alexander Graham Bell NHS, Halifax Citadel, Grand-Pré NHS).
+- [ ] **Celtic Colours International Festival**:
+  - [ ] Check Celtic Colours 2026 artist lineup (released July 2026).
+  - [ ] Purchase tickets for Saturday Oct 10 or Sunday Oct 11 evening concerts in Baddeck / Chéticamp / St. Ann's.
+- [ ] **Tours & Dining Reservations**:
+  - [ ] Book Alexander Keith's Historic 1820 Brewery Tour (Day 5).
+  - [ ] Reserve dinner table at *The Freight Shed* or *Baddeck Lobster Suppers* (Day 1).
+  - [ ] Reserve dinner table at *The Bicycle Thief* or *Drift* (Halifax Waterfront - Day 5).
+
+---
+
+## 🥾 Phase 3: Gear & Itinerary Calibration (Target: September 2026)
+
+- [ ] **Hiking & Autumn Equipment Check**:
+  - [ ] Test headlamps and fresh batteries (mandatory for Skyline Trail sunset descent).
+  - [ ] Inspect waterproof hiking footwear and wool socks.
+  - [ ] Pack windproof and rainproof outer shells for coastal Atlantic winds.
+  - [ ] Prepare binoculars for moose viewing on French Mountain and whale spotting off Middle Head.
+- [ ] **Digital & Navigation Prep**:
+  - [ ] Download offline Google Maps / Maps.me for Cape Breton Island (cellular coverage is intermittent on the northern Cabot Trail between Pleasant Bay and Dingwall).
+  - [ ] Save GPS waypoints from [Interactive Maps](maps.md).
+- [ ] **Emergency & Road Safety**:
+  - [ ] Review moose driving safety guidelines (avoid night driving through Cape Breton Highlands NP).
+  - [ ] Check tide charts for Minas Basin / Bay of Fundy (if doing Cape Split / Hall's Harbour).
+
+---
+
+## ✅ Completed Tasks
+
+*No bookings completed yet — all tasks active in planning & research.*

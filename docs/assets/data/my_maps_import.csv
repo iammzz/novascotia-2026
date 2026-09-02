@@ -1,20 +1,31 @@
 Name,Location,Lat,Lng,Day,Category,Description
-Venice Marco Polo (VCE),Venice Marco Polo Airport Italy,45.5053,12.3396,Day 1,Transit,Arrival airport
-Venice-Mestre Beautiful Apartment (Base 1),Via della Brenta Vecchia 34 Mestre,45.4910,12.2409,Day 1,Base,Arrival base in Mestre
-Mestre Train Station,Venezia Mestre Italy,45.4826,12.2319,Day 2,Transit,Pick up National Car Rental at 12:00 PM
-Ortisei (Base 2),Ortisei BZ Italy,46.5734,11.6742,Day 2-6,Base,Western Dolomites Base (5 Nights)
-Zanser Alm (Adolf Munkel),Zanser Alm Funes Italy,46.6358,11.7671,Day 3,Hike,Parking for the Adolf Munkel Weg hike
-Alpe di Siusi Cable Car,Seiser Alm Aerial Cableway Ortisei,46.5702,11.6708,Day 4,Activity,Take the cable car up for E-biking
-Seceda Cable Car,Seceda Cableway Ortisei,46.5762,11.6748,Day 5,Activity,Cable car to the famous postcard ridge
-Passo Gardena,Passo Gardena Italy,46.5501,11.8087,Day 6,Hike,Starting point for Via Ferrata Gran Cir
-Sella Pass,Passo Sella Italy,46.5085,11.7573,Day 7,Transit,Scenic driving pass
-Marmolada Cable Car,Malga Ciapela Italy,46.4258,11.9056,Day 7,Activity,Cable car to the highest peak in the Dolomites
-Passo Falzarego,Passo Falzarego Italy,46.5188,12.0094,Day 7,Activity,Lagazuoi cable car and WWI tunnels
-Cortina d'Ampezzo (Base 3),Cortina d'Ampezzo Italy,46.5385,12.1357,Day 7-12,Base,Eastern Dolomites Base (5 Nights)
-Cinque Torri,Baita Bai de Dones Cortina,46.5186,12.0366,Day 8,Hike,Chairlift for WWI history and towers
-Passo Giau,Passo Giau Italy,46.4826,12.0538,Day 8,Activity,Sunset photography
-Tre Cime di Lavaredo,Rifugio Auronzo Italy,46.6124,12.2963,Day 9,Hike,The iconic three peaks (Pre-book parking!)
-Lago di Sorapis,Passo Tre Croci Italy,46.5567,12.2036,Day 11,Hike,Trailhead for the glacial lake hike
-Venice Island (Base 4),Piazza San Marco Venice Italy,45.4343,12.3388,Day 12-14,Base,Venice highlights and cicchetti
-Madrid (Base 5),Plaza Mayor Madrid Spain,40.4154,-3.7074,Day 14-16,Base,Post-trip concert and culture
-ANYMA Concert,Madrid Spain,40.4168,-3.7038,Day 15,Event,ANYMA presents ÆDEN
+Halifax Stanfield Airport (YHZ),Enfield NS,44.8808,-63.5086,Day 0/1/6,Transit,Primary international airport & rental car hub
+Downtown Halifax (Base - Halifax),Halifax Waterfront NS,44.6476,-63.5708,Day 0/4/5,Base,Halifax Waterfront & Downtown Accommodation Base
+Halifax Citadel National Historic Site,Halifax NS,44.6468,-63.5813,Day 5,Activity,Star-shaped 19th-century fortress overlooking Halifax Harbour
+Alexander Keith's Historic Brewery,Halifax NS,44.6433,-63.5728,Day 5,Activity,Historic 1820 brewery tour and maritime tavern tasting
+Peggy's Point Lighthouse,Peggy's Cove NS,44.4930,-63.9181,Day 0/5,Activity,Iconic coastal lighthouse on ancient granite rock formations
+Masstown Market,Masstown NS,45.3688,-63.4862,Day 1,Activity,Essential road-trip pitstop for seafood chowder and baked treats
+Canso Causeway & Cape Breton Welcome Centre,Port Hastings NS,45.6447,-61.4178,Day 1,Transit,Gateway causeway crossing over the Strait of Canso
+Baddeck Village (Base - Cape Breton Central),Baddeck NS,46.1001,-60.7533,Day 1-3,Base,Central Bras d'Or Lake base for exploring the Cabot Trail
+Alexander Graham Bell National Historic Site,Baddeck NS,46.1007,-60.7438,Day 1/4,Activity,Museum & estate of Alexander Graham Bell overlooking the lake
+Uisge Bàn Falls Provincial Park,Baddeck NS,46.1989,-60.8016,Day 4,Hike,2.7 km gorge trail leading to a dramatic 16m waterfall in fall foliage
+Margaree River Salmon Museum & Valley,Margaree Forks NS,46.3314,-61.0968,Day 2,Activity,Scenic autumn river valley famous for world-class fly fishing
+Chéticamp Acadian Village,Chéticamp NS,46.6389,-61.0086,Day 2,Base,Historic Acadian fishing harbor and western entrance to National Park
+Cape Breton Highlands NP - West Visitor Centre,Chéticamp NS,46.6436,-60.9577,Day 2,Transit,Park entry passes and trail condition briefings
+French Mountain Lookout,Cabot Trail NS,46.7323,-60.8711,Day 2,Activity,Spectacular switchback viewpoint climbing the coastal plateau
+Skyline Trail Trailhead,Cape Breton Highlands NP,46.7410,-60.8804,Day 2,Hike,6.5 km iconic headland loop with dramatic sunset ocean boardwalk
+Pleasant Bay,Cabot Trail NS,46.8286,-60.8021,Day 2/3,Base,Coastal village known for whale watching and coastal cliffs
+Meat Cove Cliffs,Meat Cove NS,47.0264,-60.5593,Day 3,Activity,Rugged northern tip of Cape Breton Island with wild cliff vistas
+Cabot Landing Provincial Park,Cape North NS,46.9011,-60.4633,Day 3,Activity,Historic landfall point of John Cabot in 1497 with sweeping beach
+Neils Harbour Lighthouse & Chowder House,Neils Harbour NS,46.8122,-60.3236,Day 3,Activity,Operating lighthouse and rustic seaside chowder shack
+Franey Mountain Trailhead,Ingonish Centre NS,46.6669,-60.4283,Day 3,Hike,Challenging 7.4 km loop with 360° panoramic autumn canyon views
+Middle Head Trailhead (Keltic Lodge),Ingonish Beach NS,46.6575,-60.3802,Day 3,Hike,Scenic 3.8 km headland hike jutting between North and South Bays
+Cape Smokey Gondola & Tree Walk,Ingonish Ferry NS,46.6200,-60.4100,Day 3,Activity,Atlantic Canada's first gondola to a mountain-top viewing tower
+The Gaelic College (Colaisde na Gàidhlig),St. Ann's NS,46.2163,-60.6276,Day 4,Activity,Living Gaelic culture demonstration center and Great Hall
+Fortress of Louisbourg National Historic Site,Louisbourg NS,45.8924,-59.9866,Day 4,Activity,Massive reconstructed 18th-century French fortified port city
+Old Town Lunenburg UNESCO Waterfront,Lunenburg NS,44.3770,-64.3090,Day 0/6,Activity,UNESCO World Heritage 18th-century shipbuilding harbor & Bluenose II
+Mahone Bay Three Churches,Mahone Bay NS,44.4485,-64.3807,Day 0/6,Activity,Postcard-perfect seaside town with iconic trio of waterfront church steeples
+Cape Split Provincial Park,Scots Bay NS,45.3341,-64.4988,Day 6,Hike,13.2 km coastal forest hike overlooking dramatic Bay of Fundy whirlpools
+Grand-Pré National Historic Site,Grand-Pré NS,45.1092,-64.3106,Day 6,Activity,UNESCO World Heritage Acadian landscape and dykeland history
+Luckett Vineyards,Wolfville NS,45.0686,-64.3311,Day 6,Activity,Iconic Gaspereau Valley winery with the famous red British phone booth
+Burntcoat Head Park,Noel NS,45.3100,-63.8058,Day 6,Activity,Site of the highest recorded tides in the world with ocean floor walking

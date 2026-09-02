@@ -1,39 +1,59 @@
-# 💡 Travel Tips & Financial Etiquette
-
-This page covers essential travel etiquette, tipping customs, and financial tips for navigating Italy (Venice and the Dolomites) and Spain (Madrid) smoothly.
+# 💡 Nova Scotia Travel Tips, Road Etiquette & Safety Guide
 
 ---
 
-## 💶 Cash, ATMs & Wise Card Best Practices
+## 🦌 1. Moose Safety & Highlands Driving
 
-Many mountain rifugios have poor cell service, meaning credit card terminals fail frequently. **Always carry cash (€150–200 per person)** when hiking. When obtaining cash or spending:
-
-### 1. Avoid Tourist ATMs (Euronet)
-*   **The Gotcha**: Do **NOT** use standalone ATMs like **Euronet** (found in airport arrival halls, train stations, and tourist streets). They charge massive transaction fees (often €4–€5+) and apply predatory conversion rates.
-*   **The Solution**: Only use ATMs (*Bancomat*) attached to official physical banks:
-    *   **Italy**: *Intesa Sanpaolo*, *UniCredit*, *Banco BPM*, or *Poste Italiane* (Post office ATMs are highly secure and cheap).
-    *   **Spain**: *Santander*, *BBVA*, or *CaixaBank*.
-
-### 2. Always Decline ATM/Terminal Conversion
-*   **The Gotcha**: When you insert your Wise Card, the ATM or merchant card terminal will detect it is a foreign card and offer to charge you in **CAD** (your home currency) rather than **EUR**. This is called *Dynamic Currency Conversion (DCC)*.
-*   **The Rule**: **Always choose "Bill in EUR" (Without Conversion / Local Currency).**
-    *   If you choose CAD, the local bank converts the money at a terrible markup (often 5% to 15% fee).
-    *   If you choose EUR, your Wise Card performs the conversion using the mid-market rate and your pre-loaded EUR balance, saving you significant money.
+- **High Wildlife Density**: Cape Breton Highlands National Park is home to approximately 1,800 Eastern Canadian Moose. A mature bull moose can weigh up to 600 kg (1,300 lbs) and stands taller than a car’s hood.
+- **Dusk & Dawn Warning**: Moose are most active between sunset and 10:00 PM, and again around sunrise. Because moose are dark-coated and their eyes do not reflect headlights like deer do, they are extremely difficult to spot on unlit highland roads.
+- **Driving Strategy**: 
+  - Scan the treeline and grassy road shoulders continuously.
+  - Avoid high-speed night driving through the national park section of the Cabot Trail (between Chéticamp and Ingonish).
+  - Use high beams when no oncoming traffic is present.
+  - If you spot a moose on the trail, remain calm, maintain at least 30 meters distance, and never position yourself between a mother and her calf.
 
 ---
 
-## 🍽️ Tipping & Dining Customs
+## 🚗 2. Cabot Trail Mountain Driving Etiquette
 
-Tipping customs in Europe are fundamentally different from North America. Waitstaff are paid living wages, and tips are viewed as a small bonus for exceptional service, not a mandatory supplement.
+- **Steep Grades & Engine Braking**: Descending French Mountain (13% grade) and North Mountain will heat up your brake pads quickly. Shift your automatic vehicle into low gear (M, L, or sport paddle shift down to 2nd/3rd gear) to let engine braking manage your speed.
+- **Lookout Pullouts & Slow Traffic**: If a local vehicle or faster driver is trailing close behind you, use the paved scenic pullouts to let them pass. 
+- **Cellular Dead Zones**: Cell service is weak or non-existent between Pleasant Bay, Cape North, and Dingwall. Download offline maps and keep your daily itinerary saved offline.
+- **Fuel Stations**: Gas stations are sparse on the northern loop. Always top off your fuel tank in Baddeck, Chéticamp, or Ingonish before heading into the interior park.
 
-### 🇮🇹 Italy (Venice & Dolomites)
-*   **Tipping**: **Not expected or required.** You do not need to add a percentage tip to your bill. For exceptional service, rounding up to the nearest €5/€10 or leaving a couple of €1/€2 coins on the table is appreciated.
-*   **The Coperto (Cover Charge)**: You will see a line item called **Pane e Coperto** (bread and cover charge) on your restaurant bill, usually **€2.00 to €3.50 per person**. This is standard and covers the table setting and bread. It is not a tip.
-*   **Servizio Incluso**: Check the bill. If it says *Servizio Incluso* (service included), service is already priced in.
-*   **Stand vs. Sit (Café Culture)**: In traditional Italian bars/cafés, ordering a coffee and pastry and standing at the bar (*al banco*) is cheap (e.g., €1.20 for an espresso). If you sit at a table (*al tavolo*), the price can double or triple because table service charges apply.
+---
 
-### 🇪🇸 Spain (Madrid)
-*   **Tipping**: **Not required.** 
-    *   At casual bars, cafés, or tapas spots, leaving the small change (e.g., 50c or rounding up to the nearest euro) is standard.
-    *   At sit-down dinners, leaving **5% to 10%** is a nice gesture for great service, but leaving nothing is also perfectly acceptable.
-*   **No Coperto**: Spain does not have a formal cover charge like Italy, but restaurants may charge a small fee for bread (*pan*) if you eat it. If you do not want it, politely decline when they place it on the table.
+## 🌊 3. Ocean Safety: The Peggy's Cove "Black Rocks" Rule
+
+- ⚠️ **NEVER Step on the Wet / Black Rocks**: The ancient granite formations at Peggy’s Cove look deceivingly dry above the tide line, but dark, discolored rocks indicate the splash zone of powerful rogue waves.
+- **The Danger**: Atlantic swells can surge without warning, knocking visitors into freezing waters and pounding surf where underwater undertows and steep granite walls make rescue nearly impossible.
+- **Stay on the White Granite**: Stay high on the dry, light-coloured granite boulders, behind marked warning signs, or on the accessible wooden viewing platform.
+
+---
+
+## 🌊 4. Bay of Fundy Tide Dynamics & Mudflat Precautions
+
+- **World Record Tides**: The Bay of Fundy experiences a vertical tidal swing of up to 16 meters (53 feet) twice every 24 hours. The volume of water entering the bay on each cycle exceeds the combined flow of all the world's freshwater rivers!
+- **Rapid Inflow**: When the tide turns, water rushes into tidal flats and estuaries at speeds up to 15 km/h. 
+- **Safety Rule**: If walking out onto the ocean floor at Burntcoat Head, Hall's Harbour, or Scots Bay, always verify the official tide chart and begin heading back to the high-water shoreline at least **2 hours before peak high tide**.
+
+---
+
+## 🦞 5. Traditional Atlantic Lobster Supper Etiquette
+
+- **The Traditional Setup**: A classic Nova Scotia lobster supper is a hearty multi-course ritual: warm bread rolls, endless Cape Breton steamed mussels, creamy seafood chowder, a whole steamed Atlantic lobster with drawn garlic butter, and homemade pie (Dutch blueberry or apple).
+- **Cracking the Lobster**:
+  1. Twist off the large claws and small walking legs.
+  2. Use the metal cracker to break the claw shells; pull out the succulent claw meat with a seafood pick.
+  3. Separate the tail from the body by bending and twisting backward.
+  4. Break off the tail flippers and use a fork to push the whole tail meat out the wide end.
+  5. Dip into melted butter and enjoy! (The green *tomalley* inside the body cavity is the lobster’s liver and considered a delicacy by locals).
+- **Bibs & Wet Naps**: Wear the plastic lobster bib provided without shame—cracking whole lobster is delightfully messy!
+
+---
+
+## 🏙️ 6. Halifax City Transit & Bridge Tolls
+
+- **Halifax Harbour Bridges**: Crossing between Halifax and Dartmouth uses the **Angus L. Macdonald Bridge** or **A. Murray MacKay Bridge**. The toll is **$1.25 CAD cash** (or automatically billed via your rental car transponder/MACPASS). Keep loose loonies and quarters in your cupholder.
+- **Halifax Harbour Ferry**: The passenger ferry connecting Downtown Halifax (Cable Wharf) to Downtown Dartmouth (Alderney Landing) costs only **$2.75 CAD** and offers the best skyline photos of Halifax from the water.
+- **Tipping Culture**: Standard restaurant tipping in Nova Scotia is **15% to 20%** for good service.

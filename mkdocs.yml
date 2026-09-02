@@ -24,37 +24,24 @@ extra_css:
 
 nav:
   - Welcome: index.md
-  - Part 1 - Venice:
-      - Day 1 (Venice Arrival): day1_venice_val_gardena_arrival.md
-  - Part 2 - Western Dolomites:
-      - Day 2 (Acclimatization): day2_ortisei_acclimatization.md
-      - Day 3 (Val di Funes): day3_val_di_funes.md
-      - Day 4 (Alpe di Siusi): day4_alpe_di_siusi.md
-      - Day 5 (Seceda): day5_seceda_ridge.md
-      - Day 6 (West Split Day): day6_west_split.md
-  - Part 3 - Epic Transit:
-      - Day 7 (Val Gardena to Cortina): day7_val_gardena_cortina_transit.md
-  - Part 4 - Eastern Dolomites:
-      - Day 8 (Passo Giau): day8_cinque_torri_passo_giau.md
-      - Day 9 (Tre Cime): day9_tre_cime_cadini.md
-      - Day 10 (East Split Day): day10_east_split.md
-      - Day 11 (Sorapis): day11_lago_di_sorapis.md
-  - Part 5 - Venice Return:
-      - Day 12 (Return to Venice): day12_venice_arrival.md
-      - Day 13 (Venice Highlights): day13_venice_full_day.md
-  - Part 6 - Madrid:
-      - Day 14 (Transit to Madrid): day14_venice_madrid_transit.md
-      - Day 15 (ANYMA Concert): day15_madrid_anyma.md
-      - Day 16 (Departure to YYZ): day16_madrid_toronto_departure.md
-  - Planning:
-      - Logistics: logistics.md
-      - Research & Insights: research.md
-      - Travel Tips & Etiquette: tips.md
-      - To-Do List: todo.md
-      - Packing List: packing_list.md
-      - Maps & Routing: maps.md
-  - Extras:
-      - Potential Activities: potential_activities.md
+  - Core Itinerary (Oct 10–14):
+      - Day 1 (Halifax to Cape Breton): day1_halifax_to_baddeck.md
+      - Day 2 (Western Cabot Trail & Skyline): day2_western_cabot_trail_skyline.md
+      - Day 3 (Highlands, Meat Cove & Ingonish): day3_northern_eastern_cabot_trail.md
+      - Day 4 (Celtic Culture & Return Drive): day4_baddeck_to_halifax_heritage.md
+      - Day 5 (Halifax City & Peggy's Cove): day5_halifax_peggys_cove.md
+  - Flexible Buffer Days:
+      - Day 0 (Optional Pre-Trip Arrival): day0_flight_transit_arrival.md
+      - Day 6 (Optional Post-Trip Departure): day6_bay_of_fundy_departure.md
+  - Planning & Logistics:
+      - Logistics Master: logistics.md
+      - Flight & Trip Research: research.md
+      - Travel Tips & Moose Safety: tips.md
+      - Action To-Do List: todo.md
+      - Packing Checklist: packing_list.md
+      - Interactive Maps & GPS: maps.md
+  - Extras & Ideas:
+      - Potential Activities Vault: potential_activities.md
       - Ideas for Extra Days: ideas_for_extra.md
 
 markdown_extensions:
