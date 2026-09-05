@@ -300,3 +300,24 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Location**: East Petpeswick (45 min from Halifax).
 - **Details**: A 5.0 km pristine white sand barrier beach backed by protected maritime sand dunes and wildlife refuges.
 - **Direct Guide**: [Nova Scotia Parks Martinique Beach](https://parks.novascotia.ca/park/martinique-beach)
+
+---
+
+## 🔪 6. Northumberland Shore & Pictou County
+
+### Heritage Crafts, Scottish Roots & Regional Flavors
+
+#### 47. Grohmann Knives Factory Tour & Seconds Outlet <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>
+- **Location**: 116 Water Street, Pictou, NS.
+- **Details**: Established in the 1950s by Czech master knifemaker Rudolf Grohmann and D.H. Russell, this world-renowned factory produces Canada's legendary handcrafted belt knives, military blades, and culinary cutlery. Watch artisans perform the 25+ step manufacturing process on the factory floor (blade stamping, high-carbon steel heat treatment, taper grinding, handle shaping in rosewood, stag horn, and resin micarta). Browse the factory retail store for heavily discounted "factory seconds" (30–50% off).
+- **Direct Guide**: [Grohmann Knives Official Site](https://www.grohmannknives.com/)
+
+#### 48. Hector Heritage Quay & The Ship Hector <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>
+- **Location**: 33 Caladh Avenue, Pictou Harbourfront.
+- **Details**: Pictou is celebrated as the "Birthplace of New Scotland", where the historic ship *Hector* landed in September 1773 carrying nearly 200 Scottish Highland immigrants. Tour the full-scale ship reconstruction, explore interactive exhibits on the immigrant voyage, and stroll the scenic Northumberland Strait waterfront boardwalk.
+- **Direct Guide**: [Ship Hector Official Portal](https://www.shiphector.ca/)
+
+#### 49. Authentic Pictou County Brown-Sauce Pizza <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>
+- **Location**: Acropole Pizza (81 Water St, Pictou) or Sam's Pizza (Trenton/New Glasgow).
+- **Details**: Nova Scotia's fiercest regional culinary secret. Pictou County pizza features a thick, chewy crust smothered in a distinct proprietary spicy brown vegetable-and-herb sauce, topped with high-fat mozzarella and generous slabs of Halifax-made Brother's spicy deli pepperoni. A beloved rite of passage for visiting road-trippers.
+- **Direct Guide**: [Acropole Pizza Official](https://acropolepizza.ca/)

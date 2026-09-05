@@ -13,6 +13,7 @@
   - [ ] Compare Porter Airlines (YTZ & YYZ) vs Air Canada (YYZ) for outbound Oct 8, 9, vs 10.
   - [ ] Compare return flight prices for Wednesday Oct 14 vs Thursday Oct 15 vs Friday Oct 16.
   - [ ] Book roundtrip non-stop flights between Toronto and Halifax (YHZ).
+  - [ ] Ensure return flight ticket includes at least 1 checked bag (mandatory for flying home with Grohmann Knives purchased in Pictou).
 - [ ] **Rental Vehicle Reservation (YHZ)**:
   - [ ] Reserve AWD SUV or Crossover via National / Enterprise / Avis (YHZ pickup & drop-off).
   - [ ] Confirm unlimited kilometers and secondary driver coverage.
@@ -39,6 +40,7 @@
   - [ ] Book Alexander Keith's Historic 1820 Brewery Tour (Day 5).
   - [ ] Reserve dinner table at *The Freight Shed* or *Baddeck Lobster Suppers* (Day 1).
   - [ ] Reserve dinner table at *The Bicycle Thief* or *Drift* (Halifax Waterfront - Day 5).
+  - [ ] Confirm Grohmann Knives factory production hours for Tuesday, Oct 13 (weekday craft operations run until ~3:00 PM; retail showroom open until 5:00 PM).
 
 ---
 

@@ -90,6 +90,7 @@ This document serves as your **active decision framework** to iterate through ov
 - [ ] **Gaspereau Valley Wine & Cider Tasting**: Sip signature Nova Scotia *Tidal Bay* crisp white wines and Méthode Classique sparkling bubblies at *Benjamin Bridge* and *Luckett Vineyards* (with the famous red British phone booth in the vines).
 - [ ] **Single Malt Whisky Tour at Glenora Distillery**: North America's first single malt distillery in Mabou, tasting "Glen Breton Rare" aged in oak barrels.
 - [ ] **Halifax Street Food & Historic Brewery**: Original Halifax Donairs from *King of Donair (KOD)* and the theatrical 1820 *Alexander Keith's Historic Brewery* tour.
+- [x] **Pictou County Pizza & Grohmann Knives**: Sample the legendary spicy brown-sauce pizza at *Acropole Pizza* on Water Street in Pictou and tour the *Grohmann Knives Factory & Outlet* to shop for handcrafted Canadian belt knives.
 
 ---
 
@@ -102,3 +103,4 @@ Use this section to note preferences as you discuss:
 3. **Lodging Preference**: (e.g., *Glamping Domes / Keltic Lodge / Central Baddeck Hub*) → 
 4. **Must-Do Novelty Pick**: (e.g., *Tidal Bore Rafting / Cape Split / Pollett's Cove*) → 
 5. **Dining Non-Negotiable**: (e.g., *Lobster Suppers + Bar Kismet + Wineries*) → 
+6. **Pictou & Grohmann Knives**: Confirmed locked in for Day 4 afternoon return transit (Baddeck → Pictou → Halifax).

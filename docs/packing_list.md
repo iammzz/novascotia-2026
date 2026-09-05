@@ -59,6 +59,7 @@ Mid-October in Nova Scotia delivers crisp, vibrant autumn days with temperature 
 - [ ] **Major Credit Card** (Required under the primary driver’s name for rental car deposit).
 - [ ] **Parks Canada Discovery Pass** (Hang from rearview mirror when parked in Cape Breton Highlands NP, Bell NHS, and Halifax Citadel).
 - [ ] **Digital & Printed Confirmations** (Flight boarding passes, car rental vouchers, hotel reservations, concert/festival tickets).
+- [ ] **Airline Checked Luggage Allowance** (⚠️ **Crucial**: Transport Canada / CATSA regulations prohibit knives in carry-on baggage. If purchasing handcrafted knives at the Grohmann Knives Factory in Pictou, you **must pack them inside checked baggage** for the flight home from Halifax).
 
 ---
 

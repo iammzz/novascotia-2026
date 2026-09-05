@@ -57,3 +57,20 @@
 - **Halifax Harbour Bridges**: Crossing between Halifax and Dartmouth uses the **Angus L. Macdonald Bridge** or **A. Murray MacKay Bridge**. The toll is **$1.25 CAD cash** (or automatically billed via your rental car transponder/MACPASS). Keep loose loonies and quarters in your cupholder.
 - **Halifax Harbour Ferry**: The passenger ferry connecting Downtown Halifax (Cable Wharf) to Downtown Dartmouth (Alderney Landing) costs only **$2.75 CAD** and offers the best skyline photos of Halifax from the water.
 - **Tipping Culture**: Standard restaurant tipping in Nova Scotia is **15% to 20%** for good service.
+
+---
+
+## 🍕 7. Pictou County Pizza: The Legendary "Brown Sauce" Phenomenon
+
+- **The Cult Classic**: Unlike conventional pizza with red marinara, Pictou County is home to a distinctive regional pizza style invented in the 1960s by Greek immigrant families.
+- **The Secret Sauce**: The base is a thick, rich, savory brown sauce simmered with celery, onions, chicken broth, carrots, tomatoes, and secret Greek seasonings.
+- **The Meat**: Topped with high-fat Canadian mozzarella and thick slices of local spicy pepperoni from Brother's Meats or Chris Brothers.
+- **Where to Try**: *Acropole Pizza* on Water Street in Pictou (right by Grohmann Knives) or *Sam's Pizza*. Nova Scotians living across Canada regularly have frozen pies shipped by air in refrigerated dry ice!
+
+---
+
+## 🔪 8. Air Travel Security: Transporting Grohmann Knives
+
+- **⚠️ Zero Knives in Cabin Baggage**: Transport Canada and the Canadian Air Transport Security Authority (CATSA) strictly prohibit any fixed-blade knives, folding pocketknives, or kitchen blades in carry-on luggage through airport security checkpoints at Halifax Stanfield (YHZ).
+- **Checked Baggage Rule**: Any knives purchased at the Grohmann Knives factory outlet in Pictou **MUST be securely packaged and placed in checked baggage**.
+- **Packing Strategy**: Keep the factory boxes and sheaths intact, wrap them inside thick clothing or fleece layers in the center of your suitcase, and ensure you have purchased checked bag allowance on your return flight to Toronto.

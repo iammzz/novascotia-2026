@@ -13,7 +13,7 @@
 | Leg | Route | Carrier Options | Target Date Range | Status | Notes / Pricing Target |
 |:---|:---|:---|:---|:---:|:---|
 | **Outbound** | **Toronto (YTZ / YYZ) → Halifax (YHZ)** | Porter Airlines / Air Canada / WestJet | **Oct 8, 9, or 10, 2026** (Morning departure) | 🔴 NOT BOOKED | Direct non-stop (2h 10m). Target fare: $130–$220 CAD one-way. Porter from YTZ or Air Canada from YYZ. |
-| **Inbound** | **Halifax (YHZ) → Toronto (YTZ / YYZ)** | Porter Airlines / Air Canada / WestJet | **Oct 14, 15, or 16, 2026** (Evening departure) | 🔴 NOT BOOKED | Direct non-stop (2h 20m). Avoid Oct 12 Thanksgiving holiday surge. Target fare: $130–$220 CAD one-way. |
+| **Inbound** | **Halifax (YHZ) → Toronto (YTZ / YYZ)** | Porter Airlines / Air Canada / WestJet | **Oct 14, 15, or 16, 2026** (Evening departure) | 🔴 NOT BOOKED | Direct non-stop (2h 20m). Avoid Oct 12 holiday surge. Target fare: $130–$220 CAD. (Include 1 checked bag for transporting purchased Grohmann knives). |
 
 ---
 
@@ -65,3 +65,4 @@
 | **Halifax Citadel Historic Site Admission** | Day 5 (Oct 14) | Included in Discovery Pass | Show pass at vehicle entrance or main entry gate | 🟢 COVERED BY PASS |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |
 | **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🔴 NOT BOOKED |
+| **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:35 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |
