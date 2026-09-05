@@ -1,0 +1,107 @@
+/* 🎨 Google Material Design Stylesheet for Dolomites 2026 */
+
+/* --- 1. Typography & General Layout --- */
+:root {
+  --md-text-font: "Roboto", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  --md-code-font: "Roboto Mono", SFMono-Regular, Consolas, Menlo, monospace;
+}
+
+body {
+  font-family: var(--md-text-font);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- 2. Material 3 Card & Admonition Styling (Rounded & Flat Shadows) --- */
+.md-typeset .admonition, 
+.md-typeset details {
+  border-radius: 12px !important;
+  border-left-width: 6px !important;
+  box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.12), 0px 1px 1px 0px rgba(0,0,0,0.08), 0px 2px 1px -1px rgba(0,0,0,0.05) !important;
+  transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+  margin-bottom: 1.5em;
+}
+
+/* Hover elevation for interactive cards/details */
+.md-typeset details[open],
+.md-typeset .admonition:hover {
+  box-shadow: 0px 3px 6px -1px rgba(0,0,0,0.16), 0px 6px 10px 0px rgba(0,0,0,0.1), 0px 1px 18px 0px rgba(0,0,0,0.08) !important;
+}
+
+/* --- 3. Material-style Search Bar (Pill Shape) --- */
+.md-search__inner {
+  background-color: var(--md-default-bg-color);
+  border-radius: 28px !important;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.05) !important;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  transition: all 0.2s ease-in-out;
+}
+
+.md-search__input:focus ~ .md-search__inner,
+.md-search:focus-within .md-search__inner {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.1) !important;
+}
+
+/* --- 4. Navigation & Layout Rounded Elements --- */
+/* Rounded sidebar links on hover */
+.md-nav__link {
+  border-radius: 8px;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+.md-nav__link:hover {
+  background-color: var(--md-default-fg-color--lightest) !important;
+}
+
+/* Active navigation item styling */
+.md-nav__link--active {
+  font-weight: 700 !important;
+  color: var(--md-primary-fg-color) !important;
+  background-color: rgba(255, 87, 34, 0.08) !important; /* Deep Orange light background */
+}
+
+/* Dark mode adjustment for active nav item */
+[data-md-color-scheme="slate"] .md-nav__link--active {
+  background-color: rgba(255, 87, 34, 0.15) !important;
+}
+
+/* --- 5. Data Tables (Material Flat Styling) --- */
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  border-collapse: collapse;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.05);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color--light);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  border-bottom: 2px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) td {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* --- 6. Scrollbar Styling --- */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--md-default-fg-color--light);
+}
