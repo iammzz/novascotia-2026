@@ -11,6 +11,21 @@
 
 Today delivers the definitive highlights of coastal and urban Nova Scotia. You journey along the winding Lighthouse Route (Route 333) to the iconic granite coast of Peggy's Cove, then return to explore the deep maritime history and culinary heartbeat of Halifax.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
+    **Direct Navigation Link**: [**👉 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Peggy%27s+Point+Lighthouse%2C+Peggy%27s+Point+Road%2C+Peggy%27s+Cove%2C+NS/Halifax+Citadel+National+Historic+Site%2C+Halifax%2C+NS/Maritime+Museum+of+the+Atlantic%2C+Lower+Water+Street%2C+Halifax%2C+NS/Alexander+Keith%27s+Brewery%2C+Lower+Water+Street%2C+Halifax%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (~95 km, ~1h 35m total drive)  
+    *Click to launch live GPS turn-by-turn navigation from Halifax to Peggy's Cove, returning through Citadel Hill, the Maritime Museum, and Alexander Keith's Historic Brewery.*
+
+### 📍 Route Stops Breakdown
+
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Downtown Halifax Base** | — | NS-333 W | Early morning departure on the Lighthouse Route past coastal coves |
+| **2** | **Peggy's Point Lighthouse** | 45 km (45 mins) | Route 333 (Prospect Rd) | Beat tour buses; iconic granite boulders, dory fishing cove (⚠️ stay off black rocks!) |
+| **3** | **Halifax Citadel Historic Site** | 45 km (45 mins) | Route 333 to Sackville St | 12:00 PM historic Noon Gun cannon firing by 78th Highlanders in full regalia |
+| **4** | **Maritime Museum of the Atlantic** | 1.5 km (5 mins) | Lower Water St | Titanic recovered wooden artifacts & 1917 Halifax Explosion exhibits |
+| **5** | **Alexander Keith's Brewery** | 0.5 km (2 mins) | Lower Water St | Theatrical 1820 brewhouse tour & subterranean Stag's Head tavern folk tasting |
+| **6** | **Queen's Marque / Boardwalk** | 0.5 km (2 mins) | Halifax Boardwalk | Grand finale Atlantic lobster supper celebration overlooking harbor waters |
+
 ```mermaid
 graph TD
     A[Downtown Halifax Base] -->|45m / 45 km| B[Peggy's Cove Lighthouse & Village]
@@ -19,7 +34,6 @@ graph TD
     D -->|Halifax Boardwalk| E[Alexander Keith's Historic Brewery]
     E -->|Evening| F[Harbourfront Lobster & Oyster Finale Feast]
 ```
-
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown

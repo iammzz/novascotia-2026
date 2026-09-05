@@ -11,6 +11,22 @@
 
 Today you transition from Cape Breton’s Celtic heartland back to the cosmopolitan capital of Halifax, featuring a classic detour along Nova Scotia's Northumberland Shore to **Pictou**—the "Birthplace of New Scotland" and home of world-renowned handcrafted **Grohmann Knives**.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
+    **Direct Navigation Link**: [**👉 Open Day 4 Route in Google Maps**](https://www.google.com/maps/dir/Baddeck%2C+NS/Uisge+B%C3%A0n+Falls+Provincial+Park%2C+Baddeck%2C+NS/The+Gaelic+College%2C+Cabot+Trail%2C+Saint+Ann%27s%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/Downtown+Halifax%2C+Halifax%2C+NS){:target="_blank"} (~439 km, ~4h 30m total drive)  
+    *Click to launch live GPS turn-by-turn navigation through all 7 stops from Baddeck to Uisge Bàn Falls, The Gaelic College, Pictou & Grohmann Knives, and Downtown Halifax.*
+
+### 📍 Route Stops Breakdown
+
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Baddeck Base** | — | NS-205 to North Branch Rd | Morning departure to hidden river canyon |
+| **2** | **Uisge Bàn Falls Provincial Park** | 14 km (15 mins) | North Branch Rd | 2.7 km autumn gorge hike to 16m cascading waterfall |
+| **3** | **The Gaelic College (Colaisde na Gàidhlig)** | 25 km (25 mins) | NS-205 to Cabot Trail (St. Ann's) | Great Hall of the Clans, living Gaelic culture & kilt making |
+| **4** | **Canso Causeway Mainland Crossing** | 95 km (1h 10m) | NS-105 S (Trans-Canada) | Transit across Bras d'Or lakeshore back onto mainland Nova Scotia |
+| **5** | **Grohmann Knives Factory & Outlet** | 140 km (1h 20m) | NS-104 W to NS-106 N (Exit 22) | Handcrafted knife factory tour, MoMA design #1, discount seconds showroom |
+| **6** | **Hector Heritage Quay & Waterfront** | 1 km (3 mins) | Caladh Ave / Water St | Ship Hector restoration ("Birthplace of New Scotland") & Pictou County pizza |
+| **7** | **Downtown Halifax Base** | 165 km (1h 45m) | NS-106 S to NS-102 S | Evening arrival at Halifax base, North End brewery & culinary crawl |
+
 ```mermaid
 graph LR
     A[Baddeck Base] -->|15m / 14 km| B[Uisge Bàn Falls Hike 2.7 km]
@@ -20,7 +36,6 @@ graph LR
     E -->|1h 45m / 165 km| F[Downtown Halifax Base Check-In]
     F -->|Evening| G[North End Halifax Craft Beers & Dining]
 ```
-
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown

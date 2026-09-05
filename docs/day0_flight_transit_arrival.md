@@ -11,6 +11,29 @@
 
 Arriving a day or two prior to the Thanksgiving weekend core itinerary unlocks major savings on airfare from Toronto while giving your group a relaxed runway before the drive to Cape Breton.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Routes"
+    Choose your preferred arrival day plan below to launch pre-loaded turn-by-turn navigation in Google Maps:
+    
+    * **Option A (Halifax Airport & City Waterfront)**: [**👉 Open Option A Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/Halifax+Citadel+National+Historic+Site%2C+Halifax%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (~38 km, ~40 mins drive)
+    * **Option B (South Shore UNESCO Lunenburg Loop)**: [**👉 Open Option B Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/Old+Town+Lunenburg%2C+Montague+Street%2C+Lunenburg%2C+NS/Three+Churches+Foundation%2C+Edgewater+Street%2C+Mahone+Bay%2C+NS/Downtown+Halifax%2C+Halifax%2C+NS){:target="_blank"} (~205 km, ~2.5 hours total drive)
+
+### 📍 Route Stops Breakdown
+
+#### Option A: Airport Transit & Halifax Highlights
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Activity & Highlights |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S | Pick up rental AWD vehicle at lower-level parkade |
+| **2** | **Halifax Citadel Historic Site** | 35 km (35 mins) | NS-102 S to Connaught Ave | Panoramic harbor views from perimeter ramparts |
+| **3** | **Halifax Waterfront / Queen's Marque** | 3 km (10 mins) | Sackville St to Lower Water St | Check in to hotel, waterfront boardwalk walk & dinner |
+
+#### Option B: South Shore UNESCO Heritage Loop
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Activity & Highlights |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S to NS-103 W | Pick up rental car and depart directly southwest |
+| **2** | **Old Town Lunenburg** | 105 km (1h 15m) | NS-103 W (Exit 11) | UNESCO 18th-century colorful harbor, Bluenose II berth |
+| **3** | **Mahone Bay Three Churches** | 12 km (15 mins) | Route 3 N | Postcard-perfect three church steeples & artisan bakeries |
+| **4** | **Downtown Halifax Base** | 88 km (1h 05m) | NS-103 E to NS-102 S | Evening arrival at downtown waterfront accommodations |
+
 ```mermaid
 graph TD
     A[Toronto YYZ/YTZ] -->|2h 10m Non-stop Flight| B[Halifax Stanfield Airport YHZ]

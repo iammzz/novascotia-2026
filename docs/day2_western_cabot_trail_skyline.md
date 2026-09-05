@@ -11,6 +11,21 @@
 
 Today you ascend onto the dramatic western cliffs of the Cabot Trail. The route hugs the Gulf of St. Lawrence, winding through the rolling Margaree salmon river valley, through the Acadian harbor of Chéticamp, up the engineered switchbacks of French Mountain, and culminates with the crown jewel of Nova Scotia hiking—the **Skyline Trail**.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
+    **Direct Navigation Link**: [**👉 Open Day 2 Route in Google Maps**](https://www.google.com/maps/dir/Baddeck%2C+NS/Margaree+Forks%2C+NS/Les+Trois+Pignons%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS/Cap+Rouge+Lookout%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS/Skyline+Trail+Trailhead%2C+Cabot+Trail%2C+Cape+Breton+Highlands+National+Park%2C+NS/The+Doryman+Pub+%26+Grill%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS){:target="_blank"} (~145 km, ~2h 15m total drive)  
+    *Click to launch live turn-by-turn navigation in Google Maps pre-loaded with all stops from Baddeck through the Margaree Valley to the Skyline Trail and Chéticamp.*
+
+### 📍 Route Stops Breakdown
+
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Baddeck Base** | — | NS-105 W to Exit 7 | Morning departure west along the Bras d'Or lakeshore |
+| **2** | **Margaree River Valley** | 55 km (45 mins) | NS-19 N / Cabot Trail | Salmon pools, autumn maple ridges, Margaree Forks lookouts |
+| **3** | **Les Trois Pignons (Chéticamp)** | 40 km (35 mins) | Cabot Trail (NS-30 N) | Acadian hooked rug museum, Aucoin Bakery meat pies & provisions |
+| **4** | **Cap Rouge Lookout** | 15 km (15 mins) | Cabot Trail (Parks Entry) | Coastal switchback ocean panoramas & French Mountain climb |
+| **5** | **Skyline Trail Trailhead** | 20 km (25 mins) | Cabot Trail (Highlands) | 6.5 km sunset boardwalk hike, moose viewing (⚡ 4:00 PM booked slot) |
+| **6** | **Chéticamp Harbour & The Doryman** | 35 km (30 mins) | Cabot Trail south | Evening Acadian seafood dinner, local snow crab & live fiddle music |
+
 ```mermaid
 graph TD
     A[Baddeck Base] -->|45m / 55 km| B[Margaree River Valley]
@@ -20,7 +35,6 @@ graph TD
     E -->|Boardwalk Viewing & Sunset| F[Headlamp Return to Vehicle]
     F -->|30m / 35 km| G[Acadian Dinner in Chéticamp]
 ```
-
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown

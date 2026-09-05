@@ -11,6 +11,21 @@
 
 Extending your trip by 24–48 hours past the core itinerary lets you capture substantial flight savings on flights back to Toronto while witnessing the highest tides on planet Earth and the world-class cool-climate vineyards of the Annapolis Valley.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
+    **Direct Navigation Link**: [**👉 Open Day 6 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Grand-Pr%C3%A9+National+Historic+Site%2C+Grand-Pr%C3%A9+Road%2C+Grand-Pr%C3%A9%2C+NS/Cape+Split+Trailhead%2C+Scots+Bay+Road%2C+Scots+Bay%2C+NS/The+Lobster+Pound+%26+Restaurant+at+Hall%27s+Harbour%2C+West+Halls+Harbour+Road%2C+Halls+Harbour%2C+NS/Luckett+Vineyards%2C+Grand+Pr%C3%A9+Road%2C+Wolfville%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~245 km, ~3h 25m total drive)  
+    *Click to launch live GPS turn-by-turn navigation from Halifax through UNESCO Grand-Pré, Cape Split, Hall's Harbour, Luckett Vineyards, and finishing at Halifax Stanfield Airport (YHZ).*
+
+### 📍 Route Stops Breakdown
+
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Downtown Halifax Base** | — | NS-101 W | Morning departure westbound through agricultural Annapolis Valley |
+| **2** | **Grand-Pré Historic Site (UNESCO)** | 90 km (1h 05m) | NS-101 W (Exit 10) | Acadian dykeland memorial gardens & 17th-century wooden aboiteau history |
+| **3** | **Cape Split Provincial Park** | 25 km (25 mins) | Route 358 N to Scots Bay | 13.2 km coastal forest hike overlooking Minas Channel tidal whirlpools |
+| **4** | **Hall'''s Harbour Tidal Wharf** | 18 km (20 mins) | Baxter'''s Harbour Rd | Watch lobster boats drop 40 vertical feet to harbour mud at low tide |
+| **5** | **Luckett Vineyards** | 25 km (25 mins) | Grand-Pré Rd (Gaspereau) | Sip signature Tidal Bay crisp white wines & call from red British phone booth |
+| **6** | **Halifax Stanfield Airport (YHZ)** | 105 km (1h 10m) | NS-101 E to NS-102 N | Return rental vehicle at airport parkade, evening flight back to Toronto |
+
 ```mermaid
 graph TD
     A[Halifax Base] -->|1h 05m / 95 km| B[UNESCO Grand-Pré & Wolfville]
@@ -20,7 +35,6 @@ graph TD
     E -->|1h 10m / 105 km| F[Halifax Stanfield Airport YHZ & Car Drop]
     F -->|2h 15m Flight| G[Toronto YYZ / YTZ Arrival]
 ```
-
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown

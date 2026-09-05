@@ -11,6 +11,22 @@
 
 Today covers the most alpine and rugged stretches of the Cabot Trail. You cross MacKenzie Mountain and North Mountain, cut across the top of Cape Breton Island into Aspy Bay, explore the isolated northern cliffs of **Meat Cove**, and descend along the pink granite coastline of **Ingonish**.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
+    **Direct Navigation Link**: [**👉 Open Day 3 Route in Google Maps**](https://www.google.com/maps/dir/Ch%C3%A9ticamp%2C+NS/MacKenzie+Mountain+Lookout%2C+Cabot+Trail%2C+NS/Meat+Cove+Chowder+Hut%2C+Meat+Cove+Road%2C+Meat+Cove%2C+NS/Neils+Harbour+Lighthouse%2C+Neils+Harbour%2C+NS/Franey+Trailhead%2C+Franey+Road%2C+Ingonish+Centre%2C+NS/Cape+Smokey+Gondola%2C+Cabot+Trail%2C+Ingonish+Ferry%2C+NS/Baddeck%2C+NS){:target="_blank"} (~215 km, ~3h 30m total drive)  
+    *Click to launch live GPS turn-by-turn navigation pre-routed from Chéticamp across North Mountain, up to Meat Cove, down through Ingonish, and returning to Baddeck.*
+
+### 📍 Route Stops Breakdown
+
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Chéticamp Base** | — | Cabot Trail (NS-30 N) | Morning departure into the national park northern alpine loop |
+| **2** | **MacKenzie & North Mtn Lookouts** | 42 km (45 mins) | Cabot Trail | Alpine summit passes (elev. 445m), autumn canyon foliage vistas |
+| **3** | **Meat Cove Sea Cliffs** | 30 km (35 mins) | Bay St. Lawrence Rd & Meat Cove Rd | Isolated northern tip, vertical grassy sea cliffs, cliffside Chowder Hut |
+| **4** | **Neils Harbour Lighthouse** | 35 km (40 mins) | Cabot Trail south | 1899 wooden lighthouse, operating lobster slipway, hot chowder |
+| **5** | **Franey Trailhead / Middle Head** | 20 km (25 mins) | Cabot Trail to Franey Rd / Keltic | Conquer 7.4 km Franey summit or 3.8 km Middle Head peninsula hike |
+| **6** | **Cape Smokey Gondola** | 12 km (15 mins) | Cabot Trail south | Atlantic Canada's only gondola; 320m timber skywalk ocean panorama |
+| **7** | **Baddeck Village Base** | 65 km (55 mins) | Cabot Trail & NS-105 S | Return via St. Ann's Bay to Baddeck for Thanksgiving dinner |
+
 ```mermaid
 graph TD
     A[Pleasant Bay / Chéticamp] -->|45m / 42 km| B[North Mountain Alpine Pass]
@@ -20,7 +36,6 @@ graph TD
     E -->|15m / 12 km| F[Cape Smokey Gondola Lookout]
     F -->|55m / 65 km| G[Baddeck or Ingonish Base]
 ```
-
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown

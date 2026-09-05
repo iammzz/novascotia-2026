@@ -11,6 +11,20 @@
 
 Today marks the start of the Cape Breton expedition. You leave the Halifax metro area, travel northeast along the Trans-Canada Highway through rolling autumn hills, cross the engineering marvel of the Canso Causeway onto Cape Breton Island, and arrive at the tranquil lakeside village of **Baddeck**—the historic launchpad of the Cabot Trail.
 
+???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
+    **Direct Navigation Link**: [**👉 Open Day 1 Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Waterfront%2C+Halifax%2C+NS/Masstown+Market%2C+Nova+Scotia+Trunk+2%2C+Masstown%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Alexander+Graham+Bell+National+Historic+Site%2C+Chebucto+Street%2C+Baddeck%2C+NS/Baddeck+Community+Wharf%2C+Chebucto+Street%2C+Baddeck%2C+NS){:target="_blank"} (~360 km, ~3h 50m total drive)  
+    *Click to launch live GPS turn-by-turn driving directions pre-routed through all 5 waypoints from Halifax to Baddeck.*
+
+### 📍 Route Stops Breakdown
+
+| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
+|:---:|:---|:---:|:---|:---|
+| **1** | **Downtown Halifax Base** | — | NS-102 N | Morning departure heading north through Colchester County hardwood ridges |
+| **2** | **Masstown Market** | 105 km (1h 05m) | NS-102 N to NS-104 W (Exit 12) | Fresh Honeycrisp apples, hot seafood chowder, Cape Breton oatcakes & fuel |
+| **3** | **Canso Causeway Visitor Centre** | 175 km (1h 50m) | NS-104 E (Trans-Canada) | Cross 1.3 km rock-fill causeway onto Cape Breton; Celtic Colours schedules & maps |
+| **4** | **Alexander Graham Bell NHS** | 75 km (55 mins) | NS-105 N (Trans-Canada) | Bell's lakeside laboratory, full-scale Silver Dart replica, HD-4 hydrofoil boat |
+| **5** | **Baddeck Community Wharf & Base** | 2 km (5 mins) | Chebucto St | Evening lakeside boardwalk on Bras d'Or Lake, check-in, lobster dinner & pub ceilidh |
+
 ```mermaid
 graph LR
     A[Halifax Base] -->|1h 05m / 105 km| B[Masstown Market Pitstop]
@@ -19,7 +33,6 @@ graph LR
     D -->|Afternoon Activity| E[Alexander Graham Bell NHS]
     E -->|Evening| F[Traditional Cape Breton Ceilidh / Dinner]
 ```
-
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown
