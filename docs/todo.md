@@ -51,6 +51,7 @@
   - [ ] **Maritime Museum of the Atlantic** (Fri Oct 9, 6:45 PM): confirm reservation + that the evening entry is valid (regular fall hours close ~5:30 PM).
   - [ ] Reserve dinner table near the Halifax waterfront for **Fri Oct 9 after the museum** (*The Bicycle Thief* / *Drift* / *Shuck*).
   - [x] **Day 1 dinner LOCKED**: **The Rusty Anchor** (Baddeck waterfront) — call to confirm fall hours + reserve a table before the ceilidh.
+  - [x] **Day 2 dinner LOCKED**: **L'Abri Restaurant & Bar** (Chéticamp) — call ahead to confirm fall/evening hours after the Skyline hike.
   - [ ] Check **Celtic Colours Saturday Oct 10** concert/ceilidh tickets (on sale ~July 2026) — Baddeck / St. Ann's / Chéticamp.
   - [ ] Confirm Grohmann Knives factory production hours for Tuesday, Oct 13 (weekday craft operations run until ~3:00 PM; retail showroom open until 5:00 PM).
 

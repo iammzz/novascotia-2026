@@ -90,49 +90,56 @@ graph TD
 
 ---
 
-### 07:45 PM – 09:45 PM: Hearty Post-Hike Acadian Dinner & Recovery
-- Drive 25 minutes down from French Mountain into Chéticamp for a celebratory Acadian feast featuring fresh crab, lobster, or *fricot* stew.
+### 07:45 PM – 09:45 PM: Chéticamp Dinner at L'Abri (✅ LOCKED)
+- Drive 25 minutes down from French Mountain into Chéticamp for a celebratory Acadian feast at **L'Abri Restaurant & Bar** — fresh local seafood, Acadian-inspired plates, craft cocktails, and gluten-free-friendly options. (Fall hours — call ahead to confirm evening service on the holiday weekend.)
 
 ---
 
 ## 🍽️ Dining & Restaurant Options
 
-1. **Restaurant du Vieux Moulin / The Doryman Pub & Grill** *(Chéticamp)*  
+1. **L'Abri Restaurant & Bar** *(Chéticamp — dinner, ✅ LOCKED)*  
+   - **Drive / Walk**: On the Cabot Trail through Chéticamp (25 min drive from Skyline trailhead)  
+   - **Food Type**: Modern Acadian cuisine, fresh Gulf seafood, craft cocktails — gluten-free friendly  
+   - **Price**: $$–$$$ ($20–$40 CAD)  
+   - **Google Maps**: [L'Abri Restaurant & Bar Chéticamp](https://maps.google.com/?q=Labri+Restaurant+and+Bar+Cheticamp+NS)  
+   - **Why Recommended**: Your locked post-Skyline dinner — consistently the best-reviewed restaurant in Chéticamp, doing elevated Acadian plates and great cocktails on the main drag; the festive *fricot*, crab, and outdoor-patio buzz make it the right send-off to the Skyline day.
+
+2. **Restaurant du Vieux Moulin / The Doryman Pub & Grill** *(Chéticamp)*  
    - **Drive / Walk**: In central Chéticamp (25 min drive from Skyline trailhead)  
    - **Food Type**: Authentic Acadian seafood pub & live fiddle music  
    - **Price**: $$–$$$ ($20–$38 CAD)  
    - **Google Maps**: [The Doryman Chéticamp](https://maps.google.com/?q=The+Doryman+Pub+and+Grill+Cheticamp)  
    - **Why Recommended**: The heart of Acadian musical culture in Cape Breton; famous for fresh snow crab dinners, fish & chips, and spirited Saturday/Sunday afternoon and evening fiddle sessions.
 
-2. **L'Ardoise Restaurant & Lounge / Harbour Restaurant** *(Chéticamp Harbour)*  
+3. **L'Ardoise Restaurant & Lounge / Harbour Restaurant** *(Chéticamp Harbour)*  
    - **Drive / Walk**: 25 min drive from Skyline  
    - **Food Type**: Fresh Gulf seafood, Acadian meat pies, and lobster  
    - **Price**: $$–$$$ ($22–$42 CAD)  
    - **Google Maps**: [Harbour Restaurant Cheticamp](https://maps.google.com/?q=Harbour+Restaurant+Cheticamp+NS)  
    - **Why Recommended**: Unmatched panoramic views of the fishing fleet and Chéticamp Island; specializes in traditional *Pâté aux palourdes* (clam pie) and steamed local lobster.
 
-3. **La Boulangerie Aucoin Bakery** *(Chéticamp)*  
+4. **La Boulangerie Aucoin Bakery** *(Chéticamp)*  
    - **Drive / Walk**: 5 min south of Chéticamp entrance  
    - **Food Type**: Traditional French-Acadian bakery & espresso  
    - **Price**: $ ($4–$14 CAD)  
    - **Google Maps**: [Aucoin Bakery Cheticamp](https://maps.google.com/?q=Aucoin+Bakery+Cheticamp+NS)  
    - **Why Recommended**: In operation since 1955; world-famous for fresh cinnamon buns, Acadian meat pies (*pâtés*), cheddar cheese bread, and date turnovers.
 
-4. **Rusty Anchor Restaurant** *(Pleasant Bay - 15 min north of Skyline)*  
+5. **Rusty Anchor Restaurant** *(Pleasant Bay - 15 min north of Skyline)*  
    - **Drive / Walk**: 15 min drive north from Skyline Trailhead  
    - **Food Type**: Ocean-view coastal seafood eatery  
    - **Price**: $$–$$$ ($20–$36 CAD)  
    - **Google Maps**: [The Rusty Anchor Pleasant Bay](https://maps.google.com/?q=The+Rusty+Anchor+Pleasant+Bay+NS)  
    - **Why Recommended**: Known as one of the best lobster rolls on the entire Cabot Trail, served with homemade chowder on a cliffside outdoor patio overlooking Pleasant Bay.
 
-5. **Margaree Riverview Restaurant** *(Margaree Forks)*  
+6. **Margaree Riverview Restaurant** *(Margaree Forks)*  
    - **Drive / Walk**: Along Cabot Trail in Margaree Valley  
    - **Food Type**: Country homestyle cooking & breakfast  
    - **Price**: $–$$ ($12–$22 CAD)  
    - **Google Maps**: [Margaree Riverview Restaurant](https://maps.google.com/?q=Margaree+Riverview+Restaurant+NS)  
    - **Why Recommended**: Perfect morning comfort stop for blueberry pancakes, bacon, and farm eggs before entering the national park.
 
-6. **Wreck Cove General Store & Café** *(East side return / Snack stop)*  
+7. **Wreck Cove General Store & Café** *(East side return / Snack stop)*  
    - **Drive / Walk**: On eastern Cabot Trail  
    - **Food Type**: Sandwiches, homemade lobster & crab rolls, Cape Breton fudge  
    - **Price**: $–$$ ($10–$20 CAD)  
