@@ -49,9 +49,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
 !!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates Locked**: **October 10 – 14, 2026** (Canadian Thanksgiving Peak Foliage Window)  
-    **Buffer Windows**: Potential early arrival (Oct 8/9) and late departure (Oct 15/16) pending flight price optimization.  
+    **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight** — Day 6 (Oct 15/16) is an optional Bay of Fundy extension only if the return is pushed back.  
     **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sunday, Oct 11 @ 4:00 PM)**  
-    **Current Next Priorities**: Lock in Toronto → Halifax flights and Cape Breton accommodations (see [To-Do List](todo.md) & [Logistics](logistics.md)).
+    **Current Next Priorities**: Lock in the Toronto → Halifax roundtrip (return evening Oct 14) and Cape Breton accommodations (see [To-Do List](todo.md) & [Logistics](logistics.md)).
 
 ---
 
@@ -71,14 +71,14 @@ document.addEventListener("DOMContentLoaded", function() {
 | [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike** | Chéticamp / Baddeck | ~145 km (~2.5h) | ⭐⭐⭐ |
 | [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey | Ingonish / Baddeck | ~180 km (~3h) | ⭐⭐⭐⭐ |
 | [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | **Uisge Bàn Falls Hike**, The Gaelic College, **Pictou Waterfront & Grohmann Knives Factory Tour**, evening Halifax North End | Downtown Halifax | ~439 km (~4.5h) | ⭐⭐ |
-| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | **Peggy's Point Lighthouse**, Halifax Citadel Noon Gun, Waterfront Boardwalk & Alexander Keith's Brewery | Downtown Halifax | ~95 km (~1.5h) | ⭐⭐ |
+| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | **Peggy's Point Lighthouse**, Citadel Noon Gun, farewell lobster lunch, **Maritime Museum of the Atlantic (must-do)** & **evening return flight to Toronto** | Halifax → YHZ | ~135 km (~2h) | ⭐⭐ |
 
 ---
 
 ### 🛬 Travel Buffer & Extension Window
 | Day | Date | Primary Focus & Highlights | Base Camp | Drive / Time | Intensity |
 |:---|:---|:---|:---|:---|:---:|
-| [**Day 6**](day6_bay_of_fundy_departure.md) | Oct 15 / 16 | **Bay of Fundy Cape Split Hike** OR Annapolis Valley Wine Country (Luckett / Grand-Pré), fly home to Toronto | Airport Transit | ~190 km (~2.5h) | ⭐⭐⭐ |
+| [**Day 6**](day6_bay_of_fundy_departure.md) | Oct 15 / 16 | ⚠️ Optional extension (only if return flight pushed back): **Bay of Fundy Cape Split Hike** OR Annapolis Valley Wine Country (Luckett / Grand-Pré), then fly home | Airport Transit | ~190 km (~2.5h) | ⭐⭐⭐ |
 
 ---
 

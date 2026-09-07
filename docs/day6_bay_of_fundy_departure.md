@@ -1,15 +1,16 @@
-# 🍷 Day 6: Optional Post-Trip Extension — Bay of Fundy Tides, Wine Country & Toronto Departure
+# 🍷 Day 6: Optional Post-Trip Extension — Bay of Fundy Tides & Wine Country
 
-!!! info "Travel Buffer Extension Day (Flexible Date: Thursday Oct 15 or Friday Oct 16, 2026)"
+!!! info "⚠️ Optional Extension Only (Thursday Oct 15 or Friday Oct 16, 2026) — NOT the default return day"
+    **The plan's return-to-Toronto day is Day 5 (Wed, Oct 14) evening** — see [Day 5](day5_halifax_peggys_cove.md). This Day 6 itinerary applies **only if you choose to push your YHZ return flight to Oct 15/16** (flight-price permitting) to add the Bay of Fundy and Annapolis Valley.  
     **Base Camp**: Annapolis Valley or Airport Transit  
     **Total Driving Distance**: ~190 km to ~240 km (Halifax → Annapolis Valley / Fundy → YHZ Airport)  
-    **Primary Goal**: Take advantage of lower midweek return airfare to Toronto, hike the magnificent **Cape Split Trail** above the Bay of Fundy's world-record tides, tour **Annapolis Valley Wine Country**, and catch an evening flight back to Toronto.
+    **Primary Goal**: Hike the magnificent **Cape Split Trail** above the Bay of Fundy's world-record tides, tour **Annapolis Valley Wine Country**, and catch an evening flight back to Toronto from the extension day instead.
 
 ---
 
 ## 🗺️ Route Map & Overview
 
-Extending your trip by 24–48 hours past the core itinerary lets you capture substantial flight savings on flights back to Toronto while witnessing the highest tides on planet Earth and the world-class cool-climate vineyards of the Annapolis Valley.
+Pushing your return flight 24–48 hours past the default Day 5 (Wed Oct 14) evening departure lets you witness the highest tides on planet Earth and the world-class cool-climate vineyards of the Annapolis Valley — then fly home on Oct 15/16 instead.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
     **Direct Navigation Link**: [**👉 Open Day 6 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Grand-Pr%C3%A9+National+Historic+Site%2C+Grand-Pr%C3%A9+Road%2C+Grand-Pr%C3%A9%2C+NS/Cape+Split+Trailhead%2C+Scots+Bay+Road%2C+Scots+Bay%2C+NS/The+Lobster+Pound+%26+Restaurant+at+Hall%27s+Harbour%2C+West+Halls+Harbour+Road%2C+Halls+Harbour%2C+NS/Luckett+Vineyards%2C+Grand+Pr%C3%A9+Road%2C+Wolfville%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~245 km, ~3h 25m total drive)  

@@ -8,14 +8,14 @@ This document serves as your **active decision framework** to iterate through ov
 
 ### Question 1.1: What total trip length and departure airport fits best?
 
-- [ ] **Option A: The 7-Day "Best Value & Complete Circuit" (Recommended)**
+- [ ] **Option A: The 7-Day "Best Value & Complete Circuit"**
   - *Dates*: **Thursday, Oct 8 (Evening) or Friday, Oct 9 (Morning) → Thursday, Oct 15 / Friday, Oct 16**
   - *Airlines*: Porter Airlines from **Billy Bishop (YTZ)** (Direct downtown hop, fast security, lounge vibe) OR Air Canada from **Pearson (YYZ)**.
   - *Why*: Unlocks lowest roundtrip flight pricing ($260–$390 CAD vs $550+ on holiday Monday), avoids Thanksgiving airport chaos, and gives you 2 bonus days for Bay of Fundy tidal rafting/hiking and Annapolis Valley wine tasting.
-- [ ] **Option B: The 5-Day "Strict Core" (Fast & Focused)**
+- [x] **Option B: The 5-Day "Strict Core" (Fast & Focused) — ✅ SELECTED**
   - *Dates*: **Saturday, Oct 10 (Morning) → Wednesday, Oct 14 (Evening)**
   - *Airlines*: Porter / Air Canada direct to Halifax (YHZ).
-  - *Why*: Efficient, takes zero extra vacation days around Canadian Thanksgiving, and hits Cape Breton, Cabot Trail, Skyline Trail, and Halifax.
+  - *Why*: Efficient, takes zero extra vacation days around Canadian Thanksgiving, and hits Cape Breton, Cabot Trail, Skyline Trail, and Halifax. **Return flight locked to Day 5 (Wed Oct 14) evening.**
 
 ---
 
@@ -89,7 +89,7 @@ This document serves as your **active decision framework** to iterate through ov
 - [ ] **Modern Atlantic Fine Dining & Raw Oyster Bar**: Hyper-seasonal local seafood, handmade pasta, and craft cocktails (*Bar Kismet* — Top 15 in Canada, *The Bicycle Thief*, *Drift* at Queen's Marque).
 - [ ] **Gaspereau Valley Wine & Cider Tasting**: Sip signature Nova Scotia *Tidal Bay* crisp white wines and Méthode Classique sparkling bubblies at *Benjamin Bridge* and *Luckett Vineyards* (with the famous red British phone booth in the vines).
 - [ ] **Single Malt Whisky Tour at Glenora Distillery**: North America's first single malt distillery in Mabou, tasting "Glen Breton Rare" aged in oak barrels.
-- [ ] **Halifax Street Food & Historic Brewery**: Original Halifax Donairs from *King of Donair (KOD)* and the theatrical 1820 *Alexander Keith's Historic Brewery* tour.
+- [ ] **Halifax Street Food & Historic Brewery**: Original Halifax Donairs from *King of Donair (KOD)*. *(Note: the 1820 Alexander Keith's Brewery tour was cut from Day 5 to fit the Maritime Museum + evening return flight.)*
 - [x] **Pictou County Pizza & Grohmann Knives**: Sample the legendary spicy brown-sauce pizza at *Acropole Pizza* on Water Street in Pictou and tour the *Grohmann Knives Factory & Outlet* to shop for handcrafted Canadian belt knives.
 
 ---
@@ -98,9 +98,10 @@ This document serves as your **active decision framework** to iterate through ov
 
 Use this section to note preferences as you discuss:
 
-1. **Flight Choice**: (e.g., *Porter YTZ vs Air Canada YYZ*) → 
-2. **Buffer Days**: (e.g., *Depart Oct 8 or 9? Return Oct 15 or 16?*) → 
+1. **Flight Choice**: (e.g., *Porter YTZ vs Air Canada YYZ*) → **Option B locked: Sat Oct 10 outbound → Wed Oct 14 evening return (Day 5).** Target YHZ→YYZ departure 7:30 PM+ (AC has the late-evening frequency).
+2. **Buffer Days**: → **None by default.** Day 6 (Bay of Fundy / Oct 15–16) is optional only if return fares push you to a later date.
 3. **Lodging Preference**: (e.g., *Glamping Domes / Keltic Lodge / Central Baddeck Hub*) → 
 4. **Must-Do Novelty Pick**: (e.g., *Tidal Bore Rafting / Cape Split / Pollett's Cove*) → 
 5. **Dining Non-Negotiable**: (e.g., *Lobster Suppers + Bar Kismet + Wineries*) → 
 6. **Pictou & Grohmann Knives**: Confirmed locked in for Day 4 afternoon return transit (Baddeck → Pictou → Halifax).
+7. **Day 5 Return-Day Decisions (Locked)**: ❌ Cut Alexander Keith's 1820 Brewery Tour · ❌ Citadel interior exhibits (free perimeter + noon gun only) · ✅ **Maritime Museum of the Atlantic = must-do, Day 5 (Oct 14) 2:15–3:45 PM** · farewell feast → 12:45 PM boardwalk lobster lunch.

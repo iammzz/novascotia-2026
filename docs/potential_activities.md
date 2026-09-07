@@ -136,9 +136,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### Iconic Sights & Urban Heritage
 
-#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5</span>
+#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Perimeter + Noon Gun Only)</span>
 - **Location**: Downtown Halifax atop Citadel Hill.
 - **Details**: 19th-century star-shaped bastion fortress overlooking Halifax Harbour. Features the firing of the historic 24-pounder smoothbore cannon precisely at 12:00 PM daily by the 78th Highlanders in full military regalia.
+- **Day 5 Scope (return day)**: ❌ **Paid interior exhibits CUT** to protect the evening flight buffer. ✅ Free perimeter ramparts walk + 12:00 PM noon gun firing only.
 - **Direct Guide**: [Parks Canada Halifax Citadel](https://parks.canada.ca/lhn-nhs/ns/halifax)
 
 #### 20. Halifax Harbour Waterfront Boardwalk <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
@@ -146,9 +147,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: 4.4 km of continuous wooden harbor boardwalk. Home to Queen's Marque public art, Cable Wharf, floating beer gardens, seaside hammocks, and fresh oyster shacks.
 - **Direct Guide**: [Discover Halifax Waterfront](https://discoverhalifaxns.com/plan/halifax-waterfront/)
 
-#### 21. Maritime Museum of the Atlantic (Titanic Exhibit) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5</span>
+#### 21. Maritime Museum of the Atlantic (Titanic Exhibit) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 ✅ MUST-DO</span>
 - **Location**: 1675 Lower Water St, Halifax.
 - **Details**: Houses the world’s largest and most significant collection of wooden artifacts recovered from the 1912 *RMS Titanic* sinking, plus comprehensive exhibits on the 1917 Halifax Explosion.
+- **Day 5 Scheduling**: 2:15 – 3:45 PM (Oct 14), immediately before the YHZ airport run. Walk-up admission ~$11/adult (not covered by Discovery Pass); open 9:30 AM – 5:30 PM. Chosen over the Alexander Keith's tour as the single must-do Halifax indoor attraction.
 - **Direct Guide**: [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/)
 
 #### 22. Canadian Museum of Immigration at Pier 21 <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION (Canada's Ellis Island)</span>
@@ -170,9 +172,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### City Flavors, Craft Beer & Nightlife
 
-#### 25. Alexander Keith's Historic 1820 Brewery Tour <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5</span>
+#### 25. Alexander Keith's Historic 1820 Brewery Tour <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 WEATHER BACKUP / INDOOR (Cut from Day 5)</span>
 - **Location**: 1496 Lower Water St, Halifax.
 - **Details**: Interactive theatrical tour of the oldest commercial brewery in North America, concluding with private tastings and traditional folk music in the subterranean Stag's Head Tavern.
+- **Status**: ❌ **Removed from Day 5 (Oct 14 return day)** to fit the Maritime Museum must-do + evening flight. Revisit only if you book a very late (9 PM+) return flight, add a Day 0 buffer, or if rain ruins the Peggy's Cove morning.
 - **Direct Guide**: [Alexander Keith's Brewery](https://www.keiths.ca/)
 
 #### 26. Authentic Halifax Donair Crawl <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
