@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 !!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates Locked**: **October 10 – 14, 2026** (Canadian Thanksgiving Peak Foliage Window)  
-    **Return to Toronto**: **Day 5 (Wed, Oct 14) afternoon flight** — after a Peggy's Cove sunrise morning. Day 6 (Oct 15/16) retired unless the return is pushed back.  
+    **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight — WestJet WS811 20:15, BOOKED** — the day is a Peggy's Cove sunrise + Citadel noon gun + farewell lunch, then home. Day 6 (Oct 15/16) retired.  
     **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sunday, Oct 11 @ 4:00 PM)**  
     **Current Next Priorities**: Lock in the Toronto → Halifax roundtrip (return flight Wed Oct 14 afternoon) and Cape Breton accommodations (see [To-Do List](todo.md) & [Logistics](logistics.md)).
 
@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function() {
 | [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike** | Chéticamp / Baddeck | ~145 km (~2.5h) | ⭐⭐⭐ |
 | [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey | Ingonish / Baddeck | ~180 km (~3h) | ⭐⭐⭐⭐ |
 | [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | **Uisge Bàn Falls Hike**, The Gaelic College, **Pictou Waterfront & Grohmann Knives Factory Tour**, evening Halifax North End | Downtown Halifax | ~439 km (~4.5h) | ⭐⭐ |
-| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | 🌅 **Peggy's Cove sunrise**, waterfront farewell & **afternoon return flight to Toronto** (Maritime Museum already done Fri) | Halifax → YHZ | ~135 km (~2h) | ⭐⭐ |
+| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | 🌅 **Peggy's Cove sunrise**, Citadel noon gun, farewell lunch & **evening return flight (WestJet WS811, 20:15)** (Maritime Museum already done Fri) | Halifax → YHZ | ~150 km (~2.5h) | ⭐⭐ |
 
 ---
 

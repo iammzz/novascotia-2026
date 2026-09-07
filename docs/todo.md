@@ -1,25 +1,25 @@
 # 📋 Master To-Do & Booking Checklist: Nova Scotia 2026
 
 !!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
-    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax night 1 + Maritime Museum evening) · Cape Breton Oct 10–12 · Halifax night 2 (Tue Oct 13) · **Return flight Wed, Oct 14 afternoon (Day 5)**
-    **Current Status**: 🟢 **Skyline Trail Parking confirmed for Sunday, Oct 11 @ 4:00 PM**! Next priorities: Book Toronto → Halifax flights (Fri AM out / Wed PM afternoon return) + Halifax hotels (Oct 9 & 13) + confirm Maritime Museum evening entry.
+    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax night 1 + Maritime Museum evening) · Cape Breton Oct 10–12 · Halifax night 2 (Tue Oct 13) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**
+    **Current Status**: 🟢 **BOTH FLIGHTS BOOKED (Porter PD201 out / WestJet WS811 return) + Skyline Parking (Sun Oct 11, 4 PM)**! Next priorities: Halifax hotels (Oct 9 & 13), add the WS811 checked bag, and confirm Maritime Museum evening entry.
 
 ---
 
 ## ✅ Trip Structure Decision (Locked)
-- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail → Tue Pictou/Grohmann return to Halifax → Wed Peggy's Cove sunrise + afternoon flight home.
+- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail → Tue Pictou/Grohmann return to Halifax → Wed Peggy's Cove sunrise + **evening flight home (WS811 20:15)**.
 - **Day 0 (Fri Oct 9)**: Morning arrival + Halifax hotel + **Maritime Museum 6:45 PM reservation**. Rental car optional that day (decision pending) — Friday is walkable.
-- **Day 5 (Wed Oct 14)**: Peggy's Cove sunrise + waterfront farewell + **afternoon return flight (~2:30 PM+)**. Maritime Museum already done Friday — no return-day museum squeeze.
-- **Cuts**: ❌ Alexander Keith's tour · ❌ Citadel interior (perimeter/noon gun optional Wed if flight is 3:30 PM+) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (already dropped).
+- **Day 5 (Wed Oct 14)**: Peggy's Cove sunrise + **Citadel noon gun (restored)** + farewell lunch + **evening return flight WS811 20:15 (booked)**. Maritime Museum already done Friday — no return-day museum squeeze.
+- **Cuts**: ❌ Alexander Keith's tour (temporarily — could fit the Wed afternoon gap if you opt back in) · ❌ Citadel interior exhibits (free perimeter + noon gun only) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (already dropped).
 
 ---
 
 ## 🚀 Phase 1: Core Logistics & Flight Bookings (Target: Q1–Q2 2026)
 
-- [ ] **Flight Value Analysis & Date Lock**:
 - [x] **Outbound flight BOOKED**: **Porter PD201, Fri Oct 9, 8:30 AM YYZ (T3) → 11:37 AM YHZ** — Conf. L4669V (Embraer E195-E2). *(Receipt in `receipts/Itinerary - Porter Airlines.pdf`)*
-  - [ ] **Return flight still to book**: Wednesday, Oct 14 afternoon (YHZ → YYZ/YTZ, ~2:30 PM or later departure).
-  - [ ] Ensure return flight ticket includes at least 1 checked bag (mandatory for flying home with Grohmann Knives purchased in Pictou).
+- [x] **Return flight BOOKED**: **WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ** — Res. **OEFTZF**, Boeing 737 MAX 8, UltraBasic ($226.76). *(Receipt in `receipts/WestJet.pdf`)*
+  - [ ] **Action: ADD A CHECKED BAG to WS811** via WestJet Manage Trips — UltraBasic includes **no carry-on and no checked bag**; the Grohmann knives + wine MUST be checked (prohibited in carry-on).
+  - [ ] Add flight reminders to calendar for both flights (PD201 out / WS811 return).
 - [ ] **Rental Vehicle Reservation**:
   - [ ] Decide: take the car Friday Oct 9 (YHZ pickup on arrival, downtown hotel parking ~$25–40/night) OR skip it Friday and pick up **Saturday morning from a downtown Halifax branch** (National / Enterprise / Avis / Hertz all have downtown offices).
   - [ ] Reserve AWD SUV or Crossover — pickup **Sat Oct 10** (downtown or YHZ) → drop-off **Wed Oct 14 ~12:30 PM at YHZ** (~5 days).
@@ -29,7 +29,7 @@
   - [ ] Reserve Cape Breton lodgings with free cancellation.
 - [ ] **Halifax Downtown Accommodation — TWO nights (Oct 9 arrival + Oct 13 pre-flight)**:
   - [ ] Reserve **Fri Oct 9** (arrival/museum night) — waterfront or downtown near the Maritime Museum: *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Muir*, or *The Prince George*.
-  - [ ] Reserve **Tue Oct 13** (night before Wed Peggy's Cove + afternoon flight) — same property or similar.
+  - [ ] Reserve **Tue Oct 13** (night before Wed Peggy's Cove sunrise + evening WS811 flight) — same property or similar.
 
 ---
 

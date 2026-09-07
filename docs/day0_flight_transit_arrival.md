@@ -6,7 +6,7 @@
     **Primary Goal**: Morning non-stop flight from Toronto (YYZ/YTZ → YHZ), hotel check-in, and the **Maritime Museum of the Atlantic — 6:45 PM reservation (LOCKED)**. Friday afternoon is kept flexible for settling in / remote work; Saturday morning starts the drive to Cape Breton.
 
 !!! success "✈️ Outbound Flight BOOKED — Porter PD201"
-    **Fri, Oct 9 · 8:30 AM Toronto-Pearson (YYZ, Terminal 3) → 11:37 AM Halifax (YHZ)** · Embraer E195-E2 · Confirmation **L4669V**. Free Wi-Fi, snacks, beer/wine. *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)*. ⚠️ **Return flight (Wed Oct 14 afternoon) is still to be booked.**
+    **Fri, Oct 9 · 8:30 AM Toronto-Pearson (YYZ, Terminal 3) → 11:37 AM Halifax (YHZ)** · Embraer E195-E2 · Confirmation **L4669V**. Free Wi-Fi, snacks, beer/wine. *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)*. ✅ **Return also BOOKED: WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ (Res. OEFTZF).** ⚠️ UltraBasic return = no checked bag — add one for the Grohmann knives.
 
 !!! note "🛏️ Booking Notes for This Day"
     - **Halifax hotel required for Fri, Oct 9** (you arrive Friday morning and fly home Wed, Oct 14 afternoon — Halifax nights: Fri Oct 9 + Tue Oct 13). Pick a waterfront/downtown property within walking distance of the museum (1675 Lower Water St): *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Prince George*, or *The Muir*.

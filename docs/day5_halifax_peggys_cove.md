@@ -1,24 +1,25 @@
-# 🌅 Day 5 (Wed, Oct 14): Peggy's Cove Sunrise, Halifax Farewell & Afternoon Return Flight
+# 🌅 Day 5 (Wed, Oct 14): Peggy's Cove Sunrise, Noon Gun & Evening Return Flight (WS811)
 
 !!! success "Final Day (Return to Toronto) — Wednesday, October 14, 2026"
-    **Base Camp**: Downtown Halifax (Hotel Night 2 of 2) → **Halifax Stanfield Airport (YHZ)**  
+    **Base Camp**: Downtown Halifax → **Halifax Stanfield Airport (YHZ)**  
     **Total Driving Distance**: ~135 km (Peggy's Cove round-trip + YHZ transit)  
-    **Primary Goal**: Catch the **sunrise at Peggy's Point Lighthouse**, keep Wednesday morning as unhurried **Peggy's Cove + Halifax area time**, then catch an **afternoon non-stop flight home to Toronto**.
+    **Primary Goal**: Catch the **sunrise at Peggy's Point Lighthouse**, keep the morning + midday for unhurried **Peggy's Cove & Halifax area time**, then catch the **evening non-stop flight home to Toronto**.
 
-!!! warning "✈️ Return Flight Target"
-    **Book a Wed, Oct 14 YHZ → YYZ/YTZ departure of ~2:30 PM or later** (non-stop ~2h 20m; lands Toronto ~4:30–6:00 PM ET). Timeline below reaches YHZ by ~12:30 PM. The later you book, the more Halifax-area time you keep — a **3:30 PM+ flight** unlocks an optional Citadel perimeter/noon-gun stop at 11 AM. ⚠️ The Maritime Museum is **already done (Fri evening)** — no indoor stops needed today. Grohmann Knives from Pictou (if purchased Tue) **must ride in checked baggage**.
+!!! success "✈️ Return Flight BOOKED — WestJet WS811"
+    **Wed, Oct 14 · 20:15 Halifax (YHZ) → 21:45 Toronto-Pearson (YYZ)** · Non-stop 2h 30m · Boeing 737 MAX 8 · Reservation **OEFTZF** · UltraBasic fare, $226.76 paid. *(Receipt: `receipts/WestJet.pdf`)*.  
+    ⚠️ **UltraBasic = 1 personal item only — NO carry-on and NO checked bag included.** Add a **checked bag (mandatory for the Grohmann knives + wine) via WestJet Manage Trips** well before departure. The 20:15 departure also means the evening arrives at YYZ 21:45 (ET) — plan for a late night home.
 
 ---
 
 ## 🗺️ Route Map & Overview
 
-Your last morning belongs to the coast: an early run down the winding Lighthouse Route (Route 333) to watch the sun clear the Atlantic over the granite boulders of Peggy's Cove, then a relaxed farewell loop through Halifax before the airport.
+Your last day belongs to the coast and the fortress: an early run down the winding Lighthouse Route (Route 333) to watch the sun clear the Atlantic over the granite boulders of Peggy's Cove, back to the Citadel's **12:00 noon gun**, a proper farewell lunch, a relaxed afternoon, and the airport for the evening flight.
 
-> **Day-5 scope**: ✅ Peggy's Cove sunrise · ✅ Waterfront farewell · ✅ Afternoon flight home. ❌ Maritime Museum (done Friday) · ❌ Alexander Keith's tour (cut) · ❌ Citadel interior (perimeter/noon gun only, and only if your flight is 3:30 PM+).
+> **Day-5 scope**: ✅ Peggy's Cove sunrise · ✅ Citadel perimeter + noon gun (restored — evening flight) · ✅ Farewell sit-down lunch · ✅ Afternoon slack · ✅ WS811 20:15 flight. ❌ Maritime Museum (done Friday evening) · ❌ Alexander Keith's tour (still cut — see note below).
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Peggy%27s+Point+Lighthouse%2C+Peggy%27s+Point+Road%2C+Peggy%27s+Cove%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~135 km, ~2h total drive)  
-    *Click to launch live GPS navigation: Halifax → Peggy's Cove (sunrise) → waterfront farewell → Halifax Stanfield Airport (YHZ).*
+    **Direct Navigation Link**: [**👉 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Peggy%27s+Point+Lighthouse%2C+Peggy%27s+Point+Road%2C+Peggy%27s+Cove%2C+NS/Halifax+Citadel+National+Historic+Site%2C+Halifax%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~150 km, ~2h 30m total drive)  
+    *Click to launch live GPS navigation: Halifax → Peggy's Cove (sunrise) → Citadel Hill (noon gun) → waterfront farewell lunch → Halifax Stanfield Airport (YHZ).*
 
 ### 📍 Route Stops Breakdown
 
@@ -26,16 +27,18 @@ Your last morning belongs to the coast: an early run down the winding Lighthouse
 |:---:|:---|:---:|:---|:---|
 | **1** | **Downtown Halifax Hotel** | — | NS-333 W | Pre-dawn departure on the Lighthouse Route |
 | **2** | **Peggy's Point Lighthouse** | 45 km (45 mins) | Route 333 (Prospect Rd) | 🌅 **Sunrise ~7:40 AM** over the granite boulders — beat every tour bus |
-| **3** | **Halifax Waterfront Farewell** | 45 km (45 mins) | Route 333 to Downtown | Coffee + final boardwalk pass by Queen's Marque (skip if flight < 3 PM) |
-| **4** | **Halifax Stanfield Airport (YHZ)** | 38 km (40 mins) | NS-102 N | Refuel, return rental car, check bags (knives in checked luggage!), security |
-| **5** | **Toronto YYZ / YTZ** | Flight ~2h 20m | — | Afternoon non-stop home |
+| **3** | **Halifax Citadel Perimeter & Noon Gun** | 45 km (45 mins) | Route 333 to Citadel Hill | ✅ Restored: free ramparts + **12:00 PM noon gun** (interior exhibits cut) |
+| **4** | **Waterfront Farewell Lunch** | 10 mins | Citadel Hill → Waterfront | Sit-down farewell feast on the boardwalk |
+| **5** | **Halifax Stanfield Airport (YHZ)** | 38 km (40 mins) | NS-102 N | Refuel, return rental car, **add/check bags** (Grohmann knives MUST be checked), security |
+| **6** | **Toronto-Pearson (YYZ)** | Flight 2h 30m | WS811 20:15 | Evening non-stop home; arrive 21:45 ET |
 
 ```mermaid
 graph TD
     A[Halifax Hotel] -->|45m / 45 km| B[Peggy's Cove Sunrise ~7:40 AM]
-    B -->|45m / 45 km| C[Waterfront Farewell Coffee]
-    C -->|40m / 38 km| D[YHZ: Return Car & Check Bags]
-    D -->|Afternoon Flight ~2h 20m| E[Toronto YYZ / YTZ Arrival]
+    B -->|45m / 45 km| C[Citadel Noon Gun 12:00 PM]
+    C -->|10m| D[Waterfront Farewell Lunch]
+    D -->|Afternoon Slack| E[YHZ: Return Car & Check Bags]
+    E -->|WS811 20:15 / 2h 30m| F[Land Toronto 21:45 ET]
 ```
 ---
 
@@ -44,7 +47,7 @@ graph TD
 ### 06:45 AM – 10:00 AM: Peggy's Cove Sunrise & Granite Coastline
 *Sunrise in mid-October is ~7:40 AM — you'll have the lighthouse to yourselves before the tour buses roll in.*
 
-- **06:45 AM – 07:30 AM**: Depart downtown Halifax via NS-333 W (Prospect Road) in the pre-dawn light (45 km). Pack the car fully tonight — you go straight to the airport after this.
+- **06:45 AM – 07:30 AM**: Depart downtown Halifax via NS-333 W (Prospect Road) in the pre-dawn light (45 km). Car stays packed — after lunch you go straight to the airport.
 - **07:30 AM – 10:00 AM**: **Peggy's Point Lighthouse & Ancient Granite Formations**
   - **Location**: 72 Peggy's Point Rd, Peggy's Cove (44.4930° N, 63.9181° W).
   - **Exertion vs Lounging**: 1.5 km walking on granite slabs and accessible viewing deck (45 mins) + 1h 45m sunrise photography, the working dory fishing cove, and the William E. deGarthe Fishermen's Monument.
@@ -52,69 +55,74 @@ graph TD
   - **Breakfast**: Sou'Wester Restaurant opens at the lighthouse for coffee and their famous gingerbread with lemon sauce.
   - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
 
-### 10:00 AM – 11:30 AM: Return to Halifax & Waterfront Farewell
+### 10:00 AM – 12:15 PM: Back to Halifax & Citadel Noon Gun (✅ RESTORED)
 - **10:00 AM – 10:45 AM**: Drive back to downtown Halifax via Route 333.
-- **10:45 AM – 11:30 AM**: **Farewell boardwalk pass** — a last coffee/lobster-roll stop at the waterfront and a final look at the harbour.
-  - *Optional (only if your flight is 3:30 PM or later):* quick **Citadel Hill perimeter + 12:00 PM noon gun** instead — free ramparts, interior exhibits cut.
+- **11:00 AM – 12:15 PM**: **Halifax Citadel National Historic Site** — free **perimeter ramparts** walk and the historic **12:00 PM noon gun** with harbour views. *(The 20:15 flight means no clock pressure — this stop is back on Day 5. Paid interior exhibits remain cut.)*
+  - **Direct Guide**: [Parks Canada Halifax Citadel](https://parks.canada.ca/lhn-nhs/ns/halifax)
 
-### 11:45 AM – 01:15 PM: Transit to Halifax Stanfield Airport (YHZ)
-- **11:45 AM – 12:30 PM**: Drive 38 km via NS-102 N to **Halifax Stanfield International Airport (YHZ)**.
-- **12:30 PM – 01:15 PM**: Refuel the rental car, return keys at the airport rental garage, check bags (**Grohmann Knives in checked bags — never carry-on**), and clear security.
+### 12:15 PM – 01:30 PM: Farewell Sit-Down Lunch (✅ RESTORED)
+- Proper final meal on the Halifax waterfront or Argyle Street — no rush now (options below). Call ahead to confirm kitchen hours around the lunch rush.
 
-### 02:30 PM – 06:00 PM: Afternoon Non-Stop Flight Home to Toronto
-- Board your afternoon non-stop YHZ → YYZ / YTZ (target departure **~2:30 PM or later**; ~2h 20m flight). Arrive Toronto mid/late afternoon Eastern Time (Atlantic is +1 hr ahead) — home in time for dinner.
+### 01:30 PM – 05:45 PM: Relaxed Afternoon Slack
+- Boardwalk wander, last harbour photos, final souvenir stop (or hotel lounge if you checked out).
+- *Optional add-on — **your call** (stays cut until you say otherwise): the **Alexander Keith's 1820 Brewery Tour** could now fit (tours run through ~4:30 PM) given the evening flight, but per your earlier decision it remains cut.*
+
+### 05:45 PM – 08:15 PM: Transit & Evening Flight Home
+- **05:45 PM – 06:25 PM**: Drive 38 km via NS-102 N to **Halifax Stanfield Airport (YHZ)**.
+- **06:25 PM – 07:45 PM**: Refuel the rental car, return keys at the airport rental garage, **check the pre-added bag** (Grohmann Knives + wine — never carry-on; UltraBasic has no carry-on at all), and clear security.
+- **08:15 PM – 09:45 PM**: **WestJet WS811** non-stop to Toronto-Pearson (Boeing 737 MAX 8, 2h 30m). Land 21:45 ET — late night home, plan accordingly.
 
 ---
 
-## 🍽️ Dining & Restaurant Options (Morning Farewell Focus)
+## 🍽️ Dining & Restaurant Options (Farewell Lunch Focus)
 
-1. **Sou'Wester Restaurant & Gift Shop** *(Peggy's Cove - Sunrise Breakfast)*  
+1. **The Bicycle Thief** *(Halifax Waterfront, Bishop's Landing)*  
+   - **Drive / Walk**: 5-min walk from waterfront hotels  
+   - **Food Type**: North American Italian with fresh Atlantic seafood flair  
+   - **Price**: $$$ ($30–$55 CAD per main)  
+   - **Google Maps**: [The Bicycle Thief](https://maps.google.com/?q=The+Bicycle+Thief+Halifax)  
+   - **Why Recommended**: Right on the harbor at Bishop's Landing; pistachio-crusted Atlantic halibut and handmade lobster ravioli. The send-off worth booking.
+
+2. **Drift** *(Queen's Marque, Halifax Waterfront)*  
+   - **Drive / Walk**: On the waterfront boardwalk  
+   - **Food Type**: Modern Atlantic culinary showcase & oceanfront cocktail bar  
+   - **Price**: $$$–$$$$ ($32–$65 CAD)  
+   - **Google Maps**: [Drift Halifax](https://maps.google.com/?q=Drift+Halifax)  
+   - **Why Recommended**: Nova Scotia lobster with buttered hushpuppies and local chanterelles — steps from the boardwalk farewell stroll.
+
+3. **Shuck Seafood Bar & The Press Gang** *(Downtown Halifax)*  
+   - **Drive / Walk**: 4-min walk from Waterfront / Citadel  
+   - **Food Type**: Raw oyster bar, fresh ocean catches, historic 1759 stone ambiance  
+   - **Price**: $$$ ($28–$55 CAD)  
+   - **Google Maps**: [The Press Gang Halifax](https://maps.google.com/?q=The+Press+Gang+Halifax)  
+   - **Why Recommended**: Outstanding oysters from around the province + lobster roll classics between the noon gun and the airport run.
+
+4. **Cable Wharf Kitchen / Murphy's on the Water** *(Halifax Boardwalk)*  
+   - **Drive / Walk**: Directly on the Cable Wharf  
+   - **Food Type**: Lobster rolls, chowder & harbour brews  
+   - **Price**: $$ ($14–$30 CAD)  
+   - **Google Maps**: [Cable Wharf Kitchen Halifax](https://maps.google.com/?q=Cable+Wharf+Kitchen+Halifax)  
+   - **Why Recommended**: Open-air seafood right on the water — fast, casual, and tourist-favourite for a reason.
+
+5. **Sou'Wester Restaurant & Gift Shop** *(Peggy's Cove - Sunrise Breakfast)*  
    - **Drive / Walk**: Directly beside Peggy's Point Lighthouse  
    - **Food Type**: Breakfast, classic maritime seafood & famous gingerbread  
    - **Price**: $$–$$$ ($12–$40 CAD)  
    - **Google Maps**: [The SouWester Restaurant Peggys Cove](https://maps.google.com/?q=Sou+Wester+Restaurant+Peggys+Cove)  
    - **Why Recommended**: Unbeatable panoramic windows looking straight at the lighthouse; warm gingerbread with hot lemon sauce while the sun comes up.
 
-2. **Cable Wharf Kitchen / Murphy's on the Water** *(Halifax Boardwalk)*  
-   - **Drive / Walk**: Directly on the Cable Wharf  
-   - **Food Type**: Lobster rolls, chowder & harbour coffee  
-   - **Price**: $$ ($14–$30 CAD)  
-   - **Google Maps**: [Cable Wharf Kitchen Halifax](https://maps.google.com/?q=Cable+Wharf+Kitchen+Halifax)  
-   - **Why Recommended**: Fast, open-air farewell lobster roll over the water before the airport run — you control the clock.
-
-3. **Two If By Sea Café** *(Dartmouth, 2-min ferry detour)*  
-   - **Drive / Walk**: 12-min Halifax→Dartmouth ferry from the boardwalk  
-   - **Food Type**: Award-winning croissants & specialty coffee  
-   - **Price**: $ ($4–$14 CAD)  
-   - **Google Maps**: [Two If By Sea Cafe Dartmouth](https://maps.google.com/?q=Two+If+By+Sea+Cafe+Dartmouth)  
-   - **Why Recommended**: Routinely ranked Canada's best croissant — a scenic ferry farewell if you have a 3:30 PM+ flight.
-
-4. **Black Sheep Restaurant** *(Downtown - Dresden Row)*  
-   - **Drive / Walk**: 10-min walk from Citadel Hill  
-   - **Food Type**: Creative brunch and elevated modern comfort food  
-   - **Price**: $$–$$$ ($18–$32 CAD)  
-   - **Google Maps**: [Black Sheep Halifax](https://maps.google.com/?q=Black+Sheep+Halifax)  
-   - **Why Recommended**: Pork belly eggs benedict or duck confit poutine — a hearty send-off if you're doing the Citadel noon-gun option.
-
-5. **Millstone Public House** *(Bedford - Airport transit)*  
+6. **Millstone Public House** *(Bedford - Airport transit)*  
    - **Drive / Walk**: 15 min from YHZ Airport  
    - **Food Type**: Pre-flight pub meal & local seafood  
    - **Price**: $$ ($18–$28 CAD)  
    - **Google Maps**: [Millstone Public House Bedford](https://maps.google.com/?q=Millstone+Public+House+Bedford+NS)  
-   - **Why Recommended**: Easy pub dining just off Highway 102 on the final drive to the airport — a fallback if the morning ran long.
-
-6. **Khyber Grill / Tony's Donair & Pizza** *(Robie St / Downtown)*  
-   - **Drive / Walk**: 5-min drive from waterfront  
-   - **Food Type**: Traditional Halifax Donair & garlic fingers  
-   - **Price**: $ ($10–$16 CAD)  
-   - **Google Maps**: [Tonys Donair Halifax](https://maps.google.com/?q=Tonys+Donair+Halifax)  
-   - **Why Recommended**: Grab a final authentic Halifax donair to-go for the flight.
+   - **Why Recommended**: Easy pub dining just off Highway 102 on the final drive to the airport — the fallback if the afternoon ran long.
 
 ---
 
 ## 🎒 Gear & Day Preparation
 - **Camera / Polarizer Filter**: Sunrise light reflecting on granite and surf is the photographic payoff of the whole trip.
 - **Windproof Jacket**: Coastal spray and autumn harbour breezes feel chilly pre-dawn (near 8°C).
-- **Checked Bag Allocation (Mandatory)**: Return flight must include at least 1 checked bag — Grohmann Knives and any wine are prohibited in carry-on.
-- **Pack Tonight (Tue)**: Load all luggage into the car the evening before so the 6:45 AM departure runs on schedule; keep ID and boarding passes accessible.
-- **Flight Verification**: Confirm your exact afternoon departure time when booking — earlier flights mean skipping the waterfront/Citadel stops.
+- **🚨 Action Item — Add a checked bag to WS811 NOW** (WestJet Manage Trips): UltraBasic includes **no carry-on and no checked bag** — the Grohmann Knives and any wine are prohibited in carry-on, and even a carry-on isn't included in the fare.
+- **Pack Tonight (Tue)**: Load all luggage into the car the evening before so the 6:45 AM departure runs on schedule; keep ID, boarding passes, and the WS811 reservation (OEFTZF) accessible.
+- **Late Night Home**: Landing 21:45 ET means you reach Toronto front door around 11:30 PM — line up transit/parking ahead of time.

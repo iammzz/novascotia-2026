@@ -136,10 +136,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### Iconic Sights & Urban Heritage
 
-#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟡 ON CURRENT ITINERARY — Day 5 (Optional, Flight-Dependent)</span>
+#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Noon Gun Restored — 20:15 Flight)</span>
 - **Location**: Downtown Halifax atop Citadel Hill.
 - **Details**: 19th-century star-shaped bastion fortress overlooking Halifax Harbour. Features the firing of the historic 24-pounder smoothbore cannon precisely at 12:00 PM daily by the 78th Highlanders in full military regalia.
-- **Day 5 Scope (Wed return morning)**: ❌ **Paid interior exhibits CUT**. ✅ Free perimeter ramparts walk + 12:00 PM noon gun firing — **only if the return flight is booked 3:30 PM or later** (otherwise head straight from Peggy's Cove to the airport).
+- **Day 5 Scope (Wed, before the 20:15 flight)**: ❌ **Paid interior exhibits CUT**. ✅ Free perimeter ramparts walk + **12:00 PM noon gun firing — restored**, thanks to the evening WestJet WS811 return.
 - **Direct Guide**: [Parks Canada Halifax Citadel](https://parks.canada.ca/lhn-nhs/ns/halifax)
 
 #### 20. Halifax Harbour Waterfront Boardwalk <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
@@ -175,7 +175,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 #### 25. Alexander Keith's Historic 1820 Brewery Tour <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 WEATHER BACKUP / INDOOR (Cut from Day 5)</span>
 - **Location**: 1496 Lower Water St, Halifax.
 - **Details**: Interactive theatrical tour of the oldest commercial brewery in North America, concluding with private tastings and traditional folk music in the subterranean Stag's Head Tavern.
-- **Status**: ❌ **Removed from the plan** (Keith's is a downtown Halifax tour; with the Maritime Museum moved to Friday evening and a Wed afternoon return, there's no slot). Revisit only if a big Halifax gap appears or rain ruins the Peggy's Cove morning.
+- **Status**: ❌ **Removed from the plan — but now fittable**: the Wed 20:15 WS811 return leaves a full afternoon gap in Halifax (tours run to ~4:30 PM), so the tour CAN return if you opt back in. Default remains cut.
 - **Direct Guide**: [Alexander Keith's Brewery](https://www.keiths.ca/)
 
 #### 26. Authentic Halifax Donair Crawl <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>

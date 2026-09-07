@@ -98,10 +98,10 @@ This document serves as your **active decision framework** to iterate through ov
 
 Use this section to note preferences as you discuss:
 
-1. **Flight Choice**: → **Outbound BOOKED: Porter PD201, Fri Oct 9, 8:30 AM YYZ → 11:37 AM YHZ (Conf. L4669V).** Return to book: **Wed Oct 14 afternoon (~2:30 PM+)**. Day 0 (Fri) = arrival + Halifax hotel + Maritime Museum 6:45 PM.
+1. **Flight Choice**: → **Both flights BOOKED.** Outbound: **Porter PD201, Fri Oct 9, 8:30 AM YYZ → 11:37 AM YHZ (Conf. L4669V).** Return: **WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ (Res. OEFTZF, UltraBasic — ADD checked bag for knives).**
 2. **Buffer Days**: → **Fri Oct 9 arrival day = museum/evening anchor; return Wed Oct 14 afternoon; Day 6 (Bay of Fundy, Oct 15/16) retired.**
 3. **Lodging Preference**: (e.g., *Glamping Domes / Keltic Lodge / Central Baddeck Hub*) → 
 4. **Must-Do Novelty Pick**: (e.g., *Tidal Bore Rafting / Cape Split / Pollett's Cove*) → 
 5. **Dining Non-Negotiable**: (e.g., *Lobster Suppers + Bar Kismet + Wineries*) → 
 6. **Pictou & Grohmann Knives**: Confirmed locked in for Day 4 afternoon return transit (Baddeck → Pictou → Halifax).
-7. **Day 5 Return-Day Decisions (Locked)**: ❌ Alexander Keith's tour · ❌ Citadel interior (perimeter/noon gun only if flight ≥ 3:30 PM) · ✅ **Peggy's Cove sunrise + waterfront farewell + afternoon flight home Wed Oct 14** · Maritime Museum moved to **Fri Oct 9, 6:45 PM (reserved)**.
+7. **Day 5 Return-Day Decisions (Locked + updated)**: ❌ Alexander Keith's tour (stays cut — could now fit the 20:15 flight's afternoon gap if you opt back in) · ✅ **Peggy's Cove sunrise + Citadel noon gun (RESTORED) + farewell lunch + evening flight home — WestJet WS811 20:15 (booked)** · Maritime Museum moved to **Fri Oct 9, 6:45 PM (reserved)**.
