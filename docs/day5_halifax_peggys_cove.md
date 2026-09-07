@@ -1,135 +1,129 @@
-# 🌅 Day 5 (Wed, Oct 14): Peggy's Cove Sunrise, Noon Gun & Evening Return Flight (WS811)
+# 🌅 Day 5 (Wed, Oct 14): Peggy's Cove, Mahone Bay & Lunenburg Loop — Evening Flight (WS811)
 
 !!! success "Final Day (Return to Toronto) — Wednesday, October 14, 2026"
-    **Base Camp**: Downtown Halifax → **Halifax Stanfield Airport (YHZ)**  
-    **Total Driving Distance**: ~135 km (Peggy's Cove round-trip + YHZ transit)  
-    **Primary Goal**: Keep Wednesday as unhurried **Peggy's Cove & Halifax area time** — the **20:15 flight means the day does NOT need an early start** (you only need to be at YHZ ~18:15). A 6:45 AM sunrise arrival is an optional photographer's bonus, not a requirement.
+    **Route**: Downtown Halifax → Peggy's Cove → Mahone Bay → Lunenburg → **Halifax Stanfield Airport (YHZ)**  
+    **Total Driving Distance**: ~240 km (approx. 3h 20m combined drive, one-way loop)  
+    **Primary Goal**: A relaxed final day over three coastal icons — **sunrise-independent Peggy's Cove**, the three churches of **Mahone Bay**, and the UNESCO Old Town of **Lunenburg** — then a straight run to YHZ for the evening flight. **No early start required: WS811 departs 20:15, so the day starts ~9:00 AM.**
 
 !!! success "✈️ Return Flight BOOKED — WestJet WS811"
     **Wed, Oct 14 · 20:15 Halifax (YHZ) → 21:45 Toronto-Pearson (YYZ)** · Non-stop 2h 30m · Boeing 737 MAX 8 · Reservation **OEFTZF** · UltraBasic fare, $226.76 paid. *(Receipt: `receipts/WestJet.pdf`)*.  
-    ⚠️ **UltraBasic = 1 personal item only — NO carry-on and NO checked bag included.** Add a **checked bag (mandatory for the Grohmann knives + wine) via WestJet Manage Trips** well before departure. The 20:15 departure also means the evening arrives at YYZ 21:45 (ET) — plan for a late night home.
+    ⚠️ **UltraBasic = 1 personal item only — NO carry-on and NO checked bag included.** Add a **checked bag (mandatory for the Grohmann knives + wine) via WestJet Manage Trips** well before departure. Land 21:45 ET — plan for a late night home.
 
 ---
 
 ## 🗺️ Route Map & Overview
 
-Your last day belongs to the coast and the fortress: an early run down the winding Lighthouse Route (Route 333) to watch the sun clear the Atlantic over the granite boulders of Peggy's Cove, back to the Citadel's **12:00 noon gun**, a proper farewell lunch, a relaxed afternoon, and the airport for the evening flight.
+One seamless coastal loop: drive west to **Peggy's Cove** at your leisure, swing down Hwy 103 to the South Shore's postcard **Mahone Bay**, hop over to the UNESCO **Lunenburg Old Town** for lunch and a waterfront stroll, then head straight north to YHZ — no returning to downtown Halifax.
 
-> **Day-5 scope**: ✅ Peggy's Cove sunrise · ✅ Citadel perimeter + noon gun (restored — evening flight) · ✅ Farewell sit-down lunch · ✅ Afternoon slack · ✅ WS811 20:15 flight. ❌ Maritime Museum (done Friday evening) · ❌ Alexander Keith's tour (still cut — see note below).
+> **Day-5 scope**: ✅ Peggy's Cove morning · ✅ Mahone Bay · ✅ **Lunenburg Old Town (UNESCO)** · ✅ straight-to-airport finish. ❌ Citadel noon gun (sacrificed — you're on the road at noon; restore only by cutting Mahone Bay/Lunenburg) · ❌ Maritime Museum (done Friday evening) · ❌ Alexander Keith's tour (cut).
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Peggy%27s+Point+Lighthouse%2C+Peggy%27s+Point+Road%2C+Peggy%27s+Cove%2C+NS/Halifax+Citadel+National+Historic+Site%2C+Halifax%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~150 km, ~2h 30m total drive)  
-    *Click to launch live GPS navigation: Halifax → Peggy's Cove (sunrise) → Citadel Hill (noon gun) → waterfront farewell lunch → Halifax Stanfield Airport (YHZ).*
+    **Direct Navigation Link**: [**👉 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Peggy%27s+Point+Lighthouse%2C+Peggy%27s+Point+Road%2C+Peggy%27s+Cove%2C+NS/Mahone+Bay%2C+NS/Old+Town+Lunenburg%2C+Montague+Street%2C+Lunenburg%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~240 km, ~3h 20m total drive)  
+    *Click to launch live GPS navigation: Halifax → Peggy's Cove → Mahone Bay → Lunenburg Old Town → Halifax Stanfield Airport (YHZ).*
 
 ### 📍 Route Stops Breakdown
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Downtown Halifax Hotel** | — | NS-333 W | Pre-dawn departure on the Lighthouse Route |
-| **2** | **Peggy's Point Lighthouse** | 45 km (45 mins) | Route 333 (Prospect Rd) | 🌅 **Sunrise ~7:40 AM** over the granite boulders — beat every tour bus |
-| **3** | **Halifax Citadel Perimeter & Noon Gun** | 45 km (45 mins) | Route 333 to Citadel Hill | ✅ Restored: free ramparts + **12:00 PM noon gun** (interior exhibits cut) |
-| **4** | **Waterfront Farewell Lunch** | 10 mins | Citadel Hill → Waterfront | Sit-down farewell feast on the boardwalk |
-| **5** | **Halifax Stanfield Airport (YHZ)** | 38 km (40 mins) | NS-102 N | Refuel, return rental car, **add/check bags** (Grohmann knives MUST be checked), security |
-| **6** | **Toronto-Pearson (YYZ)** | Flight 2h 30m | WS811 20:15 | Evening non-stop home; arrive 21:45 ET |
+| **1** | **Downtown Halifax Hotel** | — | NS-333 W | Relaxed morning departure (no sunrise needed — flight is 20:15) |
+| **2** | **Peggy's Point Lighthouse** | 45 km (45 mins) | Route 333 | Iconic granite headland, lighthouse & cove; coffee at Sou'Wester |
+| **3** | **Mahone Bay** | 80 km (1h 15m) | 333 → Hwy 103 S → Route 3 | Three churches on the water, artisan shops, pub lunch option |
+| **4** | **Lunenburg Old Town (UNESCO)** | 10 km (10 mins) | Route 3 | Stroll the world-heritage waterfront, Bluenose story, seafood lunch |
+| **5** | **Halifax Stanfield Airport (YHZ)** | 105 km (1h 25m) | Route 3 → Hwy 103 N → NS-102 N | Refuel, return rental car, check bags, security → WS811 20:15 |
 
 ```mermaid
 graph TD
-    A[Halifax Hotel] -->|45m / 45 km| B[Peggy's Cove Sunrise ~7:40 AM]
-    B -->|45m / 45 km| C[Citadel Noon Gun 12:00 PM]
-    C -->|10m| D[Waterfront Farewell Lunch]
-    D -->|Afternoon Slack| E[YHZ: Return Car & Check Bags]
-    E -->|WS811 20:15 / 2h 30m| F[Land Toronto 21:45 ET]
+    A[Halifax Hotel 9:00 AM] -->|45m / 45 km| B[Peggy's Cove ~10:00]
+    B -->|1h 15m / 80 km| C[Mahone Bay ~12:30 Lunch]
+    C -->|10m / 10 km| D[Lunenburg Old Town ~1:45]
+    D -->|1h 25m / 105 km| E[YHZ by ~5:30 PM]
+    E -->|20:15 WS811 / 2h 30m| F[Land Toronto 21:45 ET]
 ```
 ---
 
-## ⏱️ Detailed Timeline — Two Ways to Play Wednesday
+## ⏱️ Detailed Timeline & Activity Breakdown
 
-!!! note "🕐 The day is yours"
-    **WS811 departs 20:15** — you only need to hand the car back / reach YHZ by ~**18:00–18:15** (2 h before departure). That makes Day 5 the most relaxed day of the trip. Pick a mode:
-    - **🌅 Sunrise mode**: depart 6:45 AM → Peggy's 7:30–10:00 (sunrise ~7:40) → Citadel noon gun → lunch → YHZ 5:45. *(For photographers; current detailed timeline below.)*
-    - **😴 Relaxed mode**: sleep in, leave ~9:30 AM → Peggy's 10:30–12:30 midday → lunch → afternoon boardwalk (or Citadel noon gun first, Peggy's after) → YHZ ~5:00–5:45. **Nova Glamping variant**: 8:00 AM boat off the island → Peggy's ~8:35 AM → noon gun → lunch → YHZ ~5:45.
-    - **Only hard rules**: at the Citadel by ~11:45 if you want the noon gun; at YHZ by ~18:00–18:15 for WS811.
-
-### 06:45 AM – 10:00 AM: 🌅 Sunrise Mode — Peggy's Point Lighthouse at Dawn
-*Sunrise in mid-October is ~7:40 AM — you'll have the lighthouse to yourselves before the tour buses roll in.*
-
-- **06:45 AM – 07:30 AM**: Depart downtown Halifax via NS-333 W (Prospect Road) in the pre-dawn light (45 km). Car stays packed — after lunch you go straight to the airport.
-- **07:30 AM – 10:00 AM**: **Peggy's Point Lighthouse & Ancient Granite Formations**
-  - **Location**: 72 Peggy's Point Rd, Peggy's Cove (44.4930° N, 63.9181° W).
-  - **Exertion vs Lounging**: 1.5 km walking on granite slabs and accessible viewing deck (45 mins) + 1h 45m sunrise photography, the working dory fishing cove, and the William E. deGarthe Fishermen's Monument.
-  - **Safety Warning**: ⚠️ **Stay off the black, wet rocks!** Rogue waves are frequent and dangerous. Always remain on the dry white granite boulders or the accessible viewing deck.
-  - **Breakfast**: Sou'Wester Restaurant opens at the lighthouse for coffee and their famous gingerbread with lemon sauce.
+### 09:00 AM – 11:30 AM: Peggy's Cove at a Civilized Hour
+- **09:00 AM – 09:45 AM**: Depart downtown Halifax on Route 333 (Prospect Road) — no pre-dawn alarm needed.
+- **09:45 AM – 11:15 AM**: **Peggy's Point Lighthouse & Ancient Granite Formations**
+  - **Location**: 72 Peggy's Point Rd, Peggy's Cove (44.4930° N, 63.9181° W). **Open 24h — no closing time to beat.**
+  - **Exertion vs Lounging**: 1.5 km walking on granite slabs + accessible viewing deck (45 mins) + 1h photographing the lighthouse, working dory cove, and the William E. deGarthe Fishermen's Monument.
+  - **Safety Warning**: ⚠️ **Stay off the black, wet rocks!** Rogue waves are frequent and dangerous. Stay on the dry white granite or the accessible viewing deck.
+  - **Breakfast/Coffee**: **Sou'Wester Restaurant** opens at the lighthouse — famous gingerbread with warm lemon sauce.
   - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
 
-### 10:00 AM – 12:15 PM: Back to Halifax & Citadel Noon Gun (✅ RESTORED)
-- **10:00 AM – 10:45 AM**: Drive back to downtown Halifax via Route 333.
-- **11:00 AM – 12:15 PM**: **Halifax Citadel National Historic Site** — free **perimeter ramparts** walk and the historic **12:00 PM noon gun** with harbour views. *(The 20:15 flight means no clock pressure — this stop is back on Day 5. Paid interior exhibits remain cut.)*
-  - **Direct Guide**: [Parks Canada Halifax Citadel](https://parks.canada.ca/lhn-nhs/ns/halifax)
+### 11:15 AM – 01:45 PM: Mahone Bay — Three Churches & Harbour Lunch
+- **11:15 AM – 12:30 PM**: Drive south: return along the 333 through St. Margaret's Bay, join **Hwy 103 S**, and exit to **Mahone Bay** on Route 3 (~80 km, 1h 15m).
+- **12:30 PM – 01:45 PM**: **Mahone Bay Harbour** — the famous **Three Churches** waterfront lineup, artisan shops (Amos Pewter, pottery galleries), and a relaxed harbour lunch or bakery stop.
+  - **Direct Guides**: [Mahone Bay Tourism](https://www.mahonebay.com/) | [Amos Pewter](https://www.amospewter.com/)
 
-### 12:15 PM – 01:30 PM: Farewell Sit-Down Lunch (✅ RESTORED)
-- Proper final meal on the Halifax waterfront or Argyle Street — no rush now (options below). Call ahead to confirm kitchen hours around the lunch rush.
+### 01:45 PM – 04:00 PM: Lunenburg Old Town — UNESCO World Heritage
+- **01:45 PM – 04:00 PM**: **Lunenburg Old Town** (10 min hop from Mahone Bay) — one of only two UNESCO World Heritage towns in Canada.
+  - Walk **King Street / Old Town** with its candy-coloured houses and the waterfront boardwalk along **Montague Street**.
+  - **Lunenburg Fisheries Museum of the Atlantic** — the dory/boatbuilding story and the **Bluenose II** schooner heritage (check whether Bluenose II is in port for the season).
+  - **Seafood lunch**: enjoy a proper farewell meal on the water (Fish Shack / Saviard / Salt Shaker Deli — see dining below).
+  - **Direct Guides**: [Lunenburg Tourism](https://www.explorelunenburg.ca/) | [Fisheries Museum](https://fisheriesmuseum.novascotia.ca/)
 
-### 01:30 PM – 05:45 PM: Relaxed Afternoon Slack
-- Boardwalk wander, last harbour photos, final souvenir stop (or hotel lounge if you checked out).
-- *Optional add-on — **your call** (stays cut until you say otherwise): the **Alexander Keith's 1820 Brewery Tour** could now fit (tours run through ~4:30 PM) given the evening flight, but per your earlier decision it remains cut.*
+### 04:00 PM – 05:30 PM: Straight-Line Run to YHZ
+- **04:00 PM – 05:30 PM**: Drive north via Route 3 → Hwy 103 N → **NS-102 N** to **Halifax Stanfield Airport** (~105 km, ~1h 25m). *Hard rule: leave Lunenburg by 4:00 PM to keep the flight buffer — you arrive YHZ ~5:30 PM, a full 2h 45m before departure.*
 
-### 03:00 PM – 08:15 PM: Afternoon Slack, Airport & Evening Flight Home
-- **03:00 PM – 04:30 PM**: Unhurried afternoon — last boardwalk pass, souvenir stop, or hotel lounge. (In Sunrise mode this is where the earlier timeline lands; in Relaxed mode you roll straight from lunch into it.)
-- **04:30 PM – 05:05 PM**: Drive 38 km via NS-102 N to **Halifax Stanfield Airport (YHZ)** (depart as late as ~5:00 PM — the 18:00–18:15 arrival target has huge cushion).
-- **05:05 PM – 07:45 PM**: Refuel the rental car, return keys at the airport rental garage, **check the pre-added/shipped bag** (Grohmann Knives + wine — never carry-on; UltraBasic has no carry-on at all), and clear security.
-- **08:15 PM – 09:45 PM**: **WestJet WS811** non-stop to Toronto-Pearson (Boeing 737 MAX 8, 2h 30m). Land 21:45 ET — late night home, plan accordingly.
+### 05:30 PM – 08:15 PM: Renturn Car, Security & Evening Flight
+- **05:30 PM – 06:15 PM**: Refuel (Hwy 102 gas, not the airport station), return the National rental at the YHZ garage, **check the pre-added/shipped bag** (Grohmann knives — never carry-on; UltraBasic has no carry-on at all).
+- **06:15 PM – 07:45 PM**: Clear security; last coffee; gate.
+- **08:15 PM – 09:45 PM**: **WestJet WS811** non-stop to Toronto-Pearson (Boeing 737 MAX 8, 2h 30m). Land **21:45 ET** — late night home, plan ahead.
 
 ---
 
-## 🍽️ Dining & Restaurant Options (Farewell Lunch Focus)
+## 🍽️ Dining & Restaurant Options (South Shore Farewell Focus)
 
-1. **The Bicycle Thief** *(Halifax Waterfront, Bishop's Landing)*  
-   - **Drive / Walk**: 5-min walk from waterfront hotels  
-   - **Food Type**: North American Italian with fresh Atlantic seafood flair  
-   - **Price**: $$$ ($30–$55 CAD per main)  
-   - **Google Maps**: [The Bicycle Thief](https://maps.google.com/?q=The+Bicycle+Thief+Halifax)  
-   - **Why Recommended**: Right on the harbor at Bishop's Landing; pistachio-crusted Atlantic halibut and handmade lobster ravioli. The send-off worth booking.
+1. **The Fish Shack** *(Lunenburg Waterfront)*  
+   - **Drive / Walk**: On the Lunenburg waterfront boardwalk  
+   - **Food Type**: Fresh East Coast seafood, fish & chips, lobster  
+   - **Price**: $$–$$$ ($16–$35 CAD)  
+   - **Google Maps**: [The Fish Shack Lunenburg](https://maps.google.com/?q=The+Fish+Shack+Lunenburg+NS)  
+   - **Why Recommended**: Quintessential final seafood meal on the water in the UNESCO town — halibut sandwich, fried clams, lobster roll; casual lines but worth it.
 
-2. **Drift** *(Queen's Marque, Halifax Waterfront)*  
-   - **Drive / Walk**: On the waterfront boardwalk  
-   - **Food Type**: Modern Atlantic culinary showcase & oceanfront cocktail bar  
-   - **Price**: $$$–$$$$ ($32–$65 CAD)  
-   - **Google Maps**: [Drift Halifax](https://maps.google.com/?q=Drift+Halifax)  
-   - **Why Recommended**: Nova Scotia lobster with buttered hushpuppies and local chanterelles — steps from the boardwalk farewell stroll.
+2. **Saviard** *(Lunenburg - Wood St)*  
+   - **Drive / Walk**: 3-min walk from the waterfront  
+   - **Food Type**: Elevated modern seafood & seasonal plates  
+   - **Price**: $$–$$$ ($20–$40 CAD)  
+   - **Google Maps**: [Saviard Lunenburg](https://maps.google.com/?q=Saviard+Lunenburg+NS)  
+   - **Why Recommended**: Consistently the best-reviewed kitchen in Lunenburg — refined local seafood (digby scallops, fish prepped daily) if you want a more proper farewell.
 
-3. **Shuck Seafood Bar & The Press Gang** *(Downtown Halifax)*  
-   - **Drive / Walk**: 4-min walk from Waterfront / Citadel  
-   - **Food Type**: Raw oyster bar, fresh ocean catches, historic 1759 stone ambiance  
-   - **Price**: $$$ ($28–$55 CAD)  
-   - **Google Maps**: [The Press Gang Halifax](https://maps.google.com/?q=The+Press+Gang+Halifax)  
-   - **Why Recommended**: Outstanding oysters from around the province + lobster roll classics between the noon gun and the airport run.
+3. **The Salt Shaker Deli** *(Lunenburg - Montague St)*  
+   - **Drive / Walk**: On the main Old Town street  
+   - **Food Type**: Gourmet sandwiches, chowder, fresh-baked bread  
+   - **Price**: $–$$ ($10–$20 CAD)  
+   - **Google Maps**: [The Salt Shaker Deli Lunenburg](https://maps.google.com/?q=The+Salt+Shaker+Deli+Lunenburg)  
+   - **Why Recommended**: Famous warm-chicken-curry roti and huge sandwiches — the fast, cheap-and-legendary option if you want max Old Town walking time.
 
-4. **Cable Wharf Kitchen / Murphy's on the Water** *(Halifax Boardwalk)*  
-   - **Drive / Walk**: Directly on the Cable Wharf  
-   - **Food Type**: Lobster rolls, chowder & harbour brews  
-   - **Price**: $$ ($14–$30 CAD)  
-   - **Google Maps**: [Cable Wharf Kitchen Halifax](https://maps.google.com/?q=Cable+Wharf+Kitchen+Halifax)  
-   - **Why Recommended**: Open-air seafood right on the water — fast, casual, and tourist-favourite for a reason.
+4. **The Mug & Anchor** *(Mahone Bay - Edgewater St)*  
+   - **Drive / Walk**: Waterfront, Mahone Bay  
+   - **Food Type**: Pub fare, chowder & pints on the bay  
+   - **Price**: $$ ($14–$28 CAD)  
+   - **Google Maps**: [Mug and Anchor Mahone Bay](https://maps.google.com/?q=Mug+and+Anchor+Mahone+Bay+NS)  
+   - **Why Recommended**: Easy harbour-side lunch with a view of the three churches — chowder, fish tacos, and local brews.
 
-5. **Sou'Wester Restaurant & Gift Shop** *(Peggy's Cove - Sunrise Breakfast)*  
+5. **Sou'Wester Restaurant & Gift Shop** *(Peggy's Cove - breakfast/coffee)*  
    - **Drive / Walk**: Directly beside Peggy's Point Lighthouse  
-   - **Food Type**: Breakfast, classic maritime seafood & famous gingerbread  
+   - **Food Type**: Breakfast, shellfish & famous gingerbread  
    - **Price**: $$–$$$ ($12–$40 CAD)  
    - **Google Maps**: [The SouWester Restaurant Peggys Cove](https://maps.google.com/?q=Sou+Wester+Restaurant+Peggys+Cove)  
-   - **Why Recommended**: Unbeatable panoramic windows looking straight at the lighthouse; warm gingerbread with hot lemon sauce while the sun comes up.
+   - **Why Recommended**: Warm gingerbread with lemon sauce while you watch the surf — the morning kickstart.
 
-6. **Millstone Public House** *(Bedford - Airport transit)*  
+6. **Millstone Public House** *(Bedford - airport transit fallback)*  
    - **Drive / Walk**: 15 min from YHZ Airport  
    - **Food Type**: Pre-flight pub meal & local seafood  
    - **Price**: $$ ($18–$28 CAD)  
    - **Google Maps**: [Millstone Public House Bedford](https://maps.google.com/?q=Millstone+Public+House+Bedford+NS)  
-   - **Why Recommended**: Easy pub dining just off Highway 102 on the final drive to the airport — the fallback if the afternoon ran long.
+   - **Why Recommended**: Freedom-to-roam safety net: if you want to leave Lunenburg later, this is the airport-adjacent stop instead.
 
 ---
 
 ## 🎒 Gear & Day Preparation
-- **Camera / Polarizer Filter**: Sunrise light reflecting on granite and surf is the photographic payoff of the whole trip.
-- **Windproof Jacket**: Coastal spray and autumn harbour breezes feel chilly pre-dawn (near 8°C).
-- **🚨 Action Item — Add a checked bag to WS811 NOW** (WestJet Manage Trips): UltraBasic includes **no carry-on and no checked bag** — the Grohmann Knives and any wine are prohibited in carry-on, and even a carry-on isn't included in the fare.
-- **Pack Tonight (Tue)**: Load all luggage into the car the evening before so the 6:45 AM departure runs on schedule; keep ID, boarding passes, and the WS811 reservation (OEFTZF) accessible.
-- **Late Night Home**: Landing 21:45 ET means you reach Toronto front door around 11:30 PM — line up transit/parking ahead of time.
+- **🚨 Action Item — Add a checked bag to WS811 NOW** (WestJet Manage Trips): UltraBasic includes **no carry-on and no checked bag** — the Grohmann Knives + wine are prohibited in carry-on.
+- **Comfortable Walking Shoes**: Lunenburg Old Town is perfectly walkable but hilly cobble — shoes matter more than ever today.
+- **Camera**: Lighthouse light at Peggy's, the three churches, and candy-coloured Lunenburg streets.
+- **Car Packed All Day**: You check out in the morning and will not return to the hotel — load everything at checkout; only stop is YHZ.
+- **Paper/Digital Rental Return Kit**: National rental confirmation (#2098647349) for the YHZ return desk + phone charging cable for offline maps on Hwy 103 (patchy in places).
+- **Late Night Home**: Landing 21:45 ET means Toronto front door ~11:30 PM — line up transit/parking ahead.

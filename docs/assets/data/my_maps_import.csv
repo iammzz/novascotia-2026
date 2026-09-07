@@ -2,7 +2,7 @@ Name,Location,Lat,Lng,Day,Category,Description
 Halifax Stanfield Airport (YHZ),Enfield NS,44.8808,-63.5086,Day 0/1/6,Transit,Primary international airport & rental car hub
 Downtown Halifax (Base - Halifax),Halifax Waterfront NS,44.6476,-63.5708,Day 0/4/5,Base,Halifax Waterfront & Downtown Accommodation Base
 Maritime Museum of the Atlantic,Halifax NS,44.6493,-63.5716,Day 0,Activity,Titanic wooden artifacts & 1917 Halifax Explosion galleries (Fri 6:45 PM, reserved)
-Halifax Citadel National Historic Site,Halifax NS,44.6468,-63.5813,Day 5,Activity,Star-shaped 19th-century fortress overlooking Halifax Harbour (noon gun restored - 20:15 flight)
+Halifax Citadel National Historic Site,Halifax NS,44.6468,-63.5813,Extra,Activity,Star-shaped 19th-century fortress overlooking Halifax Harbour (cut from Day 5 for South Shore loop)
 Peggy's Point Lighthouse,Peggy's Cove NS,44.4930,-63.9181,Day 5,Activity,Iconic coastal lighthouse on ancient granite rock formations (Wed sunrise)
 Martinique Beach Provincial Park,Martinique NS,44.7190,-63.1670,Day 1,Activity,Longest sand beach in Nova Scotia - coastal stretch stop on Marine Drive
 Taylor Head Provincial Park,Taylor Head NS,44.8970,-62.6110,Day 1,Activity,Coastal lookout trail over the Atlantic (signature Marine Drive viewpoint)
@@ -26,8 +26,8 @@ Middle Head Trailhead (Keltic Lodge),Ingonish Beach NS,46.6575,-60.3802,Day 3,Hi
 Cape Smokey Gondola & Tree Walk,Ingonish Ferry NS,46.6200,-60.4100,Day 3,Activity,Atlantic Canada's first gondola to a mountain-top viewing tower
 The Gaelic College (Colaisde na Gàidhlig),St. Ann's NS,46.2163,-60.6276,Extra,Activity,Living Gaelic culture demonstration center and Great Hall (cut from Day 4)
 Fortress of Louisbourg National Historic Site,Louisbourg NS,45.8924,-59.9866,Day 4,Activity,Massive reconstructed 18th-century French fortified port city
-Old Town Lunenburg UNESCO Waterfront,Lunenburg NS,44.3770,-64.3090,Day 0/6,Activity,UNESCO World Heritage 18th-century shipbuilding harbor & Bluenose II
-Mahone Bay Three Churches,Mahone Bay NS,44.4485,-64.3807,Day 0/6,Activity,Postcard-perfect seaside town with iconic trio of waterfront church steeples
+Old Town Lunenburg UNESCO Waterfront,Lunenburg NS,44.3770,-64.3090,Day 5,Activity,UNESCO World Heritage 18th-century shipbuilding harbor & Bluenose II
+Mahone Bay Three Churches,Mahone Bay NS,44.4485,-64.3807,Day 5,Activity,Postcard-perfect seaside town with iconic trio of waterfront church steeples
 Cape Split Provincial Park,Scots Bay NS,45.3341,-64.4988,Day 6,Hike,13.2 km coastal forest hike overlooking dramatic Bay of Fundy whirlpools
 Grand-Pré National Historic Site,Grand-Pré NS,45.1092,-64.3106,Day 6,Activity,UNESCO World Heritage Acadian landscape and dykeland history
 Luckett Vineyards,Wolfville NS,45.0686,-64.3311,Day 6,Activity,Iconic Gaspereau Valley winery with the famous red British phone booth

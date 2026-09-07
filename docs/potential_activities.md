@@ -254,12 +254,12 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: Canada’s most famous lighthouse perched on ancient white granite boulders above pounding Atlantic surf. Working dory fishing harbor and artisan shops. *(⚠️ Never step on wet black rocks!)*
 - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
 
-#### 38. Old Town Lunenburg UNESCO World Heritage Port <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK — Day 0</span>
+#### 38. Old Town Lunenburg UNESCO World Heritage Port <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5</span>
 - **Location**: Lunenburg, South Shore.
 - **Details**: The best-surviving example of a planned British colonial settlement in North America. Colorful 18th-century timber architecture, active shipyards, and home port of the *Bluenose II* racing schooner.
 - **Direct Guide**: [Town of Lunenburg Tourism](https://www.explorelunenburg.ca/)
 
-#### 39. Mahone Bay Three Churches & Artisan Bakeries <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK — Day 0</span>
+#### 39. Mahone Bay Three Churches & Artisan Bakeries <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5</span>
 - **Location**: Mahone Bay.
 - **Details**: Iconic waterfront streetscape with three 19th-century church steeples mirrored across the calm bay; specialty coffee and cream puffs at *The Barn Coffee & Social House*.
 - **Direct Guide**: [Mahone Bay Tourism](https://mahonebay.com/)

@@ -7,9 +7,9 @@
 ---
 
 ## ✅ Trip Structure Decision (Locked)
-- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann return to Halifax → Wed Peggy's Cove sunrise + **evening flight home (WS811 20:15)**.
+- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann return to Halifax → Wed **Peggy's Cove → Mahone Bay → Lunenburg loop** + **evening flight home (WS811 20:15)**.
 - **Day 0 (Fri Oct 9)**: Morning arrival + Halifax hotel + **Maritime Museum 6:45 PM reservation**. Rental car optional that day (decision pending) — Friday is walkable.
-- **Day 5 (Wed Oct 14)**: Peggy's Cove sunrise + **Citadel noon gun (restored)** + farewell lunch + **evening return flight WS811 20:15 (booked)**. Maritime Museum already done Friday — no return-day museum squeeze.
+- **Day 5 (Wed Oct 14)**: Relaxed 9 AM start — **Peggy's Cove → Mahone Bay → Lunenburg UNESCO Old Town** → straight to YHZ ~5:30 PM (**Citadel noon gun sacrificed** for the South Shore loop) + **evening return flight WS811 20:15 (booked)**. Maritime Museum already done Friday — no return-day museum squeeze.
 - **Cuts**: ❌ Alexander Keith's tour (temporarily — could fit the Wed afternoon gap if you opt back in) · ❌ Citadel interior exhibits (free perimeter + noon gun only) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (already dropped).
 
 ---
@@ -31,7 +31,7 @@
   - [ ] Reserve Cape Breton lodgings with free cancellation.
 - [ ] **Halifax Downtown Accommodation — TWO nights (Oct 9 arrival + Oct 13 pre-flight)**:
   - [ ] Reserve **Fri Oct 9** (arrival/museum night) — waterfront or downtown near the Maritime Museum: *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Muir*, or *The Prince George*.
-  - [ ] Reserve **Tue Oct 13** (night before Wed Peggy's Cove sunrise + evening WS811 flight) — same property or similar.
+  - [ ] Reserve **Tue Oct 13** (night before the Wed Peggy's/Mahone Bay/Lunenburg loop + evening WS811 flight) — same property or similar.
 
 ---
 
