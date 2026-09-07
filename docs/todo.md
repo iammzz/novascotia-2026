@@ -20,10 +20,12 @@
 - [x] **Return flight BOOKED**: **WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ** — Res. **OEFTZF**, Boeing 737 MAX 8, UltraBasic ($226.76). *(Receipt in `receipts/WestJet.pdf`)*
   - [ ] **Get-the-knives-home decision**: 🛒 Grohmann ships worldwide from the Pictou factory — ask them to ship to Toronto (~$15–25) **OR** self-ship via Canada Post from Halifax (~$15–30) **OR** add a checked bag on WS811 (~$35–50) and carry them. If shipping: do it at the factory Tue Oct 13 so knives arrive home ~Thu/Fri. Knives are never allowed in carry-on.
   - [ ] Add flight reminders to calendar for both flights (PD201 out / WS811 return).
-- [ ] **Rental Vehicle Reservation**:
-  - [ ] Decide: take the car Friday Oct 9 (YHZ pickup on arrival, downtown hotel parking ~$25–40/night) OR skip it Friday and pick up **Saturday morning from a downtown Halifax branch** (National / Enterprise / Avis / Hertz all have downtown offices).
-  - [x] **Rental plan (verify before booking)**: pickup **Sat Oct 10, 9:00 AM at Enterprise — Halifax Train Station** (downtown, ~10–15 min walk from waterfront hotels; no car needed Friday) → return **Wed Oct 14, ~6:00 PM at YHZ — ⚠️ NOT 7:30 PM**: WS811 departs 20:15, so hand the car back ~2h before (18:00–18:30 max) to clear security in time. ~5 rental days either way.
-  - [ ] Confirm **unlimited kilometers** (~1,300 km total) + refuel-before-return (gas on Hwy 102 near YHZ, not the airport station) + secondary driver coverage.
+- [ ] **Rental Vehicle Reservation — 🟢 BOOKED**:
+  - [x] **National Conf. #2098647349 ($277.08)**: pickup **Sat Oct 10, 9:00 AM at Halifax Train Station** (Enterprise, 1161 Hollis St) → return **Wed Oct 14 at YHZ**. Unlimited mileage + up to 9 additional drivers included.
+  - [ ] ⚠️ **Change return to ~6:00 PM (18:00–18:30 max), NOT 7:30 PM** — WS811 departs 20:15; hand the car back ~2h before to clear security.
+  - [ ] ⚠️ **Vehicle is Intermediate (Mazda 3)** — decide whether to upgrade to SUV/AWD for the Cabot Trail / Meat Cove gravel.
+  - [ ] Confirm insurance: decline National's LDW if your credit card covers rental CDW (saves ~$25–35/day).
+  - [ ] Refuel-before-return (gas on Hwy 102 near YHZ, not the airport station).
 - [ ] **Cape Breton Accommodation (Oct 10 – 12 / 3 Nights)**:
   - [ ] Select base style: Central Hub (Baddeck - *Inverary Resort* or *Silver Dart Lodge*) vs Split Base (*Laurie's Chéticamp* + *Keltic Lodge Ingonish*).
   - [ ] Reserve Cape Breton lodgings with free cancellation.
@@ -39,7 +41,7 @@
   - [ ] Decide on Family/Group Discovery Pass ($145.25 CAD) vs Daily Admissions ($86.50 CAD for 2 adults).
 - [x] **Skyline Trail Timed Parking Reservation (⚡ CONFIRMED BOOKED)**:
   - [x] Parks Canada Reservation Service account created.
-  - [x] Parking booked for **Sunday, October 11, 2026** (Check-in slot: **4:00 PM / 16:00** for sunset hike). *(Receipt `skyline_parking.pdf` stored in `receipts/`)*.
+  - [x] Parking booked for **Sunday, October 11, 2026** (Check-in slot: **4:00 PM / 16:00** for sunset hike). *(Receipt `receipts/skyline.pdf` — Conf. INPC26-60130188B1, $13.00, 3 adults, 4–8 PM slot)*.
   - [ ] Download/print the reservation confirmation PDF for offline use (cell service is unavailable at the trailhead).
 - [ ] **Celtic Colours International Festival**:
   - [ ] Check Celtic Colours 2026 artist lineup (released July 2026).
@@ -72,4 +74,4 @@
 
 ## ✅ Completed Tasks
 
-- [x] **Skyline Trail Sunset Parking Reservation**: Confirmed for **Sunday, October 11, 2026 @ 4:00 PM (16:00)** *(Receipt stored in `receipts/skyline_parking.pdf`)*.
+- [x] **Skyline Trail Sunset Parking Reservation**: Confirmed for **Sunday, October 11, 2026 @ 4:00 PM (16:00)** *(Receipt `receipts/skyline.pdf`, Conf. INPC26-60130188B1)*.

@@ -75,7 +75,7 @@ graph TD
 - **✅ Parking Reservation Confirmed**:
   - **Status**: 🟢 **Booked & Confirmed** for **Sunday, October 11, 2026** *(Check-in: 4:00 PM / 16:00 slot)* via Parks Canada Reservation Service.
   - **Arrival Window**: Arrive at the trailhead between **03:50 PM and 05:00 PM** (within 1 hour of the 4:00 PM check-in).
-  - **Offline Confirmation**: Cellular reception is non-existent on French Mountain. Ensure the receipt PDF (`receipts/skyline_parking.pdf`) or screenshot is saved on your phone prior to entering the park.
+  - **Offline Confirmation**: Cellular reception is non-existent on French Mountain. Ensure the receipt PDF (`receipts/skyline.pdf`, Conf. INPC26-60130188B1) or screenshot is saved on your phone prior to entering the park.
 - **Trail Specifications**:
   - **Distance**: 6.5 km out-and-back (direct trail) or 8.2 km loop trail.
   - **Elevation Gain**: ~145 m (gentle undulating gravel path leading to steep descending cliff-side boardwalk stairs).

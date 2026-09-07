@@ -50,8 +50,8 @@ document.addEventListener("DOMContentLoaded", function() {
 !!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates Locked**: **October 10 – 14, 2026** (Canadian Thanksgiving Peak Foliage Window)  
     **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight — WestJet WS811 20:15, BOOKED** — the day is a Peggy's Cove sunrise + Citadel noon gun + farewell lunch, then home. Day 6 (Oct 15/16) retired.  
-    **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sunday, Oct 11 @ 4:00 PM)**  
-    **Current Next Priorities**: Lock in the Toronto → Halifax roundtrip (return flight Wed Oct 14 afternoon) and Cape Breton accommodations (see [To-Do List](todo.md) & [Logistics](logistics.md)).
+    **Confirmed Bookings**: 🟢 **Flights — Porter PD201 out (Fri Oct 9, 8:30 AM) + WestJet WS811 return (Wed Oct 14, 20:15)** · 🟢 **Rental Car — National #2098647349** · 🟢 **Skyline Trail Parking (Sun Oct 11, 4 PM)**  
+    **Current Next Priorities**: Book Halifax hotels (Oct 9 & 13) + Cape Breton lodgings (Oct 10–12) — then change the rental return to ~6:00 PM (not 7:30 PM) and confirm Maritime Museum evening entry.
 
 ---
 

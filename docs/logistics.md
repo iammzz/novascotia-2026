@@ -17,17 +17,18 @@
 
 ---
 
-## 🚗 2. Ground Transportation: Rental Vehicle (Enterprise — Train Station → YHZ)
+## 🚗 2. Ground Transportation: Rental Vehicle — 🟢 BOOKED (National #2098647349)
 
 | Parameter | Specification | Details | Status |
 |:---|:---|:---|:---:|
-| **Pick-up Location** | **Enterprise — Halifax Train Station** (1161 Hollis St, downtown) | ~10–15 min walk from waterfront hotels; no car needed Friday | 🟡 DECIDED — verify |
-| **Pick-up Time** | **Sat, Oct 10, 9:00 AM** | On the road ~9:20–9:30 AM → Baddeck ~5:00–5:30 PM via scenic Marine Drive | 🟡 DECIDED — verify |
-| **Drop-off Location** | Halifax Stanfield Airport (YHZ) | Same-city drop, no one-way surcharge | 🟡 DECIDED — verify |
-| **Drop-off Time** | **Wed, Oct 14, ~6:00 PM (18:00–18:30 max)** | ⚠️ NOT 7:30 PM — WS811 departs 20:15; return the car ~2h before to clear security | ⚠️ CHANGE REQUIRED |
-| **Vehicle Category** | Standard / Full-Size SUV or AWD Crossover | Recommended for Cabot Trail mountain switchbacks and gravel road (Meat Cove) | 🔴 NOT BOOKED |
-| **Preferred Providers** | National Car Rental / Enterprise / Avis / Hertz | Free cancellation reservation recommended immediately | 🔴 NOT BOOKED |
-| **Est. Cost** | ~$75 – $110 CAD / day | Approx. $375 – $550 CAD for 5 rental days (Sat Oct 10 → Wed Oct 14 drop at YHZ) | 🔴 NOT BOOKED |
+| **Booking** | **National Car Rental — Conf. #2098647349** | Serviced by Enterprise at Halifax Train Station (1161 Hollis St); Emerald Club #906110914; Visa ••••3097 | 🟢 **BOOKED — $277.08** |
+| **Pick-up** | **Sat, Oct 10, 9:00 AM — Halifax Train Station** | ~10–15 min walk from waterfront hotels; no car needed Friday | 🟢 BOOKED |
+| **Drop-off** | **Halifax Stanfield Airport (YHZ)** | Same-city drop, no one-way surcharge | 🟢 BOOKED |
+| **Drop-off Time** | **Wed, Oct 14, 7:30 PM — ⚠️ CHANGE TO ~6:00 PM** | WS811 departs 20:15; return the car ~2h before (18:00–18:30 max) to clear security | ⚠️ CHANGE REQUIRED |
+| **Vehicle** | **Intermediate — Mazda 3 or similar** | ⚠️ NOT the recommended SUV/AWD. Fine on the paved Cabot Trail; consider upgrading for Meat Cove gravel or AWD peace of mind | 🟡 CONSIDER UPGRADE |
+| **Mileage** | **Unlimited — Included** | ~1,300 km total trip | ✅ INCLUDED |
+| **Additional Drivers** | **Up to 9 — Included** | No per-driver fee | ✅ INCLUDED |
+| **Cost** | **5 days @ $47.75/day** | $238.75 + VLF $4.30 + HST $34.03 = **$277.08 CAD** | 🟢 BOOKED |
 
 ---
 
@@ -62,7 +63,7 @@
 | Activity / Pass | Timing / Date | Pricing (CAD) | Booking Requirement | Status |
 |:---|:---|:---:|:---|:---:|
 | **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Alexander Graham Bell NHS gate on Day 1 | 🔴 NOT BOOKED |
-| **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service *(Receipt `receipts/skyline_parking.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
+| **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service — Conf. **INPC26-60130188B1** *(Receipt `receipts/skyline.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
 | **Alexander Keith's Historic Brewery Tour** | ❌ CUT (could now fit) | — | — | ❌ Stays cut per your decision — though the 20:15 flight leaves a Wed afternoon gap (tours run to ~4:30 PM) if you opt back in |
 | **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — 6:45 PM** | ~$11 / adult | **Reservation held for Friday evening** (Titanic & 1917 Halifax Explosion galleries). ⚠️ Confirm the 6:45 PM evening entry — regular fall hours close ~5:30 PM | 🟢 RESERVED — FRIDAY EVENING |
 | **Halifax Citadel Perimeter & Noon Gun** | Day 5 (Oct 14) — 11:00 AM | Free | ✅ **RESTORED** — the 20:15 flight leaves room for free perimeter ramparts + 12:00 PM noon gun (interior exhibits cut) | 🟢 FREE — CONFIRMED |
