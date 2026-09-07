@@ -85,6 +85,10 @@ graph LR
 - **The Craft & Heritage**: Founded in the 1950s by Czech immigrant Rudolf Grohmann and Canadian government official Deane H. Russell. Together, they designed the world-famous **Grohmann #1 Original Canadian Belt Knife**, celebrated for its distinctive palm-swell rosewood handle and curved elliptical blade. The design was so revolutionary that it was showcased at New York's Museum of Modern Art (MoMA) and the Design Center in London.
 - **Military & Outdoor Pedigree**: Grohmann Knives have been standard issue for the Canadian Armed Forces (the famous #3 Boat Knife / Jump Knife) and remain the gold standard for wilderness survivalists, hunters, and chefs worldwide.
 - **Factory Tour & Seconds Room**: Visitors can take a free tour of the factory production floor on weekdays to observe craftsmen executing the 25+ meticulous hand operations: blade blanking, high-carbon stainless steel heat treatment, double hollow grinding, hafting with rosewood, water buffalo horn, stag horn, or resin micarta, and hand-buffing. The on-site factory outlet store sells first-quality cutlery as well as coveted **"factory seconds"**—knives with minor cosmetic imperfections offered at **30% to 50% discounts**.
+- **✈️ Get-It-Home Decision (knives can NEVER go in carry-on)**:
+  - **Option A (recommended) — Ship from the factory**: Grohmann is a long-running mail-order business and packs/ships knives worldwide; ask them to ship your purchase to Toronto directly — ~$15–25, domestic (no customs), arrives in a few business days. Avoids the WS811 UltraBasic checked-bag fee entirely.
+  - **Option B — Self-ship from Halifax**: sheath/tape blades, sturdy box, Canada Post Expedited Parcel with tracking + insurance (~$15–30).
+  - **Option C — Add a checked bag on WS811** via Manage Trips (~$35–50) and carry them home in baggage.
 - **Direct Guide**: [Grohmann Knives Official Portal](https://www.grohmannknives.com/)
 
 #### 2. Hector Heritage Quay & Historic Pictou Waterfront

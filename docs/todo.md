@@ -18,7 +18,7 @@
 
 - [x] **Outbound flight BOOKED**: **Porter PD201, Fri Oct 9, 8:30 AM YYZ (T3) → 11:37 AM YHZ** — Conf. L4669V (Embraer E195-E2). *(Receipt in `receipts/Itinerary - Porter Airlines.pdf`)*
 - [x] **Return flight BOOKED**: **WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ** — Res. **OEFTZF**, Boeing 737 MAX 8, UltraBasic ($226.76). *(Receipt in `receipts/WestJet.pdf`)*
-  - [ ] **Action: ADD A CHECKED BAG to WS811** via WestJet Manage Trips — UltraBasic includes **no carry-on and no checked bag**; the Grohmann knives + wine MUST be checked (prohibited in carry-on).
+  - [ ] **Get-the-knives-home decision**: 🛒 Grohmann ships worldwide from the Pictou factory — ask them to ship to Toronto (~$15–25) **OR** self-ship via Canada Post from Halifax (~$15–30) **OR** add a checked bag on WS811 (~$35–50) and carry them. If shipping: do it at the factory Tue Oct 13 so knives arrive home ~Thu/Fri. Knives are never allowed in carry-on.
   - [ ] Add flight reminders to calendar for both flights (PD201 out / WS811 return).
 - [ ] **Rental Vehicle Reservation**:
   - [ ] Decide: take the car Friday Oct 9 (YHZ pickup on arrival, downtown hotel parking ~$25–40/night) OR skip it Friday and pick up **Saturday morning from a downtown Halifax branch** (National / Enterprise / Avis / Hertz all have downtown offices).
