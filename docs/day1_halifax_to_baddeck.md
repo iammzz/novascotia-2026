@@ -82,50 +82,57 @@ graph LR
 - **05:00 PM – 05:50 PM**: Take **NS-105 N** 75 km along the northern arms of **Bras d'Or Lake** — Canada's largest inland sea and a UNESCO Biosphere Reserve — golden-hour over the water.
 - **06:00 PM – 06:30 PM**: Check in at your **Baddeck base** (Inverary Resort, Silver Dart Lodge, or lakeside cottage).
 
-### 06:30 PM – 10:00 PM: Lobster Dinner & Celtic Colours Ceilidh 🎻
-- **06:30 PM – 08:30 PM**: **Baddeck Lobster Suppers** (or The Freight Shed) — the classic all-you-can-eat mussels + whole steamed lobster.
+### 06:30 PM – 10:00 PM: Dinner at The Rusty Anchor & Celtic Colours Ceilidh 🎻
+- **06:30 PM – 08:30 PM**: **Dinner — LOCKED: The Rusty Anchor** (casual harbourfront seafood on the Baddeck waterfront). Fresh fish & chips, lobster, and a cold beer with the boat basin at your feet.
 - **09:00 PM – 10:00 PM**: **Celtic Colours Saturday-night ceilidh** — Sat Oct 10 is a peak festival night; fiddle, step-dancing and Gaelic song at a Baddeck/St. Ann's venue. *(Tickets on sale ~July 2026 — see To-Do.)*
 
 ---
 
 ## 🍽️ Dining & Restaurant Options (Marine Drive lunch + Baddeck dinner)
 
-1. **Tangier Lobster Co.** *(Tangier Harbour — Day 1 lunch)*  
+1. **The Rusty Anchor** *(Baddeck Waterfront — dinner, ✅ LOCKED)*  
+   - **Drive / Walk**: On the Baddeck harbourfront, short walk from the village core  
+   - **Food Type**: Casual harbourfront seafood — fish & chips, lobster, pub fare, cold beer  
+   - **Price**: $$–$$$ ($18–$38 CAD)  
+   - **Google Maps**: [The Rusty Anchor Baddeck](https://maps.google.com/?q=The+Rusty+Anchor+Baddeck+NS)  
+   - **Why Recommended**: Your locked Saturday dinner — laid-back deck/dockside atmosphere right on the boat basin in Baddeck; call ahead to confirm fall hours + grab a table before the ceilidh.
+
+2. **Tangier Lobster Co.** *(Tangier Harbour — Day 1 lunch)*  
    - **Drive / Walk**: On Route 7 at Tangier  
    - **Food Type**: Fresh Eastern Shore lobster rolls & chowder, dockside  
    - **Price**: $$–$$$ ($16–$40 CAD)  
    - **Google Maps**: [Tangier Lobster Co.](https://maps.google.com/?q=Tangier+Lobster+Co+Tangier+NS)  
    - **Why Recommended**: The quintessential Marine Drive lobster roll, eaten at the source while the boats come in.
 
-2. **Baddeck Lobster Suppers** *(Ross Street, Baddeck — dinner)*  
+3. **Baddeck Lobster Suppers** *(Ross Street, Baddeck — backup dinner)*  
    - **Drive / Walk**: 2-min drive / 8-min walk from village core  
    - **Food Type**: Traditional Atlantic Canada Lobster Supper  
    - **Price**: $$$ ($38–$60 CAD for full supper)  
    - **Google Maps**: [Baddeck Lobster Suppers](https://maps.google.com/?q=Baddeck+Lobster+Suppers+NS)  
    - **Why Recommended**: The classic Nova Scotia experience—all-you-can-eat Cape Breton mussels and chowder followed by a whole steamed Atlantic lobster with drawn butter.
 
-3. **The Freight Shed** *(Baddeck Waterfront — dinner)*  
+4. **The Freight Shed** *(Baddeck Waterfront — dinner)*  
    - **Drive / Walk**: On the government wharf, Baddeck  
    - **Food Type**: Waterfront bistro, hyper-local seafood & craft cocktails  
    - **Price**: $$$ ($28–$48 CAD)  
    - **Google Maps**: [The Freight Shed Baddeck](https://maps.google.com/?q=The+Freight+Shed+Baddeck+NS)  
    - **Why Recommended**: Premier dining with floor-to-ceiling glass over Bras d'Or Lake — oysters, seared scallops, duck confit.
 
-4. **High Roller Pizza & Donair** *(Chebucto St, Baddeck — casual)*  
+5. **High Roller Pizza & Donair** *(Chebucto St, Baddeck — casual)*  
    - **Drive / Walk**: Heart of Baddeck  
    - **Food Type**: Pizza, donairs, poutine, pub eats  
    - **Price**: $–$$ ($12–$22 CAD)  
    - **Google Maps**: [High Roller Pizza Baddeck](https://maps.google.com/?q=High+Roller+Pizza+Baddeck+NS)  
    - **Why Recommended**: Fast comfort food if the ceilidh runs late and you want a quick bite.
 
-5. **Lakeside Restaurant at Inverary Resort** *(Shore Road, Baddeck)*  
+6. **Lakeside Restaurant at Inverary Resort** *(Shore Road, Baddeck)*  
    - **Drive / Walk**: 3-min drive from Baddeck downtown  
    - **Food Type**: Upscale Maritime fine dining & wine list  
    - **Price**: $$$–$$$$ ($32–$55 CAD)  
    - **Google Maps**: [Inverary Resort Baddeck](https://maps.google.com/?q=Inverary+Resort+Baddeck+NS)  
    - **Why Recommended**: Romantic lakeside dining with panoramic water views, roasted Atlantic salmon, braised short ribs.
 
-6. **The Herring Choker Deli & Cafe** *(Nyanza, 10 min west of Baddeck — breakfast/next day)*  
+7. **The Herring Choker Deli & Cafe** *(Nyanza, 10 min west of Baddeck — breakfast/next day)*  
    - **Drive / Walk**: 10-min drive west along Highway 105  
    - **Food Type**: Artisan bakery, gourmet sandwiches, organic coffee  
    - **Price**: $–$$ ($8–$18 CAD)  
