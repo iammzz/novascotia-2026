@@ -25,10 +25,10 @@ extra_css:
 nav:
   - Welcome: index.md
   - Core Itinerary (Oct 10–14):
-      - Day 1 (Halifax to Cape Breton): day1_halifax_to_baddeck.md
+      - Day 1 (Marine Drive to Baddeck): day1_halifax_to_baddeck.md
       - Day 2 (Western Cabot Trail & Skyline): day2_western_cabot_trail_skyline.md
-      - Day 3 (Highlands, Meat Cove & Ingonish): day3_northern_eastern_cabot_trail.md
-      - Day 4 (Celtic Culture & Return Drive): day4_baddeck_to_halifax_heritage.md
+      - Day 3 (Highlands, Meat Cove & Keltic Ingonish): day3_northern_eastern_cabot_trail.md
+      - "Day 4 (Pictou & Grohmann: Return to Halifax)": day4_baddeck_to_halifax_heritage.md
       - Day 5 (Peggy's Cove, Mahone Bay & Lunenburg): day5_halifax_peggys_cove.md
   - Arrival & Extension Days:
       - "Day 0 (Arrival: Halifax & Maritime Museum)": day0_flight_transit_arrival.md

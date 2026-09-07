@@ -1,4 +1,4 @@
-# 🎻 Day 4: Celtic Culture, Pictou Waterfront, Grohmann Knives & Return Drive to Halifax
+# 🔪 Day 4 (Tue, Oct 13): Keltic to Halifax — Pictou, Grohmann Knives & the Return Drive
 
 !!! note "Core Itinerary Day 4 — Tuesday, October 13, 2026"
     **Base Camp**: Downtown Halifax  
