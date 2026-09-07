@@ -15,7 +15,7 @@ This document serves as your **active decision framework** to iterate through ov
 - [x] **Option B: The 5-Day "Strict Core" (Fast & Focused) — ✅ SELECTED**
   - *Dates*: **Saturday, Oct 10 (Morning) → Wednesday, Oct 14 (Evening)**
   - *Airlines*: Porter / Air Canada direct to Halifax (YHZ).
-  - *Why*: Efficient, takes zero extra vacation days around Canadian Thanksgiving, and hits Cape Breton, Cabot Trail, Skyline Trail, and Halifax. **Return flight locked to Day 5 (Wed Oct 14) evening.**
+  - *Why*: Efficient, takes zero extra vacation days around Canadian Thanksgiving, and hits Cape Breton, Cabot Trail, Skyline Trail, and Halifax. **Arrival locked to Day 0 (Fri Oct 9 morning); return flight locked to Day 5 (Wed Oct 14 afternoon).**
 
 ---
 
@@ -89,7 +89,7 @@ This document serves as your **active decision framework** to iterate through ov
 - [ ] **Modern Atlantic Fine Dining & Raw Oyster Bar**: Hyper-seasonal local seafood, handmade pasta, and craft cocktails (*Bar Kismet* — Top 15 in Canada, *The Bicycle Thief*, *Drift* at Queen's Marque).
 - [ ] **Gaspereau Valley Wine & Cider Tasting**: Sip signature Nova Scotia *Tidal Bay* crisp white wines and Méthode Classique sparkling bubblies at *Benjamin Bridge* and *Luckett Vineyards* (with the famous red British phone booth in the vines).
 - [ ] **Single Malt Whisky Tour at Glenora Distillery**: North America's first single malt distillery in Mabou, tasting "Glen Breton Rare" aged in oak barrels.
-- [ ] **Halifax Street Food & Historic Brewery**: Original Halifax Donairs from *King of Donair (KOD)*. *(Note: the 1820 Alexander Keith's Brewery tour was cut from Day 5 to fit the Maritime Museum + evening return flight.)*
+- [ ] **Halifax Street Food & Historic Brewery**: Original Halifax Donairs from *King of Donair (KOD)*. *(Note: the 1820 Alexander Keith's Brewery tour was cut — the Maritime Museum anchors Friday evening instead.)*
 - [x] **Pictou County Pizza & Grohmann Knives**: Sample the legendary spicy brown-sauce pizza at *Acropole Pizza* on Water Street in Pictou and tour the *Grohmann Knives Factory & Outlet* to shop for handcrafted Canadian belt knives.
 
 ---
@@ -98,10 +98,10 @@ This document serves as your **active decision framework** to iterate through ov
 
 Use this section to note preferences as you discuss:
 
-1. **Flight Choice**: (e.g., *Porter YTZ vs Air Canada YYZ*) → **Option B locked: Sat Oct 10 outbound → Wed Oct 14 evening return (Day 5).** Target YHZ→YYZ departure 7:30 PM+ (AC has the late-evening frequency).
-2. **Buffer Days**: → **None by default.** Day 6 (Bay of Fundy / Oct 15–16) is optional only if return fares push you to a later date.
+1. **Flight Choice**: → **Outbound BOOKED: Porter PD201, Fri Oct 9, 8:30 AM YYZ → 11:37 AM YHZ (Conf. L4669V).** Return to book: **Wed Oct 14 afternoon (~2:30 PM+)**. Day 0 (Fri) = arrival + Halifax hotel + Maritime Museum 6:45 PM.
+2. **Buffer Days**: → **Fri Oct 9 arrival day = museum/evening anchor; return Wed Oct 14 afternoon; Day 6 (Bay of Fundy, Oct 15/16) retired.**
 3. **Lodging Preference**: (e.g., *Glamping Domes / Keltic Lodge / Central Baddeck Hub*) → 
 4. **Must-Do Novelty Pick**: (e.g., *Tidal Bore Rafting / Cape Split / Pollett's Cove*) → 
 5. **Dining Non-Negotiable**: (e.g., *Lobster Suppers + Bar Kismet + Wineries*) → 
 6. **Pictou & Grohmann Knives**: Confirmed locked in for Day 4 afternoon return transit (Baddeck → Pictou → Halifax).
-7. **Day 5 Return-Day Decisions (Locked)**: ❌ Cut Alexander Keith's 1820 Brewery Tour · ❌ Citadel interior exhibits (free perimeter + noon gun only) · ✅ **Maritime Museum of the Atlantic = must-do, Day 5 (Oct 14) 2:15–3:45 PM** · farewell feast → 12:45 PM boardwalk lobster lunch.
+7. **Day 5 Return-Day Decisions (Locked)**: ❌ Alexander Keith's tour · ❌ Citadel interior (perimeter/noon gun only if flight ≥ 3:30 PM) · ✅ **Peggy's Cove sunrise + waterfront farewell + afternoon flight home Wed Oct 14** · Maritime Museum moved to **Fri Oct 9, 6:45 PM (reserved)**.

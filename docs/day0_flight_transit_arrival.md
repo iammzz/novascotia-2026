@@ -1,140 +1,107 @@
-# ✈️ Day 0: Optional Pre-Trip Buffer — Fly Toronto to Halifax & South Shore Exploration
+# ✈️ Day 0 (Fri, Oct 9): Arrival Day — Fly Toronto to Halifax & Maritime Museum Evening
 
-!!! info "Travel Buffer Day (Flexible Date: Thursday Oct 8 or Friday Oct 9, 2026)"
-    **Base Camp**: Downtown Halifax Waterfront  
-    **Total Driving Distance**: ~80 km to ~180 km (depending on optional South Shore loop)  
-    **Primary Goal**: Take advantage of lower weekday flight pricing from Toronto (YYZ/YTZ to YHZ), pick up the rental car without holiday airport rush, and explore the historic Halifax harbor or South Shore.
+!!! success "Locked Arrival Day — Friday, October 9, 2026"
+    **Base Camp**: Downtown Halifax Waterfront (Hotel Night 1 of 2 in Halifax)  
+    **Total Driving**: None planned (optional rental-car pickup if desired)  
+    **Primary Goal**: Morning non-stop flight from Toronto (YYZ/YTZ → YHZ), hotel check-in, and the **Maritime Museum of the Atlantic — 6:45 PM reservation (LOCKED)**. Friday afternoon is kept flexible for settling in / remote work; Saturday morning starts the drive to Cape Breton.
+
+!!! success "✈️ Outbound Flight BOOKED — Porter PD201"
+    **Fri, Oct 9 · 8:30 AM Toronto-Pearson (YYZ, Terminal 3) → 11:37 AM Halifax (YHZ)** · Embraer E195-E2 · Confirmation **L4669V**. Free Wi-Fi, snacks, beer/wine. *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)*. ⚠️ **Return flight (Wed Oct 14 afternoon) is still to be booked.**
+
+!!! note "🛏️ Booking Notes for This Day"
+    - **Halifax hotel required for Fri, Oct 9** (you arrive Friday morning and fly home Wed, Oct 14 afternoon — Halifax nights: Fri Oct 9 + Tue Oct 13). Pick a waterfront/downtown property within walking distance of the museum (1675 Lower Water St): *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Prince George*, or *The Muir*.
+    - **🚗 Rental car: OPTIONAL on Friday — decision pending.** Friday is a walkable day (hotel → museum → dinner all downtown), so you can skip the car Friday and pick it up Saturday morning from a downtown Halifax branch. If you do take it Friday, grab it at YHZ on arrival and budget for hotel parking (~$25–$40/night).
+    - **Maritime Museum 6:45 PM**: reservation held for Friday evening. ⚠️ The museum's regular fall closing is ~5:30 PM — confirm your 6:45 PM entry is a valid evening booking/special program when you confirm the reservation.
 
 ---
 
 ## 🗺️ Day Overview & Flight Transit
 
-Arriving a day or two prior to the Thanksgiving weekend core itinerary unlocks major savings on airfare from Toronto while giving your group a relaxed runway before the drive to Cape Breton.
+Morning departure from Toronto lands you in Halifax by late morning, leaving the afternoon open and anchoring the day on the Maritime Museum in the evening. No long drives today — Saturday is the big scenic push to Cape Breton.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Routes"
-    Choose your preferred arrival day plan below to launch pre-loaded turn-by-turn navigation in Google Maps:
-    
-    * **Option A (Halifax Airport & City Waterfront)**: [**👉 Open Option A Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/Halifax+Citadel+National+Historic+Site%2C+Halifax%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (~38 km, ~40 mins drive)
-    * **Option B (South Shore UNESCO Lunenburg Loop)**: [**👉 Open Option B Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/Old+Town+Lunenburg%2C+Montague+Street%2C+Lunenburg%2C+NS/Three+Churches+Foundation%2C+Edgewater+Street%2C+Mahone+Bay%2C+NS/Downtown+Halifax%2C+Halifax%2C+NS){:target="_blank"} (~205 km, ~2.5 hours total drive)
+    * **Airport → Hotel (Waterfront)**: [**👉 Open Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (~38 km, ~40 mins drive / taxi / rideshare)
+    * **Hotel → Maritime Museum of the Atlantic (evening)**: [**👉 Open Route in Google Maps**](https://www.google.com/maps/dir/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS/Maritime+Museum+of+the+Atlantic%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (5–10 min walk along the boardwalk)
 
 ### 📍 Route Stops Breakdown
 
-#### Option A: Airport Transit & Halifax Highlights
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Activity & Highlights |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S | Pick up rental AWD vehicle at lower-level parkade |
-| **2** | **Halifax Citadel Historic Site** | 35 km (35 mins) | NS-102 S to Connaught Ave | Panoramic harbor views from perimeter ramparts |
-| **3** | **Halifax Waterfront / Queen's Marque** | 3 km (10 mins) | Sackville St to Lower Water St | Check in to hotel, waterfront boardwalk walk & dinner |
-
-#### Option B: South Shore UNESCO Heritage Loop
-| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Activity & Highlights |
-|:---:|:---|:---:|:---|:---|
-| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S to NS-103 W | Pick up rental car and depart directly southwest |
-| **2** | **Old Town Lunenburg** | 105 km (1h 15m) | NS-103 W (Exit 11) | UNESCO 18th-century colorful harbor, Bluenose II berth |
-| **3** | **Mahone Bay Three Churches** | 12 km (15 mins) | Route 3 N | Postcard-perfect three church steeples & artisan bakeries |
-| **4** | **Downtown Halifax Base** | 88 km (1h 05m) | NS-103 E to NS-102 S | Evening arrival at downtown waterfront accommodations |
-
-```mermaid
-graph TD
-    A[Toronto YYZ/YTZ] -->|2h 10m Non-stop Flight| B[Halifax Stanfield Airport YHZ]
-    B -->|Pick up Rental SUV| C[Halifax Waterfront Base]
-    C -->|Optional 50m Drive| D[Peggy's Cove / South Shore Preview]
-    D -->|Return to City| E[Downtown Seafood Dinner & Craft Beer]
-```
+| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S | Land ~11 AM–12 PM AT; decide on rental car pickup (optional today) |
+| **2** | **Downtown Halifax Hotel** | 38 km (40 mins) | NS-102 S | Check in / drop bags at waterfront or downtown property |
+| **3** | **Maritime Museum of the Atlantic** | 5-min walk | Lower Water St | ✅ **6:45 PM reservation** — Titanic wooden artifacts & 1917 Halifax Explosion galleries |
+| **4** | **Waterfront / Argyle St Dinner** | 5-min walk | Boardwalk | Evening seafood dinner after the museum |
 
 ---
 
-## ⏱️ Detailed Timeline & Activity Breakdown
+## ⏱️ Detailed Timeline
 
-### 09:00 AM – 01:00 PM: Flight Departure & Arrival at YHZ
-- **09:00 AM – 11:15 AM**: Morning departure from Toronto Pearson (YYZ) or Billy Bishop (YTZ) via Air Canada, Porter, or WestJet.
-- **12:15 PM – 01:00 PM (Atlantic Time, +1 hr from Toronto)**: Touchdown at **Halifax Stanfield International Airport (YHZ)**.
-- **Airport Car Rental Pick-Up**: Proceed directly to the on-site car rental pavilion on the lower level of the parkade (National, Enterprise, Avis, Hertz). 
-- **Logistics Tip**: Inspect your vehicle thoroughly, secure all-wheel-drive/SUV if possible for highlands driving, and sync your offline Google Maps / Apple Maps.
+### Morning: Toronto → Halifax Non-Stop Flight (PD201)
+- **08:30 AM ET**: Depart **Toronto-Pearson (YYZ), Terminal 3** on **Porter PD201** (Embraer E195-E2) — non-stop, ~2h 07m. *(Outbound confirmed — Conf. L4669V.)*
+- **11:37 AM AT**: Land at **Halifax Stanfield (YHZ)**. Collect bags; if taking the car today, pick it up at the on-site parkade rental pavilion. Otherwise taxi/rideshare to the hotel (~40 min).
 
----
+### 12:30 PM – 06:00 PM: Hotel Check-In & Flexible Afternoon
+- Check in / drop bags at your Halifax hotel (downtown or waterfront).
+- **Afternoon is intentionally flexible**: remote-work window if you're logging Friday hours, or a light orientation — waterfront boardwalk stroll to Queen's Marque, or Citadel Hill perimeter if you're fully free.
+- **Pre-load for tomorrow**: confirm Saturday's early departure, pack an overnight bag arrangement for the car, and set alarms — Saturday is a full scenic drive day.
 
-### 01:30 PM – 04:30 PM: Option A — Halifax Waterfront & Historic Citadel
-*Ideal for a low-key afternoon shaking off the flight.*
+### 06:45 PM – 08:15 PM: Maritime Museum of the Atlantic (✅ LOCKED)
+- **Location**: 1675 Lower Water St, Halifax (44.6493° N, 63.5716° W).
+- **Highlights**: World's largest permanent collection of wooden artifacts recovered from the **RMS Titanic** (which brought victims to Halifax in 1912), the devastating 1917 **Halifax Explosion** exhibit, and the CSS Acadia steamship.
+- **Direct Guide**: [Maritime Museum of the Atlantic Official Site](https://maritimemuseum.novascotia.ca/)
 
-- **01:30 PM – 02:15 PM**: Scenic 35-minute drive (35 km) via NS-102 S into downtown Halifax.
-- **02:15 PM – 03:30 PM**: **Halifax Waterfront Boardwalk Stroll**
-  - **Exertion vs Lounging**: 1.5 km easy paved walk (45 mins walking) + 30 mins harbor watching and visiting Queen's Marque public art installations.
-  - **Direct Guide**: [Halifax Waterfront Official Guide](https://discoverhalifaxns.com/plan/halifax-waterfront/)
-- **03:30 PM – 04:30 PM**: **Halifax Citadel National Historic Site** (Hilltop Lookout)
-  - **Logistics**: Free access to perimeter grounds and panoramic views over Halifax Harbour and Dartmouth. Paid entrance ($13.25/adult) for interior museum exhibits and historical reenactments.
-  - **Direct Guide**: [Parks Canada Citadel Site](https://parks.canada.ca/lhn-nhs/ns/halifax)
+### 08:30 PM – 10:00 PM: Waterfront Welcome Dinner
+- Walk the boardwalk to dinner — fresh Atlantic seafood or an easy waterfront meal (see options below). Early night: tomorrow departs early for the scenic coastal drive to Cape Breton.
 
 ---
 
-### 01:30 PM – 06:00 PM: Option B — South Shore Heritage Excursion (Lunenburg & Mahone Bay)
-*Ideal if arriving early and eager for coastal scenery.*
+## 🍽️ Dining & Restaurant Options (Friday Evening)
 
-- **01:30 PM – 02:45 PM**: Drive 105 km (1 hr 15 min) southwest via NS-103 W to **Old Town Lunenburg** (UNESCO World Heritage Site).
-- **02:45 PM – 04:15 PM**: **Old Town Lunenburg Architectural Walk & Harbourfront**
-  - **Exertion vs Lounging**: 2.0 km gentle uphill/downhill street walk (45 mins) + 45 mins waterfront shipyard browsing and Bluenose II home berth viewing.
-  - **Parking**: Metered street parking along Bluenose Drive and Montague Street.
-  - **Direct Guide**: [Town of Lunenburg Tourism](https://www.explorelunenburg.ca/)
-- **04:30 PM – 05:30 PM**: **Mahone Bay Three Churches & Artisan Shops**
-  - **Drive**: 12 km (15 mins) north along Route 3.
-  - **Highlights**: View the iconic trio of heritage church steeples mirrored across the calm bay waters; sample fresh cream puffs from *The Barn Coffee & Social House*.
-  - **Direct Guide**: [Mahone Bay Tourism](https://mahonebay.com/)
-- **05:30 PM – 06:45 PM**: Drive back to Halifax base (85 km, ~1 hr) via NS-103 E.
-
----
-
-### 07:00 PM – 09:30 PM: Halifax Evening Welcome Feast & Settle In
-- Check into Halifax base accommodation (Waterfront or Downtown Core).
-- Head out on foot along Lower Water Street or Argyle Street for fresh Atlantic oysters, local craft cider, and classic Maritime fare.
-
----
-
-## 🍽️ Dining & Restaurant Options
-
-1. **The Bicycle Thief** *(Halifax Waterfront)*  
+1. **The Bicycle Thief** *(Halifax Waterfront, Bishop's Landing)*  
    - **Drive / Walk**: 5-min walk from waterfront hotels  
    - **Food Type**: North American Italian with fresh Atlantic seafood flair  
    - **Price**: $$$ ($30–$55 CAD per main)  
    - **Google Maps**: [The Bicycle Thief](https://maps.google.com/?q=The+Bicycle+Thief+Halifax)  
-   - **Why Recommended**: The flagship restaurant of Bishop’s Landing right on the harbor; signature dishes include pistachio-crusted Atlantic halibut and handmade lobster ravioli. Reservations essential.
+   - **Why Recommended**: Right on the harbor at Bishop's Landing; pistachio-crusted Atlantic halibut and handmade lobster ravioli. Reservations essential.
 
-2. **Five Fishermen Restaurant** *(Downtown Halifax - Argyle St)*  
-   - **Drive / Walk**: 8-min walk from waterfront  
-   - **Food Type**: Historic fine seafood & oyster bar  
-   - **Price**: $$$–$$$$ ($35–$65 CAD)  
-   - **Google Maps**: [The Five Fishermen Halifax](https://maps.google.com/?q=The+Five+Fishermen+Halifax)  
-   - **Why Recommended**: Located in a 19th-century building with deep history (Titanic mortuary); world-class Atlantic lobster, snow crab, and fresh Digby scallops.
+2. **Drift** *(Queen's Marque, Halifax Waterfront)*  
+   - **Drive / Walk**: On the waterfront boardwalk  
+   - **Food Type**: Modern Atlantic culinary showcase & oceanfront cocktail bar  
+   - **Price**: $$$–$$$$ ($32–$65 CAD)  
+   - **Google Maps**: [Drift Halifax](https://maps.google.com/?q=Drift+Halifax)  
+   - **Why Recommended**: Flagship of the Queen's Marque district; Nova Scotia lobster with buttered hushpuppies and local chanterelles — steps from your hotel and the museum.
 
-3. **King of Donair (KOD)** *(Quinpool Road / Downtown)*  
-   - **Drive / Walk**: 5-min drive or 20-min walk from downtown  
-   - **Food Type**: Authentic Halifax Donair (Official City Food)  
-   - **Price**: $ ($10–$18 CAD)  
-   - **Google Maps**: [King of Donair Quinpool](https://maps.google.com/?q=King+of+Donair+Quinpool+Road+Halifax)  
-   - **Why Recommended**: The original 1973 inventor of the famous Halifax donair—spiced shaved beef, sweet garlic condensed milk sauce, diced tomatoes, and onions on warm pita.
+3. **Shuck Seafood Bar & The Press Gang** *(Downtown Halifax)*  
+   - **Drive / Walk**: 4-min walk from Waterfront  
+   - **Food Type**: Raw oyster bar, fresh ocean catches, historic 1759 stone ambiance  
+   - **Price**: $$$ ($28–$55 CAD)  
+   - **Google Maps**: [The Press Gang Halifax](https://maps.google.com/?q=The+Press+Gang+Halifax)  
+   - **Why Recommended**: One of the oldest surviving stone structures in Halifax; exceptional oysters from around the province.
 
 4. **Salt Yard Social / Waterfront Kiosks** *(Halifax Boardwalk)*  
-   - **Drive / Walk**: On the Halifax boardwalk  
+   - **Drive / Walk**: On the boardwalk en route to the museum  
    - **Food Type**: Casual street eats, lobster rolls, beaver tails, craft beers  
    - **Price**: $$ ($14–$26 CAD)  
    - **Google Maps**: [Halifax Waterfront Boardwalk](https://maps.google.com/?q=Halifax+Waterfront+Boardwalk)  
-   - **Why Recommended**: Perfect for a breezy, quick lunch or afternoon snack right on the wharf while watching harbor ferries and sailboats.
+   - **Why Recommended**: Fast, breezy dinner or post-museum snack right on the wharf.
 
-5. **The Grand Banker Bar & Grill** *(Lunenburg - If choosing Option B)*  
-   - **Drive / Walk**: Located in Lunenburg waterfront  
-   - **Food Type**: Contemporary maritime pub & seafood  
-   - **Price**: $$–$$$ ($22–$40 CAD)  
-   - **Google Maps**: [The Grand Banker Lunenburg](https://maps.google.com/?q=The+Grand+Banker+Bar+and+Grill+Lunenburg)  
-   - **Why Recommended**: Overlooking the Lunenburg harbor; famous for the "LunenBurger" (burger topped with lobster & scallops in tarragon butter) and Acadian seafood chowder.
-
-6. **2 Doors Down Food + Wine** *(Downtown Halifax - Barrington St)*  
+5. **2 Doors Down Food + Wine** *(Downtown Halifax - Barrington St)*  
    - **Drive / Walk**: 6-min walk from Waterfront  
    - **Food Type**: Elevated farm-to-table Nova Scotia bistro  
    - **Price**: $$–$$$ ($24–$38 CAD)  
    - **Google Maps**: [2 Doors Down Halifax](https://maps.google.com/?q=2+Doors+Down+Halifax)  
-   - **Why Recommended**: Hyper-local ingredients, incredible smash burgers, smoked pork belly, and local Annapolis Valley wines on tap.
+   - **Why Recommended**: Hyper-local ingredients, incredible smash burgers, and local Annapolis Valley wines on tap.
+
+6. **King of Donair (KOD)** *(Quinpool Road / Downtown)*  
+   - **Drive / Walk**: 5-min drive or 20-min walk from downtown  
+   - **Food Type**: Authentic Halifax Donair (Official City Food)  
+   - **Price**: $ ($10–$18 CAD)  
+   - **Google Maps**: [King of Donair Quinpool](https://maps.google.com/?q=King+of+Donair+Quinpool+Road+Halifax)  
+   - **Why Recommended**: The 1973 inventor of the Halifax donair — a quick, legendary late bite.
 
 ---
 
 ## 🎒 Gear & Day Preparation
-- **Layered Clothing**: Maritime coastal winds can bring rapid temperature shifts (expect 8°C to 16°C in October). A windproof shell is recommended.
-- **Comfortable Walking Shoes**: Paved waterfront boardwalks and cobblestone/historic wooden wharf surfaces.
+- **Travel Documents**: Passport/ID, printed or digital boarding passes, hotel confirmation, Maritime Museum reservation confirmation.
+- **Layers**: Maritime coastal winds can shift temperatures quickly in October (8–16°C); a windproof shell is recommended for the evening boardwalk.
+- **Tomorrow's Head Start**: Saturday is the long scenic Marine Drive to Baddeck — fuel up on sleep and pack the car the night before if the rental is in hand.

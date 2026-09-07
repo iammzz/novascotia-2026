@@ -2,9 +2,9 @@
 
 !!! info "📋 Current Logistics Status: 🟡 PARTIALLY BOOKED"
     **Core Activity Dates**: October 10 – 14, 2026 (5 Days)  
-    **Buffer Window**: Optional early arrival Oct 8/9 · **Return flight: Day 5 (Wed, Oct 14) evening** · Oct 15/16 only if the Day 6 Bay of Fundy extension is taken  
+    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax night 1) · Cape Breton Oct 10–12 · Halifax night 2 (Tue Oct 13) · **Return flight Wed, Oct 14 afternoon (Day 5)**  
     **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sun, Oct 11 @ 4:00 PM)**  
-    **Immediate Focus**: Lock in Toronto → Halifax roundtrip (return evening Wed Oct 14) and secure Cape Breton accommodations before Celtic Colours festival sell-out.
+    **Immediate Focus**: Lock in Toronto → Halifax roundtrip (**Fri Oct 9 morning out / Wed Oct 14 afternoon return**) and secure Cape Breton accommodations before Celtic Colours festival sell-out.
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Leg | Route | Carrier Options | Target Date Range | Status | Notes / Pricing Target |
 |:---|:---|:---|:---|:---:|:---|
-| **Outbound** | **Toronto (YTZ / YYZ) → Halifax (YHZ)** | Porter Airlines / Air Canada / WestJet | **Oct 8, 9, or 10, 2026** (Morning departure) | 🔴 NOT BOOKED | Direct non-stop (2h 10m). Target fare: $130–$220 CAD one-way. Porter from YTZ or Air Canada from YYZ. |
-| **Inbound** | **Halifax (YHZ) → Toronto (YTZ / YYZ)** | Porter Airlines / Air Canada / WestJet | **Wed, Oct 14, 2026 (Day 5) — evening departure 7:30 PM or later** | 🔴 NOT BOOKED | Direct non-stop (2h 20m). Air Canada YYZ has the best late-evening frequency; Porter's last YTZ hop is often earlier. Target fare: $130–$220 CAD. (Include 1 checked bag for Grohmann knives). Oct 15/16 departure only if the Day 6 Bay of Fundy extension is added. |
+| **Outbound** | **Toronto-Pearson (YYZ) → Halifax (YHZ)** | **Porter Airlines (PD201)** | **Fri, Oct 9, 2026 — 8:30 AM → 11:37 AM AT** | 🟢 **BOOKED — Conf. L4669V** | Embraer E195-E2, YYZ Terminal 3, 2h 07m non-stop. Free Wi-Fi, snacks, beer/wine. *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)* |
+| **Inbound** | **Halifax (YHZ) → Toronto (YTZ / YYZ)** | Porter Airlines / Air Canada / WestJet | **Wed, Oct 14, 2026 (Day 5) — afternoon departure ~2:30 PM or later** | 🔴 NOT BOOKED — **return still to book** | Direct non-stop (2h 20m), lands Toronto ~4:30–6:00 PM ET. Afternoon frequency is best on Air Canada YYZ. Target fare: $130–$220 CAD. (Include 1 checked bag for Grohmann knives). |
 
 ---
 
@@ -25,14 +25,14 @@
 | **Drop-off Location** | Halifax Stanfield Airport (YHZ) | Same location (Avoids one-way drop-off surcharges) | 🔴 NOT BOOKED |
 | **Vehicle Category** | Standard / Full-Size SUV or AWD Crossover | Recommended for Cabot Trail mountain switchbacks and gravel road (Meat Cove) | 🔴 NOT BOOKED |
 | **Preferred Providers** | National Car Rental / Enterprise / Avis / Hertz | Free cancellation reservation recommended immediately | 🔴 NOT BOOKED |
-| **Est. Cost** | ~$75 – $110 CAD / day | Approx. $375 – $550 CAD for 5 days (Oct 10 – 14); more if Day 0 buffer or Day 6 extension added | 🔴 NOT BOOKED |
+| **Est. Cost** | ~$75 – $110 CAD / day | Approx. $375 – $550 CAD for 5 rental days (Sat Oct 10 → Wed Oct 14 drop at YHZ); optional extra day if car taken Fri Oct 9 | 🔴 NOT BOOKED |
 
 ---
 
 ## 🏨 3. Accommodation Hubs & Bases
 
-### Base 1: Cape Breton Hub (Baddeck or Chéticamp) — 3 Nights (Oct 10 – 13)
-*Central launchpad for the Cabot Trail loop, Skyline Trail, and Celtic Colours festivities.*
+### Base 1: Cape Breton Hub (Baddeck or Chéticamp) — 3 Nights (Oct 10 – 12)
+*Central launchpad for the Cabot Trail loop, Skyline Trail, and Celtic Colours festivities. Check out Tue Oct 13 morning for the drive back to Halifax (via Pictou).*
 
 | Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
 |:---|:---|:---:|:---|:---:|
@@ -43,8 +43,8 @@
 
 ---
 
-### Base 2: Downtown Halifax Waterfront — 1 to 3 Nights (Oct 13, + Oct 8/9 buffer)
-*Walkable access to Halifax Harbour boardwalk, Citadel Hill, Argyle Street restaurants, and Peggy's Cove day trips. **Note**: With the Day 5 (Oct 14) evening return flight, you need only the night of Oct 13 in Halifax — add Oct 8/9 only if you take the pre-trip buffer.*
+### Base 2: Downtown Halifax Waterfront — 2 Nights (Fri Oct 9 arrival + Tue Oct 13 pre-flight)
+*Walkable access to Halifax Harbour boardwalk, Maritime Museum, Argyle Street restaurants, and the Saturday departure point for Cape Breton. **Note**: Book BOTH Friday Oct 9 (arrival/museum night) and Tuesday Oct 13 (night before the Wed morning Peggy's Cove + afternoon flight).*
 
 | Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
 |:---|:---|:---:|:---|:---:|
@@ -61,9 +61,9 @@
 |:---|:---|:---:|:---|:---:|
 | **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Alexander Graham Bell NHS gate on Day 1 | 🔴 NOT BOOKED |
 | **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service *(Receipt `receipts/skyline_parking.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
-| **Alexander Keith's Historic Brewery Tour** | ❌ CUT from Day 5 (return day) | — | — | ❌ REMOVED to fit Maritime Museum + evening flight. Revisit only with a very late flight or Day 0 buffer |
-| **Maritime Museum of the Atlantic** | Day 5 (Oct 14) — 2:15 PM | ~$11 / adult | Walk-up admission (Nova Scotia museum — not covered by Discovery Pass); 1.5h visit; closes 5:30 PM | 🟢 MUST-DO / NO BOOKING NEEDED |
-| **Halifax Citadel Perimeter & Noon Gun** | Day 5 (Oct 14) — 12:00 PM | Free | Perimeter ramparts + noon gun firing only (interior exhibits cut) | 🟢 FREE — NO PASS NEEDED |
+| **Alexander Keith's Historic Brewery Tour** | ❌ CUT | — | — | ❌ REMOVED from the plan (Day 5 return-day + Friday museum night). Revisit only if plans change |
+| **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — 6:45 PM** | ~$11 / adult | **Reservation held for Friday evening** (Titanic & 1917 Halifax Explosion galleries). ⚠️ Confirm the 6:45 PM evening entry — regular fall hours close ~5:30 PM | 🟢 RESERVED — FRIDAY EVENING |
+| **Halifax Citadel Perimeter & Noon Gun** | Day 5 (Oct 14) — optional ~11:00 AM | Free | Perimeter ramparts + noon gun only — **only if the return flight is booked 3:30 PM or later** (interior exhibits cut) | 🟡 OPTIONAL — FLIGHT DEPENDENT |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |
 | **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🔴 NOT BOOKED |
 | **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:35 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |

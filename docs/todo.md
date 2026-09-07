@@ -1,35 +1,35 @@
 # 📋 Master To-Do & Booking Checklist: Nova Scotia 2026
 
 !!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
-    **Core Activity Dates**: **October 10 – 14, 2026**  
-    **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight** — Oct 15/16 return only if the Day 6 Bay of Fundy extension is taken.  
-    **Current Status**: 🟢 **Skyline Trail Parking confirmed for Sunday, Oct 11 @ 4:00 PM**! Immediate next priority: Lock in the Toronto → Halifax roundtrip (return evening Oct 14) and Cape Breton accommodations.
+    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax night 1 + Maritime Museum evening) · Cape Breton Oct 10–12 · Halifax night 2 (Tue Oct 13) · **Return flight Wed, Oct 14 afternoon (Day 5)**
+    **Current Status**: 🟢 **Skyline Trail Parking confirmed for Sunday, Oct 11 @ 4:00 PM**! Next priorities: Book Toronto → Halifax flights (Fri AM out / Wed PM afternoon return) + Halifax hotels (Oct 9 & 13) + confirm Maritime Museum evening entry.
 
 ---
 
-## ✅ Trip Structure Decision (Locked Sep 2026)
-- **5-Day Strict Core selected**: Sat Oct 10 morning → **Wed Oct 14 evening return** (questions.md Option B).
-- **Day 5 return-day cuts**: ❌ Alexander Keith's 1820 Brewery Tour · ❌ Citadel paid interior exhibits (free perimeter + noon gun only) · ❌ Evening farewell feast (now a 12:45 PM farewell lobster lunch).
-- **Day 5 must-do**: ✅ Maritime Museum of the Atlantic (2:15 PM – 3:45 PM, Titanic & 1917 Halifax Explosion galleries).
-- **Day 6 (Bay of Fundy)**: now optional — only if return flight is pushed to Oct 15/16.
+## ✅ Trip Structure Decision (Locked)
+- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail → Tue Pictou/Grohmann return to Halifax → Wed Peggy's Cove sunrise + afternoon flight home.
+- **Day 0 (Fri Oct 9)**: Morning arrival + Halifax hotel + **Maritime Museum 6:45 PM reservation**. Rental car optional that day (decision pending) — Friday is walkable.
+- **Day 5 (Wed Oct 14)**: Peggy's Cove sunrise + waterfront farewell + **afternoon return flight (~2:30 PM+)**. Maritime Museum already done Friday — no return-day museum squeeze.
+- **Cuts**: ❌ Alexander Keith's tour · ❌ Citadel interior (perimeter/noon gun optional Wed if flight is 3:30 PM+) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (already dropped).
 
 ---
 
 ## 🚀 Phase 1: Core Logistics & Flight Bookings (Target: Q1–Q2 2026)
 
 - [ ] **Flight Value Analysis & Date Lock**:
-  - [ ] Compare Porter Airlines (YTZ & YYZ) vs Air Canada (YYZ) for outbound Oct 8, 9, vs 10.
-  - [ ] Compare return flight prices for **Wednesday Oct 14 evening (Day 5, target 7:30 PM+ departure)** — Oct 15/16 only if adding the Day 6 Bay of Fundy extension.
-  - [ ] Book roundtrip non-stop flights between Toronto and Halifax (YHZ).
+- [x] **Outbound flight BOOKED**: **Porter PD201, Fri Oct 9, 8:30 AM YYZ (T3) → 11:37 AM YHZ** — Conf. L4669V (Embraer E195-E2). *(Receipt in `receipts/Itinerary - Porter Airlines.pdf`)*
+  - [ ] **Return flight still to book**: Wednesday, Oct 14 afternoon (YHZ → YYZ/YTZ, ~2:30 PM or later departure).
   - [ ] Ensure return flight ticket includes at least 1 checked bag (mandatory for flying home with Grohmann Knives purchased in Pictou).
-- [ ] **Rental Vehicle Reservation (YHZ)**:
-  - [ ] Reserve AWD SUV or Crossover via National / Enterprise / Avis (YHZ pickup & drop-off).
+- [ ] **Rental Vehicle Reservation**:
+  - [ ] Decide: take the car Friday Oct 9 (YHZ pickup on arrival, downtown hotel parking ~$25–40/night) OR skip it Friday and pick up **Saturday morning from a downtown Halifax branch** (National / Enterprise / Avis / Hertz all have downtown offices).
+  - [ ] Reserve AWD SUV or Crossover — pickup **Sat Oct 10** (downtown or YHZ) → drop-off **Wed Oct 14 ~12:30 PM at YHZ** (~5 days).
   - [ ] Confirm unlimited kilometers and secondary driver coverage.
-- [ ] **Cape Breton Accommodation (Oct 10 – 13 / 3 Nights)**:
+- [ ] **Cape Breton Accommodation (Oct 10 – 12 / 3 Nights)**:
   - [ ] Select base style: Central Hub (Baddeck - *Inverary Resort* or *Silver Dart Lodge*) vs Split Base (*Laurie's Chéticamp* + *Keltic Lodge Ingonish*).
   - [ ] Reserve Cape Breton lodgings with free cancellation.
-- [ ] **Halifax Downtown Accommodation (Oct 13 + optional Oct 8/9 buffer)**:
-  - [ ] Reserve 1 night in downtown Halifax for Oct 13 (pre-flight evening) — *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, or *The Prince George*. Add Oct 8/9 nights only if the pre-trip buffer is taken.
+- [ ] **Halifax Downtown Accommodation — TWO nights (Oct 9 arrival + Oct 13 pre-flight)**:
+  - [ ] Reserve **Fri Oct 9** (arrival/museum night) — waterfront or downtown near the Maritime Museum: *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Muir*, or *The Prince George*.
+  - [ ] Reserve **Tue Oct 13** (night before Wed Peggy's Cove + afternoon flight) — same property or similar.
 
 ---
 
@@ -45,10 +45,11 @@
   - [ ] Check Celtic Colours 2026 artist lineup (released July 2026).
   - [ ] Purchase tickets for Saturday Oct 10 or Sunday Oct 11 evening concerts in Baddeck / Chéticamp / St. Ann's.
 - [ ] **Tours & Dining Reservations**:
-  - [ ] ~~Book Alexander Keith's Historic 1820 Brewery Tour (Day 5)~~ ❌ **CUT** — removed to fit the Maritime Museum + evening return flight.
-  - [ ] Note: **Maritime Museum of the Atlantic** (Day 5, 2:15 PM) is walk-up admission (~$11/adult); confirm hours the morning of Day 5.
-  - [ ] Reserve farewell **lobster lunch** table near the waterfront boardwalk (Day 5 ~12:45 PM — e.g., *Cable Wharf Kitchen* or *Shuck*).
-  - [ ] Reserve dinner table at *The Freight Shed* or *Baddeck Lobster Suppers* (Day 1).
+  - [ ] ~~Book Alexander Keith's Historic 1820 Brewery Tour~~ ❌ **CUT**.
+  - [ ] **Maritime Museum of the Atlantic** (Fri Oct 9, 6:45 PM): confirm reservation + that the evening entry is valid (regular fall hours close ~5:30 PM).
+  - [ ] Reserve dinner table near the Halifax waterfront for **Fri Oct 9 after the museum** (*The Bicycle Thief* / *Drift* / *Shuck*).
+  - [ ] Reserve dinner table at *The Freight Shed* or *Baddeck Lobster Suppers* (Sat Oct 10).
+  - [ ] Check **Celtic Colours Saturday Oct 10** concert/ceilidh tickets (on sale ~July 2026) — Baddeck / St. Ann's / Chéticamp.
   - [ ] Confirm Grohmann Knives factory production hours for Tuesday, Oct 13 (weekday craft operations run until ~3:00 PM; retail showroom open until 5:00 PM).
 
 ---

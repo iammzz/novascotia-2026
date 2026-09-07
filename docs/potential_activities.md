@@ -136,10 +136,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### Iconic Sights & Urban Heritage
 
-#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Perimeter + Noon Gun Only)</span>
+#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟡 ON CURRENT ITINERARY — Day 5 (Optional, Flight-Dependent)</span>
 - **Location**: Downtown Halifax atop Citadel Hill.
 - **Details**: 19th-century star-shaped bastion fortress overlooking Halifax Harbour. Features the firing of the historic 24-pounder smoothbore cannon precisely at 12:00 PM daily by the 78th Highlanders in full military regalia.
-- **Day 5 Scope (return day)**: ❌ **Paid interior exhibits CUT** to protect the evening flight buffer. ✅ Free perimeter ramparts walk + 12:00 PM noon gun firing only.
+- **Day 5 Scope (Wed return morning)**: ❌ **Paid interior exhibits CUT**. ✅ Free perimeter ramparts walk + 12:00 PM noon gun firing — **only if the return flight is booked 3:30 PM or later** (otherwise head straight from Peggy's Cove to the airport).
 - **Direct Guide**: [Parks Canada Halifax Citadel](https://parks.canada.ca/lhn-nhs/ns/halifax)
 
 #### 20. Halifax Harbour Waterfront Boardwalk <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
@@ -147,10 +147,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: 4.4 km of continuous wooden harbor boardwalk. Home to Queen's Marque public art, Cable Wharf, floating beer gardens, seaside hammocks, and fresh oyster shacks.
 - **Direct Guide**: [Discover Halifax Waterfront](https://discoverhalifaxns.com/plan/halifax-waterfront/)
 
-#### 21. Maritime Museum of the Atlantic (Titanic Exhibit) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 ✅ MUST-DO</span>
+#### 21. Maritime Museum of the Atlantic (Titanic Exhibit) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 0 (Fri, 6:45 PM) ✅ RESERVED</span>
 - **Location**: 1675 Lower Water St, Halifax.
 - **Details**: Houses the world’s largest and most significant collection of wooden artifacts recovered from the 1912 *RMS Titanic* sinking, plus comprehensive exhibits on the 1917 Halifax Explosion.
-- **Day 5 Scheduling**: 2:15 – 3:45 PM (Oct 14), immediately before the YHZ airport run. Walk-up admission ~$11/adult (not covered by Discovery Pass); open 9:30 AM – 5:30 PM. Chosen over the Alexander Keith's tour as the single must-do Halifax indoor attraction.
+- **Day 0 Scheduling (Fri Oct 9)**: **6:45 PM evening reservation — LOCKED**. World's largest collection of RMS Titanic wooden artifacts (victims brought to Halifax in 1912) + 1917 Halifax Explosion exhibit. ~$11/adult (not covered by Discovery Pass). ⚠️ Regular fall hours close ~5:30 PM — confirm the 6:45 PM evening booking is a valid entry/special program. Chosen over the Alexander Keith's tour as the single must-do Halifax indoor attraction.
 - **Direct Guide**: [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/)
 
 #### 22. Canadian Museum of Immigration at Pier 21 <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION (Canada's Ellis Island)</span>
@@ -175,7 +175,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 #### 25. Alexander Keith's Historic 1820 Brewery Tour <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 WEATHER BACKUP / INDOOR (Cut from Day 5)</span>
 - **Location**: 1496 Lower Water St, Halifax.
 - **Details**: Interactive theatrical tour of the oldest commercial brewery in North America, concluding with private tastings and traditional folk music in the subterranean Stag's Head Tavern.
-- **Status**: ❌ **Removed from Day 5 (Oct 14 return day)** to fit the Maritime Museum must-do + evening flight. Revisit only if you book a very late (9 PM+) return flight, add a Day 0 buffer, or if rain ruins the Peggy's Cove morning.
+- **Status**: ❌ **Removed from the plan** (Keith's is a downtown Halifax tour; with the Maritime Museum moved to Friday evening and a Wed afternoon return, there's no slot). Revisit only if a big Halifax gap appears or rain ruins the Peggy's Cove morning.
 - **Direct Guide**: [Alexander Keith's Brewery](https://www.keiths.ca/)
 
 #### 26. Authentic Halifax Donair Crawl <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
@@ -248,7 +248,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### UNESCO Ports & Granite Headlands
 
-#### 37. Peggy's Point Lighthouse & Village <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5</span>
+#### 37. Peggy's Point Lighthouse & Village <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Wed Sunrise)</span>
 - **Location**: Route 333 (45 min from Halifax).
 - **Details**: Canada’s most famous lighthouse perched on ancient white granite boulders above pounding Atlantic surf. Working dory fishing harbor and artisan shops. *(⚠️ Never step on wet black rocks!)*
 - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)

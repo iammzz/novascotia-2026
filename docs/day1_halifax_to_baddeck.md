@@ -2,8 +2,8 @@
 
 !!! note "Core Itinerary Day 1 — Saturday, October 10, 2026"
     **Base Camp**: Baddeck, Cape Breton Island (Bras d'Or Lakes)  
-    **Total Driving Distance**: ~355 km (approx. 3.5 – 4.0 hours total drive time)  
-    **Primary Focus**: Scenic transit from mainland Nova Scotia across the Canso Causeway to Cape Breton, visiting Alexander Graham Bell estate, and catching the evening Celtic Colours festive atmosphere.
+    **Total Driving Distance**: ~355 km direct (approx. 3.5–4.0 h) · ~460–480 km via the scenic Marine Drive coastal route (approx. 5.5–6.0 h with stops)
+    **Primary Focus**: You already landed in Halifax Friday — today you drive out to Cape Breton. **🟡 Saturday route still pending (your call): Path B = scenic Marine Drive (Route 7, Eastern Shore) + Sherbrooke Village** (ocean views, adds ~1.5–2 h) **OR Path A = faster direct highway + Alexander Graham Bell NHS**. Either way you end the day with **Baddeck Lobster Suppers + a Celtic Colours Saturday evening concert/ceilidh**.
 
 ---
 

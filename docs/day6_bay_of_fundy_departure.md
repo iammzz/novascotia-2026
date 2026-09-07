@@ -1,7 +1,7 @@
 # 🍷 Day 6: Optional Post-Trip Extension — Bay of Fundy Tides & Wine Country
 
-!!! info "⚠️ Optional Extension Only (Thursday Oct 15 or Friday Oct 16, 2026) — NOT the default return day"
-    **The plan's return-to-Toronto day is Day 5 (Wed, Oct 14) evening** — see [Day 5](day5_halifax_peggys_cove.md). This Day 6 itinerary applies **only if you choose to push your YHZ return flight to Oct 15/16** (flight-price permitting) to add the Bay of Fundy and Annapolis Valley.  
+!!! info "⚠️ RETIRED — not part of the current plan"
+    **The locked return-to-Toronto day is Day 5 (Wed, Oct 14) afternoon** — see [Day 5](day5_halifax_peggys_cove.md). This Day 6 itinerary applies **only if you later push the YHZ return flight to Oct 15/16** to add the Bay of Fundy and Annapolis Valley.  
     **Base Camp**: Annapolis Valley or Airport Transit  
     **Total Driving Distance**: ~190 km to ~240 km (Halifax → Annapolis Valley / Fundy → YHZ Airport)  
     **Primary Goal**: Hike the magnificent **Cape Split Trail** above the Bay of Fundy's world-record tides, tour **Annapolis Valley Wine Country**, and catch an evening flight back to Toronto from the extension day instead.

@@ -9,7 +9,7 @@ This document contains strategic research, cost-benefit analyses, and route opti
 ### The Thanksgiving Weekend Fare Dynamics (Oct 9–12, 2026)
 Canadian Thanksgiving falls on **Monday, October 12, 2026**. This creates massive holiday demand spikes for departures on Friday afternoon (Oct 9) and return flights on Monday evening (Oct 12). 
 
-By structuring our trip around the **core activity window (Oct 10–14)** we keep the trip tight: outbound Sat Oct 10 morning and **return flight on Day 5 (Wed Oct 14) evening**. Optional travel buffers (Oct 8/9 early arrival, Oct 15/16 late departure) exist only to unlock further fare savings or add the Day 6 Bay of Fundy extension.
+By structuring our trip around the core window we keep it tight: **arrival flight Fri, Oct 9 morning** (Halifax hotel + Maritime Museum evening) and a **return flight Wed, Oct 14 afternoon (Day 5)** after a Peggy's Cove sunrise morning. The Day 6 Bay of Fundy extension (Oct 15/16) is retired unless the return is pushed back.
 
 ---
 
@@ -30,8 +30,8 @@ By structuring our trip around the **core activity window (Oct 10–14)** we kee
 |:---|:---|:---|:---:|:---|
 | **Thu, Oct 8 (Early Buffer)** | **Wed, Oct 14 (Post-Core)** | **$260 – $390 CAD** | 🟢 **Excellent** | Avoids holiday rush completely. Low fares, full weekend in Cape Breton, uncrowded check-in. |
 | **Thu, Oct 8 (Early Buffer)** | **Thu, Oct 15 (Buffer Extension)** | **$270 – $410 CAD** | 🟢 **Best Value** | Full 7 days. Adds Annapolis Valley wine tour & Bay of Fundy high tides. Highly recommended. |
-| **Fri, Oct 9 (Holiday Eve)** | **Wed, Oct 14 (Post-Core)** | **$380 – $550 CAD** | 🟡 **Moderate** | High Friday afternoon demand. Morning flights cheaper than evening flights. |
-| **Sat, Oct 10 (Core Start)** | **Wed, Oct 14 (Core End)** | **$340 – $480 CAD** | 🟢 **Good — ⭐ SELECTED (Day 5)** | Saturday morning departures are significantly cheaper than Friday evening. **This is the locked 5-Day plan: return evening Wed Oct 14 (Day 5).** |
+| **Fri, Oct 9 (Arrival Day)** | **Wed, Oct 14 (Afternoon Return)** | **$380 – $550 CAD** | 🟡 **Moderate — ⭐ SELECTED** | **Locked plan**: morning Fri Oct 9 arrival (Halifax hotel + Maritime Museum 6:45 PM), return flight Wed Oct 14 **afternoon (~2:30 PM+)**. Morning outbound avoids Friday-evening holiday surge; book morning flights for lower fares. |
+| ~~**Sat, Oct 10 (Core Start)**~~ | **Wed, Oct 14 (Core End)** | $340 – $480 CAD | 🔵 **Superseded** | ~~SELECTED~~ — no longer used: arrival moved to **Fri Oct 9 morning** so the Maritime Museum anchors Day 0 (Friday evening). |
 | **Sat, Oct 10 (Core Start)** | **Mon, Oct 12 (Thanksgiving Return)** | **$550 – $750+ CAD** | 🔴 **Avoid** | Extreme holiday peak return prices; truncates Cape Breton and Halifax activities. |
 | **Sat, Oct 10 (Core Start)** | **Fri, Oct 16 (Late Buffer)** | **$290 – $420 CAD** | 🟢 **Superb** | Ample time for PEI side-trip or South Shore deep dive with low midweek return fare. |
 
