@@ -3,7 +3,7 @@
 !!! success "Final Day (Return to Toronto) — Wednesday, October 14, 2026"
     **Base Camp**: Downtown Halifax → **Halifax Stanfield Airport (YHZ)**  
     **Total Driving Distance**: ~135 km (Peggy's Cove round-trip + YHZ transit)  
-    **Primary Goal**: Catch the **sunrise at Peggy's Point Lighthouse**, keep the morning + midday for unhurried **Peggy's Cove & Halifax area time**, then catch the **evening non-stop flight home to Toronto**.
+    **Primary Goal**: Keep Wednesday as unhurried **Peggy's Cove & Halifax area time** — the **20:15 flight means the day does NOT need an early start** (you only need to be at YHZ ~18:15). A 6:45 AM sunrise arrival is an optional photographer's bonus, not a requirement.
 
 !!! success "✈️ Return Flight BOOKED — WestJet WS811"
     **Wed, Oct 14 · 20:15 Halifax (YHZ) → 21:45 Toronto-Pearson (YYZ)** · Non-stop 2h 30m · Boeing 737 MAX 8 · Reservation **OEFTZF** · UltraBasic fare, $226.76 paid. *(Receipt: `receipts/WestJet.pdf`)*.  
@@ -42,9 +42,15 @@ graph TD
 ```
 ---
 
-## ⏱️ Detailed Timeline & Activity Breakdown
+## ⏱️ Detailed Timeline — Two Ways to Play Wednesday
 
-### 06:45 AM – 10:00 AM: Peggy's Cove Sunrise & Granite Coastline
+!!! note "🕐 The day is yours"
+    **WS811 departs 20:15** — you only need to hand the car back / reach YHZ by ~**18:00–18:15** (2 h before departure). That makes Day 5 the most relaxed day of the trip. Pick a mode:
+    - **🌅 Sunrise mode**: depart 6:45 AM → Peggy's 7:30–10:00 (sunrise ~7:40) → Citadel noon gun → lunch → YHZ 5:45. *(For photographers; current detailed timeline below.)*
+    - **😴 Relaxed mode**: sleep in, leave ~9:30 AM → Peggy's 10:30–12:30 midday → lunch → afternoon boardwalk (or Citadel noon gun first, Peggy's after) → YHZ ~5:00–5:45. **Nova Glamping variant**: 8:00 AM boat off the island → Peggy's ~8:35 AM → noon gun → lunch → YHZ ~5:45.
+    - **Only hard rules**: at the Citadel by ~11:45 if you want the noon gun; at YHZ by ~18:00–18:15 for WS811.
+
+### 06:45 AM – 10:00 AM: 🌅 Sunrise Mode — Peggy's Point Lighthouse at Dawn
 *Sunrise in mid-October is ~7:40 AM — you'll have the lighthouse to yourselves before the tour buses roll in.*
 
 - **06:45 AM – 07:30 AM**: Depart downtown Halifax via NS-333 W (Prospect Road) in the pre-dawn light (45 km). Car stays packed — after lunch you go straight to the airport.
@@ -67,9 +73,10 @@ graph TD
 - Boardwalk wander, last harbour photos, final souvenir stop (or hotel lounge if you checked out).
 - *Optional add-on — **your call** (stays cut until you say otherwise): the **Alexander Keith's 1820 Brewery Tour** could now fit (tours run through ~4:30 PM) given the evening flight, but per your earlier decision it remains cut.*
 
-### 05:45 PM – 08:15 PM: Transit & Evening Flight Home
-- **05:45 PM – 06:25 PM**: Drive 38 km via NS-102 N to **Halifax Stanfield Airport (YHZ)**.
-- **06:25 PM – 07:45 PM**: Refuel the rental car, return keys at the airport rental garage, **check the pre-added bag** (Grohmann Knives + wine — never carry-on; UltraBasic has no carry-on at all), and clear security.
+### 03:00 PM – 08:15 PM: Afternoon Slack, Airport & Evening Flight Home
+- **03:00 PM – 04:30 PM**: Unhurried afternoon — last boardwalk pass, souvenir stop, or hotel lounge. (In Sunrise mode this is where the earlier timeline lands; in Relaxed mode you roll straight from lunch into it.)
+- **04:30 PM – 05:05 PM**: Drive 38 km via NS-102 N to **Halifax Stanfield Airport (YHZ)** (depart as late as ~5:00 PM — the 18:00–18:15 arrival target has huge cushion).
+- **05:05 PM – 07:45 PM**: Refuel the rental car, return keys at the airport rental garage, **check the pre-added/shipped bag** (Grohmann Knives + wine — never carry-on; UltraBasic has no carry-on at all), and clear security.
 - **08:15 PM – 09:45 PM**: **WestJet WS811** non-stop to Toronto-Pearson (Boeing 737 MAX 8, 2h 30m). Land 21:45 ET — late night home, plan accordingly.
 
 ---
