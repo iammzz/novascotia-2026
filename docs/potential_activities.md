@@ -100,9 +100,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### Culture, Heritage & Single Malt Spirits
 
-#### 13. Alexander Graham Bell National Historic Site <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 1</span>
+#### 13. Alexander Graham Bell National Historic Site <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 OPTIONAL — CUT from Day 1 (Marine Drive)</span>
 - **Location**: Baddeck (Bras d'Or Lake).
 - **Details**: Expansive lakeside museum complex housing Bell's original laboratory artifacts, the HD-4 hydrofoil boat, tetrahedral kites, early airplanes (*Silver Dart*), and telephone prototypes.
+- **Status**: ❌ **Cut from Day 1** — with the Marine Drive scenic route locked, you won't reach Baddeck in time before its ~5 PM close. Revisit only as an optional Baddeck morning add-on if a day has slack.
 - **Direct Guide**: [Parks Canada Alexander Graham Bell NHS](https://parks.canada.ca/lhn-nhs/ns/grahambell)
 
 #### 14. The Gaelic College (Colaisde na Gàidhlig) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>

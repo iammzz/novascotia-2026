@@ -1,141 +1,142 @@
-# 🚗 Day 1: Halifax to Cape Breton Island & The Bras d'Or Lakes
+# 🚗 Day 1: Marine Drive (Eastern Shore) — Halifax to Cape Breton & Baddeck
 
 !!! note "Core Itinerary Day 1 — Saturday, October 10, 2026"
     **Base Camp**: Baddeck, Cape Breton Island (Bras d'Or Lakes)  
-    **Total Driving Distance**: ~355 km direct (approx. 3.5–4.0 h) · ~460–480 km via the scenic Marine Drive coastal route (approx. 5.5–6.0 h with stops)
-    **Primary Focus**: You already landed in Halifax Friday — today you drive out to Cape Breton. **🟡 Saturday route still pending (your call): Path B = scenic Marine Drive (Route 7, Eastern Shore) + Sherbrooke Village** (ocean views, adds ~1.5–2 h) **OR Path A = faster direct highway + Alexander Graham Bell NHS**. Either way you end the day with **Baddeck Lobster Suppers + a Celtic Colours Saturday evening concert/ceilidh**.
+    **Total Driving Distance**: ~405 km via the **Marine Drive (Route 7, Southeast/Eastern Shore) coastal route** (approx. 5.0 h driving + ~2 h stops)  
+    **Primary Focus**: You landed in Halifax Friday — today you take the **scenic southeast detour along Route 7** (ocean on your right), with beach, coastal-lookout, and historic-village stops, cross the Canso Causeway onto Cape Breton, and land in Baddeck for **Baddeck Lobster Suppers + a Celtic Colours Saturday evening ceilidh**.
+
+!!! success "✅ Route LOCKED — Path B (Marine Drive / Eastern Shore)"
+    - ❌ **Alexander Graham Bell NHS dropped** (its 5 PM close doesn't work on this slower scenic day).
+    - ❌ Direct NS-102/NS-104 highway + Masstown Market skipped (that was Path A).
+    - ✅ Coastal lookouts, beaches, Sherbrooke Village, Guysborough & the causeway crossing instead.
 
 ---
 
 ## 🗺️ Route Map & Overview
 
-Today marks the start of the Cape Breton expedition. You leave the Halifax metro area, travel northeast along the Trans-Canada Highway through rolling autumn hills, cross the engineering marvel of the Canso Causeway onto Cape Breton Island, and arrive at the tranquil lakeside village of **Baddeck**—the historic launchpad of the Cabot Trail.
+The **Marine Drive (Route 7)** hugs the Atlantic coast northeast from Halifax — golden-sand beaches, fishing harbours, granite headlands, and historic villages — before rejoining the Trans-Canada at the Canso Causeway for the final run into Baddeck. The ocean stays on your right the whole way.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 1 Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Waterfront%2C+Halifax%2C+NS/Masstown+Market%2C+Nova+Scotia+Trunk+2%2C+Masstown%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Alexander+Graham+Bell+National+Historic+Site%2C+Chebucto+Street%2C+Baddeck%2C+NS/Baddeck+Community+Wharf%2C+Chebucto+Street%2C+Baddeck%2C+NS){:target="_blank"} (~360 km, ~3h 50m total drive)  
-    *Click to launch live GPS turn-by-turn driving directions pre-routed through all 5 waypoints from Halifax to Baddeck.*
+    **Direct Navigation Link**: [**👉 Open Day 1 (Marine Drive) Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Train+Station%2C+1161+Hollis+Street%2C+Halifax%2C+NS/Musquodoboit+Harbour%2C+NS/Martinique+Beach+Provincial+Park%2C+NS/Tangier%2C+NS/Sheet+Harbour%2C+NS/Taylor+Head+Provincial+Park%2C+NS/Sherbrooke+Village%2C+Sherbrooke%2C+NS/Guysborough%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Baddeck%2C+NS){:target="_blank"} (~405 km, ~5 h drive)  
+    *Click to launch live GPS turn-by-turn navigation through all 10 waypoints from the Halifax Train Station to Baddeck.*
 
 ### 📍 Route Stops Breakdown
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Downtown Halifax Base** | — | NS-102 N | Morning departure heading north through Colchester County hardwood ridges |
-| **2** | **Masstown Market** | 105 km (1h 05m) | NS-102 N to NS-104 W (Exit 12) | Fresh Honeycrisp apples, hot seafood chowder, Cape Breton oatcakes & fuel |
-| **3** | **Canso Causeway Visitor Centre** | 175 km (1h 50m) | NS-104 E (Trans-Canada) | Cross 1.3 km rock-fill causeway onto Cape Breton; Celtic Colours schedules & maps |
-| **4** | **Alexander Graham Bell NHS** | 75 km (55 mins) | NS-105 N (Trans-Canada) | Bell's lakeside laboratory, full-scale Silver Dart replica, HD-4 hydrofoil boat |
-| **5** | **Baddeck Community Wharf & Base** | 2 km (5 mins) | Chebucto St | Evening lakeside boardwalk on Bras d'Or Lake, check-in, lobster dinner & pub ceilidh |
+| **1** | **Halifax Train Station (rental pickup)** | — | Route 7 (Marine Dr) | Pick up National car 9:00 AM; coffee to go |
+| **2** | **Martinique Beach Provincial Park** | 55 km (55 mins) | Route 7 | 🏖️ Longest sand beach in Nova Scotia — ocean stretch stop |
+| **3** | **Tangier** | 35 km (30 mins) | Route 7 | 🦞 Tangier Lobster Co. — fresh lobster roll & working harbour |
+| **4** | **Taylor Head Provincial Park** | 50 km (45 mins) | Route 7 → Spry Bay Rd | 👁️ **Coastal lookout hike** — granite headland over the Atlantic |
+| **5** | **Sherbrooke Village** | 45 km (40 mins) | Route 7 | 🏘️ Living 1860s heritage village (Nova Scotia Museum) — main stop |
+| **6** | **Guysborough** | 55 km (45 mins) | Route 7 | ⚓ Historic harbour overlook & coffee |
+| **7** | **Canso Causeway Visitor Centre** | 55 km (45 mins) | NS-104 E (Trans-Canada) | 🌊 Cross 1.3 km causeway onto Cape Breton; watch the Strait of Canso tidal currents |
+| **8** | **Baddeck Community Wharf & Base** | 75 km (50 mins) | NS-105 N | Evening on Bras d'Or Lake, lobster dinner & Celtic Colours ceilidh |
 
 ```mermaid
 graph LR
-    A[Halifax Base] -->|1h 05m / 105 km| B[Masstown Market Pitstop]
-    B -->|1h 50m / 175 km| C[Canso Causeway & Visitor Centre]
-    C -->|55m / 75 km| D[Baddeck / Bras d'Or Lake Base]
-    D -->|Afternoon Activity| E[Alexander Graham Bell NHS]
-    E -->|Evening| F[Traditional Cape Breton Ceilidh / Dinner]
+    A[Halifax Train Station 9:00 AM] -->|55m / 55 km| B[Martinique Beach]
+    B -->|30m / 35 km| C[Tangier Lobster Roll Lunch]
+    C -->|45m / 50 km| D[Taylor Head Lookout Hike]
+    D -->|40m / 45 km| E[Sherbrooke Village]
+    E -->|45m / 55 km| F[Guysborough Harbour]
+    F -->|45m / 55 km| G[Canso Causeway Crossing]
+    G -->|50m / 75 km| H[Baddeck — Dinner & Ceilidh]
 ```
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown
 
-### 08:30 AM – 10:00 AM: Departure from Halifax & Drive North
-- **08:30 AM – 09:45 AM**: Pack the vehicle and depart Halifax via NS-102 N toward Truro (100 km).
-- Watch the autumn colors deepen as you transition from coastal pine forest to deciduous maple-birch hardwood ridges through Colchester County.
+### 09:00 AM – 10:00 AM: Rental Pickup & Marine Drive Start
+- **09:00 AM – 09:20 AM**: Pick up the **National rental** at the Halifax Train Station (Enterprise, 1161 Hollis St), load bags, grab coffee.
+- **09:20 AM – 10:05 AM**: Depart Halifax east on **Route 7 (Marine Drive)** through **Musquodoboit Harbour** — the official gateway of the scenic drive. Autumn coastal light over the inlet.
+
+### 10:05 AM – 10:50 AM: Martinique Beach Provincial Park 🏖️
+- **10:05 AM – 10:50 AM**: **Martinique Beach** — Nova Scotia's **longest sand beach** (~5 km). Walk the firm sand and scan the surf; often near-empty in October. Ocean-facing stretch stop before the day's real drive begins.
+- **Direct Guide**: [Martinique Beach Provincial Park](https://parks.novascotia.ca/content/martinique-beach)
+
+### 10:50 AM – 12:00 PM: Tangier — Lobster Roll & Working Harbour 🦞
+- **10:50 AM – 11:20 AM**: Drive Route 7 to **Tangier** (30 mins).
+- **11:20 AM – 12:00 PM**: **Tangier Lobster Co.** — a classic Eastern Shore seafood shack right at the harbour; pick up a fresh **lobster roll** or chowder for an early lunch while lobster boats bob alongside.
+- **Direct Guide**: [Tangier Lobster Co.](https://www.tangierlobster.com/)
+
+### 12:00 PM – 01:45 PM: Taylor Head Provincial Park — Coastal Lookout 👁️
+- **12:00 PM – 12:45 PM**: Continue Route 7 through **Sheet Harbour** (quick fuel/coffee option) then turn off via **Spry Bay Road** to Taylor Head Provincial Park (45 mins total).
+- **12:45 PM – 01:45 PM**: **Taylor Head lookout walk** — the **Bolton Head / beach-and-headland loop** (~1 h) climbs onto an Atlantic granite headland with sweeping ocean views, sea stacks, and (on clear days) distant whale spouts. This is the signature lookout of the day.
+  - **Exertion vs Lounging**: ~3.5 km loop, easy–moderate; sturdy footwear.
+- **Direct Guide**: [Taylor Head Provincial Park](https://parks.novascotia.ca/content/taylor-head)
+
+### 01:45 PM – 03:30 PM: Sherbrooke Village — Living 1860s Heritage 🏘️
+- **01:45 PM – 02:25 PM**: Drive Route 7 past Liscomb to **Sherbrooke** (40 mins).
+- **02:25 PM – 03:30 PM**: **Sherbrooke Village** — a Nova Scotia Museum living-history village of 60+ buildings, where costumed interpreters demonstrate the gold-rush-era trades of the 1860s. **The anchor stop of the Marine Drive.**
+  - **Exertion vs Lounging**: ~1 h self-guided stroll through the heritage streetscape + working craft shops.
+  - **Logistics**: Admission ~$11/adult (Nova Scotia Museum pass/Discovery Pass varies); check fall hours (often last entry ~3:30–4 PM).
+- **Direct Guide**: [Sherbrooke Village](https://sherbrookevillage.novascotia.ca/)
+
+### 03:30 PM – 05:00 PM: Guysborough Harbour & the Canso Causeway Crossing 🌊
+- **03:30 PM – 04:15 PM**: Drive Route 7 to historic **Guysborough**; short stop at the **Guysborough Harbour overlook** for a last mainland coastal view (and optional *DesBarres Manor* porch coffee).
+- **04:15 PM – 05:00 PM**: Continue to **Port Hastings** and **cross the Canso Causeway** (1.3 km rock-fill causeway, built 1955) onto Cape Breton Island. **Pull off at the Port Hastings Welcome Centre** — the tidal current rushing through the causeway's ice-melting culverts is a sight in itself, and the centre has free maps + Celtic Colours schedules.
+- **Direct Guide**: [Cape Breton Tourism Official Portal](https://www.cbisland.com/)
+
+### 05:00 PM – 06:30 PM: Bras d'Or Lakes Drive to Baddeck
+- **05:00 PM – 05:50 PM**: Take **NS-105 N** 75 km along the northern arms of **Bras d'Or Lake** — Canada's largest inland sea and a UNESCO Biosphere Reserve — golden-hour over the water.
+- **06:00 PM – 06:30 PM**: Check in at your **Baddeck base** (Inverary Resort, Silver Dart Lodge, or lakeside cottage).
+
+### 06:30 PM – 10:00 PM: Lobster Dinner & Celtic Colours Ceilidh 🎻
+- **06:30 PM – 08:30 PM**: **Baddeck Lobster Suppers** (or The Freight Shed) — the classic all-you-can-eat mussels + whole steamed lobster.
+- **09:00 PM – 10:00 PM**: **Celtic Colours Saturday-night ceilidh** — Sat Oct 10 is a peak festival night; fiddle, step-dancing and Gaelic song at a Baddeck/St. Ann's venue. *(Tickets on sale ~July 2026 — see To-Do.)*
 
 ---
 
-### 10:00 AM – 11:00 AM: Legendary Pitstop at Masstown Market
-- **10:00 AM – 10:45 AM**: **Masstown Market Exploration & Provisioning**
-  - **Location**: 10622 Nova Scotia Trunk 2, Masstown, NS.
-  - **Exertion vs Lounging**: 15 mins casual market walking + 30 mins bakery browsing & coffee sampling.
-  - **Why It's Essential**: Atlantic Canada’s premier farm market. Stock up on fresh Nova Scotia Honeycrisp apples, Cape Breton oatcakes, local cheeses, smoked salmon, and hot chowder from the Lighthouse Deli.
-  - **Direct Guide**: [Masstown Market Official Site](https://masstownmarket.com/)
-- **10:45 AM – 11:00 AM**: Fuel up the car and merge onto NS-104 E (Trans-Canada Highway) towards Cape Breton.
+## 🍽️ Dining & Restaurant Options (Marine Drive lunch + Baddeck dinner)
 
----
+1. **Tangier Lobster Co.** *(Tangier Harbour — Day 1 lunch)*  
+   - **Drive / Walk**: On Route 7 at Tangier  
+   - **Food Type**: Fresh Eastern Shore lobster rolls & chowder, dockside  
+   - **Price**: $$–$$$ ($16–$40 CAD)  
+   - **Google Maps**: [Tangier Lobster Co.](https://maps.google.com/?q=Tangier+Lobster+Co+Tangier+NS)  
+   - **Why Recommended**: The quintessential Marine Drive lobster roll, eaten at the source while the boats come in.
 
-### 11:00 AM – 01:15 PM: Crossing the Canso Causeway to Cape Breton
-- **11:00 AM – 12:45 PM**: Drive 175 km east along NS-104 through New Glasgow and Antigonish.
-- **12:45 PM – 01:15 PM**: **Canso Causeway & Cape Breton Island Welcome Centre**
-  - **Exertion vs Lounging**: 10 mins easy walk along the causeway lookout + 20 mins inside the visitor centre.
-  - **Logistics**: The Canso Causeway (built 1955) carries road and rail across the 1.3 km Strait of Canso. Pull off at the Port Hastings Welcome Pavilion for free official maps, Cabot Trail driving advisories, and local event schedules for the *Celtic Colours International Festival*.
-  - **Direct Guide**: [Cape Breton Tourism Official Portal](https://www.cbisland.com/)
-
----
-
-### 01:15 PM – 02:30 PM: Scenic Bras d'Or Lakes Drive to Baddeck
-- **01:15 PM – 02:15 PM**: Take NS-105 N (Trans-Canada) 75 km across rolling Cape Breton countryside running along the northern arms of the Bras d'Or Lake—Canada's largest inland sea and a UNESCO Biosphere Reserve.
-- **02:15 PM – 02:45 PM**: Arrive in Baddeck and check in to your base accommodation (e.g., Inverary Resort, Silver Dart Lodge, or lakeside cottage).
-
----
-
-### 03:00 PM – 05:00 PM: Alexander Graham Bell National Historic Site
-- **03:00 PM – 05:00 PM**: **Explore Bell's Laboratory & Invention Showcase**
-  - **Location**: 559 Chebucto St, Baddeck (overlooking Baddeck Bay).
-  - **Exertion vs Lounging**: 1.0 km self-guided indoor/outdoor museum walking (1 hour) + 1 hour examining the full-scale Silver Dart replica, early hydrofoil watercraft (HD-4), tetrahedral kites, and audio-visual displays.
-  - **Logistics**: Admission is ~$9.00/adult (or included with Parks Canada Discovery Pass). Free on-site parking.
-  - **Direct Guide**: [Parks Canada Alexander Graham Bell NHS](https://parks.canada.ca/lhn-nhs/ns/grahambell)
-
----
-
-### 05:15 PM – 06:15 PM: Baddeck Waterfront Stroll & Village Discovery
-- **05:15 PM – 06:15 PM**: **Baddeck Boardwalk & Kidston Island Viewpoint**
-  - **Exertion vs Lounging**: 1.5 km easy flat shoreline walking (35 mins) + 25 mins sitting on the wharf docks watching sailing yachts and bald eagles diving for fish.
-  - **Highlights**: Stroll past the Bras d'Or Yacht Club, the Baddeck Community Wharf, and local artisan shops on Chebucto Street (Baddeck Yarns, local pottery, and woodworking).
-
----
-
-### 06:30 PM – 09:30 PM: Maritime Seafood Dinner & Live Celtic Pub Session
-- Savor fresh local Atlantic lobster, halibut, or mussels in Baddeck.
-- Experience live fiddle and acoustic guitar music at a local pub or community hall during the peak October festival season.
-
----
-
-## 🍽️ Dining & Restaurant Options
-
-1. **The Bite House / Baddeck Waterfront Dining (The Freight Shed)** *(Baddeck Waterfront)*  
-   - **Drive / Walk**: 3-min walk from Baddeck center  
-   - **Food Type**: Waterfront bistro featuring hyper-local Cape Breton seafood & craft cocktails  
-   - **Price**: $$$ ($28–$48 CAD)  
-   - **Google Maps**: [The Freight Shed Baddeck](https://maps.google.com/?q=The+Freight+Shed+Baddeck+NS)  
-   - **Why Recommended**: Premier dining right on the government wharf with floor-to-ceiling glass overlooking Bras d'Or Lake. Renowned for oysters on the half shell, seared scallops, and duck confit.
-
-2. **Baddeck Lobster Suppers** *(Ross Street, Baddeck)*  
+2. **Baddeck Lobster Suppers** *(Ross Street, Baddeck — dinner)*  
    - **Drive / Walk**: 2-min drive / 8-min walk from village core  
    - **Food Type**: Traditional Atlantic Canada Lobster Supper  
    - **Price**: $$$ ($38–$60 CAD for full supper)  
    - **Google Maps**: [Baddeck Lobster Suppers](https://maps.google.com/?q=Baddeck+Lobster+Suppers+NS)  
-   - **Why Recommended**: The classic Nova Scotia experience—all-you-can-eat Cape Breton mussels and seafood chowder followed by a whole steamed Atlantic lobster with drawn butter and warm biscuits.
+   - **Why Recommended**: The classic Nova Scotia experience—all-you-can-eat Cape Breton mussels and chowder followed by a whole steamed Atlantic lobster with drawn butter.
 
-3. **High Roller Pizza & Donair** *(Chebucto St, Baddeck)*  
-   - **Drive / Walk**: In the heart of Baddeck  
-   - **Food Type**: Casual pizza, donairs, poutine, pub eats  
+3. **The Freight Shed** *(Baddeck Waterfront — dinner)*  
+   - **Drive / Walk**: On the government wharf, Baddeck  
+   - **Food Type**: Waterfront bistro, hyper-local seafood & craft cocktails  
+   - **Price**: $$$ ($28–$48 CAD)  
+   - **Google Maps**: [The Freight Shed Baddeck](https://maps.google.com/?q=The+Freight+Shed+Baddeck+NS)  
+   - **Why Recommended**: Premier dining with floor-to-ceiling glass over Bras d'Or Lake — oysters, seared scallops, duck confit.
+
+4. **High Roller Pizza & Donair** *(Chebucto St, Baddeck — casual)*  
+   - **Drive / Walk**: Heart of Baddeck  
+   - **Food Type**: Pizza, donairs, poutine, pub eats  
    - **Price**: $–$$ ($12–$22 CAD)  
    - **Google Maps**: [High Roller Pizza Baddeck](https://maps.google.com/?q=High+Roller+Pizza+Baddeck+NS)  
-   - **Why Recommended**: Fast, hearty comfort food with generous portions—great for a casual lunch or late-night bite.
+   - **Why Recommended**: Fast comfort food if the ceilidh runs late and you want a quick bite.
 
-4. **Lakeside Restaurant at Inverary Resort** *(Shore Road, Baddeck)*  
+5. **Lakeside Restaurant at Inverary Resort** *(Shore Road, Baddeck)*  
    - **Drive / Walk**: 3-min drive from Baddeck downtown  
    - **Food Type**: Upscale Maritime fine dining & wine list  
    - **Price**: $$$–$$$$ ($32–$55 CAD)  
    - **Google Maps**: [Inverary Resort Baddeck](https://maps.google.com/?q=Inverary+Resort+Baddeck+NS)  
-   - **Why Recommended**: Romantic lakeside dining with panoramic water views, roasted Atlantic salmon, braised short ribs, and an extensive selection of Nova Scotia craft beers.
+   - **Why Recommended**: Romantic lakeside dining with panoramic water views, roasted Atlantic salmon, braised short ribs.
 
-5. **Tom's Pizza** *(Chebucto St, Baddeck)*  
-   - **Drive / Walk**: Downtown Baddeck  
-   - **Food Type**: Cape Breton-style pizza and garlic fingers  
-   - **Price**: $$ ($15–$25 CAD)  
-   - **Google Maps**: [Toms Pizza Baddeck](https://maps.google.com/?q=Toms+Pizza+Baddeck+NS)  
-   - **Why Recommended**: A long-standing local staple beloved for its thick-crust garlic fingers served with authentic sweet donair dipping sauce.
-
-6. **The Herring Choker Deli & Cafe** *(Nyanza, 10 min west of Baddeck)*  
+6. **The Herring Choker Deli & Cafe** *(Nyanza, 10 min west of Baddeck — breakfast/next day)*  
    - **Drive / Walk**: 10-min drive west along Highway 105  
    - **Food Type**: Artisan bakery, gourmet sandwiches, organic coffee  
    - **Price**: $–$$ ($8–$18 CAD)  
    - **Google Maps**: [Herring Choker Deli Nyanza](https://maps.google.com/?q=The+Herring+Choker+Deli+Nyanza+NS)  
-   - **Why Recommended**: Legendary roadside café known for house-baked sourdough, specialty cheeses, and hot homemade soups.
+   - **Why Recommended**: Legendary roadside café for tomorrow's early-morning coffee and sourdough before the Skyline day.
 
 ---
 
 ## 🎒 Gear & Day Preparation
-- **Parks Canada Pass**: Purchase your annual Discovery Pass or day passes at the Alexander Graham Bell NHS counter to cover Cape Breton Highlands National Park over the next two days.
-- **Layers & Headwear**: Evening temperatures beside the Bras d'Or Lakes drop quickly in October (5°C to 10°C). Bring a warm fleece and knit beanie.
+- **Parks Canada Pass**: Pick up your Discovery Pass / day pass at **Sherbrooke Village** or **Port Hastings Visitor Centre** to cover Cape Breton Highlands National Park (Skyline is tomorrow — Sun Oct 11).
+- **Layers & Headwear**: Coastal wind off the Atlantic at Martinique/Taylor Head is brisk in October (5–10°C) — windproof shell + warm fleece.
+- **Sturdy Footwear**: For the Taylor Head lookout walk (and tomorrow's Skyline).
+- **Fuel**: Top up at **Sheet Harbour** mid-route; next reliable stations are around the causeway.
+- **Timing Note**: Sherbrooke Village's fall closing (often ~4 PM last entry) sets the pace — aim to be there by 2:30 PM.

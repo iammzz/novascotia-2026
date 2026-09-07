@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ### 🍁 Core Activity Days (The Must-Do Window: Oct 10–14)
 | Day | Date | Primary Focus & Key Activities | Base Camp | Drive / Time | Intensity |
 |:---|:---|:---|:---|:---|:---:|
-| [**Day 1**](day1_halifax_to_baddeck.md) | **Sat, Oct 10** | Halifax to Cape Breton: Masstown Market, Canso Causeway, Alexander Graham Bell NHS, Bras d'Or Lakes | Baddeck | ~355 km (~4h) | ⭐⭐ |
+| [**Day 1**](day1_halifax_to_baddeck.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Martinique Beach, Taylor Head lookout, Sherbrooke Village, Guysborough, Canso Causeway → Baddeck + Celtic Colours ceilidh | Baddeck | ~405 km (~5h) | ⭐⭐ |
 | [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike** | Chéticamp / Baddeck | ~145 km (~2.5h) | ⭐⭐⭐ |
 | [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey | Ingonish / Baddeck | ~180 km (~3h) | ⭐⭐⭐⭐ |
 | [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | **Uisge Bàn Falls Hike**, The Gaelic College, **Pictou Waterfront & Grohmann Knives Factory Tour**, evening Halifax North End | Downtown Halifax | ~439 km (~4.5h) | ⭐⭐ |
