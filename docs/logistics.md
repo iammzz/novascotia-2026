@@ -17,15 +17,17 @@
 
 ---
 
-## 🚗 2. Ground Transportation: Rental Vehicle (YHZ)
+## 🚗 2. Ground Transportation: Rental Vehicle (Enterprise — Train Station → YHZ)
 
 | Parameter | Specification | Details | Status |
 |:---|:---|:---|:---:|
-| **Pick-up Location** | Halifax Stanfield Airport (YHZ) | Airport On-Site Rental Car Garage (Lower level parkade) | 🔴 NOT BOOKED |
-| **Drop-off Location** | Halifax Stanfield Airport (YHZ) | Same location (Avoids one-way drop-off surcharges) | 🔴 NOT BOOKED |
+| **Pick-up Location** | **Enterprise — Halifax Train Station** (1161 Hollis St, downtown) | ~10–15 min walk from waterfront hotels; no car needed Friday | 🟡 DECIDED — verify |
+| **Pick-up Time** | **Sat, Oct 10, 9:00 AM** | On the road ~9:20–9:30 AM → Baddeck ~5:00–5:30 PM via scenic Marine Drive | 🟡 DECIDED — verify |
+| **Drop-off Location** | Halifax Stanfield Airport (YHZ) | Same-city drop, no one-way surcharge | 🟡 DECIDED — verify |
+| **Drop-off Time** | **Wed, Oct 14, ~6:00 PM (18:00–18:30 max)** | ⚠️ NOT 7:30 PM — WS811 departs 20:15; return the car ~2h before to clear security | ⚠️ CHANGE REQUIRED |
 | **Vehicle Category** | Standard / Full-Size SUV or AWD Crossover | Recommended for Cabot Trail mountain switchbacks and gravel road (Meat Cove) | 🔴 NOT BOOKED |
 | **Preferred Providers** | National Car Rental / Enterprise / Avis / Hertz | Free cancellation reservation recommended immediately | 🔴 NOT BOOKED |
-| **Est. Cost** | ~$75 – $110 CAD / day | Approx. $375 – $550 CAD for 5 rental days (Sat Oct 10 → Wed Oct 14 drop at YHZ); optional extra day if car taken Fri Oct 9 | 🔴 NOT BOOKED |
+| **Est. Cost** | ~$75 – $110 CAD / day | Approx. $375 – $550 CAD for 5 rental days (Sat Oct 10 → Wed Oct 14 drop at YHZ) | 🔴 NOT BOOKED |
 
 ---
 

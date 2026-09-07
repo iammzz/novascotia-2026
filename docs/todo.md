@@ -22,8 +22,8 @@
   - [ ] Add flight reminders to calendar for both flights (PD201 out / WS811 return).
 - [ ] **Rental Vehicle Reservation**:
   - [ ] Decide: take the car Friday Oct 9 (YHZ pickup on arrival, downtown hotel parking ~$25–40/night) OR skip it Friday and pick up **Saturday morning from a downtown Halifax branch** (National / Enterprise / Avis / Hertz all have downtown offices).
-  - [ ] Reserve AWD SUV or Crossover — pickup **Sat Oct 10** (downtown or YHZ) → drop-off **Wed Oct 14 ~12:30 PM at YHZ** (~5 days).
-  - [ ] Confirm unlimited kilometers and secondary driver coverage.
+  - [x] **Rental plan (verify before booking)**: pickup **Sat Oct 10, 9:00 AM at Enterprise — Halifax Train Station** (downtown, ~10–15 min walk from waterfront hotels; no car needed Friday) → return **Wed Oct 14, ~6:00 PM at YHZ — ⚠️ NOT 7:30 PM**: WS811 departs 20:15, so hand the car back ~2h before (18:00–18:30 max) to clear security in time. ~5 rental days either way.
+  - [ ] Confirm **unlimited kilometers** (~1,300 km total) + refuel-before-return (gas on Hwy 102 near YHZ, not the airport station) + secondary driver coverage.
 - [ ] **Cape Breton Accommodation (Oct 10 – 12 / 3 Nights)**:
   - [ ] Select base style: Central Hub (Baddeck - *Inverary Resort* or *Silver Dart Lodge*) vs Split Base (*Laurie's Chéticamp* + *Keltic Lodge Ingonish*).
   - [ ] Reserve Cape Breton lodgings with free cancellation.
