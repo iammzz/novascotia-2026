@@ -40,7 +40,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Why It's Legendary**: Follows a narrow, rocky peninsula jutting straight out into the ocean, separating South Bay Ingonish from North Bay. Panoramic cliffs, crashing waves, and frequent grey seal sightings.
 - **Direct Guide**: [Parks Canada Middle Head Trail](https://parks.canada.ca/pn-np/ns/cbreton/activ/randonnee-hiking/middle-head)
 
-#### 4. Uisge Bàn Falls Canyon Trail <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>
+#### 4. Uisge Bàn Falls Canyon Trail <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 OPTIONAL — CUT from Day 4</span>
 - **Location**: Baddeck / Victoria County.
 - **Stats**: 2.7 km return | 60 m gain | 1.0 – 1.5 hours duration.
 - **Why It's Legendary**: (*Gaelic for "White Water"*). A peaceful, accessible river canyon walk beneath towering sugar maples and yellow birches leading to a dramatic 16-meter (50 ft) waterfall spilling down sheer granite cliffs.
@@ -106,7 +106,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Status**: ❌ **Cut from Day 1** — with the Marine Drive scenic route locked, you won't reach Baddeck in time before its ~5 PM close. Revisit only as an optional Baddeck morning add-on if a day has slack.
 - **Direct Guide**: [Parks Canada Alexander Graham Bell NHS](https://parks.canada.ca/lhn-nhs/ns/grahambell)
 
-#### 14. The Gaelic College (Colaisde na Gàidhlig) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>
+#### 14. The Gaelic College (Colaisde na Gàidhlig) <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 OPTIONAL — CUT from Day 4</span>
 - **Location**: St. Ann's (Cabot Trail).
 - **Details**: The sole North American institution dedicated to Highland Gaelic culture, language, weaving, kilt making, and traditional Cape Breton fiddle instruction.
 - **Direct Guide**: [The Gaelic College Official Portal](https://gaeliccollege.edu/)

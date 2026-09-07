@@ -7,7 +7,7 @@
 ---
 
 ## ✅ Trip Structure Decision (Locked)
-- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail → Tue Pictou/Grohmann return to Halifax → Wed Peggy's Cove sunrise + **evening flight home (WS811 20:15)**.
+- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Skyline (booked) → Mon eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann return to Halifax → Wed Peggy's Cove sunrise + **evening flight home (WS811 20:15)**.
 - **Day 0 (Fri Oct 9)**: Morning arrival + Halifax hotel + **Maritime Museum 6:45 PM reservation**. Rental car optional that day (decision pending) — Friday is walkable.
 - **Day 5 (Wed Oct 14)**: Peggy's Cove sunrise + **Citadel noon gun (restored)** + farewell lunch + **evening return flight WS811 20:15 (booked)**. Maritime Museum already done Friday — no return-day museum squeeze.
 - **Cuts**: ❌ Alexander Keith's tour (temporarily — could fit the Wed afternoon gap if you opt back in) · ❌ Citadel interior exhibits (free perimeter + noon gun only) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (already dropped).
@@ -26,8 +26,8 @@
   - [ ] ⚠️ **Vehicle is Intermediate (Mazda 3)** — decide whether to upgrade to SUV/AWD for the Cabot Trail / Meat Cove gravel.
   - [ ] Confirm insurance: decline National's LDW if your credit card covers rental CDW (saves ~$25–35/day).
   - [ ] Refuel-before-return (gas on Hwy 102 near YHZ, not the airport station).
-- [ ] **Cape Breton Accommodation (Oct 10 – 12 / 3 Nights)**:
-  - [ ] Select base style: Central Hub (Baddeck - *Inverary Resort* or *Silver Dart Lodge*) vs Split Base (*Laurie's Chéticamp* + *Keltic Lodge Ingonish*).
+- [x] **Cape Breton Accommodation — PARTIALY BOOKED**: Mon Oct 12 night at **Keltic Resort, Ingonish** ✅ (Res. #27835, $324.43, 2 adults).
+  - [ ] Still open: **Sat Oct 10 + Sun Oct 11 nights** — Central Hub (Baddeck - *Inverary Resort* / *Silver Dart Lodge*) vs Split Base (*Laurie's Chéticamp* for Skyline night). Keltic Mon night is already set, so pick these around it.
   - [ ] Reserve Cape Breton lodgings with free cancellation.
 - [ ] **Halifax Downtown Accommodation — TWO nights (Oct 9 arrival + Oct 13 pre-flight)**:
   - [ ] Reserve **Fri Oct 9** (arrival/museum night) — waterfront or downtown near the Maritime Museum: *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Muir*, or *The Prince George*.

@@ -34,15 +34,15 @@
 
 ## 🏨 3. Accommodation Hubs & Bases
 
-### Base 1: Cape Breton Hub (Baddeck or Chéticamp) — 3 Nights (Oct 10 – 12)
-*Central launchpad for the Cabot Trail loop, Skyline Trail, and Celtic Colours festivities. Check out Tue Oct 13 morning for the drive back to Halifax (via Pictou).*
+### Base 1: Cape Breton Split Base — 2 nights flexible (Oct 10–11) + 🟢 BOOKED Mon night (Oct 12, Keltic Resort, Ingonish)
+*Central launchpad for the Cabot Trail loop, Skyline Trail, and Celtic Colours festivities. **Booked**: Mon Oct 12 at the **Keltic Resort, Ingonish** (Res. #27835). Still open: Sat Oct 10 + Sun Oct 11 nights (Baddeck or Chéticamp — decide after Skyline timing).*
 
 | Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
 |:---|:---|:---:|:---|:---:|
 | **Inverary Resort** *(Baddeck)* | Lakeside Resort & Spa | $220 – $320 CAD | Waterfront on Bras d'Or Lake, indoor pool, on-site dining, 5-min walk to town. | 🔴 NOT BOOKED |
 | **Silver Dart Lodge** *(Baddeck)* | Scenic Hilltop Lodge | $180 – $260 CAD | Sweeping panoramic views of the lake, quiet Chalet-style rooms. | 🔴 NOT BOOKED |
 | **Auberge Doucet Inn / Laurie's Motor Inn** *(Chéticamp)* | Acadian Motel / Inn | $160 – $240 CAD | 20 mins from Skyline Trailhead—ideal if splitting base for sunset hike. | 🔴 NOT BOOKED |
-| **Keltic Lodge at the Highlands** *(Ingonish Beach)* | Historic Luxury Resort | $290 – $450 CAD | Perched on the Middle Head cliffs; legendary Highlands golf and dining. | 🔴 NOT BOOKED |
+| **Keltic Resort at the Highlands** *(Ingonish Beach)* | Historic Luxury Resort | $290 – $450 CAD | 🟢 **BOOKED — Mon Oct 12 night**: Res. #27835, Corson House (Double with View), **$324.43** total (rate $276.30 + tax $48.13), check-in 4 PM. *(Receipt: `receipts/keltic.pdf`)* | 🟢 BOOKED |
 
 ---
 
@@ -69,4 +69,4 @@
 | **Halifax Citadel Perimeter & Noon Gun** | Day 5 (Oct 14) — 11:00 AM | Free | ✅ **RESTORED** — the 20:15 flight leaves room for free perimeter ramparts + 12:00 PM noon gun (interior exhibits cut) | 🟢 FREE — CONFIRMED |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |
 | **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🔴 NOT BOOKED |
-| **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:35 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |
+| **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:00 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |

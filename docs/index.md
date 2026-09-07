@@ -69,8 +69,8 @@ document.addEventListener("DOMContentLoaded", function() {
 |:---|:---|:---|:---|:---|:---:|
 | [**Day 1**](day1_halifax_to_baddeck.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Martinique Beach, Taylor Head lookout, Sherbrooke Village, Guysborough, Canso Causeway → Baddeck + Celtic Colours ceilidh | Baddeck | ~405 km (~5h) | ⭐⭐ |
 | [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike** | Chéticamp / Baddeck | ~145 km (~2.5h) | ⭐⭐⭐ |
-| [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey | Ingonish / Baddeck | ~180 km (~3h) | ⭐⭐⭐⭐ |
-| [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | **Uisge Bàn Falls Hike**, The Gaelic College, **Pictou Waterfront & Grohmann Knives Factory Tour**, evening Halifax North End | Downtown Halifax | ~439 km (~4.5h) | ⭐⭐ |
+| [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey — **night at the Keltic Resort Ingonish (BOOKED)** | Ingonish | ~190 km (~3.2h) | ⭐⭐⭐⭐ |
+| [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | Check out of Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → evening Halifax North End | Downtown Halifax | ~465 km (~5.2h) | ⭐⭐ |
 | [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | 🌅 **Peggy's Cove sunrise**, Citadel noon gun, farewell lunch & **evening return flight (WestJet WS811, 20:15)** (Maritime Museum already done Fri) | Halifax → YHZ | ~150 km (~2.5h) | ⭐⭐ |
 
 ---

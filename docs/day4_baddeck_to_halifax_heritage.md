@@ -2,8 +2,8 @@
 
 !!! note "Core Itinerary Day 4 — Tuesday, October 13, 2026"
     **Base Camp**: Downtown Halifax  
-    **Total Driving Distance**: ~439 km (approx. 4.5 hours total drive time)  
-    **Primary Goal**: Hike the hardwood gorge of **Uisge Bàn Falls**, explore living Celtic traditions at **The Gaelic College**, tour the historic **Grohmann Knives Factory & Outlet** in the Scottish seaside port of **Pictou**, explore the historic **Pictou Waterfront & Ship Hector**, and settle into Halifax for an evening in the trendy North End.
+    **Total Driving Distance**: ~465 km (approx. 5h 15m total drive time)  
+    **Primary Goal**: Check out of the **Keltic Resort (Ingonish)**, cross back to the mainland, tour the historic **Grohmann Knives Factory & Outlet** in the Scottish seaside port of **Pictou**, explore the **Hector Heritage Quay** (and grab Pictou County pizza!), and settle into Halifax for an evening in the trendy North End.
 
 ---
 
@@ -12,71 +12,38 @@
 Today you transition from Cape Breton’s Celtic heartland back to the cosmopolitan capital of Halifax, featuring a classic detour along Nova Scotia's Northumberland Shore to **Pictou**—the "Birthplace of New Scotland" and home of world-renowned handcrafted **Grohmann Knives**.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 4 Route in Google Maps**](https://www.google.com/maps/dir/Baddeck%2C+NS/Uisge+B%C3%A0n+Falls+Provincial+Park%2C+Baddeck%2C+NS/The+Gaelic+College%2C+Cabot+Trail%2C+Saint+Ann%27s%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/Downtown+Halifax%2C+Halifax%2C+NS){:target="_blank"} (~439 km, ~4h 30m total drive)  
-    *Click to launch live GPS turn-by-turn navigation through all 7 stops from Baddeck to Uisge Bàn Falls, The Gaelic College, Pictou & Grohmann Knives, and Downtown Halifax.*
+    **Direct Navigation Link**: [**👉 Open Day 4 Route in Google Maps**](https://www.google.com/maps/dir/Keltic+Lodge+at+the+Highlands%2C+Ingonish+Beach%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/Downtown+Halifax%2C+Halifax%2C+NS){:target="_blank"} (~465 km, ~5h 15m total drive)  
+    *Click to launch live GPS turn-by-turn navigation from the Keltic Resort (Ingonish) across the Canso Causeway to Pictou (Grohmann Knives & Hector Quay) and Downtown Halifax.*
 
 ### 📍 Route Stops Breakdown
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Baddeck Base** | — | NS-205 to North Branch Rd | Morning departure to hidden river canyon |
-| **2** | **Uisge Bàn Falls Provincial Park** | 14 km (15 mins) | North Branch Rd | 2.7 km autumn gorge hike to 16m cascading waterfall |
-| **3** | **The Gaelic College (Colaisde na Gàidhlig)** | 25 km (25 mins) | NS-205 to Cabot Trail (St. Ann's) | Great Hall of the Clans, living Gaelic culture & kilt making |
-| **4** | **Canso Causeway Mainland Crossing** | 95 km (1h 10m) | NS-105 S (Trans-Canada) | Transit across Bras d'Or lakeshore back onto mainland Nova Scotia |
-| **5** | **Grohmann Knives Factory & Outlet** | 140 km (1h 20m) | NS-104 W to NS-106 N (Exit 22) | Handcrafted knife factory tour, MoMA design #1, discount seconds showroom |
-| **6** | **Hector Heritage Quay & Waterfront** | 1 km (3 mins) | Caladh Ave / Water St | Ship Hector restoration ("Birthplace of New Scotland") & Pictou County pizza |
-| **7** | **Downtown Halifax Base** | 165 km (1h 45m) | NS-106 S to NS-102 S | Evening arrival at Halifax base, North End brewery & culinary crawl |
+| **1** | **Keltic Resort (Ingonish) Base** | — | Cabot Trail S | 🟢 Morning departure south off the Ingonish peninsula |
+| **2** | **Canso Causeway Mainland Crossing** | 235 km (2h 30m) | Cabot Trail → NS-105 S → NS-104 E | Transit through St. Ann's / Baddeck back onto mainland Nova Scotia |
+| **3** | **Grohmann Knives Factory & Outlet** | 130 km (1h 20m) | NS-104 W to NS-106 N (Exit 22) | Handcrafted knife factory tour, MoMA design #1, discount seconds showroom |
+| **4** | **Hector Heritage Quay & Waterfront** | 1 km (3 mins) | Caladh Ave / Water St | Ship Hector restoration ("Birthplace of New Scotland") & Pictou County pizza |
+| **5** | **Downtown Halifax Base** | 165 km (1h 45m) | NS-106 S to NS-102 S | Evening arrival at Halifax base, North End brewery & culinary crawl |
 
 ```mermaid
 graph LR
-    A[Baddeck Base] -->|15m / 14 km| B[Uisge Bàn Falls Hike 2.7 km]
-    B -->|25m / 25 km| C[The Gaelic College St. Ann's]
-    C -->|1h 10m / 95 km| D[Canso Causeway Mainland Crossing]
-    D -->|1h 20m / 140 km| E[Pictou: Grohmann Knives & Hector Quay]
-    E -->|1h 45m / 165 km| F[Downtown Halifax Base Check-In]
-    F -->|Evening| G[North End Halifax Craft Beers & Dining]
+    A[Keltic Resort, Ingonish] -->|2h 30m / 235 km| B[Canso Causeway Mainland Crossing]
+    B -->|1h 20m / 130 km| C[Pictou: Grohmann Knives & Hector Quay]
+    C -->|1h 45m / 165 km| D[Downtown Halifax Base Check-In]
+    D -->|Evening| E[North End Halifax Craft Beers & Dining]
 ```
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown
 
-### 08:30 AM – 10:15 AM: Uisge Bàn Falls Provincial Park Hike
-*A serene Gaelic river gorge beneath a golden maple canopy.*
-
-- **08:30 AM – 08:50 AM**: Drive 14 km north from Baddeck along NS-205 and North Branch Road to **Uisge Bàn Falls Provincial Park**.
-- **08:50 AM – 10:15 AM**: **Uisge Bàn Falls Canyon Trail**
-  - **Trailhead Coordinates**: 46.1989° N, 60.8016° W (Paved parking lot with picnic tables and trail kiosks; free entry).
-  - **Trail Specifications**: 2.7 km return | 60 m elevation gain | 1.0 – 1.25 hours duration.
-  - **Exertion vs Lounging**: 45 mins brisk walk along the roaring North Branch Baddeck River + 30 mins standing in the mist of the 16-meter (50 ft) waterfall cascading down sheer granite rock faces surrounded by vibrant yellow birches and red maples.
-  - **Direct Guides**:
-    - [Nova Scotia Parks Uisge Bàn Falls](https://parks.novascotia.ca/park/uisge-ban-falls)
-    - [AllTrails Uisge Bàn Falls Trail](https://www.alltrails.com/trail/canada/nova-scotia/uisge-ban-falls-trail)
+### 09:30 AM – 02:00 PM: Check Out of the Keltic Resort & Scenic Drive to Pictou
+*Officially checkout is 11:00 AM at the Keltic Resort — aim to load the car by ~10:00–10:30 AM to protect the Grohmann factory visit.*
+- **09:30 AM – 10:30 AM**: Morning coffee + final Ingonish views (Middle Head dawn walk if the light is good), then load up and check out.
+- **10:30 AM – 02:00 PM**: Drive south on the **Cabot Trail** through St. Ann's and Baddeck, then west on **NS-105 S / NS-104 E**, **crossing the Canso Causeway** back onto mainland Nova Scotia, and on to **Pictou** (~300 km, ~3h 30m incl. short causeway/map stop at Port Hastings).
 
 ---
 
-### 10:30 AM – 11:45 AM: The Gaelic College & St. Ann's Bay
-- **10:30 AM – 10:55 AM**: Drive 25 km east to **The Gaelic College (Colaisde na Gàidhlig)** at St. Ann's.
-- **10:55 AM – 11:45 AM**: **Great Hall of the Clans & Living Gaelic Heritage**
-  - **Location**: 51779 Cabot Trail, St. Ann's, NS (46.2163° N, 60.6276° W).
-  - **Exertion vs Lounging**: 35 mins self-guided museum exhibit walk + 15 mins observing kilt-making, Gaelic milling songs, and Cape Breton fiddle history.
-  - **Highlights**: The only institution of its kind in North America dedicated to the preservation of Scottish Gaelic language, music, dance, and Highland craft.
-  - **Direct Guide**: [The Gaelic College Official Portal](https://gaeliccollege.edu/)
-
----
-
-### 11:45 AM – 01:15 PM: Scenic Drive to Mainland Crossing
-- **11:45 AM – 01:00 PM**: Drive south along NS-105 past Whycocomagh, running alongside the sparkling waters of Bras d'Or Lake (~95 km).
-- **01:00 PM – 01:15 PM**: Cross back over the **Canso Causeway** into mainland Nova Scotia (Port Hastings to Aulds Cove).
-
----
-
-### 01:15 PM – 02:35 PM: Highway 104 West to Pictou
-- **01:15 PM – 02:35 PM**: Cruise west along NS-104 through Antigonish towards New Glasgow, taking Exit 22 onto NS-106 North straight into the historic seaside town of **Pictou** (~140 km, ~1h 20m drive).
-- Admire the pastoral farmland and coastal rolling hills of the Northumberland Shore.
-
----
-
-### 02:35 PM – 04:30 PM: Historic Pictou & The Grohmann Knife Factory
+### 02:00 PM – 04:30 PM: Historic Pictou & The Grohmann Knife Factory
 *Tour Canada's most celebrated knifemaker, explore the Birthplace of New Scotland, and taste authentic Pictou County brown-sauce pizza.*
 
 #### 1. Grohmann Knives Factory Tour & Retail Seconds Outlet
