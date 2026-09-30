@@ -104,4 +104,4 @@ Use this section to note preferences as you discuss:
 4. **Must-Do Novelty Pick**: (e.g., *Tidal Bore Rafting / Cape Split / Pollett's Cove*) → 
 5. **Dining Non-Negotiable**: (e.g., *Lobster Suppers + Bar Kismet + Wineries*) → 
 6. **Pictou & Grohmann Knives**: Confirmed locked in for Day 4 afternoon return transit (Baddeck → Pictou → Halifax).
-7. **Day 5 Return-Day Decisions (Locked + updated)**: ❌ Alexander Keith's tour (stays cut — could now fit the 20:15 flight's afternoon gap if you opt back in) · ✅ **Peggy's Cove sunrise + Citadel noon gun (RESTORED) + farewell lunch + evening flight home — WestJet WS811 20:15 (booked)** · Maritime Museum moved to **Fri Oct 9, 6:45 PM (reserved)**.
+7. **Day 5 Return-Day Decisions (Locked + updated)**: ❌ Alexander Keith's tour (cut) · ❌ **Citadel noon gun (sacrificed for the South Shore loop)** · ✅ **Relaxed 9 AM start → Peggy's Cove → Mahone Bay → Lunenburg UNESCO Old Town → straight to YHZ → WestJet WS811 20:15 (booked)** · Maritime Museum moved to **Fri Oct 9, 6:45 PM (reserved)**.

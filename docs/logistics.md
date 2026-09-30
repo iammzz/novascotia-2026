@@ -47,7 +47,7 @@
 ---
 
 ### Base 2: Downtown Halifax Waterfront — 2 Nights (Fri Oct 9 arrival + Tue Oct 13 pre-flight)
-*Walkable access to Halifax Harbour boardwalk, Maritime Museum, Argyle Street restaurants, and the Saturday departure point for Cape Breton. **Note**: Book BOTH Friday Oct 9 (arrival/museum night) and Tuesday Oct 13 (night before the Wed Peggy's Cove sunrise + evening WS811 flight).*
+*Walkable access to Halifax Harbour boardwalk, Maritime Museum, Argyle Street restaurants, and the Saturday departure point for Cape Breton. **Note**: Book BOTH Friday Oct 9 (arrival/museum night) and Tuesday Oct 13 (night before the Wed Peggy's Cove, Mahone Bay & Lunenburg loop + evening WS811 flight).*
 
 | Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
 |:---|:---|:---:|:---|:---:|
@@ -66,7 +66,7 @@
 | **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service — Conf. **INPC26-60130188B1** *(Receipt `receipts/skyline.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
 | **Alexander Keith's Historic Brewery Tour** | ❌ CUT (could now fit) | — | — | ❌ Stays cut per your decision — though the 20:15 flight leaves a Wed afternoon gap (tours run to ~4:30 PM) if you opt back in |
 | **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — 6:45 PM** | ~$11 / adult | **Reservation held for Friday evening** (Titanic & 1917 Halifax Explosion galleries). ⚠️ Confirm the 6:45 PM evening entry — regular fall hours close ~5:30 PM | 🟢 RESERVED — FRIDAY EVENING |
-| **Halifax Citadel Perimeter & Noon Gun** | Day 5 (Oct 14) — 11:00 AM | Free | ✅ **RESTORED** — the 20:15 flight leaves room for free perimeter ramparts + 12:00 PM noon gun (interior exhibits cut) | 🟢 FREE — CONFIRMED |
+| **Halifax Citadel Perimeter & Noon Gun** | ❌ SACRIFICED | Free | ❌ Sacrificed for the relaxed Peggy's Cove → Mahone Bay → Lunenburg UNESCO loop | ❌ CUT FOR SOUTH SHORE LOOP |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |
 | **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🔴 NOT BOOKED |
 | **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:00 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |
