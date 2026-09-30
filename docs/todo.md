@@ -1,20 +1,19 @@
 # 📋 Master To-Do & Booking Checklist: Nova Scotia 2026
 
-!!! info "📋 Booking Status: 🟢 4 OF 5 NIGHTS BOOKED (80% Accommodation Locked)"
-    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax Moxy booked) · Cape Breton Oct 10–12 (Chéticamp Oct 11 booked + Keltic Resort Oct 12 booked) · South Shore / LaHave dome night (Tue Oct 13 booked) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**  
-    **Current Status**: 🟢 **BOTH FLIGHTS BOOKED + RENTAL CAR + SKYLINE PARKING + 4 OF 5 HOTEL NIGHTS BOOKED (Moxy Halifax Oct 9, Chéticamp Suite Oct 11, Keltic Resort Oct 12, The Lookout Dome LaHave Oct 13)**!  
-    **Only Remaining Lodging Action**: Book **Saturday, Oct 10 night in Baddeck** before Celtic Colours sellout!
+!!! info "📋 Booking Status: 🟢 FULLY BOOKED — 5 of 5 Nights Confirmed"
+    **Locked Structure**: Arrive **Fri, Oct 9** (Moxy Halifax) · Bras d'Or Lake at **West Bay** (Oct 10) · Cape Breton (Chéticamp Oct 11 + Keltic Ingonish Oct 12) · South Shore dome at **LaHave** (Oct 13) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**  
+    **Current Status**: 🟢 **BOTH FLIGHTS + RENTAL CAR + SKYLINE PARKING + ALL 5 HOTEL NIGHTS BOOKED (Moxy Halifax Oct 9, The Shoreline West Bay Oct 10, Chéticamp Suite Oct 11, Keltic Resort Oct 12, The Lookout Dome LaHave Oct 13)**!  
+    **Remaining Actions**: Change the rental-car drop-off to ~6:00 PM, decide how to get the Grohmann knives home, and complete the booking to-do items below.
 
 ---
 
 ## ✅ Trip Structure Decision (Locked)
-- **Structure**: Fri Oct 9 arrival (Halifax, **Moxy booked**) → Sat Marine Drive to Baddeck (need Saturday hotel) → Sun Western Cabot Trail & Skyline Sunset (booked) → **The Sunset Harbour Village Suite, Chéticamp (BOOKED)** → Mon Eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann Knives → **The Lookout Dome One with Private Hot Tub in LaHave (BOOKED)** → Wed **LaHave Ferry → Lunenburg UNESCO → Mahone Bay → Peggy's Cove → straight to YHZ airport** + **evening flight home (WS811 20:15 booked)**.
+- **Structure**: Fri Oct 9 arrival (Halifax, **Moxy booked**) → Sat Marine Drive to **West Bay on the Bras d'Or Lake (BOOKED)** → Sun Margaree Valley & Skyline Sunset → **The Sunset Harbour Village Suite, Chéticamp (BOOKED)** → Mon Eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann Knives → **The Lookout Dome with Private Hot Tub in LaHave (BOOKED)** → Wed **LaHave Ferry → Lunenburg UNESCO → Mahone Bay → Peggy's Cove → straight to YHZ airport** + **evening flight home (WS811 20:15 booked)**.
 - **Day 0 (Fri Oct 9)**: Morning arrival (Porter PD201 lands 11:37 AM) + **Moxy Halifax Downtown check-in (BOOKED)** + **Maritime Museum 6:45 PM reservation**. Friday is fully walkable; rental car pickup begins Saturday morning (9:00 AM at Halifax Station, 15-min walk from Moxy).
-- **Day 2 (Sun Oct 11)**: Western Cabot Trail → **Skyline Trail Sunset Hike (4:00 PM slot BOOKED)** → 20-min drive to **The Sunset Harbour Village Suite in Chéticamp (BOOKED)** → late dinner at L'Abri (no late-night drive to Baddeck in moose country!).
+- **Day 2 (Sun Oct 11)**: Depart **West Bay** through the **Margaree Valley** → Chéticamp → **Skyline Trail Sunset Hike (4:00 PM slot BOOKED)** → 20-min drive to **The Sunset Harbour Village Suite in Chéticamp (BOOKED)** → late dinner at L'Abri (no late-night drive through moose country).
 - **Day 3 (Mon Oct 12)**: 10:00 AM check out of Chéticamp suite → Northern Highlands, Meat Cove, Franey Trail & Cape Smokey → Check in at **Keltic Resort at the Highlands, Ingonish (BOOKED)**.
 - **Day 4 (Tue Oct 13)**: Check out Keltic Resort Ingonish → Canso Causeway → **Pictou (Grohmann Knives & Hector Quay)** → Drive south to **LaHave, South Shore** → Check into **The Lookout Dome One (BOOKED)**, soak in private hot tub under autumn stars.
 - **Day 5 (Wed Oct 14)**: Wake up in the dome → **LaHave Bakery & Cable Ferry** → **Lunenburg UNESCO Old Town** → **Mahone Bay** → **Peggy's Cove** → straight to YHZ ~5:30 PM (drop car by 6:00 PM) + **evening return flight WS811 20:15 (booked)**.
-- **Cuts**: ❌ Alexander Keith's tour (cut) · ❌ Citadel interior exhibits & noon gun (sacrificed for South Shore loop) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (dropped for drive time pacing).
 
 ---
 
@@ -28,9 +27,11 @@
   - **Confirmation**: **#1055927990** (Amex Travel Booking **#32095665** / Agoda / Marriott).
   - **Details**: 1 Queen Bed (20 sq m), 2 Adults (Yi Yang Zeng & Matthew Zhang). Total paid: **$262.44 CAD** ($225.65 + HST/fees $36.79). Non-refundable. Special request: High floor.
   - **Location Benefit**: Walkable to Maritime Museum (15 mins), Citadel Hill (3 mins), and Halifax Train Station rental car pickup (15 mins). *(Receipt: `receipts/hotel_10-9.pdf`)*.
-- [ ] **Night 2 (Sat Oct 10 — Cape Breton / Baddeck) — ⚠️ ONLY REMAINING HOTEL TO BOOK**:
-  - *Risk*: Canadian Thanksgiving + Celtic Colours Opening Weekend means Baddeck sells out rapidly.
-  - [ ] **Action**: Reserve Saturday Oct 10 night in Baddeck immediately with free cancellation. Target: *Inverary Resort* (lakeside resort, indoor pool, 5-min walk to town) or *Silver Dart Lodge* (panoramic Bras d'Or Lake hilltop views).
+- [x] **Night 2 (Sat Oct 10 — Bras d'Or Lake / West Bay) — 🟢 BOOKED**:
+  - **The Shoreline (Airbnb)**: Confirmed booked. 108 Camerons Road, West Bay, NS B0E 3K0. Host: Richard.
+  - **Confirmation**: **HMJWZ39DA4** (Airbnb).
+  - **Details**: Waterfront retreat on the southwest arm of **Bras d'Or Lake**. Check-in: Sat Oct 10 @ 3:00 PM; Check-out: Sun Oct 11 @ 10:00 AM. 2 guests, no pets, quiet hours 11 PM–7 AM. **Free cancellation until Oct 5**.
+  - **Location Benefit**: ~30 minutes past the Canso Causeway — a natural first-night base after the Marine Drive. Note it is ~1 h 15 m from Baddeck, so plan Saturday dinner and any Celtic Colours event accordingly. *(Receipt: `receipts/hotel_10_10.pdf`)*.
 - [x] **Night 3 (Sun Oct 11 — Western Cabot Trail / Chéticamp) — 🟢 BOOKED**:
   - **The Sunset Harbour Village Suite (Airbnb)**: Confirmed booked. 15294 Cabot Trail A, Chéticamp, NS B0E 1H0. Host: Joeleen.
   - **Confirmation**: **HM3Y8BH355** (Airbnb).
@@ -84,7 +85,7 @@
 ### 🎻 Festival & Cultural Admissions
 - [ ] **Celtic Colours International Festival Tickets**:
   - [ ] Review 2026 concert artist schedule and venues (released July 2026 at celtic-colours.com).
-  - [ ] Purchase tickets for Saturday Oct 10 evening ceilidh in Baddeck or St. Ann's, or Sunday Oct 11 evening performance in Chéticamp. Headline concerts sell out within hours of launch.
+  - [ ] Purchase tickets for a Saturday Oct 10 evening ceilidh (nearest venues: Judique, Mabou, Port Hawkesbury; Baddeck is ~1 h 15 m away) or a Sunday Oct 11 evening performance in Chéticamp. Headline concerts sell out within hours of launch.
 - [ ] **Maritime Museum of the Atlantic (Fri Oct 9 @ 6:45 PM)**:
   - [ ] Confirm reservation and verify valid evening entry policy (regular fall hours close at 5:30 PM; ensure after-hours / private group admission is recognized).
 - [ ] **Grohmann Knives Factory Tour (Tue Oct 13)**:
@@ -95,8 +96,8 @@
 ### 🍽️ Dining Table Reservations
 - [ ] **Day 0 Dinner (Fri Oct 9 — Halifax Waterfront)**:
   - [ ] Reserve a table for ~7:30 PM / 8:00 PM following the Maritime Museum visit: *The Bicycle Thief* (Bishop's Landing, high-end Italian-seafood), *Drift* (Queen's Marque elevated modern Atlantic), or *Shuck Seafood Raw Bar*.
-- [ ] **Day 1 Dinner (Sat Oct 10 — Baddeck Waterfront)**:
-  - [ ] Call **The Rusty Anchor** (Baddeck waterfront) to verify fall operating dates/hours and reserve a table prior to the evening Celtic Colours ceilidh.
+- [ ] **Day 1 Dinner (Sat Oct 10 — Bras d'Or Lake / West Bay)**:
+  - [ ] Plan dinner near West Bay / Port Hawkesbury (or a self-catered lakeside meal). If you drive to **Baddeck** (~1 h 15 m) for a Celtic Colours ceilidh, book **The Rusty Anchor** in advance and confirm fall hours.
 - [ ] **Day 2 Dinner (Sun Oct 11 — Chéticamp / Western Coast)**:
   - [ ] Reserve a table at **L'Abri Restaurant & Bar** (Chéticamp) for a late dinner (~7:30 PM / 8:00 PM) following the Skyline sunset hike. Peak foliage weekends require advance reservations.
 - [ ] **Day 3 Dinner (Mon Oct 12 — Ingonish / Keltic Resort)**:
@@ -176,7 +177,7 @@
   - [ ] Pack compact 8x or 10x binoculars for moose spotting on French Mountain and whale sightings off Middle Head.
   - [ ] Pack swimwear & flip-flops for the private outdoor hot tub at The Lookout Dome in LaHave!
 - [ ] **Documentation & Passes**:
-  - [ ] Print paper backup copies of flight confirmations (PD201, WS811), rental car voucher (National), Moxy Halifax confirmation, Chéticamp Airbnb code, Keltic Resort booking, and LaHave Airbnb dome instructions.
+  - [ ] Print paper backup copies of flight confirmations (PD201, WS811), rental car voucher (National), Moxy Halifax confirmation, West Bay Airbnb code, Chéticamp Airbnb code, Keltic Resort booking, and LaHave Airbnb dome instructions.
 
 ---
 
@@ -186,8 +187,9 @@
 - [x] **Return Flight**: WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ (Res. **OEFTZF**, $226.76 CAD). *(Receipt: `receipts/WestJet.pdf`)*
 - [x] **Rental Car Reservation**: National Car Rental, Sat Oct 10 @ 9:00 AM (Halifax Station) → Wed Oct 14 @ YHZ (Conf. **#2098647349**, $277.08 CAD).
 - [x] **Hotel Night 1 (Fri Oct 9 — Halifax Downtown)**: Moxy Halifax Downtown, 5417 Cogswell St (Conf. **#1055927990**, Amex **#32095665**, $262.44 CAD). *(Receipt: `receipts/hotel_10-9.pdf`)*
+- [x] **Hotel Night 2 (Sat Oct 10 — Bras d'Or Lake / West Bay)**: The Shoreline, 108 Camerons Road, West Bay, NS (Airbnb Res. **#HMJWZ39DA4**, Host Richard). *(Receipt: `receipts/hotel_10_10.pdf`)*
 - [x] **Hotel Night 3 (Sun Oct 11 — Chéticamp / Western Cabot Trail)**: The Sunset Harbour Village Suite, 15294 Cabot Trail A, Chéticamp, NS (Airbnb Res. **#HM3Y8BH355**, Host Joeleen). *(Receipt: `receipts/hotel_10_11.pdf`)*
 - [x] **Hotel Night 4 (Mon Oct 12 — Ingonish / Cape Breton Luxury Resort)**: Keltic Resort at the Highlands, Ingonish Beach (Res. **#27835**, $324.43 CAD). *(Receipt: `receipts/keltic.pdf`)*
 - [x] **Hotel Night 5 (Tue Oct 13 — South Shore Geodesic Dome)**: The Lookout Dome One - Private Hot Tub, LaHave, NS (Airbnb Res. **#HMEJ8ZMJXK**, Host Jill). *(Receipt: `receipts/hotel_10-13.pdf`)*
 - [x] **Skyline Trail Sunset Timed Parking**: Sun Oct 11, 4:00 PM – 8:00 PM slot (Conf. **INPC26-60130188B1**, $13.00 CAD). *(Receipt: `receipts/skyline.pdf`)*
-- [x] **Trip Itinerary Architecture**: Locked 5-day route with Day 0 arrival, Eastern Shore Marine Drive, Western Cabot Trail & Skyline, Northern Highlands & Meat Cove, Pictou Grohmann visit, South Shore Dome stay, and Day 5 Lunenburg UNESCO / Mahone Bay / Peggy's Cove finish.
+- [x] **Trip Itinerary Architecture**: Locked 6-day route — Day 0 arrival in Halifax, Eastern Shore Marine Drive to West Bay, Margaree Valley & Skyline sunset, Northern Highlands & Meat Cove, Pictou/Grohmann & the South Shore dome, and Day 5 Lunenburg UNESCO / Mahone Bay / Peggy's Cove finish.

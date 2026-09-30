@@ -1,6 +1,6 @@
 # ✈️ Day 0 (Fri, Oct 9): Arrival Day — Fly Toronto to Halifax & Maritime Museum Evening
 
-!!! success "Locked Arrival Day — Friday, October 9, 2026"
+!!! note "Day 0 — Friday, October 9, 2026"
     **Base Camp**: **Moxy Halifax Downtown (5417 Cogswell St) — 🟢 BOOKED (Conf. #1055927990)**  
     **Total Driving**: None planned (walkable city day; car rental pickup Saturday morning)  
     **Primary Goal**: Morning non-stop flight from Toronto (YYZ → YHZ, lands 11:37 AM), check into **Moxy Halifax Downtown**, and visit the **Maritime Museum of the Atlantic — 6:45 PM reservation (LOCKED)**. Friday afternoon is flexible; Saturday morning starts the drive to Cape Breton.
@@ -21,17 +21,17 @@
 Morning departure from Toronto lands you in Halifax by late morning, leaving the afternoon open and anchoring the day on the Maritime Museum in the evening. No long drives today — Saturday is the big scenic push to Cape Breton.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Routes"
-    * **Airport → Hotel (Waterfront)**: [**👉 Open Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (~38 km, ~40 mins drive / taxi / rideshare)
-    * **Hotel → Maritime Museum of the Atlantic (evening)**: [**👉 Open Route in Google Maps**](https://www.google.com/maps/dir/Queen%27s+Marque%2C+Lower+Water+Street%2C+Halifax%2C+NS/Maritime+Museum+of+the+Atlantic%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (5–10 min walk along the boardwalk)
+    * **Airport → Hotel (Moxy Downtown)**: [**🔗 Open Route in Google Maps**](https://www.google.com/maps/dir/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS/5417+Cogswell+Street%2C+Halifax%2C+NS){:target="_blank"} (~38 km, ~40 mins drive / taxi / rideshare)
+    * **Hotel → Maritime Museum of the Atlantic (evening)**: [**🔗 Open Route in Google Maps**](https://www.google.com/maps/dir/5417+Cogswell+Street%2C+Halifax%2C+NS/Maritime+Museum+of+the+Atlantic%2C+Lower+Water+Street%2C+Halifax%2C+NS){:target="_blank"} (~15-min walk / 5-min drive)
 
 ### 📍 Route Stops Breakdown
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Activity & Highlights |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S | Land ~11 AM–12 PM AT; decide on rental car pickup (optional today) |
+| **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S | Land 11:37 AM AT; taxi or rideshare to the hotel (no car needed today) |
 | **2** | **Moxy Halifax Downtown** | 38 km (40 mins) | NS-102 S | Check in / drop bags at 5417 Cogswell St (Citadel / Downtown) |
-| **3** | **Maritime Museum of the Atlantic** | 5-min walk | Lower Water St | ✅ **6:45 PM reservation** — Titanic wooden artifacts & 1917 Halifax Explosion galleries |
-| **4** | **Waterfront / Argyle St Dinner** | 5-min walk | Boardwalk | Evening seafood dinner after the museum |
+| **3** | **Maritime Museum of the Atlantic** | ~15-min walk | Lower Water St | ✅ **6:45 PM reservation** — Titanic wooden artifacts & 1917 Halifax Explosion galleries |
+| **4** | **Waterfront / Argyle St Dinner** | ~15-min walk | Boardwalk | Evening seafood dinner after the museum |
 
 ---
 
@@ -39,7 +39,7 @@ Morning departure from Toronto lands you in Halifax by late morning, leaving the
 
 ### Morning: Toronto → Halifax Non-Stop Flight (PD201)
 - **08:30 AM ET**: Depart **Toronto-Pearson (YYZ), Terminal 3** on **Porter PD201** (Embraer E195-E2) — non-stop, ~2h 07m. *(Outbound confirmed — Conf. L4669V.)*
-- **11:37 AM AT**: Land at **Halifax Stanfield (YHZ)**. Collect bags; if taking the car today, pick it up at the on-site parkade rental pavilion. Otherwise taxi/rideshare to the hotel (~40 min).
+- **11:37 AM AT**: Land at **Halifax Stanfield (YHZ)**. Collect bags and take a taxi or rideshare to the hotel (~40 min). No rental car is needed today — pickup is Saturday morning at Halifax Train Station.
 
 ### 12:30 PM – 06:00 PM: Hotel Check-In & Flexible Afternoon
 - Check in / drop bags at **Moxy Halifax Downtown** (5417 Cogswell St).
@@ -105,4 +105,4 @@ Morning departure from Toronto lands you in Halifax by late morning, leaving the
 ## 🎒 Gear & Day Preparation
 - **Travel Documents**: Passport/ID, printed or digital boarding passes, hotel confirmation, Maritime Museum reservation confirmation.
 - **Layers**: Maritime coastal winds can shift temperatures quickly in October (8–16°C); a windproof shell is recommended for the evening boardwalk.
-- **Tomorrow's Head Start**: Saturday is the long scenic Marine Drive to Baddeck — fuel up on sleep and pack the car the night before if the rental is in hand.
+- **Tomorrow's Head Start**: Saturday is the long scenic Marine Drive to **West Bay on the Bras d'Or Lake** — fuel up on sleep and pack the night before if the rental is in hand.

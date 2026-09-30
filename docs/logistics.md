@@ -1,10 +1,9 @@
 # ✈️ Logistics Master: Flights, Rental Car & Accommodations
 
-!!! info "📋 Current Logistics Status: 🟢 4 OF 5 NIGHTS BOOKED (80% Accommodation Locked)"
-    **Core Activity Dates**: October 10 – 14, 2026 (5 Days)  
-    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax Moxy booked) · Cape Breton Oct 10–12 (Chéticamp Oct 11 booked + Keltic Resort Oct 12 booked) · South Shore / LaHave dome night (Tue Oct 13 booked) · **Return flight Wed, Oct 14 evening 20:15 — WestJet WS811 (booked)**  
-    **Confirmed Bookings**: 🟢 **Both Flights (Porter PD201 / WestJet WS811)** · 🟢 **Rental Car (National #2098647349)** · 🟢 **Skyline Parking (Sun Oct 11 @ 4:00 PM)** · 🟢 **4 of 5 Lodging Nights (Moxy Halifax Oct 9, Chéticamp Oct 11, Keltic Ingonish Oct 12, The Lookout Dome LaHave Oct 13)**  
-    **Only Remaining Lodging Action**: Lock in **Saturday, Oct 10 night in Baddeck** before Celtic Colours festival sellout!
+!!! info "📋 Current Logistics Status: 🟢 FULLY BOOKED — 5 of 5 Nights Confirmed"
+    **Core Itinerary Dates**: October 9 – 14, 2026 (6 Days)  
+    **Locked Structure**: Arrive **Fri, Oct 9** (Moxy Halifax) · **West Bay, Bras d'Or Lake** (Oct 10) · Cape Breton (Chéticamp Oct 11 + Keltic Ingonish Oct 12) · **LaHave, South Shore** (Oct 13) · **Return flight Wed, Oct 14 evening 20:15 — WestJet WS811 (booked)**  
+    **Confirmed Bookings**: 🟢 **Both Flights (Porter PD201 / WestJet WS811)** · 🟢 **Rental Car (National #2098647349)** · 🟢 **Skyline Parking (Sun Oct 11 @ 4:00 PM)** · 🟢 **All 5 Lodging Nights**
 
 ---
 
@@ -32,36 +31,17 @@
 
 ---
 
-## 🏨 3. Accommodation Hubs & Bases (4 of 5 Nights Confirmed)
+## 🏨 3. Accommodation (All 5 Nights Confirmed)
 
-### Base 1: Cape Breton Split Base (Oct 10–12) — 2 Nights BOOKED, 1 Night OPEN
-*The optimal split-base strategy for the Cabot Trail: Saturday night in Baddeck after Marine Drive, Sunday night in Chéticamp right near the Skyline sunset finish, and Monday night at Keltic Resort on the Atlantic coast.*
+A clean multi-base route with no backtracking: Halifax → Bras d'Or Lake → Chéticamp → Ingonish → the South Shore.
 
-| Night / Date | Base Camp | Property | Type | Cost / Code | Key Advantages & Details | Status |
-|:---|:---|:---|:---:|:---:|:---|:---:|
-| **Sat, Oct 10** (Night 2) | **Baddeck** | *Inverary Resort* or *Silver Dart Lodge* | Lakeside Resort / Lodge | ~$180 – $320 CAD | Waterfront on Bras d'Or Lake, close to evening Celtic Colours ceilidhs. **This is your only remaining unbooked lodging.** | ⚠️ **NOT BOOKED** (Urgent) |
-| **Sun, Oct 11** (Night 3) | **Chéticamp** | **The Sunset Harbour Village Suite** *(15294 Cabot Trail A)* | Village Suite (Airbnb) | Res. **HM3Y8BH355** | 🟢 **BOOKED**: Host Joeleen. Check-in Sun 4:00 PM, Check-out Mon 10:00 AM. 20 mins south of Skyline trailhead — eliminates 2h night drive through moose country. *(Receipt: `receipts/hotel_10_11.pdf`)* | 🟢 **BOOKED** |
-| **Mon, Oct 12** (Night 4) | **Ingonish Beach** | **Keltic Resort at the Highlands** *(Middle Head Peninsula)* | Historic Luxury Resort | Res. **#27835** ($324.43 CAD) | 🟢 **BOOKED**: Corson House (Double with View), check-in 4:00 PM. Dramatic Atlantic cliff headland; Middle Head Trail at doorstep. *(Receipt: `receipts/keltic.pdf`)* | 🟢 **BOOKED** |
-
----
-
-### Base 2: Downtown Halifax — 1 Night (Fri Oct 9 Arrival — 🟢 BOOKED)
-*Walkable access to Halifax Harbour boardwalk, Maritime Museum, Argyle Street dining, and a 15-minute walk to Saturday's 9:00 AM rental car pickup at Halifax Train Station.*
-
-| Night / Date | Property | Address | Type | Cost / Code | Key Advantages & Details | Status |
-|:---|:---|:---|:---:|:---:|:---|:---:|
-| **Fri, Oct 9** (Night 1) | **Moxy Halifax Downtown** | 5417 Cogswell St | Modern Boutique Marriott Hotel | Conf. **#1055927990** / Amex **#32095665** ($262.44 CAD) | 🟢 **BOOKED**: 1 Queen Bed, 2 Adults (Yi Yang Zeng & Matthew Zhang). Walkable to Maritime Museum (15 min), Citadel (3 min), and Saturday train station car pickup (15 min). *(Receipt: `receipts/hotel_10-9.pdf`)* | 🟢 **BOOKED** |
-
----
-
-### Base 3: South Shore Seaside Dome Retreat — 1 Night (Tue Oct 13 Pre-Flight — 🟢 BOOKED)
-*Stunning coastal geodesic dome perched on Highway 331 in LaHave with a private hot tub overlooking water. Positioned directly on the South Shore for Wednesday's LaHave Ferry, Lunenburg Old Town, Mahone Bay, and Peggy's Cove loop before flying home.*
-
-| Night / Date | Property | Address | Type | Cost / Code | Key Advantages & Details | Status |
-|:---|:---|:---|:---:|:---:|:---|:---:|
-| **Tue, Oct 13** (Night 5) | **The Lookout Dome One - Private Hot Tub** | 3839 Highway 331, LaHave, NS | Geodesic Dome with Private Hot Tub (Airbnb) | Res. **HMEJ8ZMJXK** (Host Jill) | 🟢 **BOOKED**: Check-in Tue 3:00 PM, Check-out Wed 11:00 AM. Private outdoor hot tub, lockbox self check-in. 2 mins to LaHave Bakery & Cable Ferry; 15 mins to Lunenburg. Eliminates Wednesday backtrack driving. *(Receipt: `receipts/hotel_10-13.pdf`)* | 🟢 **BOOKED** |
-
----
+| Night | Date | Base | Property | Type | Confirmation | Notes |
+|:---:|:---|:---|:---|:---|:---|:---|
+| **1** | Fri, Oct 9 | Halifax | **Moxy Halifax Downtown** *(5417 Cogswell St)* | Boutique Marriott hotel | **#1055927990** / Amex **#32095665** · $262.44 CAD | Walkable to the Maritime Museum (~15 min) and to Saturday's 9 AM car pickup at Halifax Train Station. *(Receipt: `receipts/hotel_10-9.pdf`)* |
+| **2** | Sat, Oct 10 | West Bay *(Bras d'Or Lake)* | **The Shoreline** *(108 Camerons Road)* | Waterfront Airbnb | **HMJWZ39DA4** · Host Richard | Check-in 3:00 PM, check-out 10:00 AM. Free cancellation until Oct 5. ~30 min past the Canso Causeway; ~1 h 15 m from Baddeck. *(Receipt: `receipts/hotel_10_10.pdf`)* |
+| **3** | Sun, Oct 11 | Chéticamp | **The Sunset Harbour Village Suite** *(15294 Cabot Trail A)* | Village suite Airbnb | **HM3Y8BH355** · Host Joeleen | Check-in 4:00 PM, check-out 10:00 AM. Just 20 min from the Skyline trailhead — no night drive through moose country. *(Receipt: `receipts/hotel_10_11.pdf`)* |
+| **4** | Mon, Oct 12 | Ingonish Beach | **Keltic Resort at the Highlands** *(Middle Head Peninsula)* | Historic clifftop resort | **Res. #27835** · $324.43 CAD | Corson House (Double with View), check-in 4:00 PM. Middle Head Trail starts at the doorstep. *(Receipt: `receipts/keltic.pdf`)* |
+| **5** | Tue, Oct 13 | LaHave *(South Shore)* | **The Lookout Dome One — Private Hot Tub** *(3839 Hwy 331)* | Geodesic dome Airbnb | **HMEJ8ZMJXK** · Host Jill | Check-in 3:00 PM (lockbox), check-out 11:00 AM. 2 min to LaHave Bakery & cable ferry; 15 min to Lunenburg. *(Receipt: `receipts/hotel_10-13.pdf`)* |
 
 ## 🎟️ 4. Passes, Tours & Activity Bookings
 
@@ -69,9 +49,7 @@
 |:---|:---|:---:|:---|:---:|
 | **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Ingonish/Chéticamp gate on arrival | 🟡 NOT BOOKED |
 | **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service — Conf. **INPC26-60130188B1** *(Receipt `receipts/skyline.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
-| **Alexander Keith's Historic Brewery Tour** | ❌ CUT | — | Cut per itinerary decision | ❌ CUT |
 | **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — 6:45 PM** | ~$11 / adult | **Reservation held for Friday evening** (Titanic & 1917 Halifax Explosion galleries). ⚠️ Confirm the 6:45 PM evening entry — regular fall hours close ~5:30 PM | 🟢 RESERVED — FRIDAY EVENING |
-| **Halifax Citadel Perimeter & Noon Gun** | ❌ SACRIFICED | Free | Sacrificed for the relaxed South Shore (Lunenburg / Mahone Bay / Peggy's Cove) loop | ❌ CUT FOR SOUTH SHORE LOOP |
 | **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🟡 NOT BOOKED |
 | **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🟡 NOT BOOKED |
 | **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:00 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |

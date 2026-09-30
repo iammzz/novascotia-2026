@@ -2,3 +2,10 @@ site/
 *.log
 .venv/
 .DS_Store
+
+# Local rendering / capture artifacts
+app_state.json
+chromium.err
+google_maps_list.html
+rendered.html
+script_0.js

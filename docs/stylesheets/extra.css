@@ -1,4 +1,4 @@
-/* 🎨 Google Material Design Stylesheet for Dolomites 2026 */
+/* 🎨 Nova Scotia 2026 — Material theme polish */
 
 /* --- 1. Typography & General Layout --- */
 :root {
@@ -11,27 +11,66 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* --- 2. Material 3 Card & Admonition Styling (Rounded & Flat Shadows) --- */
-.md-typeset .admonition, 
+/* Slightly tighter, cleaner headings */
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 2.2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset h3 {
+  font-weight: 600;
+  margin-top: 1.6em;
+}
+
+/* Nicer inline links */
+.md-typeset a {
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 40%, transparent);
+  transition: border-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+.md-typeset a:hover {
+  border-bottom-color: var(--md-primary-fg-color);
+}
+
+/* --- 2. Material 3 Card & Admonition Styling --- */
+.md-typeset .admonition,
 .md-typeset details {
   border-radius: 12px !important;
   border-left-width: 6px !important;
-  box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.12), 0px 1px 1px 0px rgba(0,0,0,0.08), 0px 2px 1px -1px rgba(0,0,0,0.05) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 1px rgba(0, 0, 0, 0.08), 0 2px 1px -1px rgba(0, 0, 0, 0.05) !important;
   transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
   margin-bottom: 1.5em;
 }
 
-/* Hover elevation for interactive cards/details */
 .md-typeset details[open],
 .md-typeset .admonition:hover {
-  box-shadow: 0px 3px 6px -1px rgba(0,0,0,0.16), 0px 6px 10px 0px rgba(0,0,0,0.1), 0px 1px 18px 0px rgba(0,0,0,0.08) !important;
+  box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.16), 0 6px 10px rgba(0, 0, 0, 0.1), 0 1px 18px rgba(0, 0, 0, 0.08) !important;
 }
 
-/* --- 3. Material-style Search Bar (Pill Shape) --- */
+.md-typeset .admonition-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+/* Success / booking callouts get a subtle tint */
+.md-typeset .admonition.success {
+  border-color: #2e7d32;
+}
+
+/* --- 3. Search Bar (Pill Shape) --- */
 .md-search__inner {
   background-color: var(--md-default-bg-color);
   border-radius: 28px !important;
-  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.05) !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) !important;
   border: 1px solid var(--md-default-fg-color--lightest);
   transition: all 0.2s ease-in-out;
 }
@@ -39,11 +78,10 @@ body {
 .md-search__input:focus ~ .md-search__inner,
 .md-search:focus-within .md-search__inner {
   border-color: var(--md-primary-fg-color);
-  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.1) !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
 }
 
 /* --- 4. Navigation & Layout Rounded Elements --- */
-/* Rounded sidebar links on hover */
 .md-nav__link {
   border-radius: 8px;
   transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
@@ -53,41 +91,61 @@ body {
   background-color: var(--md-default-fg-color--lightest) !important;
 }
 
-/* Active navigation item styling */
 .md-nav__link--active {
   font-weight: 700 !important;
   color: var(--md-primary-fg-color) !important;
-  background-color: rgba(255, 87, 34, 0.08) !important; /* Deep Orange light background */
+  background-color: rgba(255, 87, 34, 0.08) !important;
 }
 
-/* Dark mode adjustment for active nav item */
 [data-md-color-scheme="slate"] .md-nav__link--active {
   background-color: rgba(255, 87, 34, 0.15) !important;
 }
 
 /* --- 5. Data Tables (Material Flat Styling) --- */
 .md-typeset table:not([class]) {
-  border-radius: 8px;
+  border-radius: 10px;
   overflow: hidden;
   border-collapse: collapse;
-  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   border: 1px solid var(--md-default-fg-color--lightest);
+  font-size: 0.78rem;
+  max-width: 100%;
 }
 
 .md-typeset table:not([class]) th {
   background-color: var(--md-primary-fg-color--light);
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   letter-spacing: 0.05em;
   border-bottom: 2px solid var(--md-default-fg-color--lightest);
 }
 
 .md-typeset table:not([class]) td {
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  vertical-align: top;
 }
 
-/* --- 6. Scrollbar Styling --- */
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: color-mix(in srgb, var(--md-default-fg-color) 3%, transparent);
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: color-mix(in srgb, var(--md-primary-fg-color) 7%, transparent);
+}
+
+/* Let wide tables scroll on small screens instead of squashing */
+.md-typeset__scrollwrap {
+  overflow-x: auto;
+}
+
+/* --- 6. Interactive Map Containers --- */
+.md-typeset > div[id$="-map"] {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* --- 7. Scrollbar Styling --- */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;

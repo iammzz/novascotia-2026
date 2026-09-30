@@ -9,7 +9,7 @@ This document contains strategic research, cost-benefit analyses, and route opti
 ### The Thanksgiving Weekend Fare Dynamics (Oct 9–12, 2026)
 Canadian Thanksgiving falls on **Monday, October 12, 2026**. This creates massive holiday demand spikes for departures on Friday afternoon (Oct 9) and return flights on Monday evening (Oct 12). 
 
-By structuring our trip around the core window we keep it tight: **arrival flight Fri, Oct 9 morning** (Halifax hotel + Maritime Museum evening) and a **return flight Wed, Oct 14 evening — WestJet WS811 20:15 (booked)** after a Peggy's Cove sunrise morning. The Day 6 Bay of Fundy extension (Oct 15/16) is retired unless the return is pushed back.
+By structuring our trip around the core window, we keep it tight: an **arrival flight Fri, Oct 9 morning** (Halifax hotel + Maritime Museum evening), Cape Breton Oct 10–12, a South Shore night on Oct 13, and a **return flight Wed, Oct 14 evening — WestJet WS811 20:15 (booked)**.
 
 ---
 
@@ -61,13 +61,13 @@ By structuring our trip around the core window we keep it tight: **arrival fligh
 
 ---
 
-### Accommodation Strategy: Central Base (Baddeck) vs Split Bases
+### Accommodation Strategy: Single Hub vs Multi-Base
 
 | Option | Layout | Pros | Cons |
 |:---|:---|:---|:---|
 | **A: Central Hub (Baddeck - 3 Nights)** | Stay at one property in Baddeck for Days 1–3. | Unpack once; excellent restaurant choices (Freight Shed, Baddeck Lobster Suppers); centrally located. | Incurs ~1.5h return drive to Baddeck after sunset hike on Day 2. |
-| **B: Multi-Base (Baddeck + Chéticamp + Ingonish)** | Night 1: Baddeck<br>Night 2: Chéticamp / Pleasant Bay<br>Night 3: Ingonish | Zero backtracking; sleep 20 mins from Skyline Trailhead after sunset. | Pack luggage every morning; 3 different check-ins. |
-| **Recommendation** | **Hybrid / Choice**: If preferring minimal packing, base all 3 nights at Baddeck (Inverary Resort / Silver Dart). If prioritizing being next to the sunset trailhead, book Night 1 in Baddeck, Night 2 in Chéticamp, Night 3 in Ingonish. |
+| **B: Multi-Base (West Bay + Chéticamp + Ingonish)** ⭐ BOOKED | Night 1: West Bay (Bras d'Or Lake)<br>Night 2: Chéticamp<br>Night 3: Ingonish | Zero backtracking; sleep 20 mins from the Skyline trailhead after sunset; a lakeside first night near the Canso Causeway. | Pack luggage every morning; 3 different check-ins. |
+| **Recommendation** | **BOOKED: the multi-base route above.** Halifax (Oct 9) → West Bay (Oct 10) → Chéticamp (Oct 11) → Keltic Ingonish (Oct 12) → LaHave (Oct 13). |
 
 ---
 

@@ -1,6 +1,6 @@
-# 🔪 Day 4 (Tue, Oct 13): Keltic to Halifax — Pictou, Grohmann Knives & the Return Drive
+# 🔪 Day 4 (Tue, Oct 13): Keltic to LaHave — Pictou, Grohmann Knives & the South Shore
 
-!!! note "Core Itinerary Day 4 — Tuesday, October 13, 2026"
+!!! note "Day 4 — Tuesday, October 13, 2026"
     **Base Camp**: **The Lookout Dome One - Private Hot Tub (3839 Hwy 331, LaHave, NS) — 🟢 BOOKED (Airbnb #HMEJ8ZMJXK)**  
     **Total Driving Distance**: ~560 km (approx. 5h 45m total drive time)  
     **Primary Goal**: Check out of the **Keltic Resort (Ingonish)**, cross back to the mainland, tour the historic **Grohmann Knives Factory & Outlet** in the Scottish seaside port of **Pictou**, explore the **Hector Heritage Quay** (and grab Pictou County pizza!), and drive south to the South Shore to check into **The Lookout Dome One in LaHave** for an evening soaking in a private outdoor hot tub under the stars.
@@ -9,11 +9,11 @@
 
 ## 🗺️ Route Map & Day Architecture
 
-Today you transition from Cape Breton’s Celtic heartland back to the cosmopolitan capital of Halifax, featuring a classic detour along Nova Scotia's Northumberland Shore to **Pictou**—the "Birthplace of New Scotland" and home of world-renowned handcrafted **Grohmann Knives**.
+Today you transition from Cape Breton’s Celtic heartland back to mainland Nova Scotia, detouring along the Northumberland Shore to **Pictou** — the “Birthplace of New Scotland” and home of world-renowned handcrafted **Grohmann Knives** — before a long, scenic run south to the South Shore and **The Lookout Dome in LaHave**.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 4 Route in Google Maps**](https://www.google.com/maps/dir/Keltic+Lodge+at+the+Highlands%2C+Ingonish+Beach%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/Downtown+Halifax%2C+Halifax%2C+NS){:target="_blank"} (~465 km, ~5h 15m total drive)  
-    *Click to launch live GPS turn-by-turn navigation from the Keltic Resort (Ingonish) across the Canso Causeway to Pictou (Grohmann Knives & Hector Quay) and Downtown Halifax.*
+    **Direct Navigation Link**: [**🔗 Open Day 4 Route in Google Maps**](https://www.google.com/maps/dir/Keltic+Lodge+at+the+Highlands%2C+Ingonish+Beach%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/3839+Nova+Scotia+331%2C+LaHave%2C+NS){:target="_blank"} (~560 km, ~5 h 45 m total drive)  
+    *Click to launch live GPS turn-by-turn navigation from the Keltic Resort (Ingonish) across the Canso Causeway to Pictou (Grohmann Knives & Hector Quay) and on to The Lookout Dome in LaHave.*
 
 ### 📍 Route Stops Breakdown
 
@@ -48,7 +48,7 @@ graph LR
 
 #### 1. Grohmann Knives Factory Tour & Retail Seconds Outlet
 - **Location**: 116 Water Street, Pictou, NS (45.6765° N, 62.7134° W). Free street parking along Water Street and adjacent municipal harbor lots.
-- **Exertion vs Lounging**: 15 mins walking through the working factory floor + 35 mins examining blade craftsmanship, handle assembly, and browsing the retail seconds outlet.
+- **Effort & Timing**: 15 mins walking through the working factory floor + 35 mins examining blade craftsmanship, handle assembly, and browsing the retail seconds outlet.
 - **The Craft & Heritage**: Founded in the 1950s by Czech immigrant Rudolf Grohmann and Canadian government official Deane H. Russell. Together, they designed the world-famous **Grohmann #1 Original Canadian Belt Knife**, celebrated for its distinctive palm-swell rosewood handle and curved elliptical blade. The design was so revolutionary that it was showcased at New York's Museum of Modern Art (MoMA) and the Design Center in London.
 - **Military & Outdoor Pedigree**: Grohmann Knives have been standard issue for the Canadian Armed Forces (the famous #3 Boat Knife / Jump Knife) and remain the gold standard for wilderness survivalists, hunters, and chefs worldwide.
 - **Factory Tour & Seconds Room**: Visitors can take a free tour of the factory production floor on weekdays to observe craftsmen executing the 25+ meticulous hand operations: blade blanking, high-carbon stainless steel heat treatment, double hollow grinding, hafting with rosewood, water buffalo horn, stag horn, or resin micarta, and hand-buffing. The on-site factory outlet store sells first-quality cutlery as well as coveted **"factory seconds"**—knives with minor cosmetic imperfections offered at **30% to 50% discounts**.
@@ -60,7 +60,7 @@ graph LR
 
 #### 2. Hector Heritage Quay & Historic Pictou Waterfront
 - **Location**: 33 Caladh Avenue, Pictou, NS (45.6753° N, 62.7112° W — 3-min walk from Grohmann Knives).
-- **Exertion vs Lounging**: 25 mins harbor boardwalk walking + 15 mins viewing the tall ship reconstruction site and interpretive kiosks.
+- **Effort & Timing**: 25 mins harbor boardwalk walking + 15 mins viewing the tall ship reconstruction site and interpretive kiosks.
 - **Significance**: Pictou is universally known as the **"Birthplace of New Scotland"**. In September 1773, the Dutch-built three-masted armed ship *Hector* landed here carrying 189 Scottish Highland settlers, igniting the massive wave of Gaelic immigration that shaped Nova Scotia's cultural identity.
 - **Direct Guide**: [Ship Hector Official Portal](https://www.shiphector.ca/) | [Town of Pictou Heritage](https://www.townofpictou.ca/)
 
@@ -106,30 +106,30 @@ graph LR
    - **Google Maps**: [The Bistro New Glasgow](https://maps.google.com/?q=The+Bistro+New+Glasgow+NS)  
    - **Why Recommended**: Highly acclaimed culinary gem in Pictou County featuring blackened sea scallops, braised lamb shank, and an exceptional wine list in a cozy heritage setting.
 
-4. **Bar Kismet** *(North End Halifax - Agricola St)*  
-   - **Drive / Walk**: 6-min drive / 20-min walk from Downtown Halifax  
-   - **Food Type**: Nationally acclaimed seafood, handmade pasta & bespoke cocktails  
-   - **Price**: $$$–$$$$ ($28–$50 CAD)  
-   - **Google Maps**: [Bar Kismet Halifax](https://maps.google.com/?q=Bar+Kismet+Halifax)  
-   - **Why Recommended**: Consistently ranked among the top 15 restaurants in Canada; exquisite raw seafood crudos, house-made pastas, and hyper-seasonal local vegetables.
+4. **The Grand Banker Bar & Grill** *(Lunenburg Waterfront)*  
+   - **Drive / Walk**: ~20-min drive from The Lookout Dome  
+   - **Food Type**: Waterfront seafood, burgers & local craft beer  
+   - **Price**: $$–$$$ ($20–$36 CAD)  
+   - **Google Maps**: [The Grand Banker Lunenburg](https://maps.google.com/?q=The+Grand+Banker+Bar+and+Grill+Lunenburg)  
+   - **Why Recommended**: Waterfront pub with views of the Bluenose II berth — a strong late-evening option after checking into the dome.
 
-5. **Good Robot Brewing Company & Taproom** *(North End Halifax - Robie St)*  
-   - **Drive / Walk**: 7-min drive from Downtown Halifax  
-   - **Food Type**: Casual patio snacks, smash tacos, and experimental craft beers  
-   - **Price**: $–$$ ($10–$20 CAD)  
-   - **Google Maps**: [Good Robot Brewing Halifax](https://maps.google.com/?q=Good+Robot+Brewing+Halifax)  
-   - **Why Recommended**: Eclectic, hyper-friendly community taproom with heated outdoor beer garden and rotating guest food pop-ups.
+5. **The Knot Pub** *(Lunenburg Old Town)*  
+   - **Drive / Walk**: ~20-min drive from The Lookout Dome  
+   - **Food Type**: Cozy maritime pub — chowder, fish & chips, pints  
+   - **Price**: $$ ($16–$28 CAD)  
+   - **Google Maps**: [The Knot Pub Lunenburg](https://maps.google.com/?q=The+Knot+Pub+Lunenburg+NS)  
+   - **Why Recommended**: A snug, locals-first pub in a heritage building — good for a relaxed late bite and a pint.
 
-6. **The Canteen on Portland** *(Downtown Dartmouth - Just across Halifax ferry/bridge)*  
-   - **Drive / Walk**: 10-min drive across bridge from downtown Halifax  
-   - **Food Type**: Renowned Nova Scotia seafood & seasonal bistro  
-   - **Price**: $$–$$$ ($22–$38 CAD)  
-   - **Google Maps**: [The Canteen on Portland](https://maps.google.com/?q=The+Canteen+on+Portland+Dartmouth)  
-   - **Why Recommended**: Led by Chef Renée Lavallée (Top Chef Canada); home of the legendary "Crossoir" (lobster and snow crab roll on a toasted croissant) and seafood chowder.
+6. **LaHave Bakery** *(LaHave — 2 min from the dome)*  
+   - **Drive / Walk**: 2-min drive  
+   - **Food Type**: Artisan bakery, scones, espresso & light meals  
+   - **Price**: $–$$ ($8–$18 CAD)  
+   - **Google Maps**: [LaHave Bakery](https://maps.google.com/?q=LaHave+Bakery+NS)  
+   - **Why Recommended**: An institution on the South Shore — stock up on sourdough, cheddar-dill scones, and coffee for the morning before you ride the cable ferry to Lunenburg.
 
 ---
 
 ## 🎒 Gear & Day Preparation
 - **⚠️ AIRLINE BAGGAGE WARNING (Grohmann Knives)**: Transport Canada and CATSA security regulations strictly **prohibit knives of any blade length in carry-on baggage**. If you purchase hunting knives, pocket knives, or kitchen cutlery at the Grohmann Knives factory outlet in Pictou, you **MUST pack them inside checked baggage** for your flight home from Halifax Stanfield (YHZ). Ensure you have booked at least one checked bag with your airline.
-- **Waterproof Footwear**: The Uisge Bàn Falls trail runs alongside riverbeds with occasional muddy patches and wet rocks near the waterfall base.
-- **Urban Layers**: Downtown Halifax is walkable; bring a smart casual jacket for evening dinners and craft brewery hopping.
+- **Hot Tub & Dome Relaxation**: Bring swimwear and flip-flops for the outdoor private hot tub at The Lookout Dome in LaHave!
+- **Coastal Layers**: Bring a windproof jacket for walking along Pictou's harbourfront and the South Shore evening breeze.

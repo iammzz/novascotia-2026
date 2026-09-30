@@ -1,8 +1,8 @@
-# 🌅 Day 5 (Wed, Oct 14): Peggy's Cove, Mahone Bay & Lunenburg Loop — Evening Flight (WS811)
+# 🌊 Day 5 (Wed, Oct 14): LaHave, Lunenburg, Mahone Bay & Peggy's Cove — Evening Flight (WS811)
 
-!!! success "Final Day (Return to Toronto) — Wednesday, October 14, 2026"
+!!! note "Day 5 — Wednesday, October 14, 2026 (Return to Toronto)"
     **Route**: The Lookout Dome (LaHave) → LaHave Ferry → Lunenburg UNESCO → Mahone Bay → Peggy's Cove → **Halifax Stanfield Airport (YHZ)**  
-    **Total Driving Distance**: ~150 km (approx. 2h 20m total drive)  
+    **Total Driving Distance**: ~190 km (approx. 3 h 30 m total drive)  
     **Primary Goal**: Wake up on the South Shore at **The Lookout Dome in LaHave**, grab fresh sourdough and coffee at **LaHave Bakery**, ride the historic **LaHave Cable Ferry** across to **Old Town Lunenburg (UNESCO)**, explore the Three Churches of **Mahone Bay**, visit iconic **Peggy's Cove**, and head straight to YHZ for your evening flight (WS811 departs 20:15).
 
 !!! success "✈️ Return Flight BOOKED — WestJet WS811"
@@ -13,13 +13,11 @@
 
 ## 🗺️ Route Map & Overview
 
-One seamless coastal loop: drive west to **Peggy's Cove** at your leisure, swing down Hwy 103 to the South Shore's postcard **Mahone Bay**, hop over to the UNESCO **Lunenburg Old Town** for lunch and a waterfront stroll, then head straight north to YHZ — no returning to downtown Halifax.
-
-> **Day-5 scope**: ✅ Peggy's Cove morning · ✅ Mahone Bay · ✅ **Lunenburg Old Town (UNESCO)** · ✅ straight-to-airport finish. ❌ Citadel noon gun (sacrificed — you're on the road at noon; restore only by cutting Mahone Bay/Lunenburg) · ❌ Maritime Museum (done Friday evening) · ❌ Alexander Keith's tour (cut).
+A seamless coastal journey starting from LaHave along Nova Scotia's South Shore: ride the historic cable ferry, explore the colourful UNESCO Old Town of **Lunenburg**, admire the postcard Three Churches of **Mahone Bay**, walk the ancient granite headland at **Peggy's Point Lighthouse**, and head straight to YHZ airport for your evening flight home.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/Downtown+Halifax%2C+Halifax%2C+NS/Peggy%27s+Point+Lighthouse%2C+Peggy%27s+Point+Road%2C+Peggy%27s+Cove%2C+NS/Mahone+Bay%2C+NS/Old+Town+Lunenburg%2C+Montague+Street%2C+Lunenburg%2C+NS/Halifax+Stanfield+International+Airport+%28YHZ%29%2C+Enfield%2C+NS){:target="_blank"} (~240 km, ~3h 20m total drive)  
-    *Click to launch live GPS navigation: Halifax → Peggy's Cove → Mahone Bay → Lunenburg Old Town → Halifax Stanfield Airport (YHZ).*
+    **Direct Navigation Link**: [**🔗 Open Day 5 Route in Google Maps**](https://www.google.com/maps/dir/3839+Nova+Scotia+331,+LaHave,+NS/Old+Town+Lunenburg,+Montague+Street,+Lunenburg,+NS/Mahone+Bay,+NS/Peggy's+Point+Lighthouse,+Peggy's+Point+Road,+Peggy's+Cove,+NS/Halifax+Stanfield+International+Airport+(YHZ),+Enfield,+NS){:target="_blank"} (~190 km, ~3 h 30 m total drive)  
+    *Click to launch live GPS navigation: The Lookout Dome (LaHave) → Lunenburg Old Town → Mahone Bay → Peggy's Point Lighthouse → Halifax Stanfield Airport (YHZ).*
 
 ### 📍 Route Stops Breakdown
 
@@ -30,14 +28,14 @@ One seamless coastal loop: drive west to **Peggy's Cove** at your leisure, swing
 | **3** | **Lunenburg Old Town (UNESCO)** | 15 km (15 mins) | Route 332 N | Candy-coloured waterfront, Bluenose II berth, seafood lunch |
 | **4** | **Mahone Bay** | 10 km (10 mins) | Route 3 | Famous Three Churches harbour view, Amos Pewter, artisan stroll |
 | **5** | **Peggy's Point Lighthouse** | 80 km (1h 10m) | Hwy 103 N to Route 333 | Iconic granite headland & lighthouse; gingerbread at Sou'Wester |
-| **6** | **Halifax Stanfield Airport (YHZ)** | 65 km (50 mins) | Route 333 to NS-102 N | Refuel on Hwy 102, return rental car by 6:00 PM → WS811 20:15 |
+| **6** | **Halifax Stanfield Airport (YHZ)** | 70 km (1 h 10 m) | Route 333 to NS-102 N | Refuel on Hwy 102, return rental car by 6:00 PM → WS811 20:15 |
 
 ```mermaid
 graph TD
     A[The Lookout Dome, LaHave 8:30 AM] -->|5m Ferry / 15 km| B[Lunenburg Old Town ~9:30 AM]
-    B -->|10m / 10 km| C[Mahone Bay ~12:00 PM Lunch]
+    B -->|10m / 10 km| C[Mahone Bay ~12:45 PM]
     C -->|1h 10m / 80 km| D[Peggy's Cove ~2:00 PM]
-    D -->|50m / 65 km| E[YHZ by ~5:30 PM]
+    D -->|1h 10m / 70 km| E[YHZ by ~5:30 PM]
     E -->|20:15 WS811 / 2h 30m| F[Land Toronto 21:45 ET]
 ```
 ---
@@ -66,7 +64,7 @@ graph TD
 - **02:00 PM – 03:10 PM**: Drive north along Hwy 103 to Exit 5, then follow Route 333 (Prospect Road) winding around St. Margaret's Bay directly to **Peggy's Cove** (~80 km, ~1h 10m).
 - **03:10 PM – 04:00 PM**: **Peggy's Point Lighthouse**:
   - **Location**: 72 Peggy's Point Rd, Peggy's Cove (44.4930° N, 63.9181° W).
-  - **Exertion vs Lounging**: Walk the smooth, pale white granite headland and the accessible wooden viewing platform to photograph the world-famous red-and-white beacon against the roaring Atlantic surf.
+  - **Effort & Timing**: Walk the smooth, pale white granite headland and the accessible wooden viewing platform to photograph the world-famous red-and-white beacon against the roaring Atlantic surf.
   - **Safety Warning**: ⚠️ **STAY OFF THE BLACK ROCKS!** Rogue Atlantic swells surge unpredictably over dark rock. Stay on high, dry white granite.
   - **Afternoon Treat**: Pop into the **Sou'Wester Restaurant** next to the lighthouse for their famous warm gingerbread drenched in lemon sauce and coffee.
   - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
@@ -75,7 +73,7 @@ graph TD
 - **04:00 PM – 05:30 PM**: Depart Peggy's Cove via Route 333 North connecting to Hwy 102 North straight to **Halifax Stanfield Airport (YHZ)** (~65 km, ~50 mins drive time).
   - *Hard Rule*: Leaving Peggy's Cove by 4:00 PM ensures you arrive at YHZ by ~5:15–5:30 PM, giving you a full 2 hours and 45 minutes before flight departure.
 
-### 05:30 PM – 08:15 PM: Renturn Car, Security & Evening Flight
+### 05:30 PM – 08:15 PM: Return Car, Security & Evening Flight
 - **05:30 PM – 06:15 PM**: Refuel (Hwy 102 gas, not the airport station), return the National rental at the YHZ garage, **check the pre-added/shipped bag** (Grohmann knives — never carry-on; UltraBasic has no carry-on at all).
 - **06:15 PM – 07:45 PM**: Clear security; last coffee; gate.
 - **08:15 PM – 09:45 PM**: **WestJet WS811** non-stop to Toronto-Pearson (Boeing 737 MAX 8, 2h 30m). Land **21:45 ET** — late night home, plan ahead.

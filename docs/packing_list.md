@@ -7,8 +7,8 @@ Mid-October in Nova Scotia delivers crisp, vibrant autumn days with temperature 
 ## 🥾 1. Essential Trail & Hiking Gear
 
 - [ ] **Headlamp with Fresh Batteries / USB Charger** (⚡ **Mandatory** for the Skyline Trail sunset return hike in twilight).
-- [ ] **Sturdy Hiking Boots or Trail Runners** (Waterproof/Gore-Tex recommended for muddy trails and rocky terrain on Franey Mountain and Cape Split).
-- [ ] **Lightweight Trekking Poles** (Collapsible, essential for the steep 365m descent on Franey Mountain and 13.2 km Cape Split trek).
+- [ ] **Sturdy Hiking Boots or Trail Runners** (Waterproof/Gore-Tex recommended for muddy trails and rocky terrain on Franey Mountain, the Skyline boardwalk, and Taylor Head).
+- [ ] **Lightweight Trekking Poles** (Collapsible, useful for the steep 365 m descent on Franey Mountain).
 - [ ] **Daypack (20L – 30L)** with integrated rain cover for snacks, water, and extra layers.
 - [ ] **Binoculars (8x42 or 10x42)** (Crucial for spotting Eastern Canadian Moose on the Skyline plateau, bald eagles along the Cabot Trail, and minke/pilot whales off Middle Head).
 - [ ] **Reusable Water Bottle or Hydration Bladder (1.5L – 2L)**.
@@ -35,11 +35,12 @@ Mid-October in Nova Scotia delivers crisp, vibrant autumn days with temperature 
 
 ---
 
-## 🏙️ 3. Urban & Dining Casual Wear (Halifax & Baddeck)
+## 🏙️ 3. Casual Wear, Hot Tubs & Dining
 
-- [ ] **Smart Casual Outfits** (Jeans, chinos, sweaters, or casual collared shirts for dining at *The Bicycle Thief*, *Drift*, or *The Freight Shed*).
-- [ ] **Comfortable City Walking Shoes** (For the 4.4 km Halifax Waterfront Boardwalk and Citadel Hill).
-- [ ] **Casual Jacket / Peacoat** for evening city strolls.
+- [ ] **Swimwear & Flip-Flops** (For the private outdoor hot tub at **The Lookout Dome** in LaHave).
+- [ ] **Smart Casual Outfits** (Jeans, chinos, sweaters, or casual collared shirts for dining at *The Bicycle Thief*, *Drift*, or *L'Abri*).
+- [ ] **Comfortable City Walking Shoes** (For the Halifax Waterfront Boardwalk, Lunenburg Old Town, and Sherbrooke Village).
+- [ ] **Casual Jacket / Peacoat** for evening strolls and lakeside dinners.
 
 ---
 

@@ -47,32 +47,33 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-!!! info "📋 Booking Status: 🟢 4 OF 5 NIGHTS BOOKED (80% Accommodation Locked)"
-    **Core Activity Dates Locked**: **October 10 – 14, 2026** (Canadian Thanksgiving Peak Foliage Window)  
-    **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight — WestJet WS811 20:15, BOOKED** — departing YHZ after exploring LaHave, Lunenburg UNESCO Old Town, Mahone Bay, and Peggy's Cove. Day 6 retired.  
-    **Confirmed Bookings**: 🟢 **Flights (Porter PD201 out / WestJet WS811 return)** · 🟢 **Rental Car (National #2098647349)** · 🟢 **Skyline Parking (Sun Oct 11, 4 PM)** · 🟢 **4 of 5 Lodging Nights (Moxy Halifax Oct 9, Chéticamp Oct 11, Keltic Ingonish Oct 12, The Lookout Dome LaHave Oct 13)**  
-    **Only Remaining Critical Action**: Book **Saturday, Oct 10 night in Baddeck** before Celtic Colours festival sellout!
+!!! info "📋 Booking Status: 🟢 FULLY BOOKED — 5 of 5 Nights Confirmed"
+    **Core Itinerary Dates**: **October 9 – 14, 2026 (6 Days)**  
+    **Flights**: Porter PD201 out (Fri Oct 9, 8:30 AM) · WestJet WS811 return (Wed Oct 14, 20:15)  
+    **Ground & Activities**: National Car Rental booked · Skyline Trail sunset parking booked (Sun Oct 11, 4 PM)  
+    **Accommodations**: All 5 nights confirmed — Moxy Halifax (Oct 9), The Shoreline West Bay (Oct 10), The Sunset Harbour Village Suite Chéticamp (Oct 11), Keltic Resort Ingonish (Oct 12), The Lookout Dome LaHave (Oct 13).
 
 ---
 
-## 🧭 Trip Master Overview
+## 🧭 Core Itinerary Overview (October 9–14, 2026)
 
-### 🛫 Travel Buffer & Arrival Window
 | Day | Date | Primary Focus & Highlights | Base Camp | Drive / Time | Intensity |
 |:---|:---|:---|:---|:---|:---:|
-| [**Day 0**](day0_flight_transit_arrival.md) | **Fri, Oct 9** | ✈️ **Arrival locked**: morning Toronto → Halifax flight (PD201 lands 11:37 AM), check into **Moxy Halifax Downtown (BOOKED)**, Maritime Museum of the Atlantic evening reservation | Moxy Halifax Downtown | ~38 km (taxi) | ⭐ |
-
----
-
-### 🍁 Core Activity Days (The Must-Do Window: Oct 10–14)
-| Day | Date | Primary Focus & Key Activities | Base Camp | Drive / Time | Intensity |
-|:---|:---|:---|:---|:---|:---:|
-| [**Day 1**](day1_halifax_to_baddeck.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Martinique Beach, Taylor Head lookout, Sherbrooke Village, Guysborough, Canso Causeway → Baddeck + Celtic Colours ceilidh | Baddeck (⚠️ Unbooked) | ~405 km (~5h) | ⭐⭐ |
-| [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike (4 PM booked)** → sleep in Chéticamp | Chéticamp (Suite BOOKED) | ~145 km (~2.5h) | ⭐⭐⭐ |
+| [**Day 0**](day0_flight_transit_arrival.md) | **Fri, Oct 9** | ✈️ Morning flight from Toronto (PD201 lands 11:37 AM), check into **Moxy Halifax Downtown (BOOKED)**, visit the **Maritime Museum of the Atlantic** (Titanic & 1917 Explosion galleries) | Moxy Halifax Downtown | ~38 km (taxi) | ⭐ |
+| [**Day 1**](day1_halifax_to_west_bay.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Pick up rental car 9 AM, Martinique Beach, Taylor Head coastal hike, Sherbrooke Village, Canso Causeway → lakeside base on the Bras d'Or Lake | West Bay (BOOKED) | ~380 km (~6h) | ⭐⭐ |
+| [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Drive the **Margaree Valley**, explore **Chéticamp** Acadian culture & hike the **Skyline Trail at sunset (4 PM booked)** → sleep 20 min from the trailhead | Chéticamp (BOOKED) | ~170 km (~2.75h) | ⭐⭐⭐ |
 | [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey — **night at the Keltic Resort Ingonish (BOOKED)** | Ingonish (Keltic BOOKED) | ~190 km (~3.2h) | ⭐⭐⭐⭐ |
-| [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | Check out Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → drive to South Shore → **The Lookout Dome One with private hot tub (BOOKED)** | LaHave (Dome BOOKED) | ~560 km (~5.8h) | ⭐⭐ |
-| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | 🌊 **LaHave Bakery & Cable Ferry → Lunenburg UNESCO Old Town → Mahone Bay → Peggy's Cove** & **evening return flight (WestJet WS811, 20:15 BOOKED)** | Airport Transit | ~150 km (~2.5h) | ⭐⭐ |
+| [**Day 4**](day4_ingonish_to_lahave.md) | **Tue, Oct 13** | Check out Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → drive to the South Shore → **The Lookout Dome with private hot tub (BOOKED)** | LaHave (BOOKED) | ~560 km (~5.75h) | ⭐⭐ |
+| [**Day 5**](day5_lahave_to_yhz.md) | **Wed, Oct 14** | 🌊 **LaHave Bakery & Cable Ferry → Lunenburg UNESCO Old Town → Mahone Bay → Peggy's Cove** & **evening return flight (WestJet WS811, 20:15 BOOKED)** | Return to Toronto | ~190 km (~3.5h) | ⭐⭐ |
 
 ---
 
+## ⚡ Fast Navigation
 
+- 📋 **[Active To-Do Checklist](todo.md)**: Action task manager and booking timeline.
+- ✈️ **[Logistics Master](logistics.md)**: Flight details, rental vehicle specifications, and accommodation hubs.
+- 📊 **[Flight Research & Value Matrix](research.md)**: Detailed Toronto (YYZ) to Halifax (YHZ) airline analysis.
+- 🎒 **[Master Packing List](packing_list.md)**: Autumn hiking gear, weather protection, headlamps, and pass requirements.
+- 🗺️ **[Interactive GPS Map](maps.md)**: Fullscreen filterable Leaflet map with all waypoints.
+- 💡 **[Potential Activities Vault](potential_activities.md)**: Back-pocket adventures, ocean activities, and cultural experiences.
+- 🧭 **[Ideas for Extra Days](ideas_for_extra.md)**: Prince Edward Island, Annapolis Valley wine country, and tidal bore rafting.

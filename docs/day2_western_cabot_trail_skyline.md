@@ -1,9 +1,15 @@
 # 🥾 Day 2: Western Cabot Trail, Acadian Coast & The Iconic Skyline Trail Sunset
 
-!!! danger "Highlight Day — Sunday, October 11, 2026"
+!!! note "Day 2 — Sunday, October 11, 2026"
     **Base Camp**: **The Sunset Harbour Village Suite (15294 Cabot Trail A, Chéticamp) — 🟢 BOOKED (Airbnb #HM3Y8BH355)**  
-    **Total Driving Distance**: ~145 km (approx. 2.2 – 2.5 hours total drive time)  
-    **Primary Goal**: Experience the world-famous Cabot Trail coastal climb, explore Acadian culture in Chéticamp, and hike the iconic **Skyline Trail** during late afternoon and sunset for moose spotting and Gulf of St. Lawrence ocean panoramas.
+    **Total Driving Distance**: ~170 km (approx. 2.5 – 3 h total drive time)  
+    **Primary Goal**: Depart the Bras d'Or Lake, wind through the **Margaree Valley**, explore Acadian culture in **Chéticamp**, and hike the iconic **Skyline Trail** at sunset for moose spotting and Gulf of St. Lawrence ocean panoramas — then sleep 20 minutes from the trailhead.
+
+!!! success "🏨 Accommodation BOOKED — The Sunset Harbour Village Suite, Chéticamp"
+    **Sun, Oct 11 night**: 15294 Cabot Trail A, Chéticamp, NS B0E 1H0. Airbnb Reservation **#HM3Y8BH355** (Host Joeleen). Check-in: Sun Oct 11 @ 4:00 PM; Check-out: Mon Oct 12 @ 10:00 AM. 2 guests.  
+    - **Trail Proximity**: Right on the Cabot Trail in Chéticamp — only **20 minutes south of the Skyline trailhead**.  
+    - **Moose-Safety Advantage**: Eliminates the dangerous 1.5–2 h night drive through highlands moose territory after the sunset hike.  
+    - **Dining**: A short walk or drive to **L'Abri** or **The Doryman**. *(Receipt: `receipts/hotel_10_11.pdf`)*
 
 ---
 
@@ -12,15 +18,15 @@
 Today you ascend onto the dramatic western cliffs of the Cabot Trail. The route hugs the Gulf of St. Lawrence, winding through the rolling Margaree salmon river valley, through the Acadian harbor of Chéticamp, up the engineered switchbacks of French Mountain, and culminates with the crown jewel of Nova Scotia hiking—the **Skyline Trail**.
 
 ???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**👉 Open Day 2 Route in Google Maps**](https://www.google.com/maps/dir/Baddeck%2C+NS/Margaree+Forks%2C+NS/Les+Trois+Pignons%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS/Cap+Rouge+Lookout%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS/Skyline+Trail+Trailhead%2C+Cabot+Trail%2C+Cape+Breton+Highlands+National+Park%2C+NS/The+Doryman+Pub+%26+Grill%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS){:target="_blank"} (~145 km, ~2h 15m total drive)  
-    *Click to launch live turn-by-turn navigation in Google Maps pre-loaded with all stops from Baddeck through the Margaree Valley to the Skyline Trail and Chéticamp.*
+    **Direct Navigation Link**: [**🔗 Open Day 2 Route in Google Maps**](https://www.google.com/maps/dir/108+Camerons+Road%2C+West+Bay%2C+NS/Margaree+Forks%2C+NS/Les+Trois+Pignons%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS/Cap+Rouge+Lookout%2C+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS/Skyline+Trail+Trailhead%2C+Cabot+Trail%2C+Cape+Breton+Highlands+National+Park%2C+NS/15294+Cabot+Trail%2C+Ch%C3%A9ticamp%2C+NS){:target="_blank"} (~170 km, ~2 h 45 m total drive)  
+    *Click to launch live GPS turn-by-turn navigation from West Bay through the Margaree Valley to the Skyline Trail and your Chéticamp suite.*
 
 ### 📍 Route Stops Breakdown
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Baddeck Base** | — | NS-105 W to Exit 7 | Morning departure west along the Bras d'Or lakeshore |
-| **2** | **Margaree River Valley** | 55 km (45 mins) | NS-19 N / Cabot Trail | Salmon pools, autumn maple ridges, Margaree Forks lookouts |
+| **1** | **The Shoreline, West Bay (Base)** | — | West Bay Rd → NS-105 W | Morning departure west along the Bras d'Or lakeshore via Whycocomagh |
+| **2** | **Margaree River Valley** | 95 km (1 h 30 m) | NS-105 W → Cabot Trail (NS-19) | Salmon pools, autumn maple ridges, Margaree Forks lookouts |
 | **3** | **Les Trois Pignons (Chéticamp)** | 40 km (35 mins) | Cabot Trail (NS-30 N) | Acadian hooked rug museum, Aucoin Bakery meat pies & provisions |
 | **4** | **Cap Rouge Lookout** | 15 km (15 mins) | Cabot Trail (Parks Entry) | Coastal switchback ocean panoramas & French Mountain climb |
 | **5** | **Skyline Trail Trailhead** | 20 km (25 mins) | Cabot Trail (Highlands) | 6.5 km sunset boardwalk hike, moose viewing (⚡ 4:00 PM booked slot) |
@@ -28,31 +34,31 @@ Today you ascend onto the dramatic western cliffs of the Cabot Trail. The route 
 
 ```mermaid
 graph TD
-    A[Baddeck Base] -->|45m / 55 km| B[Margaree River Valley]
+    A[West Bay Base 8:00 AM] -->|1h 30m / 95 km| B[Margaree River Valley]
     B -->|35m / 40 km| C[Chéticamp Acadian Harbor]
     C -->|15m / 15 km| D[CB Highlands NP Entrance & French Mtn Lookout]
     D -->|25m / 20 km| E[Skyline Trailhead 6.5 km Sunset Hike]
     E -->|Boardwalk Viewing & Sunset| F[Headlamp Return to Vehicle]
-    F -->|30m / 35 km| G[Acadian Dinner in Chéticamp]
+    F -->|25m / 25 km| G[Chéticamp Suite & Dinner]
 ```
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown
 
-### 08:30 AM – 10:30 AM: Scenic Drive Through Margaree Valley
-- **08:30 AM – 09:30 AM**: Depart Baddeck westbound on NS-105 to Trans-Canada Exit 7, joining the Cabot Trail (NS-19 / NS-30 N) into the lush **Margaree Valley**.
-- **09:30 AM – 10:30 AM**: **Margaree River & Valley Lookouts**
-  - **Exertion vs Lounging**: 15 mins easy riverbank stroll + 45 mins scenic photo stops along the crimson and gold autumn maple banks of the Southwest and Northeast Margaree Rivers.
-  - **Highlights**: Stop at the historic Doryman hook or Margaree Salmon Museum; watch traditional fly-anglers casting for Atlantic salmon in pristine autumn pools.
+### 08:00 AM – 10:15 AM: Scenic Drive Through Margaree Valley
+- **08:00 AM – 09:40 AM**: Check out the West Bay base and depart west on **NS-105**, turning onto the **Cabot Trail (NS-19)** at the Margaree junction into the lush **Margaree Valley** (95 km, ~1 h 30 m).
+- **09:40 AM – 10:15 AM**: **Margaree River & Valley Lookouts**
+  - **Effort**: 15 mins easy riverbank stroll + 45 mins of scenic photo stops along the crimson and gold autumn maple banks of the Southwest and Northeast Margaree Rivers.
+  - **Highlights**: Stop at the Margaree Salmon Museum; watch traditional fly-anglers casting for Atlantic salmon in pristine autumn pools.
   - **Direct Guide**: [Margaree River Tourism Guide](https://www.novascotia.com/places-to-go/regions/cape-breton/margaree)
 
 ---
 
-### 10:45 AM – 01:15 PM: Chéticamp Acadian Culture & Coastal Harbour
-- **10:45 AM – 11:30 AM**: Drive north along the rugged coastline into **Chéticamp**, Atlantic Canada’s vibrant Acadian capital.
-- **11:30 AM – 01:00 PM**: **Les Trois Pignons Cultural Centre & Harbourfront**
+### 10:30 AM – 01:15 PM: Chéticamp Acadian Culture & Coastal Harbour
+- **10:30 AM – 11:15 AM**: Drive north along the rugged coastline into **Chéticamp**, Atlantic Canada’s vibrant Acadian capital (40 km, ~40 mins).
+- **11:15 AM – 01:00 PM**: **Les Trois Pignons Cultural Centre & Harbourfront**
   - **Location**: 15584 Cabot Trail, Chéticamp.
-  - **Exertion vs Lounging**: 45 mins gallery walk + 45 mins lunch and harbour admiring.
+  - **Effort & Timing**: 45 mins gallery walk + 45 mins lunch and harbour admiring.
   - **Highlights**: World-renowned museum of Acadian hooked rugs, traditional rug-hooking master demonstrations, and genealogical archives.
   - **Direct Guide**: [Les Trois Pignons Official Site](https://www.lestroispignons.com/)
 - **01:00 PM – 01:30 PM**: Pick up freshly baked Acadian meat pies (*pâté à la viande*) and artisanal bread at *La Boulangerie Aucoin Bakery* to pack for trail snacks.

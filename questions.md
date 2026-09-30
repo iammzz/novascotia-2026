@@ -99,8 +99,8 @@ This document serves as your **active decision framework** to iterate through ov
 Use this section to note preferences as you discuss:
 
 1. **Flight Choice**: → **Both flights BOOKED.** Outbound: **Porter PD201, Fri Oct 9, 8:30 AM YYZ → 11:37 AM YHZ (Conf. L4669V).** Return: **WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ (Res. OEFTZF, UltraBasic — ADD checked bag for knives).**
-2. **Buffer Days**: → **Fri Oct 9 arrival day = museum/evening anchor; return Wed Oct 14 afternoon; Day 6 (Bay of Fundy, Oct 15/16) retired.**
-3. **Lodging Status (4 of 5 Nights BOOKED)**: ✅ Fri Oct 9 @ Moxy Halifax Downtown (#1055927990) · ⚠️ Sat Oct 10 Baddeck (OPEN) · ✅ Sun Oct 11 @ The Sunset Harbour Village Suite, Chéticamp (#HM3Y8BH355) · ✅ Mon Oct 12 @ Keltic Resort, Ingonish (#27835) · ✅ Tue Oct 13 @ The Lookout Dome One, LaHave (#HMEJ8ZMJXK).
+2. **Buffer Days**: → **Fri Oct 9 arrival day = museum/evening anchor; return Wed Oct 14 evening; the Bay of Fundy / Annapolis Valley extension is retired to the Extras pages.**
+3. **Lodging Status (5 of 5 Nights BOOKED)**: ✅ Fri Oct 9 @ Moxy Halifax Downtown (#1055927990) · ✅ Sat Oct 10 @ The Shoreline, West Bay on the Bras d'Or Lake (#HMJWZ39DA4) · ✅ Sun Oct 11 @ The Sunset Harbour Village Suite, Chéticamp (#HM3Y8BH355) · ✅ Mon Oct 12 @ Keltic Resort, Ingonish (#27835) · ✅ Tue Oct 13 @ The Lookout Dome One, LaHave (#HMEJ8ZMJXK).
 4. **Must-Do Novelty Pick**: (e.g., *Tidal Bore Rafting / Cape Split / Pollett's Cove*) → 
 5. **Dining Non-Negotiable**: (e.g., *Lobster Suppers + Bar Kismet + Wineries*) → 
 6. **Day 4 & South Shore Transition**: Confirmed locked — Check out Keltic Ingonish → Pictou (Grohmann Knives & Hector Quay) → drive south to **The Lookout Dome One in LaHave (booked)** with private hot tub under the stars.

@@ -10,7 +10,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 - <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY</span> : Currently scheduled on the master day-by-day plan.
 - <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION / DIRECT SWAP</span> : High-value alternative that can replace or supplement an itinerary block.
-- <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK</span> : Ideal for Pre-Trip (Day 0) or Post-Trip (Day 6) extension days.
+- <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK</span> : Ideal for pre-trip or post-trip extension days.
 - <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 WEATHER BACKUP / INDOOR</span> : Excellent rainy-day or low-visibility backup.
 
 ---
@@ -137,13 +137,13 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### Iconic Sights & Urban Heritage
 
-#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Noon Gun Restored — 20:15 Flight)</span>
+#### 19. Halifax Citadel National Historic Site & Noon Gun <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 OPTIONAL — NOT ON THE SOUTH SHORE LOOP</span>
 - **Location**: Downtown Halifax atop Citadel Hill.
 - **Details**: 19th-century star-shaped bastion fortress overlooking Halifax Harbour. Features the firing of the historic 24-pounder smoothbore cannon precisely at 12:00 PM daily by the 78th Highlanders in full military regalia.
-- **Day 5 Scope (Wed, before the 20:15 flight)**: ❌ **Paid interior exhibits CUT**. ✅ Free perimeter ramparts walk + **12:00 PM noon gun firing — restored**, thanks to the evening WestJet WS811 return.
+- **Status**: Not scheduled — the final day is the South Shore loop (Lunenburg → Mahone Bay → Peggy's Cove → YHZ). Visit only if you choose to sacrifice a South Shore stop.
 - **Direct Guide**: [Parks Canada Halifax Citadel](https://parks.canada.ca/lhn-nhs/ns/halifax)
 
-#### 20. Halifax Harbour Waterfront Boardwalk <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
+#### 20. Halifax Harbour Waterfront Boardwalk <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 0</span>
 - **Location**: Halifax Waterfront (Lower Water St).
 - **Details**: 4.4 km of continuous wooden harbor boardwalk. Home to Queen's Marque public art, Cable Wharf, floating beer gardens, seaside hammocks, and fresh oyster shacks.
 - **Direct Guide**: [Discover Halifax Waterfront](https://discoverhalifaxns.com/plan/halifax-waterfront/)
@@ -173,17 +173,17 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### City Flavors, Craft Beer & Nightlife
 
-#### 25. Alexander Keith's Historic 1820 Brewery Tour <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 WEATHER BACKUP / INDOOR (Cut from Day 5)</span>
+#### 25. Alexander Keith's Historic 1820 Brewery Tour <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 WEATHER BACKUP / INDOOR (not scheduled)</span>
 - **Location**: 1496 Lower Water St, Halifax.
 - **Details**: Interactive theatrical tour of the oldest commercial brewery in North America, concluding with private tastings and traditional folk music in the subterranean Stag's Head Tavern.
-- **Status**: ❌ **Removed from the plan — but now fittable**: the Wed 20:15 WS811 return leaves a full afternoon gap in Halifax (tours run to ~4:30 PM), so the tour CAN return if you opt back in. Default remains cut.
+- **Status**: Not scheduled — the final day runs from LaHave along the South Shore to YHZ. Keep as a wet-weather Halifax backup only if the itinerary changes.
 - **Direct Guide**: [Alexander Keith's Brewery](https://www.keiths.ca/)
 
-#### 26. Authentic Halifax Donair Crawl <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Days 0, 4, 5</span>
+#### 26. Authentic Halifax Donair Crawl <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 0</span>
 - **Details**: Taste Halifax’s official city food—spiced spit-roasted shaved beef, signature sweet garlic condensed milk sauce, diced tomatoes, and white onions rolled in warm grilled pita at *King of Donair (KOD)* or *Tony's*.
 - **Direct Guide**: [King of Donair Official](https://kingofdonair.ca/)
 
-#### 27. North End Halifax Craft Brewery & Cider Crawl <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 4</span>
+#### 27. North End Halifax Craft Brewery & Cider Crawl <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 OPTION — Day 0 evening</span>
 - **Location**: Agricola St / Gottingen St / Robie St.
 - **Details**: Walkable district featuring world-class craft breweries and cideries: *Good Robot Brewing*, *2 Crows Brewing*, *Propeller Brewing*, and *Chain Yard Urban Cidery*.
 
@@ -203,7 +203,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: High-powered motorized Zodiac boats navigate 10-to-14 foot standing mud waves created when the world's highest tide surges upriver against the natural river flow. Includes sliding down natural red mud riverbanks! (Full rain gear and wetsuits provided; operates through Thanksgiving weekend).
 - **Direct Guide**: [Shubenacadie Tidal Bore Rafting](https://www.novascotia.com/see-do/outdoor-activities/tidal-bore-rafting)
 
-#### 30. Cape Split Provincial Park Headland Hike <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK — Day 6</span>
+#### 30. Cape Split Provincial Park Headland Hike <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK</span>
 - **Location**: Scots Bay, Bay of Fundy.
 - **Stats**: 13.2 km return | 310 m gain | 3.5 – 4.0 hours duration.
 - **Why It's Legendary**: Well-graded coastal forest trail culminating at 200-foot sheer basalt sea cliffs overlooking the Minas Channel, where 160 billion tonnes of tidal water create colossal whirlpools and rip tides below.
@@ -214,7 +214,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: Guinness World Record site for the highest recorded tides on Earth (16.3 meters / 53.6 feet). Walk out onto the ocean floor around towering sandstone sea stacks during the 6-hour low-tide window.
 - **Direct Guide**: [Burntcoat Head Park Official Site](https://burntcoatheadpark.ca/)
 
-#### 32. Hall's Harbour Tidal Lobster Pound <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK — Day 6</span>
+#### 32. Hall's Harbour Tidal Lobster Pound <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK</span>
 - **Location**: Hall's Harbour, Bay of Fundy.
 - **Details**: Historic fishing wharf where you pick live lobsters from seawater tanks, cooked to order while watching fishing boats drop 40 feet to rest on the harbor mud at low tide.
 - **Direct Guide**: [Hall's Harbour Lobster Pound](https://www.novascotia.com/places-to-go/regions/bay-of-fundy-annapolis-valley/halls-harbour)
@@ -223,12 +223,12 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### Cool-Climate Wine Region & UNESCO Heritage
 
-#### 33. Grand-Pré National Historic Site (UNESCO) <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK — Day 6</span>
+#### 33. Grand-Pré National Historic Site (UNESCO) <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK</span>
 - **Location**: Grand-Pré, Annapolis Valley.
 - **Details**: Commemorates Acadian settlement and their ingenious 17th-century wooden *aboiteau* dyke engineering that reclaimed fertile farmland from the Bay of Fundy tides, as well as the 1755 Acadian Deportation.
 - **Direct Guide**: [Parks Canada Grand-Pré NHS](https://parks.canada.ca/lhn-nhs/ns/grandpre)
 
-#### 34. Luckett Vineyards & Gaspereau Wine Trail <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK — Day 6</span>
+#### 34. Luckett Vineyards & Gaspereau Wine Trail <span style="background-color: #EDE7F6; color: #512DA8; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #673AB7;">🟣 BUFFER / EXTENSION PICK</span>
 - **Location**: Wolfville / Gaspereau Valley.
 - **Details**: Sip signature *Tidal Bay* crisp white wines overlooking the Blomidon Ridge and place a free phone call anywhere in North America from the vintage red British telephone box standing in the vineyard.
 - **Direct Guide**: [Luckett Vineyards](https://luckettvineyards.com/)
@@ -249,8 +249,8 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 
 ### UNESCO Ports & Granite Headlands
 
-#### 37. Peggy's Point Lighthouse & Village <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Wed Sunrise)</span>
-- **Location**: Route 333 (45 min from Halifax).
+#### 37. Peggy's Point Lighthouse & Village <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 5 (Wed afternoon)</span>
+- **Location**: Route 333, Peggy's Cove (on the Day 5 South Shore loop from LaHave).
 - **Details**: Canada’s most famous lighthouse perched on ancient white granite boulders above pounding Atlantic surf. Working dory fishing harbor and artisan shops. *(⚠️ Never step on wet black rocks!)*
 - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
 

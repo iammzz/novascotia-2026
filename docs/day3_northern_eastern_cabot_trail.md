@@ -1,9 +1,9 @@
 # ⛰️ Day 3: Northern Highlands, Meat Cove Cliffs & The Eastern Coast of Ingonish
 
-!!! success "Core Itinerary Day 3 (Thanksgiving Monday) — October 12, 2026"
+!!! note "Day 3 — Monday, October 12, 2026 (Thanksgiving)"
     **Base Camp**: **Keltic Resort, Ingonish — 🟢 BOOKED (Mon Oct 12 night, Res. #27835)**  
     **Total Driving Distance**: ~150 km to ~200 km (with Meat Cove northern excursion)  
-    **Primary Goal**: Traverse the alpine northern highlands of Cape Breton, stand atop the wild cliffs of Meat Cove, conquer the panoramic **Franey Mountain Trail** or **Middle Head Trail**, ride the **Cape Smokey Gondola**, and sleep at the cliffs-edge **Keltic Resort** — no drive back to Baddeck.
+    **Primary Goal**: Traverse the alpine northern highlands of Cape Breton, stand atop the wild cliffs of Meat Cove, conquer the panoramic **Franey Mountain Trail** or **Middle Head Trail**, ride the **Cape Smokey Gondola**, and sleep at the cliffs-edge **Keltic Resort** — no long drive back after the day's hikes.
 
 ---
 
@@ -43,7 +43,7 @@ graph TD
 ### 08:30 AM – 10:30 AM: Alpine Crossing & North Mountain Lookouts
 - **08:30 AM – 09:45 AM**: Drive east from Pleasant Bay over **MacKenzie Mountain** and **North Mountain** via NS-30 (Cabot Trail).
   - **Lookout Stops**: Pull off at **MacKenzie Mountain Lookout** and **North Mountain Summit** (elev. 445m / 1,460 ft).
-  - **Exertion vs Lounging**: 15 mins easy viewing platform strolls + 30 mins photography overlooking the sheer canyons of the Big Intervale and Aspy River Valley blanketed in fiery orange and gold autumn foliage.
+  - **Effort & Timing**: 15 mins easy viewing platform strolls + 30 mins photography overlooking the sheer canyons of the Big Intervale and Aspy River Valley blanketed in fiery orange and gold autumn foliage.
 
 ---
 
@@ -53,7 +53,7 @@ graph TD
 - **10:30 AM – 11:15 AM**: Drive 35 km north off the Cabot Trail from Cape North along the rugged coastal road through Bay St. Lawrence to **Meat Cove** (final 8 km is well-maintained gravel).
 - **11:15 AM – 12:45 PM**: **Explore Meat Cove Sea Cliffs & Beach**
   - **Location**: Meat Cove Road, Victoria County (47.0264° N, 60.5593° W).
-  - **Exertion vs Lounging**: 1.5 km moderate cliffside trail walk (45 mins) + 45 mins ocean wave watching and lunch at the cliff-edge Chowder Hut.
+  - **Effort & Timing**: 1.5 km moderate cliffside trail walk (45 mins) + 45 mins ocean wave watching and lunch at the cliff-edge Chowder Hut.
   - **Highlights**: Towering grassy ocean promontories dropping 150 meters vertically into the North Atlantic, jagged sea stacks, and wild untamed coast.
   - **Direct Guide**: [Meat Cove Cape Breton Guide](https://www.novascotia.com/places-to-go/regions/cape-breton/meat-cove)
 - **12:45 PM – 01:30 PM**: Drive back south (35 km) to rejoin the Cabot Trail at South Harbour / Dingwall.
@@ -63,7 +63,7 @@ graph TD
 ### 01:45 PM – 02:45 PM: Neils Harbour Lighthouse & Coastal Break
 - **01:45 PM – 02:45 PM**: **Neils Harbour Lighthouse & Lobster Shack**
   - **Location**: Lighthouse Road, Neils Harbour (46.8122° N, 60.3236° W).
-  - **Exertion vs Lounging**: 10 mins easy walk around the lighthouse and wooden lobster boat slipway + 35 mins sampling hot chowder or ice cream right on the headland.
+  - **Effort & Timing**: 10 mins easy walk around the lighthouse and wooden lobster boat slipway + 35 mins sampling hot chowder or ice cream right on the headland.
   - **Highlights**: Traditional wooden 1899 lighthouse perched above Atlantic breakers with lobster traps stacked high along the wharf.
 
 ---
@@ -89,7 +89,7 @@ graph TD
 ### 06:15 PM – 07:15 PM: Cape Smokey Gondola & Coastal Lookouts
 - **06:15 PM – 07:15 PM**: **Cape Smokey Mountain Summit**
   - **Location**: 38539 Cabot Trail, Ingonish Ferry (46.6200° N, 60.4100° W).
-  - **Exertion vs Lounging**: 8-minute scenic gondola ride + 30 mins walking the summit timber skywalk looking south across Ingonish Harbour and Smokey Mountain Headland.
+  - **Effort & Timing**: 8-minute scenic gondola ride + 30 mins walking the summit timber skywalk looking south across Ingonish Harbour and Smokey Mountain Headland.
   - **Direct Guide**: [Cape Smokey Destination Site](https://capesmokey.ca/)
 
 ---
