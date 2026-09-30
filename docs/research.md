@@ -86,8 +86,8 @@ By structuring our trip around the core window, we keep it tight: an **arrival f
 ### Parks Canada Discovery Pass vs Daily Admissions
 | Pass Type | Cost (Adult) | Cost (Group/Family up to 7 people) | Inclusions for Our Itinerary | Recommendation |
 |:---|:---|:---|:---|:---|
-| **Daily Site Admissions (2 Adults)** | Cape Breton NP: $21/day ($42 total)<br>Bell NHS: $18<br>Citadel NHS: $26.50 | **$86.50 CAD Total** | Cape Breton NP (2 days) + Bell NHS + Halifax Citadel NHS | **Cheapest Option**: Saves ~$58 CAD compared to the Discovery Pass for the core itinerary. |
-| **Parks Canada Discovery Pass** | $72.25 CAD / person | **$145.25 CAD** (Family/Group) | All National Parks & National Historic Sites nationwide for 12 months | Best if visiting other Canadian national parks within a year or adding Fortress of Louisbourg + Grand-Pré. |
+| **Daily Site Admissions (2 Adults)** | Cape Breton Highlands NP: ~$21/day for the group over 2 days | **~$42 CAD Total** | Cape Breton Highlands NP only (Days 2–3) — Bell NHS and Halifax Citadel are now Extras, not core stops | **Cheapest Option** for the current 6-day itinerary. |
+| **Parks Canada Discovery Pass** | $72.25 CAD / person | **$145.25 CAD** (Family/Group) | All National Parks & National Historic Sites nationwide for 12 months | Only worthwhile if you add Fortress of Louisbourg / Grand-Pré or visit other parks within the year. |
 
 ---
 

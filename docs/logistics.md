@@ -29,6 +29,8 @@
 | **Additional Drivers** | **Up to 9 — Included** | No per-driver fee | ✅ INCLUDED |
 | **Cost** | **5 days @ $47.75/day** | $238.75 + VLF $4.30 + HST $34.03 = **$277.08 CAD** | 🟢 BOOKED |
 
+*(Receipt: `receipts/Confirmation _ National Car Rental.pdf`)*
+
 ---
 
 ## 🏨 3. Accommodation (All 5 Nights Confirmed)

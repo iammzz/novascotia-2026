@@ -80,7 +80,7 @@
   - Slot: **Sunday, October 11, 2026 @ 4:00 PM – 8:00 PM (16:00 arrival window 3:50 PM – 5:00 PM)**. *(Receipt: `receipts/skyline.pdf`)*.
   - [ ] **Action**: Download and print the reservation PDF or save offline to your phone (zero cellular coverage at the trailhead).
 - [ ] **Cape Breton Highlands National Park Entry Pass**:
-  - [ ] Compare Family/Group Discovery Pass ($145.25 CAD, valid full year across all Canada) vs Daily Park Admissions ($86.50 CAD for 2 adults over 4 days). Purchase online in September or at the park gate on arrival.
+  - [ ] Compare the Family/Group Discovery Pass ($145.25 CAD, valid for a full year across Canada) vs Daily Park Admissions (~$42 CAD for the group across the two Cape Breton Highlands days). Purchase online in advance or at the park gate on arrival.
 
 ### 🎻 Festival & Cultural Admissions
 - [ ] **Celtic Colours International Festival Tickets**:
