@@ -45,7 +45,7 @@ By structuring our trip around the core window, we keep it tight: an **arrival f
 | **Flight Pricing** | $260 – $450 CAD return | $550 – $850+ CAD return | **YHZ Wins**: Saving ~$300+ CAD per ticket. |
 | **Rental Car Availability** | Massive fleets (National, Enterprise, Avis, Hertz) | Limited regional airport fleet | **YHZ Wins**: Much cheaper rental rates and better vehicle variety. |
 | **Drive Time to Cabot Trail** | ~3.5 hours to Baddeck | ~1.0 hour to Baddeck | **YQY Advantage**: Saves 2.5 hours of driving each way. |
-| **Conclusion** | **Fly into Halifax (YHZ)**. The 3.5h drive through mainland Nova Scotia includes Masstown Market and scenic Bras d'Or lakes, easily offsetting the flight price difference. |
+| **Conclusion** | **Fly into Halifax (YHZ)**. The 3.5h drive through mainland Nova Scotia includes scenic Bras d'Or lakes, easily offsetting the flight price difference. | Lower daily fares and far more frequency from Toronto. | ✅ **Fly into YHZ** |
 
 ---
 
@@ -67,7 +67,7 @@ By structuring our trip around the core window, we keep it tight: an **arrival f
 |:---|:---|:---|:---|
 | **A: Central Hub (Baddeck - 3 Nights)** | Stay at one property in Baddeck for Days 1–3. | Unpack once; excellent restaurant choices (Freight Shed, Baddeck Lobster Suppers); centrally located. | Incurs ~1.5h return drive to Baddeck after sunset hike on Day 2. |
 | **B: Multi-Base (West Bay + Chéticamp + Ingonish)** ⭐ BOOKED | Night 1: West Bay (Bras d'Or Lake)<br>Night 2: Chéticamp<br>Night 3: Ingonish | Zero backtracking; sleep 20 mins from the Skyline trailhead after sunset; a lakeside first night near the Canso Causeway. | Pack luggage every morning; 3 different check-ins. |
-| **Recommendation** | **BOOKED: the multi-base route above.** Halifax (Oct 9) → West Bay (Oct 10) → Chéticamp (Oct 11) → Keltic Ingonish (Oct 12) → LaHave (Oct 13). |
+| **Recommendation** | **BOOKED: the multi-base route above.** Halifax (Oct 9) → West Bay (Oct 10) → Chéticamp (Oct 11) → Keltic Ingonish (Oct 12) → LaHave (Oct 13). | ✅ Multi-base | More packing, but zero backtracking and safer post-sunset driving. |
 
 ---
 
