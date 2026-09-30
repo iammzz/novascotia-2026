@@ -1,10 +1,10 @@
 # ✈️ Logistics Master: Flights, Rental Car & Accommodations
 
-!!! info "📋 Current Logistics Status: 🟡 PARTIALLY BOOKED"
+!!! info "📋 Current Logistics Status: 🟢 4 OF 5 NIGHTS BOOKED (80% Accommodation Locked)"
     **Core Activity Dates**: October 10 – 14, 2026 (5 Days)  
-    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax night 1) · Cape Breton Oct 10–12 · Halifax night 2 (Tue Oct 13) · **Return flight Wed, Oct 14 evening 20:15 — WestJet WS811 (booked)**  
-    **Confirmed Booking**: 🟢 **Skyline Trail Sunset Parking Confirmed (Sun, Oct 11 @ 4:00 PM)**  
-    **Immediate Focus**: Lock in Toronto → Halifax roundtrip (**both flights now BOOKED**: Porter PD201 out / WestJet WS811 evening return) and secure Cape Breton accommodations before Celtic Colours festival sell-out.
+    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax Moxy booked) · Cape Breton Oct 10–12 (Chéticamp Oct 11 booked + Keltic Resort Oct 12 booked) · South Shore / LaHave dome night (Tue Oct 13 booked) · **Return flight Wed, Oct 14 evening 20:15 — WestJet WS811 (booked)**  
+    **Confirmed Bookings**: 🟢 **Both Flights (Porter PD201 / WestJet WS811)** · 🟢 **Rental Car (National #2098647349)** · 🟢 **Skyline Parking (Sun Oct 11 @ 4:00 PM)** · 🟢 **4 of 5 Lodging Nights (Moxy Halifax Oct 9, Chéticamp Oct 11, Keltic Ingonish Oct 12, The Lookout Dome LaHave Oct 13)**  
+    **Only Remaining Lodging Action**: Lock in **Saturday, Oct 10 night in Baddeck** before Celtic Colours festival sellout!
 
 ---
 
@@ -21,40 +21,45 @@
 
 | Parameter | Specification | Details | Status |
 |:---|:---|:---|:---:|
-| **Booking** | **National Car Rental — Conf. #2098647349** | Serviced by Enterprise at Halifax Train Station (1161 Hollis St); Emerald Club #906110914; Visa ••••3097 | 🟢 **BOOKED — $277.08** |
-| **Pick-up** | **Sat, Oct 10, 9:00 AM — Halifax Train Station** | ~10–15 min walk from waterfront hotels; no car needed Friday | 🟢 BOOKED |
+| **Booking** | **National Car Rental — Conf. #2098647349** | Serviced by Enterprise at Halifax Train Station (1161 Hollis St); Emerald Club #906110914; Visa ••••3097 | 🟢 **BOOKED — $277.08 CAD** |
+| **Pick-up** | **Sat, Oct 10, 9:00 AM — Halifax Train Station** | ~15 min walk from Moxy Halifax Downtown; no car needed Friday | 🟢 BOOKED |
 | **Drop-off** | **Halifax Stanfield Airport (YHZ)** | Same-city drop, no one-way surcharge | 🟢 BOOKED |
 | **Drop-off Time** | **Wed, Oct 14, 7:30 PM — ⚠️ CHANGE TO ~6:00 PM** | WS811 departs 20:15; return the car ~2h before (18:00–18:30 max) to clear security | ⚠️ CHANGE REQUIRED |
-| **Vehicle** | **Intermediate — Mazda 3 or similar** | ⚠️ NOT the recommended SUV/AWD. Fine on the paved Cabot Trail; consider upgrading for Meat Cove gravel or AWD peace of mind | 🟡 CONSIDER UPGRADE |
+| **Vehicle** | **Intermediate — Mazda 3 or similar** | ⚠️ Intermediate sedan. Fine on the paved Cabot Trail; consider upgrading for Meat Cove gravel or AWD peace of mind | 💡 CONSIDER UPGRADE |
 | **Mileage** | **Unlimited — Included** | ~1,300 km total trip | ✅ INCLUDED |
 | **Additional Drivers** | **Up to 9 — Included** | No per-driver fee | ✅ INCLUDED |
 | **Cost** | **5 days @ $47.75/day** | $238.75 + VLF $4.30 + HST $34.03 = **$277.08 CAD** | 🟢 BOOKED |
 
 ---
 
-## 🏨 3. Accommodation Hubs & Bases
+## 🏨 3. Accommodation Hubs & Bases (4 of 5 Nights Confirmed)
 
-### Base 1: Cape Breton Split Base — 2 nights flexible (Oct 10–11) + 🟢 BOOKED Mon night (Oct 12, Keltic Resort, Ingonish)
-*Central launchpad for the Cabot Trail loop, Skyline Trail, and Celtic Colours festivities. **Booked**: Mon Oct 12 at the **Keltic Resort, Ingonish** (Res. #27835). Still open: Sat Oct 10 + Sun Oct 11 nights (Baddeck or Chéticamp — decide after Skyline timing).*
+### Base 1: Cape Breton Split Base (Oct 10–12) — 2 Nights BOOKED, 1 Night OPEN
+*The optimal split-base strategy for the Cabot Trail: Saturday night in Baddeck after Marine Drive, Sunday night in Chéticamp right near the Skyline sunset finish, and Monday night at Keltic Resort on the Atlantic coast.*
 
-| Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
-|:---|:---|:---:|:---|:---:|
-| **Inverary Resort** *(Baddeck)* | Lakeside Resort & Spa | $220 – $320 CAD | Waterfront on Bras d'Or Lake, indoor pool, on-site dining, 5-min walk to town. | 🔴 NOT BOOKED |
-| **Silver Dart Lodge** *(Baddeck)* | Scenic Hilltop Lodge | $180 – $260 CAD | Sweeping panoramic views of the lake, quiet Chalet-style rooms. | 🔴 NOT BOOKED |
-| **Auberge Doucet Inn / Laurie's Motor Inn** *(Chéticamp)* | Acadian Motel / Inn | $160 – $240 CAD | 20 mins from Skyline Trailhead—ideal if splitting base for sunset hike. | 🔴 NOT BOOKED |
-| **Keltic Resort at the Highlands** *(Ingonish Beach)* | Historic Luxury Resort | $290 – $450 CAD | 🟢 **BOOKED — Mon Oct 12 night**: Res. #27835, Corson House (Double with View), **$324.43** total (rate $276.30 + tax $48.13), check-in 4 PM. *(Receipt: `receipts/keltic.pdf`)* | 🟢 BOOKED |
+| Night / Date | Base Camp | Property | Type | Cost / Code | Key Advantages & Details | Status |
+|:---|:---|:---|:---:|:---:|:---|:---:|
+| **Sat, Oct 10** (Night 2) | **Baddeck** | *Inverary Resort* or *Silver Dart Lodge* | Lakeside Resort / Lodge | ~$180 – $320 CAD | Waterfront on Bras d'Or Lake, close to evening Celtic Colours ceilidhs. **This is your only remaining unbooked lodging.** | ⚠️ **NOT BOOKED** (Urgent) |
+| **Sun, Oct 11** (Night 3) | **Chéticamp** | **The Sunset Harbour Village Suite** *(15294 Cabot Trail A)* | Village Suite (Airbnb) | Res. **HM3Y8BH355** | 🟢 **BOOKED**: Host Joeleen. Check-in Sun 4:00 PM, Check-out Mon 10:00 AM. 20 mins south of Skyline trailhead — eliminates 2h night drive through moose country. *(Receipt: `receipts/hotel_10_11.pdf`)* | 🟢 **BOOKED** |
+| **Mon, Oct 12** (Night 4) | **Ingonish Beach** | **Keltic Resort at the Highlands** *(Middle Head Peninsula)* | Historic Luxury Resort | Res. **#27835** ($324.43 CAD) | 🟢 **BOOKED**: Corson House (Double with View), check-in 4:00 PM. Dramatic Atlantic cliff headland; Middle Head Trail at doorstep. *(Receipt: `receipts/keltic.pdf`)* | 🟢 **BOOKED** |
 
 ---
 
-### Base 2: Downtown Halifax Waterfront — 2 Nights (Fri Oct 9 arrival + Tue Oct 13 pre-flight)
-*Walkable access to Halifax Harbour boardwalk, Maritime Museum, Argyle Street restaurants, and the Saturday departure point for Cape Breton. **Note**: Book BOTH Friday Oct 9 (arrival/museum night) and Tuesday Oct 13 (night before the Wed Peggy's Cove, Mahone Bay & Lunenburg loop + evening WS811 flight).*
+### Base 2: Downtown Halifax — 1 Night (Fri Oct 9 Arrival — 🟢 BOOKED)
+*Walkable access to Halifax Harbour boardwalk, Maritime Museum, Argyle Street dining, and a 15-minute walk to Saturday's 9:00 AM rental car pickup at Halifax Train Station.*
 
-| Property / Area | Type | Est. Cost / Night | Key Advantages | Status |
-|:---|:---|:---:|:---|:---:|
-| **The Muir Hotel** *(Queen's Marque)* | Luxury Waterfront Hotel | $380 – $550 CAD | Premium waterfront design hotel, steps from top dining and harbor ferries. | 🔴 NOT BOOKED |
-| **The Westin Nova Scotian** *(Seaport District)* | Historic Full-Service Hotel | $220 – $310 CAD | Adjacent to Halifax Seaport Farmers' Market and direct boardwalk access. | 🔴 NOT BOOKED |
-| **Halifax Marriott Harbourfront** *(Waterfront)* | Harbourfront Hotel | $240 – $340 CAD | Direct indoor/outdoor boardwalk access, harbor-view rooms. | 🔴 NOT BOOKED |
-| **The Prince George Hotel** *(Downtown Core)* | Boutique Business Hotel | $210 – $290 CAD | In the heart of the dining district, 3 blocks to Citadel Hill. | 🔴 NOT BOOKED |
+| Night / Date | Property | Address | Type | Cost / Code | Key Advantages & Details | Status |
+|:---|:---|:---|:---:|:---:|:---|:---:|
+| **Fri, Oct 9** (Night 1) | **Moxy Halifax Downtown** | 5417 Cogswell St | Modern Boutique Marriott Hotel | Conf. **#1055927990** / Amex **#32095665** ($262.44 CAD) | 🟢 **BOOKED**: 1 Queen Bed, 2 Adults (Yi Yang Zeng & Matthew Zhang). Walkable to Maritime Museum (15 min), Citadel (3 min), and Saturday train station car pickup (15 min). *(Receipt: `receipts/hotel_10-9.pdf`)* | 🟢 **BOOKED** |
+
+---
+
+### Base 3: South Shore Seaside Dome Retreat — 1 Night (Tue Oct 13 Pre-Flight — 🟢 BOOKED)
+*Stunning coastal geodesic dome perched on Highway 331 in LaHave with a private hot tub overlooking water. Positioned directly on the South Shore for Wednesday's LaHave Ferry, Lunenburg Old Town, Mahone Bay, and Peggy's Cove loop before flying home.*
+
+| Night / Date | Property | Address | Type | Cost / Code | Key Advantages & Details | Status |
+|:---|:---|:---|:---:|:---:|:---|:---:|
+| **Tue, Oct 13** (Night 5) | **The Lookout Dome One - Private Hot Tub** | 3839 Highway 331, LaHave, NS | Geodesic Dome with Private Hot Tub (Airbnb) | Res. **HMEJ8ZMJXK** (Host Jill) | 🟢 **BOOKED**: Check-in Tue 3:00 PM, Check-out Wed 11:00 AM. Private outdoor hot tub, lockbox self check-in. 2 mins to LaHave Bakery & Cable Ferry; 15 mins to Lunenburg. Eliminates Wednesday backtrack driving. *(Receipt: `receipts/hotel_10-13.pdf`)* | 🟢 **BOOKED** |
 
 ---
 
@@ -62,11 +67,11 @@
 
 | Activity / Pass | Timing / Date | Pricing (CAD) | Booking Requirement | Status |
 |:---|:---|:---:|:---|:---:|
-| **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Alexander Graham Bell NHS gate on Day 1 | 🔴 NOT BOOKED |
+| **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Ingonish/Chéticamp gate on arrival | 🟡 NOT BOOKED |
 | **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service — Conf. **INPC26-60130188B1** *(Receipt `receipts/skyline.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
-| **Alexander Keith's Historic Brewery Tour** | ❌ CUT (could now fit) | — | — | ❌ Stays cut per your decision — though the 20:15 flight leaves a Wed afternoon gap (tours run to ~4:30 PM) if you opt back in |
+| **Alexander Keith's Historic Brewery Tour** | ❌ CUT | — | Cut per itinerary decision | ❌ CUT |
 | **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — 6:45 PM** | ~$11 / adult | **Reservation held for Friday evening** (Titanic & 1917 Halifax Explosion galleries). ⚠️ Confirm the 6:45 PM evening entry — regular fall hours close ~5:30 PM | 🟢 RESERVED — FRIDAY EVENING |
-| **Halifax Citadel Perimeter & Noon Gun** | ❌ SACRIFICED | Free | ❌ Sacrificed for the relaxed Peggy's Cove → Mahone Bay → Lunenburg UNESCO loop | ❌ CUT FOR SOUTH SHORE LOOP |
-| **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🔴 NOT BOOKED |
-| **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🔴 NOT BOOKED |
+| **Halifax Citadel Perimeter & Noon Gun** | ❌ SACRIFICED | Free | Sacrificed for the relaxed South Shore (Lunenburg / Mahone Bay / Peggy's Cove) loop | ❌ CUT FOR SOUTH SHORE LOOP |
+| **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🟡 NOT BOOKED |
+| **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🟡 NOT BOOKED |
 | **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:00 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |

@@ -19,7 +19,7 @@ Today covers the most alpine and rugged stretches of the Cabot Trail. You cross 
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Chéticamp Base** | — | Cabot Trail (NS-30 N) | Morning departure into the national park northern alpine loop |
+| **1** | **The Sunset Harbour Village Suite (Chéticamp Base)** | — | Cabot Trail (NS-30 N) | Check out by 10:00 AM; morning departure into national park northern alpine loop |
 | **2** | **MacKenzie & North Mtn Lookouts** | 42 km (45 mins) | Cabot Trail | Alpine summit passes (elev. 445m), autumn canyon foliage vistas |
 | **3** | **Meat Cove Sea Cliffs** | 30 km (35 mins) | Bay St. Lawrence Rd & Meat Cove Rd | Isolated northern tip, vertical grassy sea cliffs, cliffside Chowder Hut |
 | **4** | **Neils Harbour Lighthouse** | 35 km (40 mins) | Cabot Trail south | 1899 wooden lighthouse, operating lobster slipway, hot chowder |

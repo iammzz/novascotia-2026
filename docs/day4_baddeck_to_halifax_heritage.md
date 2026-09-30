@@ -1,9 +1,9 @@
 # 🔪 Day 4 (Tue, Oct 13): Keltic to Halifax — Pictou, Grohmann Knives & the Return Drive
 
 !!! note "Core Itinerary Day 4 — Tuesday, October 13, 2026"
-    **Base Camp**: Downtown Halifax  
-    **Total Driving Distance**: ~465 km (approx. 5h 15m total drive time)  
-    **Primary Goal**: Check out of the **Keltic Resort (Ingonish)**, cross back to the mainland, tour the historic **Grohmann Knives Factory & Outlet** in the Scottish seaside port of **Pictou**, explore the **Hector Heritage Quay** (and grab Pictou County pizza!), and settle into Halifax for an evening in the trendy North End.
+    **Base Camp**: **The Lookout Dome One - Private Hot Tub (3839 Hwy 331, LaHave, NS) — 🟢 BOOKED (Airbnb #HMEJ8ZMJXK)**  
+    **Total Driving Distance**: ~560 km (approx. 5h 45m total drive time)  
+    **Primary Goal**: Check out of the **Keltic Resort (Ingonish)**, cross back to the mainland, tour the historic **Grohmann Knives Factory & Outlet** in the Scottish seaside port of **Pictou**, explore the **Hector Heritage Quay** (and grab Pictou County pizza!), and drive south to the South Shore to check into **The Lookout Dome One in LaHave** for an evening soaking in a private outdoor hot tub under the stars.
 
 ---
 
@@ -23,14 +23,14 @@ Today you transition from Cape Breton’s Celtic heartland back to the cosmopoli
 | **2** | **Canso Causeway Mainland Crossing** | 235 km (2h 30m) | Cabot Trail → NS-105 S → NS-104 E | Transit through St. Ann's / Baddeck back onto mainland Nova Scotia |
 | **3** | **Grohmann Knives Factory & Outlet** | 130 km (1h 20m) | NS-104 W to NS-106 N (Exit 22) | Handcrafted knife factory tour, MoMA design #1, discount seconds showroom |
 | **4** | **Hector Heritage Quay & Waterfront** | 1 km (3 mins) | Caladh Ave / Water St | Ship Hector restoration ("Birthplace of New Scotland") & Pictou County pizza |
-| **5** | **Downtown Halifax Base** | 165 km (1h 45m) | NS-106 S to NS-102 S | Evening arrival at Halifax base, North End brewery & culinary crawl |
+| **5** | **The Lookout Dome One (LaHave Base)** | 260 km (2h 45m) | NS-106 S to NS-102 S & Hwy 103 S | Scenic South Shore drive, check into luxury dome, soak in private hot tub |
 
 ```mermaid
 graph LR
     A[Keltic Resort, Ingonish] -->|2h 30m / 235 km| B[Canso Causeway Mainland Crossing]
     B -->|1h 20m / 130 km| C[Pictou: Grohmann Knives & Hector Quay]
-    C -->|1h 45m / 165 km| D[Downtown Halifax Base Check-In]
-    D -->|Evening| E[North End Halifax Craft Beers & Dining]
+    C -->|2h 45m / 260 km| D[The Lookout Dome, LaHave Check-In]
+    D -->|Evening| E[Private Hot Tub & South Shore Dining]
 ```
 ---
 
@@ -71,14 +71,15 @@ graph LR
 
 ---
 
-### 04:30 PM – 06:15 PM: Scenic Drive to Halifax
-- **04:30 PM – 06:15 PM**: Depart Pictou via NS-106 South, connecting to NS-102 South through Truro and directly into downtown Halifax (~165 km, ~1h 45m).
-- **06:15 PM – 07:00 PM**: Check in to your Halifax downtown hotel or waterfront accommodation and settle in.
+### 04:30 PM – 07:15 PM: Scenic Drive from Pictou to LaHave (South Shore)
+- **04:30 PM – 07:15 PM**: Depart Pictou on NS-106 S to NS-102 S past Truro and around Halifax, then take **Hwy 103 S** down Nova Scotia's scenic South Shore to **LaHave** via Route 331 (~260 km, ~2h 45m).
+- **07:15 PM**: Arrive at **The Lookout Dome One** (3839 Highway 331, LaHave). Retrieve keys via lockbox self check-in.
 
 ---
 
-### 07:15 PM – 10:00 PM: North End Halifax Culinary & Brewery Crawl
-- Explore Halifax's trendy North End (Agricola Street and Gottingen Street), renowned for vibrant microbreweries, creative farm-to-table small plates, and cider houses.
+### 07:30 PM – 10:30 PM: Private Hot Tub Under the Stars & South Shore Dinner
+- Settle into your luxury geodesic dome and unwind after the drive in your **private outdoor hot tub** overlooking the water.
+- Enjoy dinner at a nearby South Shore restaurant or pick up artisan provisions from Bridgewater / Lunenburg.
 
 ---
 

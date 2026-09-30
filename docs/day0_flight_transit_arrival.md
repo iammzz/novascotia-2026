@@ -1,17 +1,18 @@
 # ✈️ Day 0 (Fri, Oct 9): Arrival Day — Fly Toronto to Halifax & Maritime Museum Evening
 
 !!! success "Locked Arrival Day — Friday, October 9, 2026"
-    **Base Camp**: Downtown Halifax Waterfront (Hotel Night 1 of 2 in Halifax)  
-    **Total Driving**: None planned (optional rental-car pickup if desired)  
-    **Primary Goal**: Morning non-stop flight from Toronto (YYZ/YTZ → YHZ), hotel check-in, and the **Maritime Museum of the Atlantic — 6:45 PM reservation (LOCKED)**. Friday afternoon is kept flexible for settling in / remote work; Saturday morning starts the drive to Cape Breton.
+    **Base Camp**: **Moxy Halifax Downtown (5417 Cogswell St) — 🟢 BOOKED (Conf. #1055927990)**  
+    **Total Driving**: None planned (walkable city day; car rental pickup Saturday morning)  
+    **Primary Goal**: Morning non-stop flight from Toronto (YYZ → YHZ, lands 11:37 AM), check into **Moxy Halifax Downtown**, and visit the **Maritime Museum of the Atlantic — 6:45 PM reservation (LOCKED)**. Friday afternoon is flexible; Saturday morning starts the drive to Cape Breton.
 
 !!! success "✈️ Outbound Flight BOOKED — Porter PD201"
     **Fri, Oct 9 · 8:30 AM Toronto-Pearson (YYZ, Terminal 3) → 11:37 AM Halifax (YHZ)** · Embraer E195-E2 · Confirmation **L4669V**. Free Wi-Fi, snacks, beer/wine. *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)*. ✅ **Return also BOOKED: WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ (Res. OEFTZF).** ⚠️ UltraBasic return = no checked bag — add one for the Grohmann knives.
 
-!!! note "🛏️ Booking Notes for This Day"
-    - **Halifax hotel required for Fri, Oct 9** (you arrive Friday morning and fly home Wed, Oct 14 afternoon — Halifax nights: Fri Oct 9 + Tue Oct 13). Pick a waterfront/downtown property within walking distance of the museum (1675 Lower Water St): *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Prince George*, or *The Muir*.
-    - **🚗 Rental car: OPTIONAL on Friday — decision pending.** Friday is a walkable day (hotel → museum → dinner all downtown), so you can skip the car Friday and pick it up Saturday morning from a downtown Halifax branch. If you do take it Friday, grab it at YHZ on arrival and budget for hotel parking (~$25–$40/night).
-    - **Maritime Museum 6:45 PM**: reservation held for Friday evening. ⚠️ The museum's regular fall closing is ~5:30 PM — confirm your 6:45 PM entry is a valid evening booking/special program when you confirm the reservation.
+!!! success "🏨 Hotel BOOKED — Moxy Halifax Downtown"
+    **Fri, Oct 9 night**: 5417 Cogswell Street, Halifax, NS B3J 1R1. Confirmation **#1055927990** (Amex Travel #32095665 / Marriott). 1 Queen Bed, 2 Adults ($262.44 CAD paid).  
+    - **Walk to Maritime Museum**: ~15 min walk (1.2 km) down Cogswell / Duke St to Lower Water St.  
+    - **Walk to Saturday Car Rental Pickup**: ~15 min walk (1.3 km) south on Hollis St to Halifax Train Station (National pickup Sat Oct 10 @ 9:00 AM).  
+    - **No rental car needed on Friday**: save parking fees and explore the downtown core on foot. *(Receipt: `receipts/hotel_10-9.pdf`)*.
 
 ---
 
@@ -28,7 +29,7 @@ Morning departure from Toronto lands you in Halifax by late morning, leaving the
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Activity & Highlights |
 |:---:|:---|:---:|:---|:---|
 | **1** | **Halifax Stanfield Airport (YHZ)** | — | NS-102 S | Land ~11 AM–12 PM AT; decide on rental car pickup (optional today) |
-| **2** | **Downtown Halifax Hotel** | 38 km (40 mins) | NS-102 S | Check in / drop bags at waterfront or downtown property |
+| **2** | **Moxy Halifax Downtown** | 38 km (40 mins) | NS-102 S | Check in / drop bags at 5417 Cogswell St (Citadel / Downtown) |
 | **3** | **Maritime Museum of the Atlantic** | 5-min walk | Lower Water St | ✅ **6:45 PM reservation** — Titanic wooden artifacts & 1917 Halifax Explosion galleries |
 | **4** | **Waterfront / Argyle St Dinner** | 5-min walk | Boardwalk | Evening seafood dinner after the museum |
 
@@ -41,7 +42,7 @@ Morning departure from Toronto lands you in Halifax by late morning, leaving the
 - **11:37 AM AT**: Land at **Halifax Stanfield (YHZ)**. Collect bags; if taking the car today, pick it up at the on-site parkade rental pavilion. Otherwise taxi/rideshare to the hotel (~40 min).
 
 ### 12:30 PM – 06:00 PM: Hotel Check-In & Flexible Afternoon
-- Check in / drop bags at your Halifax hotel (downtown or waterfront).
+- Check in / drop bags at **Moxy Halifax Downtown** (5417 Cogswell St).
 - **Afternoon is intentionally flexible**: remote-work window if you're logging Friday hours, or a light orientation — waterfront boardwalk stroll to Queen's Marque, or Citadel Hill perimeter if you're fully free.
 - **Pre-load for tomorrow**: confirm Saturday's early departure, pack an overnight bag arrangement for the car, and set alarms — Saturday is a full scenic drive day.
 

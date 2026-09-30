@@ -1,7 +1,7 @@
 # 🥾 Day 2: Western Cabot Trail, Acadian Coast & The Iconic Skyline Trail Sunset
 
 !!! danger "Highlight Day — Sunday, October 11, 2026"
-    **Base Camp**: Chéticamp or Baddeck  
+    **Base Camp**: **The Sunset Harbour Village Suite (15294 Cabot Trail A, Chéticamp) — 🟢 BOOKED (Airbnb #HM3Y8BH355)**  
     **Total Driving Distance**: ~145 km (approx. 2.2 – 2.5 hours total drive time)  
     **Primary Goal**: Experience the world-famous Cabot Trail coastal climb, explore Acadian culture in Chéticamp, and hike the iconic **Skyline Trail** during late afternoon and sunset for moose spotting and Gulf of St. Lawrence ocean panoramas.
 

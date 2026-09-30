@@ -1,16 +1,19 @@
 # 📋 Master To-Do & Booking Checklist: Nova Scotia 2026
 
-!!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
-    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax night 1 + Maritime Museum evening) · Cape Breton Oct 10–12 · Halifax night 2 (Tue Oct 13) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**  
-    **Current Status**: 🟢 **BOTH FLIGHTS BOOKED (Porter PD201 out / WestJet WS811 return) + Skyline Parking (Sun Oct 11, 4 PM) + Keltic Resort (Mon Oct 12) + Rental Car**!  
-    **Immediate Action Items**: Book Halifax hotels (Oct 9 & 13), book Cape Breton lodging for Sat Oct 10 & Sun Oct 11 before Celtic Colours sellout, modify rental car drop-off to ~6:00 PM, and resolve Grohmann knives transport (ship vs. checked bag).
+!!! info "📋 Booking Status: 🟢 4 OF 5 NIGHTS BOOKED (80% Accommodation Locked)"
+    **Locked Structure**: Arrive **Fri, Oct 9 morning** (Halifax Moxy booked) · Cape Breton Oct 10–12 (Chéticamp Oct 11 booked + Keltic Resort Oct 12 booked) · South Shore / LaHave dome night (Tue Oct 13 booked) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**  
+    **Current Status**: 🟢 **BOTH FLIGHTS BOOKED + RENTAL CAR + SKYLINE PARKING + 4 OF 5 HOTEL NIGHTS BOOKED (Moxy Halifax Oct 9, Chéticamp Suite Oct 11, Keltic Resort Oct 12, The Lookout Dome LaHave Oct 13)**!  
+    **Only Remaining Lodging Action**: Book **Saturday, Oct 10 night in Baddeck** before Celtic Colours sellout!
 
 ---
 
 ## ✅ Trip Structure Decision (Locked)
-- **Structure**: Fri Oct 9 arrival (Halifax) → Sat Marine Drive to Baddeck → Sun Western Cabot Trail & Skyline Sunset (booked) → Mon Eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann return to Halifax → Wed **Peggy's Cove → Mahone Bay → Lunenburg loop** + **evening flight home (WS811 20:15 booked)**.
-- **Day 0 (Fri Oct 9)**: Morning arrival (Porter PD201 lands 11:37 AM) + Halifax hotel check-in + **Maritime Museum 6:45 PM reservation**. Friday is fully walkable; rental car pickup begins Saturday morning.
-- **Day 5 (Wed Oct 14)**: Relaxed 9:00 AM start — **Peggy's Cove → Mahone Bay → Lunenburg UNESCO Old Town** → straight to YHZ ~5:30 PM (drop car by 6:00 PM) + **evening return flight WS811 20:15 (booked)**.
+- **Structure**: Fri Oct 9 arrival (Halifax, **Moxy booked**) → Sat Marine Drive to Baddeck (need Saturday hotel) → Sun Western Cabot Trail & Skyline Sunset (booked) → **The Sunset Harbour Village Suite, Chéticamp (BOOKED)** → Mon Eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann Knives → **The Lookout Dome One with Private Hot Tub in LaHave (BOOKED)** → Wed **LaHave Ferry → Lunenburg UNESCO → Mahone Bay → Peggy's Cove → straight to YHZ airport** + **evening flight home (WS811 20:15 booked)**.
+- **Day 0 (Fri Oct 9)**: Morning arrival (Porter PD201 lands 11:37 AM) + **Moxy Halifax Downtown check-in (BOOKED)** + **Maritime Museum 6:45 PM reservation**. Friday is fully walkable; rental car pickup begins Saturday morning (9:00 AM at Halifax Station, 15-min walk from Moxy).
+- **Day 2 (Sun Oct 11)**: Western Cabot Trail → **Skyline Trail Sunset Hike (4:00 PM slot BOOKED)** → 20-min drive to **The Sunset Harbour Village Suite in Chéticamp (BOOKED)** → late dinner at L'Abri (no late-night drive to Baddeck in moose country!).
+- **Day 3 (Mon Oct 12)**: 10:00 AM check out of Chéticamp suite → Northern Highlands, Meat Cove, Franey Trail & Cape Smokey → Check in at **Keltic Resort at the Highlands, Ingonish (BOOKED)**.
+- **Day 4 (Tue Oct 13)**: Check out Keltic Resort Ingonish → Canso Causeway → **Pictou (Grohmann Knives & Hector Quay)** → Drive south to **LaHave, South Shore** → Check into **The Lookout Dome One (BOOKED)**, soak in private hot tub under autumn stars.
+- **Day 5 (Wed Oct 14)**: Wake up in the dome → **LaHave Bakery & Cable Ferry** → **Lunenburg UNESCO Old Town** → **Mahone Bay** → **Peggy's Cove** → straight to YHZ ~5:30 PM (drop car by 6:00 PM) + **evening return flight WS811 20:15 (booked)**.
 - **Cuts**: ❌ Alexander Keith's tour (cut) · ❌ Citadel interior exhibits & noon gun (sacrificed for South Shore loop) · ❌ Day 6 Bay of Fundy extension (retired) · ❌ Bell NHS / Uisge Bàn / Gaelic College (dropped for drive time pacing).
 
 ---
@@ -19,17 +22,28 @@
 
 > *These items carry hard date deadlines or rapid sellout risks due to the Canadian Thanksgiving long weekend and the Celtic Colours International Festival.*
 
-### 🏨 Lodging Bookings (High Urgency)
-- [x] **Cape Breton Base — Night 3 (Mon Oct 12) — 🟢 BOOKED**:
-  - **Keltic Resort at the Highlands (Ingonish Beach)**: Confirmed booked. Res. **#27835**, Corson House (Double with View), **$324.43 CAD** total (Rate $276.30 + HST $48.13). Check-in: Mon Oct 12, 4:00 PM. *(Receipt: `receipts/keltic.pdf`)*.
-- [ ] **Cape Breton Base — Nights 1 & 2 (Sat Oct 10 & Sun Oct 11) — ⚠️ URGENT / PEAK FESTIVAL**:
-  - *Risk*: Canadian Thanksgiving + Celtic Colours Festival means Baddeck and Chéticamp sell out months in advance.
-  - [ ] **Strategy Decision**: Choose between **Central Hub** (*Inverary Resort* or *Silver Dart Lodge* in Baddeck for 2 nights) vs **Split Base** (Night 1 in Baddeck, Night 2 at *Auberge Doucet* / *Laurie's Motor Inn* in Chéticamp near the Skyline sunset finish).
-  - [ ] Reserve Saturday Oct 10 and Sunday Oct 11 rooms immediately with free cancellation policies.
-- [ ] **Halifax Downtown Waterfront — Night 1 (Fri Oct 9 Arrival) — ⚠️ BOOK SOON**:
-  - [ ] Reserve 1 night near the Halifax waterfront / Maritime Museum: *The Westin Nova Scotian*, *Halifax Marriott Harbourfront*, *The Muir*, or *The Prince George*. (Walkable to Friday 6:45 PM museum reservation & waterfront dining; no car needed Friday).
-- [ ] **Halifax Downtown Waterfront — Night 2 (Tue Oct 13 Pre-Flight) — ⚠️ BOOK SOON**:
-  - [ ] Reserve 1 night in Halifax following the drive back from Pictou / Grohmann Knives. Base for Tuesday evening dinner and the launchpad for Wednesday's Peggy's Cove / South Shore loop.
+### 🏨 Lodging Bookings
+- [x] **Night 1 (Fri Oct 9 Arrival — Halifax Downtown) — 🟢 BOOKED**:
+  - **Moxy Halifax Downtown**: Confirmed booked. 5417 Cogswell Street, Halifax, NS B3J 1R1 (Phone: 902-377-6699).
+  - **Confirmation**: **#1055927990** (Amex Travel Booking **#32095665** / Agoda / Marriott).
+  - **Details**: 1 Queen Bed (20 sq m), 2 Adults (Yi Yang Zeng & Matthew Zhang). Total paid: **$262.44 CAD** ($225.65 + HST/fees $36.79). Non-refundable. Special request: High floor.
+  - **Location Benefit**: Walkable to Maritime Museum (15 mins), Citadel Hill (3 mins), and Halifax Train Station rental car pickup (15 mins). *(Receipt: `receipts/hotel_10-9.pdf`)*.
+- [ ] **Night 2 (Sat Oct 10 — Cape Breton / Baddeck) — ⚠️ ONLY REMAINING HOTEL TO BOOK**:
+  - *Risk*: Canadian Thanksgiving + Celtic Colours Opening Weekend means Baddeck sells out rapidly.
+  - [ ] **Action**: Reserve Saturday Oct 10 night in Baddeck immediately with free cancellation. Target: *Inverary Resort* (lakeside resort, indoor pool, 5-min walk to town) or *Silver Dart Lodge* (panoramic Bras d'Or Lake hilltop views).
+- [x] **Night 3 (Sun Oct 11 — Western Cabot Trail / Chéticamp) — 🟢 BOOKED**:
+  - **The Sunset Harbour Village Suite (Airbnb)**: Confirmed booked. 15294 Cabot Trail A, Chéticamp, NS B0E 1H0. Host: Joeleen.
+  - **Confirmation**: **HM3Y8BH355** (Airbnb).
+  - **Details**: Suite in Chéticamp right on the Cabot Trail. Check-in: Sun Oct 11 @ 4:00 PM; Check-out: Mon Oct 12 @ 10:00 AM. 2 guests max.
+  - **Location Benefit**: Perfectly positioned only **20 minutes south of the Skyline Trailhead**! Eliminates the hazardous 1.5–2 hour night drive through moose country back to Baddeck after the 7:00 PM sunset finish. Walkable/short drive to L'Abri and Doryman Pub. *(Receipt: `receipts/hotel_10_11.pdf`)*.
+- [x] **Night 4 (Mon Oct 12 — Eastern Cabot Trail / Ingonish Beach) — 🟢 BOOKED**:
+  - **Keltic Resort at the Highlands**: Confirmed booked. Res. **#27835**, Corson House (Double with View), **$324.43 CAD** total (Rate $276.30 + HST $48.13). Check-in: Mon Oct 12, 4:00 PM.
+  - **Location Benefit**: Cliffside Atlantic luxury on the Ingonish peninsula; Middle Head Trail starts right at your doorstep. *(Receipt: `receipts/keltic.pdf`)*.
+- [x] **Night 5 (Tue Oct 13 Pre-Flight — South Shore Dome Retreat) — 🟢 BOOKED**:
+  - **The Lookout Dome One - Private Hot Tub (Airbnb)**: Confirmed booked. 3839 Highway 331, LaHave, NS B0R 1C0 / B0R 1G0. Host: Jill.
+  - **Confirmation**: **HMEJ8ZMJXK** (Airbnb).
+  - **Details**: Luxury geodesic dome overlooking LaHave River / South Shore ocean waters with private hot tub, lockbox self check-in. Check-in: Tue Oct 13, 3:00 PM; Check-out: Wed Oct 14, 11:00 AM. 2 guests max, no pets.
+  - **Location Benefit**: Right on the South Shore! 2 mins to LaHave Bakery & Cable Ferry; 15 mins to Lunenburg Old Town. Eliminates Wednesday backtrack driving. *(Receipt: `receipts/hotel_10-13.pdf`)*.
 
 ### 🚗 Rental Car Adjustment & Logistics Deadlines
 - [x] **Rental Vehicle Reservation — 🟢 BOOKED**:
@@ -43,12 +57,12 @@
 ### ✈️ Flights & Baggage Deadlines
 - [x] **Outbound Flight — 🟢 BOOKED**: **Porter PD201, Fri Oct 9, 8:30 AM YYZ (T3) → 11:37 AM YHZ** — Conf. **L4669V** (Embraer E195-E2). *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)*.
 - [x] **Return Flight — 🟢 BOOKED**: **WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ** — Res. **OEFTZF**, Boeing 737 MAX 8, UltraBasic fare ($226.76 CAD). *(Receipt: `receipts/WestJet.pdf`)*.
-- [ ] ⚠️ **Grohmann Knives Transport Decision (Deadline: Before Departure / At Factory Tue Oct 13)**:
+- [ ] ⚠️ **Grohmann Knives Transport Decision (Deadline: At Factory Tue Oct 13)**:
   - *CATSA Rule*: Fixed-blade and pocket knives are strictly banned from carry-on luggage.
   - Choose one of three options:
     1. **Direct Factory Shipping**: Have Grohmann ship knives directly home to Toronto from the Pictou retail store on Tue Oct 13 (~$15–$25 CAD). Arrives ~Thu/Fri.
     2. **Add Checked Bag on WestJet WS811**: UltraBasic includes only 1 personal item (no carry-on). Add a checked bag via WestJet Manage Trips (~$35–$50 CAD) before check-in and pack knives inside luggage.
-    3. **Post Office Self-Ship**: Mail knives via Canada Post from Halifax on Tuesday afternoon.
+    3. **Post Office Self-Ship**: Mail knives via Canada Post from Halifax or Pictou on Tuesday.
 - [ ] Set 24-hour advance check-in alerts:
   - Porter PD201 check-in opens: **Thursday, Oct 8 @ 8:30 AM EDT**.
   - WestJet WS811 check-in opens: **Tuesday, Oct 13 @ 8:15 PM ADT**.
@@ -87,6 +101,8 @@
   - [ ] Reserve a table at **L'Abri Restaurant & Bar** (Chéticamp) for a late dinner (~7:30 PM / 8:00 PM) following the Skyline sunset hike. Peak foliage weekends require advance reservations.
 - [ ] **Day 3 Dinner (Mon Oct 12 — Ingonish / Keltic Resort)**:
   - [ ] Reserve an evening table at **Arduaine Restaurant / Highland Sitting Room** at Keltic Resort or **Coastal Restaurant & Pub** in Ingonish.
+- [ ] **Day 4 Dinner (Tue Oct 13 — South Shore / LaHave & Lunenburg Area)**:
+  - [ ] Target dinner near LaHave / Lunenburg: *The Grand Banker Bar & Grill* (waterfront Lunenburg, 20 mins from dome), *The Knot Pub* (cozy maritime pub), or *King Street Beer Company* (Bridgewater).
 - [ ] **Day 5 Lunch (Wed Oct 14 — Lunenburg Old Town)**:
   - [ ] Book or target lunch at **The Salt Shaker Deli** or **The Grand Banker Bar & Grill** (waterfront seating with views of the Bluenose II berth).
 
@@ -127,6 +143,8 @@
 - **Grohmann Knives Airport Security (CATSA)**:
   - Fixed blades and folding knives are 100% prohibited in carry-on cabin baggage at Halifax Stanfield (YHZ).
   - All knives must be shipped home from Pictou or packed securely inside checked baggage. Keep them in their protective sleeves and original factory boxes wrapped within soft apparel.
+- **LaHave Cable Ferry**:
+  - Crossing the LaHave River between East LaHave and LaHave saves driving all the way around Bridgewater. Toll is **$7.00 CAD cash per vehicle** (5-minute crossing, departs every 15–30 minutes).
 - **Halifax Harbour Bridge Tolls**:
   - The Angus L. Macdonald and A. Murray MacKay bridges connecting Halifax and Dartmouth charge a **$1.25 CAD toll**.
   - Keep loose Canadian loonies ($1) and quarters ($0.25) in the car cup holder if your rental transponder is not activated.
@@ -138,6 +156,8 @@
   - Standard tipping in Nova Scotia hospitality venues is 15% to 20%.
 
 ### 🦞 Local Culinary Etiquette
+- **LaHave Bakery Experience**:
+  - Located at 3421 Hwy 331 (2 minutes from the dome). Famous for house-baked artisan breads, cheddar dill scones, espresso, and craft shops upstairs. Perfect morning pitstop before taking the ferry to Lunenburg!
 - **Traditional Atlantic Lobster Suppers**:
   - Bibs are provided and expected—wear one without hesitation.
   - Pull claws first, crack with metal cracker, break off tail, and push the meat out with a fork.
@@ -154,8 +174,9 @@
   - [ ] Inspect waterproof hiking footwear and break-in wool/synthetic trail socks.
   - [ ] Pack windproof and rainproof outer shells (Gore-Tex/hard-shell jackets and pants) for gusty Atlantic coastal points.
   - [ ] Pack compact 8x or 10x binoculars for moose spotting on French Mountain and whale sightings off Middle Head.
+  - [ ] Pack swimwear & flip-flops for the private outdoor hot tub at The Lookout Dome in LaHave!
 - [ ] **Documentation & Passes**:
-  - [ ] Print paper backup copies of flight confirmations (PD201, WS811), rental car voucher (National), and Keltic Resort booking.
+  - [ ] Print paper backup copies of flight confirmations (PD201, WS811), rental car voucher (National), Moxy Halifax confirmation, Chéticamp Airbnb code, Keltic Resort booking, and LaHave Airbnb dome instructions.
 
 ---
 
@@ -164,6 +185,9 @@
 - [x] **Outbound Flight**: Porter Airlines PD201, Fri Oct 9, 8:30 AM YYZ → 11:37 AM YHZ (Conf. **L4669V**). *(Receipt: `receipts/Itinerary - Porter Airlines.pdf`)*
 - [x] **Return Flight**: WestJet WS811, Wed Oct 14, 20:15 YHZ → 21:45 YYZ (Res. **OEFTZF**, $226.76 CAD). *(Receipt: `receipts/WestJet.pdf`)*
 - [x] **Rental Car Reservation**: National Car Rental, Sat Oct 10 @ 9:00 AM (Halifax Station) → Wed Oct 14 @ YHZ (Conf. **#2098647349**, $277.08 CAD).
-- [x] **Cape Breton Base (Night 3)**: Keltic Resort at the Highlands, Ingonish Beach, Mon Oct 12 (Res. **#27835**, $324.43 CAD). *(Receipt: `receipts/keltic.pdf`)*
+- [x] **Hotel Night 1 (Fri Oct 9 — Halifax Downtown)**: Moxy Halifax Downtown, 5417 Cogswell St (Conf. **#1055927990**, Amex **#32095665**, $262.44 CAD). *(Receipt: `receipts/hotel_10-9.pdf`)*
+- [x] **Hotel Night 3 (Sun Oct 11 — Chéticamp / Western Cabot Trail)**: The Sunset Harbour Village Suite, 15294 Cabot Trail A, Chéticamp, NS (Airbnb Res. **#HM3Y8BH355**, Host Joeleen). *(Receipt: `receipts/hotel_10_11.pdf`)*
+- [x] **Hotel Night 4 (Mon Oct 12 — Ingonish / Cape Breton Luxury Resort)**: Keltic Resort at the Highlands, Ingonish Beach (Res. **#27835**, $324.43 CAD). *(Receipt: `receipts/keltic.pdf`)*
+- [x] **Hotel Night 5 (Tue Oct 13 — South Shore Geodesic Dome)**: The Lookout Dome One - Private Hot Tub, LaHave, NS (Airbnb Res. **#HMEJ8ZMJXK**, Host Jill). *(Receipt: `receipts/hotel_10-13.pdf`)*
 - [x] **Skyline Trail Sunset Timed Parking**: Sun Oct 11, 4:00 PM – 8:00 PM slot (Conf. **INPC26-60130188B1**, $13.00 CAD). *(Receipt: `receipts/skyline.pdf`)*
-- [x] **Trip Itinerary Architecture**: Locked 5-day route with Day 0 arrival, Eastern Shore Marine Drive, Western Cabot Trail & Skyline, Northern Highlands & Meat Cove, Pictou Grohmann return, and Day 5 Peggy's Cove / Mahone Bay / Lunenburg loop.
+- [x] **Trip Itinerary Architecture**: Locked 5-day route with Day 0 arrival, Eastern Shore Marine Drive, Western Cabot Trail & Skyline, Northern Highlands & Meat Cove, Pictou Grohmann visit, South Shore Dome stay, and Day 5 Lunenburg UNESCO / Mahone Bay / Peggy's Cove finish.

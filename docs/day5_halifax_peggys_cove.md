@@ -1,9 +1,9 @@
 # 🌅 Day 5 (Wed, Oct 14): Peggy's Cove, Mahone Bay & Lunenburg Loop — Evening Flight (WS811)
 
 !!! success "Final Day (Return to Toronto) — Wednesday, October 14, 2026"
-    **Route**: Downtown Halifax → Peggy's Cove → Mahone Bay → Lunenburg → **Halifax Stanfield Airport (YHZ)**  
-    **Total Driving Distance**: ~240 km (approx. 3h 20m combined drive, one-way loop)  
-    **Primary Goal**: A relaxed final day over three coastal icons — **sunrise-independent Peggy's Cove**, the three churches of **Mahone Bay**, and the UNESCO Old Town of **Lunenburg** — then a straight run to YHZ for the evening flight. **No early start required: WS811 departs 20:15, so the day starts ~9:00 AM.**
+    **Route**: The Lookout Dome (LaHave) → LaHave Ferry → Lunenburg UNESCO → Mahone Bay → Peggy's Cove → **Halifax Stanfield Airport (YHZ)**  
+    **Total Driving Distance**: ~150 km (approx. 2h 20m total drive)  
+    **Primary Goal**: Wake up on the South Shore at **The Lookout Dome in LaHave**, grab fresh sourdough and coffee at **LaHave Bakery**, ride the historic **LaHave Cable Ferry** across to **Old Town Lunenburg (UNESCO)**, explore the Three Churches of **Mahone Bay**, visit iconic **Peggy's Cove**, and head straight to YHZ for your evening flight (WS811 departs 20:15).
 
 !!! success "✈️ Return Flight BOOKED — WestJet WS811"
     **Wed, Oct 14 · 20:15 Halifax (YHZ) → 21:45 Toronto-Pearson (YYZ)** · Non-stop 2h 30m · Boeing 737 MAX 8 · Reservation **OEFTZF** · UltraBasic fare, $226.76 paid. *(Receipt: `receipts/WestJet.pdf`)*.  
@@ -25,47 +25,55 @@ One seamless coastal loop: drive west to **Peggy's Cove** at your leisure, swing
 
 | Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
 |:---:|:---|:---:|:---|:---|
-| **1** | **Downtown Halifax Hotel** | — | NS-333 W | Relaxed morning departure (no sunrise needed — flight is 20:15) |
-| **2** | **Peggy's Point Lighthouse** | 45 km (45 mins) | Route 333 | Iconic granite headland, lighthouse & cove; coffee at Sou'Wester |
-| **3** | **Mahone Bay** | 80 km (1h 15m) | 333 → Hwy 103 S → Route 3 | Three churches on the water, artisan shops, pub lunch option |
-| **4** | **Lunenburg Old Town (UNESCO)** | 10 km (10 mins) | Route 3 | Stroll the world-heritage waterfront, Bluenose story, seafood lunch |
-| **5** | **Halifax Stanfield Airport (YHZ)** | 105 km (1h 25m) | Route 3 → Hwy 103 N → NS-102 N | Refuel, return rental car, check bags, security → WS811 20:15 |
+| **1** | **The Lookout Dome (LaHave)** | — | Hwy 331 | Morning departure, artisan breakfast at nearby LaHave Bakery |
+| **2** | **LaHave Cable Ferry** | 2 km (5 mins) | Route 331 to Ferry | Historic 5-min cable ferry crossing across the river ($7 CAD) |
+| **3** | **Lunenburg Old Town (UNESCO)** | 15 km (15 mins) | Route 332 N | Candy-coloured waterfront, Bluenose II berth, seafood lunch |
+| **4** | **Mahone Bay** | 10 km (10 mins) | Route 3 | Famous Three Churches harbour view, Amos Pewter, artisan stroll |
+| **5** | **Peggy's Point Lighthouse** | 80 km (1h 10m) | Hwy 103 N to Route 333 | Iconic granite headland & lighthouse; gingerbread at Sou'Wester |
+| **6** | **Halifax Stanfield Airport (YHZ)** | 65 km (50 mins) | Route 333 to NS-102 N | Refuel on Hwy 102, return rental car by 6:00 PM → WS811 20:15 |
 
 ```mermaid
 graph TD
-    A[Halifax Hotel 9:00 AM] -->|45m / 45 km| B[Peggy's Cove ~10:00]
-    B -->|1h 15m / 80 km| C[Mahone Bay ~12:30 Lunch]
-    C -->|10m / 10 km| D[Lunenburg Old Town ~1:45]
-    D -->|1h 25m / 105 km| E[YHZ by ~5:30 PM]
+    A[The Lookout Dome, LaHave 8:30 AM] -->|5m Ferry / 15 km| B[Lunenburg Old Town ~9:30 AM]
+    B -->|10m / 10 km| C[Mahone Bay ~12:00 PM Lunch]
+    C -->|1h 10m / 80 km| D[Peggy's Cove ~2:00 PM]
+    D -->|50m / 65 km| E[YHZ by ~5:30 PM]
     E -->|20:15 WS811 / 2h 30m| F[Land Toronto 21:45 ET]
 ```
 ---
 
 ## ⏱️ Detailed Timeline & Activity Breakdown
 
-### 09:00 AM – 11:30 AM: Peggy's Cove at a Civilized Hour
-- **09:00 AM – 09:45 AM**: Depart downtown Halifax on Route 333 (Prospect Road) — no pre-dawn alarm needed.
-- **09:45 AM – 11:15 AM**: **Peggy's Point Lighthouse & Ancient Granite Formations**
-  - **Location**: 72 Peggy's Point Rd, Peggy's Cove (44.4930° N, 63.9181° W). **Open 24h — no closing time to beat.**
-  - **Exertion vs Lounging**: 1.5 km walking on granite slabs + accessible viewing deck (45 mins) + 1h photographing the lighthouse, working dory cove, and the William E. deGarthe Fishermen's Monument.
-  - **Safety Warning**: ⚠️ **Stay off the black, wet rocks!** Rogue waves are frequent and dangerous. Stay on the dry white granite or the accessible viewing deck.
-  - **Breakfast/Coffee**: **Sou'Wester Restaurant** opens at the lighthouse — famous gingerbread with warm lemon sauce.
-  - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
+### 08:30 AM – 10:00 AM: Wake Up in the Dome, LaHave Bakery & Cable Ferry
+- **08:30 AM – 09:30 AM**: Check out of **The Lookout Dome One** (check-out by 11:00 AM, but leaving ~9:00 AM maximizes your day). Drive 2 minutes down Hwy 331 to the legendary **LaHave Bakery** (3421 Hwy 331) for fresh-baked cheddar dill scones, sourdough, and espresso right over the water.
+- **09:30 AM – 10:00 AM**: Board the historic **LaHave Cable Ferry** (runs every 15–30 min; $7.00 CAD cash). Enjoy the scenic 5-minute crossing across the mouth of the LaHave River to East LaHave, connecting directly to Route 332 North toward Lunenburg (~15 km, ~15 mins).
 
-### 11:15 AM – 01:45 PM: Mahone Bay — Three Churches & Harbour Lunch
-- **11:15 AM – 12:30 PM**: Drive south: return along the 333 through St. Margaret's Bay, join **Hwy 103 S**, and exit to **Mahone Bay** on Route 3 (~80 km, 1h 15m).
-- **12:30 PM – 01:45 PM**: **Mahone Bay Harbour** — the famous **Three Churches** waterfront lineup, artisan shops (Amos Pewter, pottery galleries), and a relaxed harbour lunch or bakery stop.
-  - **Direct Guides**: [Mahone Bay Tourism](https://www.mahonebay.com/) | [Amos Pewter](https://www.amospewter.com/)
-
-### 01:45 PM – 04:00 PM: Lunenburg Old Town — UNESCO World Heritage
-- **01:45 PM – 04:00 PM**: **Lunenburg Old Town** (10 min hop from Mahone Bay) — one of only two UNESCO World Heritage towns in Canada.
-  - Walk **King Street / Old Town** with its candy-coloured houses and the waterfront boardwalk along **Montague Street**.
-  - **Lunenburg Fisheries Museum of the Atlantic** — the dory/boatbuilding story and the **Bluenose II** schooner heritage (check whether Bluenose II is in port for the season).
-  - **Seafood lunch**: enjoy a proper farewell meal on the water (Fish Shack / Saviard / Salt Shaker Deli — see dining below).
+### 10:00 AM – 12:30 PM: Lunenburg Old Town — UNESCO World Heritage & Seafood Lunch
+- **10:00 AM – 12:30 PM**: **Lunenburg Old Town** — one of only two UNESCO World Heritage towns in North America.
+  - **Waterfront & Architecture**: Walk the steep grid of colourful 18th-century captain's homes along King Street, Pelham Street, and the bustling working waterfront on **Montague Street**.
+  - **Maritime Heritage**: View the berth of Canada's sailing ambassador, the **Bluenose II** schooner, and visit the **Fisheries Museum of the Atlantic**.
+  - **Farewell Seafood Lunch**: Enjoy an early lunch on the water: famous chowder and fish tacos at **The Fish Shack**, artisan roti and soup at **The Salt Shaker Deli**, or local fish and seafood at **The Grand Banker**.
   - **Direct Guides**: [Lunenburg Tourism](https://www.explorelunenburg.ca/) | [Fisheries Museum](https://fisheriesmuseum.novascotia.ca/)
 
-### 04:00 PM – 05:30 PM: Straight-Line Run to YHZ
-- **04:00 PM – 05:30 PM**: Drive north via Route 3 → Hwy 103 N → **NS-102 N** to **Halifax Stanfield Airport** (~105 km, ~1h 25m). *Hard rule: leave Lunenburg by 4:00 PM to keep the flight buffer — you arrive YHZ ~5:30 PM, a full 2h 45m before departure.*
+### 12:45 PM – 02:00 PM: Mahone Bay — Three Churches & Artisan Stroll
+- **12:45 PM – 01:00 PM**: Take the quick 10-minute scenic drive along Route 3 from Lunenburg to **Mahone Bay** (~10 km).
+- **01:00 PM – 02:00 PM**: **Mahone Bay Harbour**:
+  - Marvel at the world-famous view of the **Three Churches** (St. James Anglican, St. John's Evangelical Lutheran, and Trinity United) reflected in the calm waters of the harbour basin.
+  - Stroll Edgewater Street to browse artisanal studios including **Amos Pewter** (handcrafted pewter jewelry and ornaments) and local pottery shops.
+  - **Direct Guides**: [Mahone Bay Tourism](https://www.mahonebay.com/) | [Amos Pewter](https://www.amospewter.com/)
+
+### 02:00 PM – 04:00 PM: Peggy's Point Lighthouse & Ancient Granite Formations
+- **02:00 PM – 03:10 PM**: Drive north along Hwy 103 to Exit 5, then follow Route 333 (Prospect Road) winding around St. Margaret's Bay directly to **Peggy's Cove** (~80 km, ~1h 10m).
+- **03:10 PM – 04:00 PM**: **Peggy's Point Lighthouse**:
+  - **Location**: 72 Peggy's Point Rd, Peggy's Cove (44.4930° N, 63.9181° W).
+  - **Exertion vs Lounging**: Walk the smooth, pale white granite headland and the accessible wooden viewing platform to photograph the world-famous red-and-white beacon against the roaring Atlantic surf.
+  - **Safety Warning**: ⚠️ **STAY OFF THE BLACK ROCKS!** Rogue Atlantic swells surge unpredictably over dark rock. Stay on high, dry white granite.
+  - **Afternoon Treat**: Pop into the **Sou'Wester Restaurant** next to the lighthouse for their famous warm gingerbread drenched in lemon sauce and coffee.
+  - **Direct Guide**: [Peggy's Cove Nova Scotia Tourism](https://www.novascotia.com/see-do/attractions/peggys-point-lighthouse/1468)
+
+### 04:00 PM – 05:30 PM: Scenic Run to Halifax Stanfield Airport (YHZ)
+- **04:00 PM – 05:30 PM**: Depart Peggy's Cove via Route 333 North connecting to Hwy 102 North straight to **Halifax Stanfield Airport (YHZ)** (~65 km, ~50 mins drive time).
+  - *Hard Rule*: Leaving Peggy's Cove by 4:00 PM ensures you arrive at YHZ by ~5:15–5:30 PM, giving you a full 2 hours and 45 minutes before flight departure.
 
 ### 05:30 PM – 08:15 PM: Renturn Car, Security & Evening Flight
 - **05:30 PM – 06:15 PM**: Refuel (Hwy 102 gas, not the airport station), return the National rental at the YHZ garage, **check the pre-added/shipped bag** (Grohmann knives — never carry-on; UltraBasic has no carry-on at all).

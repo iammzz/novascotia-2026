@@ -47,47 +47,32 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-!!! info "📋 Booking Status: 🟡 PARTIALLY BOOKED"
+!!! info "📋 Booking Status: 🟢 4 OF 5 NIGHTS BOOKED (80% Accommodation Locked)"
     **Core Activity Dates Locked**: **October 10 – 14, 2026** (Canadian Thanksgiving Peak Foliage Window)  
-    **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight — WestJet WS811 20:15, BOOKED** — the day is a relaxed **Peggy's Cove → Mahone Bay → Lunenburg loop**, then home. Day 6 (Oct 15/16) retired.  
-    **Confirmed Bookings**: 🟢 **Flights — Porter PD201 out (Fri Oct 9, 8:30 AM) + WestJet WS811 return (Wed Oct 14, 20:15)** · 🟢 **Rental Car — National #2098647349** · 🟢 **Skyline Trail Parking (Sun Oct 11, 4 PM)**  
-    **Current Next Priorities**: Book Halifax hotels (Oct 9 & 13) + Cape Breton lodgings (Oct 10–12) — then change the rental return to ~6:00 PM (not 7:30 PM) and confirm Maritime Museum evening entry.
+    **Return to Toronto**: **Day 5 (Wed, Oct 14) evening flight — WestJet WS811 20:15, BOOKED** — departing YHZ after exploring LaHave, Lunenburg UNESCO Old Town, Mahone Bay, and Peggy's Cove. Day 6 retired.  
+    **Confirmed Bookings**: 🟢 **Flights (Porter PD201 out / WestJet WS811 return)** · 🟢 **Rental Car (National #2098647349)** · 🟢 **Skyline Parking (Sun Oct 11, 4 PM)** · 🟢 **4 of 5 Lodging Nights (Moxy Halifax Oct 9, Chéticamp Oct 11, Keltic Ingonish Oct 12, The Lookout Dome LaHave Oct 13)**  
+    **Only Remaining Critical Action**: Book **Saturday, Oct 10 night in Baddeck** before Celtic Colours festival sellout!
 
 ---
 
-## 📅 Trip Master Overview
+## 🧭 Trip Master Overview
 
 ### 🛫 Travel Buffer & Arrival Window
 | Day | Date | Primary Focus & Highlights | Base Camp | Drive / Time | Intensity |
 |:---|:---|:---|:---|:---|:---:|
-| [**Day 0**](day0_flight_transit_arrival.md) | **Fri, Oct 9** | ✈️ **Arrival locked**: morning Toronto → Halifax flight, hotel check-in, Maritime Museum of the Atlantic evening reservation | Halifax Waterfront | ~40 km (taxi) | ⭐ |
+| [**Day 0**](day0_flight_transit_arrival.md) | **Fri, Oct 9** | ✈️ **Arrival locked**: morning Toronto → Halifax flight (PD201 lands 11:37 AM), check into **Moxy Halifax Downtown (BOOKED)**, Maritime Museum of the Atlantic evening reservation | Moxy Halifax Downtown | ~38 km (taxi) | ⭐ |
 
 ---
 
 ### 🍁 Core Activity Days (The Must-Do Window: Oct 10–14)
 | Day | Date | Primary Focus & Key Activities | Base Camp | Drive / Time | Intensity |
 |:---|:---|:---|:---|:---|:---:|
-| [**Day 1**](day1_halifax_to_baddeck.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Martinique Beach, Taylor Head lookout, Sherbrooke Village, Guysborough, Canso Causeway → Baddeck + Celtic Colours ceilidh | Baddeck | ~405 km (~5h) | ⭐⭐ |
-| [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike** | Chéticamp / Baddeck | ~145 km (~2.5h) | ⭐⭐⭐ |
-| [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey — **night at the Keltic Resort Ingonish (BOOKED)** | Ingonish | ~190 km (~3.2h) | ⭐⭐⭐⭐ |
-| [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | Check out of Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → evening Halifax North End | Downtown Halifax | ~465 km (~5.2h) | ⭐⭐ |
-| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | 🏘️ **Peggy's Cove → Mahone Bay → Lunenburg UNESCO loop** & **evening return flight (WestJet WS811, 20:15)** (Maritime Museum already done Fri) | Halifax → YHZ | ~240 km (~3.3h) | ⭐⭐ |
+| [**Day 1**](day1_halifax_to_baddeck.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Martinique Beach, Taylor Head lookout, Sherbrooke Village, Guysborough, Canso Causeway → Baddeck + Celtic Colours ceilidh | Baddeck (⚠️ Unbooked) | ~405 km (~5h) | ⭐⭐ |
+| [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Western Cabot Trail, Margaree Valley, Chéticamp Acadian culture & **Skyline Trail Sunset Hike (4 PM booked)** → sleep in Chéticamp | Chéticamp (Suite BOOKED) | ~145 km (~2.5h) | ⭐⭐⭐ |
+| [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Franey Mountain Trail** & Cape Smokey — **night at the Keltic Resort Ingonish (BOOKED)** | Ingonish (Keltic BOOKED) | ~190 km (~3.2h) | ⭐⭐⭐⭐ |
+| [**Day 4**](day4_baddeck_to_halifax_heritage.md) | **Tue, Oct 13** | Check out Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → drive to South Shore → **The Lookout Dome One with private hot tub (BOOKED)** | LaHave (Dome BOOKED) | ~560 km (~5.8h) | ⭐⭐ |
+| [**Day 5**](day5_halifax_peggys_cove.md) | **Wed, Oct 14** | 🌊 **LaHave Bakery & Cable Ferry → Lunenburg UNESCO Old Town → Mahone Bay → Peggy's Cove** & **evening return flight (WestJet WS811, 20:15 BOOKED)** | Airport Transit | ~150 km (~2.5h) | ⭐⭐ |
 
 ---
 
-### 🛬 Travel Buffer & Extension Window
-| Day | Date | Primary Focus & Highlights | Base Camp | Drive / Time | Intensity |
-|:---|:---|:---|:---|:---|:---:|
-| [**Day 6**](day6_bay_of_fundy_departure.md) | Oct 15 / 16 | ⚠️ Optional extension (only if return flight pushed back): **Bay of Fundy Cape Split Hike** OR Annapolis Valley Wine Country (Luckett / Grand-Pré), then fly home | Airport Transit | ~190 km (~2.5h) | ⭐⭐⭐ |
 
----
-
-## 📌 Fast Navigation
-
-- 📋 **[Active To-Do Checklist](todo.md)**: Phased task manager and booking timeline.
-- ✈️ **[Logistics Master](logistics.md)**: Flight options, rental vehicle details, and accommodation hubs.
-- 🔍 **[Flight Research & Value Matrix](research.md)**: Detailed Toronto (YYZ/YTZ) to Halifax (YHZ) airline analysis and date sensitivity matrix.
-- 🧳 **[Master Packing List](packing_list.md)**: Autumn hiking gear, weather protection, headlamps, and pass requirements.
-- 🗺️ **[Interactive GPS Map](maps.md)**: Fullscreen filterable Leaflet map with all 30+ waypoints.
-- 💡 **[Potential Activities Vault](potential_activities.md)**: Back-pocket adventures, ocean activities, and cultural experiences.
-- 🧭 **[Ideas for Extra Days](ideas_for_extra.md)**: Prince Edward Island, South Shore deep dive, and tidal bore rafting.
