@@ -9,7 +9,7 @@ This document contains strategic research, cost-benefit analyses, and route opti
 ### The Thanksgiving Weekend Fare Dynamics (Oct 9–12, 2026)
 Canadian Thanksgiving falls on **Monday, October 12, 2026**. This creates massive holiday demand spikes for departures on Friday afternoon (Oct 9) and return flights on Monday evening (Oct 12). 
 
-By structuring our trip around the core window, we keep it tight: an **arrival flight Fri, Oct 9 morning** (Halifax hotel + Maritime Museum evening), Cape Breton Oct 10–12, a South Shore night on Oct 13, and a **return flight Wed, Oct 14 evening — WestJet WS811 20:15 (booked)**.
+By structuring our trip around the core window, we keep it tight: an **arrival flight Fri, Oct 9 morning** (Halifax hotel + Maritime Museum afternoon), Cape Breton Oct 10–12, a South Shore night on Oct 13, and a **return flight Wed, Oct 14 evening — WestJet WS811 20:15 (booked)**.
 
 ---
 
@@ -30,8 +30,8 @@ By structuring our trip around the core window, we keep it tight: an **arrival f
 |:---|:---|:---|:---:|:---|
 | **Thu, Oct 8 (Early Buffer)** | **Wed, Oct 14 (Post-Core)** | **$260 – $390 CAD** | 🟢 **Excellent** | Avoids holiday rush completely. Low fares, full weekend in Cape Breton, uncrowded check-in. |
 | **Thu, Oct 8 (Early Buffer)** | **Thu, Oct 15 (Buffer Extension)** | **$270 – $410 CAD** | 🟢 **Best Value** | Full 7 days. Adds Annapolis Valley wine tour & Bay of Fundy high tides. Highly recommended. |
-| **Fri, Oct 9 (Arrival Day)** | **Wed, Oct 14 (Evening Return)** | **$380 – $550 CAD** | 🟡 **Moderate — ⭐ SELECTED** | **Locked + booked**: morning Fri Oct 9 arrival (Porter PD201, Maritime Museum 6:45 PM) and evening return **WestJet WS811 20:15 → 21:45**. Morning outbound avoids Friday-evening holiday surge. |
-| ~~**Sat, Oct 10 (Core Start)**~~ | **Wed, Oct 14 (Core End)** | $340 – $480 CAD | 🔵 **Superseded** | ~~SELECTED~~ — no longer used: arrival moved to **Fri Oct 9 morning** so the Maritime Museum anchors Day 0 (Friday evening). |
+| **Fri, Oct 9 (Arrival Day)** | **Wed, Oct 14 (Evening Return)** | **$380 – $550 CAD** | 🟡 **Moderate — ⭐ SELECTED** | **Locked + booked**: morning Fri Oct 9 arrival (Porter PD201, Maritime Museum afternoon) and evening return **WestJet WS811 20:15 → 21:45**. Morning outbound avoids Friday-evening holiday surge. |
+| ~~**Sat, Oct 10 (Core Start)**~~ | **Wed, Oct 14 (Core End)** | $340 – $480 CAD | 🔵 **Superseded** | ~~SELECTED~~ — no longer used: arrival moved to **Fri Oct 9 morning** so the Maritime Museum anchors Day 0 (Friday afternoon). |
 | **Sat, Oct 10 (Core Start)** | **Mon, Oct 12 (Thanksgiving Return)** | **$550 – $750+ CAD** | 🔴 **Avoid** | Extreme holiday peak return prices; truncates Cape Breton and Halifax activities. |
 | **Sat, Oct 10 (Core Start)** | **Fri, Oct 16 (Late Buffer)** | **$290 – $420 CAD** | 🟢 **Superb** | Ample time for PEI side-trip or South Shore deep dive with low midweek return fare. |
 

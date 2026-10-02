@@ -23,7 +23,7 @@
 | **10:50AM–12:00PM** | 🍽️ | **Tangier — lobster roll at the harbour** | 35 km | **Tangier Lobster Co.** — a classic Eastern Shore seafood shack right at the working harbour. Pick up a fresh **lobster roll** or chowder while the boats bob alongside. [Tangier Lobster →](https://www.tangierlobster.com/) |
 | **12:00–1:45PM** | 🥾 | **Taylor Head Provincial Park lookout** | 50 km | Through **Sheet Harbour** (fuel/coffee option), then off via **Spry Bay Road** to the **Bolton Head / beach-and-headland loop** (~3.5 km, easy–moderate). The signature lookout of the day — Atlantic granite, sea stacks, and sweeping ocean views. Sturdy footwear recommended. [Parks NS →](https://parks.novascotia.ca/content/taylor-head) |
 | **1:45–3:30PM** | 🥾 | **Sherbrooke Village — living 1860s heritage** | 45 km | A Nova Scotia Museum living-history village of 60+ buildings, with costumed interpreters demonstrating gold-rush-era trades. **The anchor stop of the Marine Drive.** ~$11/adult; fall last entry is often ~3:30–4:00PM, so aim to arrive by 2:30PM. [Sherbrooke Village →](https://sherbrookevillage.novascotia.ca/) |
-| **3:30–5:15PM** | ⚡ | **Guysborough + Canso Causeway crossing** | 55 km | Stop at the **Guysborough Harbour** overlook for a last mainland coastal view, then continue to **Port Hastings** and cross the **Canso Causeway** (1.3 km rock-fill, built 1955) onto Cape Breton Island. **Pick up your Parks Canada Discovery Pass at the Welcome Centre** — it covers tomorrow's Skyline hike. [Cape Breton Tourism →](https://www.cbisland.com/) |
+| **3:30–5:15PM** | ⚡ | **Guysborough + Canso Causeway crossing** | 55 km | Stop at the **Guysborough Harbour** overlook for a last mainland coastal view, then continue to **Port Hastings** and cross the **Canso Causeway** (1.3 km rock-fill, built 1955) onto Cape Breton Island. *(You'll buy daily park admission at the Chéticamp gate tomorrow — no need for a pass at the Welcome Centre.)* [Cape Breton Tourism →](https://www.cbisland.com/) |
 | **5:15–6:00PM** | 🚗 | **Bras d'Or Lake drive to West Bay** | 30 km | Take **NS-105 West** and turn onto **West Bay Road** along the southwest arm of **Bras d'Or Lake** — Canada's largest inland sea and a UNESCO Biosphere Reserve. Check in at **The Shoreline** (108 Camerons Road) for lakeside golden hour. |
 | **6:30–10:00PM** | 🍽️ | **Lakeside dinner & optional Celtic Colours ceilidh** | — | Dinner near the lake (Port Hawkesbury and Whycocomagh are the closest full-service towns). Optional **Celtic Colours ceilidh** — nearest venues are **Judique, Mabou, and Port Hawkesbury** (~35–45 min); Baddeck is ~1 h 15 m each way, so factor in the late-night drive. |
 
@@ -44,7 +44,7 @@
 
 ## 🎒 Field Notes
 
-- **Parks Canada pass**: pick up your Discovery Pass at the **Port Hastings Visitor Centre** — it covers Cape Breton Highlands National Park (Skyline is tomorrow).
+- **Parks Canada pass**: buy **daily admission** at the Chéticamp gate tomorrow (~$21/day for 2 adults, ~$42 total for the two park days) — a $145 Discovery Pass is not worth it for this trip.
 - **Layers & headwear**: Atlantic wind at Martinique and Taylor Head is brisk in October (5–10°C) — windproof shell and warm fleece.
 - **Sturdy footwear** for the Taylor Head coastal walk — and tomorrow's Skyline hike.
 - **Fuel**: top up at **Sheet Harbour** mid-route; the next reliable stations are around the causeway and Whycocomagh.

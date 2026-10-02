@@ -148,10 +148,10 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: 4.4 km of continuous wooden harbor boardwalk. Home to Queen's Marque public art, Cable Wharf, floating beer gardens, seaside hammocks, and fresh oyster shacks.
 - **Direct Guide**: [Discover Halifax Waterfront](https://discoverhalifaxns.com/plan/halifax-waterfront/)
 
-#### 21. Maritime Museum of the Atlantic (Titanic Exhibit) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 0 (Fri, 6:45 PM) ✅ RESERVED</span>
+#### 21. Maritime Museum of the Atlantic (Titanic Exhibit) <span style="background-color: #E8F5E9; color: #2E7D32; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #4CAF50;">🟢 ON CURRENT ITINERARY — Day 0 (Fri, afternoon)</span>
 - **Location**: 1675 Lower Water St, Halifax.
 - **Details**: Houses the world’s largest and most significant collection of wooden artifacts recovered from the 1912 *RMS Titanic* sinking, plus comprehensive exhibits on the 1917 Halifax Explosion.
-- **Day 0 Scheduling (Fri Oct 9)**: **6:45 PM evening reservation — LOCKED**. World's largest collection of RMS Titanic wooden artifacts (victims brought to Halifax in 1912) + 1917 Halifax Explosion exhibit. ~$11/adult (not covered by Discovery Pass). ⚠️ Regular fall hours close ~5:30 PM — confirm the 6:45 PM evening booking is a valid entry/special program. Chosen over the Alexander Keith's tour as the single must-do Halifax indoor attraction.
+- **Day 0 Scheduling (Fri Oct 9)**: **afternoon visit (~1:45–4:00 PM), walk-in — no reservation needed.** World's largest collection of RMS Titanic wooden artifacts (victims brought to Halifax in 1912) + 1917 Halifax Explosion exhibit. ~$11/adult (not covered by Discovery Pass). ⚠️ Open 9:30AM–4:30PM Fridays in October — **no evening hours** (only Tuesdays stay open to 8:00PM). Chosen over the Alexander Keith's tour as the single must-do Halifax indoor attraction.
 - **Direct Guide**: [Maritime Museum of the Atlantic](https://maritimemuseum.novascotia.ca/)
 
 #### 22. Canadian Museum of Immigration at Pier 21 <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION (Canada's Ellis Island)</span>

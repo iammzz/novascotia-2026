@@ -49,9 +49,9 @@ A clean multi-base route with no backtracking: Halifax → Bras d'Or Lake → Ch
 
 | Activity / Pass | Timing / Date | Pricing (CAD) | Booking Requirement | Status |
 |:---|:---|:---:|:---|:---:|
-| **Parks Canada Discovery Pass** (Family/Group) | Valid Full Year | $145.25 (Group up to 7) | Purchase online or at Ingonish/Chéticamp gate on arrival | 🟡 NOT BOOKED |
+| **Daily Park Admission (recommended)** | Days 2–3 (Oct 11–12) | ~$42 total (2 adults) | Pay at the Chéticamp gate on arrival — cheaper than the $145.25 Discovery Pass for only two park days | 🟡 BUY ON DAY 2 |
 | **Skyline Trail Timed Parking Reservation** | Day 2 (Oct 11) — 16:00 (4 PM) Slot | $13.00 CAD (Fee refundable at Visitor Centre) | **Confirmed Booked** via Parks Canada Reservation Service — Conf. **INPC26-60130188B1** *(Receipt `receipts/skyline.pdf`)*. Arrival window: 3:50 PM – 5:00 PM. | 🟢 BOOKED |
-| **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — 6:45 PM** | ~$11 / adult | **Reservation held for Friday evening** (Titanic & 1917 Halifax Explosion galleries). ⚠️ Confirm the 6:45 PM evening entry — regular fall hours close ~5:30 PM | 🟢 RESERVED — FRIDAY EVENING |
-| **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Purchase on-site or online day-of based on clear weather | 🟡 NOT BOOKED |
+| **Maritime Museum of the Atlantic** | **Day 0 (Fri, Oct 9) — afternoon** | ~$11 / adult | **Walk-in, no reservation needed.** Open 9:30AM–4:30PM Fridays in October (no evening hours — only Tuesdays stay open to 8:00PM). Visit ~1:45–4:00PM. | 🟢 NO BOOKING NEEDED |
+| **Cape Smokey Gondola** | Day 3 (Oct 12) | ~$45 / person | Buy on-site day-of based on clear weather. **After Oct 9: last ride up 5:30PM, last ride down 6:00PM.** | 🟡 NOT BOOKED |
 | **Celtic Colours Festival Concert Tickets** | Days 1–3 (Oct 10–12) | $35 – $70 / ticket | Tickets go on sale July 2026; book early for headline shows | 🟡 NOT BOOKED |
 | **Grohmann Knives Factory Tour & Retail Seconds** | Day 4 (Oct 13) — 2:00 PM | Free (Purchases optional) | No advance booking needed (weekday factory operations run until ~3:00 PM; showroom open until 5:00 PM) | 🟢 NO BOOKING NEEDED |

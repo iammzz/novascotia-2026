@@ -3,15 +3,15 @@
 !!! info "📋 Booking Status: 🟢 FULLY BOOKED — 5 of 5 Nights Confirmed"
     **Locked Structure**: Arrive **Fri, Oct 9** (Moxy Halifax) · Bras d'Or Lake at **West Bay** (Oct 10) · Cape Breton (Chéticamp Oct 11 + Keltic Ingonish Oct 12) · South Shore dome at **LaHave** (Oct 13) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**  
     **Current Status**: 🟢 **BOTH FLIGHTS + RENTAL CAR + SKYLINE PARKING + ALL 5 HOTEL NIGHTS BOOKED (Moxy Halifax Oct 9, The Shoreline West Bay Oct 10, Chéticamp Suite Oct 11, Keltic Resort Oct 12, The Lookout Dome LaHave Oct 13)**!  
-    **Remaining Actions**: Change the rental-car drop-off to ~6:00 PM, decide how to get the Grohmann knives home, and complete the booking to-do items below.
+    **Remaining Actions** (top priority): ① **Maritime Museum moved to the afternoon** — closed Fri evenings (see Day 0) · ② Change the rental-car drop-off to ~6:00 PM · ③ Decide how to get the Grohmann knives home (ship / self-ship / checked bag) · ④ Buy **daily** park admission (~$42) — skip the $145 Discovery Pass · ⑤ Reserve Keltic Thanksgiving dinner + confirm Cape Smokey gondola hours (last ride up 5:30PM) · ⑥ Set flight check-in alerts + download offline maps.
 
 ---
 
 ## ✅ Trip Structure Decision (Locked)
 - **Structure**: Fri Oct 9 arrival (Halifax, **Moxy booked**) → Sat Marine Drive to **West Bay on the Bras d'Or Lake (BOOKED)** → Sun Margaree Valley & Skyline Sunset → **The Sunset Harbour Village Suite, Chéticamp (BOOKED)** → Mon Eastern Cabot Trail + **night at Keltic Resort, Ingonish (BOOKED)** → Tue Pictou/Grohmann Knives → **The Lookout Dome with Private Hot Tub in LaHave (BOOKED)** → Wed **LaHave Ferry → Lunenburg UNESCO → Mahone Bay → Peggy's Cove → straight to YHZ airport** + **evening flight home (WS811 20:15 booked)**.
-- **Day 0 (Fri Oct 9)**: Morning arrival (Porter PD201 lands 11:37 AM) + **Moxy Halifax Downtown check-in (BOOKED)** + **Maritime Museum 6:45 PM reservation**. Friday is fully walkable; rental car pickup begins Saturday morning (9:00 AM at Halifax Station, 15-min walk from Moxy).
+- **Day 0 (Fri Oct 9)**: Morning arrival (Porter PD201 lands 11:37 AM) + **Moxy Halifax Downtown check-in (BOOKED)** + **Maritime Museum of the Atlantic — afternoon visit (open until 4:30 PM Fri; no evening hours)**. Friday is fully walkable; rental car pickup begins Saturday morning (9:00 AM at Halifax Station, 15-min walk from Moxy).
 - **Day 2 (Sun Oct 11)**: Depart **West Bay** through the **Margaree Valley** → Chéticamp → **Skyline Trail Sunset Hike (4:00 PM slot BOOKED)** → 20-min drive to **The Sunset Harbour Village Suite in Chéticamp (BOOKED)** → late dinner at L'Abri (no late-night drive through moose country).
-- **Day 3 (Mon Oct 12)**: 10:00 AM check out of Chéticamp suite → Northern Highlands, Meat Cove, Franey Trail & Cape Smokey → Check in at **Keltic Resort at the Highlands, Ingonish (BOOKED)**.
+- **Day 3 (Mon Oct 12)**: 10:00 AM check out of Chéticamp suite → Northern Highlands, Meat Cove, Middle Head hike (or Franey) & Cape Smokey → Check in at **Keltic Resort at the Highlands, Ingonish (BOOKED)**.
 - **Day 4 (Tue Oct 13)**: Check out Keltic Resort Ingonish → Canso Causeway → **Pictou (Grohmann Knives & Hector Quay)** → Drive south to **LaHave, South Shore** → Check into **The Lookout Dome One (BOOKED)**, soak in private hot tub under autumn stars.
 - **Day 5 (Wed Oct 14)**: Wake up in the dome → **LaHave Bakery & Cable Ferry** → **Lunenburg UNESCO Old Town** → **Mahone Bay** → **Peggy's Cove** → straight to YHZ ~5:30 PM (drop car by 6:00 PM) + **evening return flight WS811 20:15 (booked)**.
 
@@ -64,6 +64,7 @@
     1. **Direct Factory Shipping**: Have Grohmann ship knives directly home to Toronto from the Pictou retail store on Tue Oct 13 (~$15–$25 CAD). Arrives ~Thu/Fri.
     2. **Add Checked Bag on WestJet WS811**: UltraBasic includes only 1 personal item (no carry-on). Add a checked bag via WestJet Manage Trips (~$35–$50 CAD) before check-in and pack knives inside luggage.
     3. **Post Office Self-Ship**: Mail knives via Canada Post from Halifax or Pictou on Tuesday.
+  - *Note*: only the return leg (WestJet UltraBasic) lacks a bag — Porter outbound includes a carry-on, so the checked-bag decision only matters for the knives/wine coming home.
 - [ ] Set 24-hour advance check-in alerts:
   - Porter PD201 check-in opens: **Thursday, Oct 8 @ 8:30 AM EDT**.
   - WestJet WS811 check-in opens: **Tuesday, Oct 13 @ 8:15 PM ADT**.
@@ -76,22 +77,27 @@
 
 ### 🏞️ Parks Canada Passes & Timed Entries
 - [x] **Skyline Trail Timed Sunset Parking — 🟢 CONFIRMED BOOKED**:
-  - Parks Canada Reservation Conf. **INPC26-60130188B1** ($13.00 CAD, 3 adults).
+  - Parks Canada Reservation Conf. **INPC26-60130188B1** ($13.00 CAD, 1 vehicle — ⚠️ verify it lists 2 adults, not the 3-adult template).
   - Slot: **Sunday, October 11, 2026 @ 4:00 PM – 8:00 PM (16:00 arrival window 3:50 PM – 5:00 PM)**. *(Receipt: `receipts/skyline.pdf`)*.
   - [ ] **Action**: Download and print the reservation PDF or save offline to your phone (zero cellular coverage at the trailhead).
-- [ ] **Cape Breton Highlands National Park Entry Pass**:
-  - [ ] Compare the Family/Group Discovery Pass ($145.25 CAD, valid for a full year across Canada) vs Daily Park Admissions (~$42 CAD for the group across the two Cape Breton Highlands days). Purchase online in advance or at the park gate on arrival.
+  - [ ] Verify the reservation lists **2 adults** (your party) — correct via Parks Canada if the confirmation defaults to a 3-person template.
+  - [ ] Download Google Maps **offline areas** for Cape Breton + Halifax, and save the AllTrails Skyline map, before leaving Toronto.
+- [ ] **Cape Breton Highlands National Park Entry Pass — buy DAILY admission**:
+  - [x] **Decision**: buy **daily park admission** at the Chéticamp gate (~$21/day for 2 adults → **~$42 total** across Days 2–3). A $145.25 Discovery Pass is not worth it for only two park days.
+  - [ ] Purchase online in advance or at the Chéticamp gate on arrival (card accepted).
 
 ### 🎻 Festival & Cultural Admissions
 - [ ] **Celtic Colours International Festival Tickets**:
   - [ ] Review 2026 concert artist schedule and venues (released July 2026 at celtic-colours.com).
   - [ ] Purchase tickets for a Saturday Oct 10 evening ceilidh (nearest venues: Judique, Mabou, Port Hawkesbury; Baddeck is ~1 h 15 m away) or a Sunday Oct 11 evening performance in Chéticamp. Headline concerts sell out within hours of launch.
-- [ ] **Maritime Museum of the Atlantic (Fri Oct 9 @ 6:45 PM)**:
-  - [ ] Confirm reservation and verify valid evening entry policy (regular fall hours close at 5:30 PM; ensure after-hours / private group admission is recognized).
+- [x] **Maritime Museum of the Atlantic (Fri Oct 9 — afternoon)**:
+  - [x] **Fixed**: the museum **closes 4:30 PM on Fridays in October** (only Tuesdays stay open to 8:00 PM) — the old 6:45 PM "reservation" was invalid. Day 0 now visits in the afternoon (~1:45–4:00 PM), walk-in, no reservation needed. ~$11/adult.
 - [ ] **Grohmann Knives Factory Tour (Tue Oct 13)**:
   - [ ] Confirm factory floor operating hours for Tuesday afternoon (free self-guided / staff viewing runs until ~3:00 PM; showroom open until 5:00 PM). No advance booking required.
 - [ ] **Cape Smokey Gondola (Mon Oct 12)**:
-  - [ ] Check weather forecast on Day 3 morning before purchasing tickets (~$45 CAD/person). Buy online or on-site only if the Atlantic summit is clear of dense fog.
+  - [x] **Note**: from Oct 9 the gondola runs 10:00AM–6:00PM — **last ride up 5:30PM, last ride down 6:00PM**. Day 3 now slots it 4:45–6:00PM (skip if running late or foggy).
+  - [ ] Check the weather forecast on Day 3 morning before purchasing (~$45/person); buy on-site only if the summit is clear.
+  - [ ] Confirm Thanksgiving-Monday (holiday) operating hours in case they differ.
 
 ### 🍽️ Dining Table Reservations
 - [ ] **Day 0 Dinner (Fri Oct 9 — Halifax Waterfront)**:
@@ -100,10 +106,14 @@
   - [ ] Plan dinner near West Bay / Port Hawkesbury (or a self-catered lakeside meal). If you drive to **Baddeck** (~1 h 15 m) for a Celtic Colours ceilidh, book **The Rusty Anchor** in advance and confirm fall hours.
 - [ ] **Day 2 Dinner (Sun Oct 11 — Chéticamp / Western Coast)**:
   - [ ] Reserve a table at **L'Abri Restaurant & Bar** (Chéticamp) for a late dinner (~7:30 PM / 8:00 PM) following the Skyline sunset hike. Peak foliage weekends require advance reservations.
-- [ ] **Day 3 Dinner (Mon Oct 12 — Ingonish / Keltic Resort)**:
-  - [ ] Reserve an evening table at **Arduaine Restaurant / Highland Sitting Room** at Keltic Resort or **Coastal Restaurant & Pub** in Ingonish.
+- [ ] **Day 3 Dinner (Mon Oct 12 — Thanksgiving at Keltic Resort)**:
+  - [ ] **Reserve the Thanksgiving dinner at the Keltic Resort (Purple Thistle Dining Room)** — holiday-Monday set menu, book ahead. Fallback: **Coastal Restaurant & Pub** in Ingonish.
+- [ ] **Seasonal closure check (Thanksgiving weekend)**:
+  - [ ] Meat Cove and Neils Harbour food vendors often close for the season right after Thanksgiving — call ahead on Day 3 or carry backup snacks.
 - [ ] **Day 4 Dinner (Tue Oct 13 — South Shore / LaHave & Lunenburg Area)**:
   - [ ] Target dinner near LaHave / Lunenburg: *The Grand Banker Bar & Grill* (waterfront Lunenburg, 20 mins from dome), *The Knot Pub* (cozy maritime pub), or *King Street Beer Company* (Bridgewater).
+- [ ] **Day 5 Breakfast (Wed Oct 14 — LaHave Bakery)**:
+  - [ ] Confirm opening time (typically ~8:00AM) so the 8:30AM stop works before the ~9:30AM cable ferry.
 - [ ] **Day 5 Lunch (Wed Oct 14 — Lunenburg Old Town)**:
   - [ ] Book or target lunch at **The Salt Shaker Deli** or **The Grand Banker Bar & Grill** (waterfront seating with views of the Bluenose II berth).
 
