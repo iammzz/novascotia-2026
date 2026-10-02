@@ -1,135 +1,52 @@
-# 🔪 Day 4 (Tue, Oct 13): Keltic to LaHave — Pictou, Grohmann Knives & the South Shore
+# 🔪 Day 4 — Tuesday, October 13, 2026
 
-!!! note "Day 4 — Tuesday, October 13, 2026"
-    **Base Camp**: **The Lookout Dome One - Private Hot Tub (3839 Hwy 331, LaHave, NS) — 🟢 BOOKED (Airbnb #HMEJ8ZMJXK)**  
-    **Total Driving Distance**: ~560 km (approx. 5h 45m total drive time)  
-    **Primary Goal**: Check out of the **Keltic Resort (Ingonish)**, cross back to the mainland, tour the historic **Grohmann Knives Factory & Outlet** in the Scottish seaside port of **Pictou**, explore the **Hector Heritage Quay** (and grab Pictou County pizza!), and drive south to the South Shore to check into **The Lookout Dome One in LaHave** for an evening soaking in a private outdoor hot tub under the stars.
+### Keltic to LaHave: Pictou, Grohmann Knives & the South Shore Dome
 
----
-
-## 🗺️ Route Map & Day Architecture
-
-Today you transition from Cape Breton’s Celtic heartland back to mainland Nova Scotia, detouring along the Northumberland Shore to **Pictou** — the “Birthplace of New Scotland” and home of world-renowned handcrafted **Grohmann Knives** — before a long, scenic run south to the South Shore and **The Lookout Dome in LaHave**.
-
-???+ info "🗺️ Turn-by-Turn Google Maps Navigation Route"
-    **Direct Navigation Link**: [**🔗 Open Day 4 Route in Google Maps**](https://www.google.com/maps/dir/Keltic+Lodge+at+the+Highlands%2C+Ingonish+Beach%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/3839+Nova+Scotia+331%2C+LaHave%2C+NS){:target="_blank"} (~560 km, ~5 h 45 m total drive)  
-    *Click to launch live GPS turn-by-turn navigation from the Keltic Resort (Ingonish) across the Canso Causeway to Pictou (Grohmann Knives & Hector Quay) and on to The Lookout Dome in LaHave.*
-
-### 📍 Route Stops Breakdown
-
-| Stop | Location / Waypoint | Segment Dist & Time | Route Highway | Key Highlights & Actions |
-|:---:|:---|:---:|:---|:---|
-| **1** | **Keltic Resort (Ingonish) Base** | — | Cabot Trail S | 🟢 Morning departure south off the Ingonish peninsula |
-| **2** | **Canso Causeway Mainland Crossing** | 235 km (2h 30m) | Cabot Trail → NS-105 S → NS-104 E | Transit through St. Ann's / Baddeck back onto mainland Nova Scotia |
-| **3** | **Grohmann Knives Factory & Outlet** | 130 km (1h 20m) | NS-104 W to NS-106 N (Exit 22) | Handcrafted knife factory tour, MoMA design #1, discount seconds showroom |
-| **4** | **Hector Heritage Quay & Waterfront** | 1 km (3 mins) | Caladh Ave / Water St | Ship Hector restoration ("Birthplace of New Scotland") & Pictou County pizza |
-| **5** | **The Lookout Dome One (LaHave Base)** | 260 km (2h 45m) | NS-106 S to NS-102 S & Hwy 103 S | Scenic South Shore drive, check into luxury dome, soak in private hot tub |
-
-```mermaid
-graph LR
-    A[Keltic Resort, Ingonish] -->|2h 30m / 235 km| B[Canso Causeway Mainland Crossing]
-    B -->|1h 20m / 130 km| C[Pictou: Grohmann Knives & Hector Quay]
-    C -->|2h 45m / 260 km| D[The Lookout Dome, LaHave Check-In]
-    D -->|Evening| E[Private Hot Tub & South Shore Dining]
-```
----
-
-## ⏱️ Detailed Timeline & Activity Breakdown
-
-### 09:30 AM – 02:00 PM: Check Out of the Keltic Resort & Scenic Drive to Pictou
-*Officially checkout is 11:00 AM at the Keltic Resort — aim to load the car by ~10:00–10:30 AM to protect the Grohmann factory visit.*
-- **09:30 AM – 10:30 AM**: Morning coffee + final Ingonish views (Middle Head dawn walk if the light is good), then load up and check out.
-- **10:30 AM – 02:00 PM**: Drive south on the **Cabot Trail** through St. Ann's and Baddeck, then west on **NS-105 S / NS-104 E**, **crossing the Canso Causeway** back onto mainland Nova Scotia, and on to **Pictou** (~300 km, ~3h 30m incl. short causeway/map stop at Port Hastings).
+| Plan | Details |
+|:---|:---|
+| **Date** | Tuesday, October 13, 2026 |
+| **Base camp** | The Lookout Dome One — private hot tub (3839 Hwy 331, LaHave) — 🟢 **BOOKED** (Airbnb #HMEJ8ZMJXK) *(Receipt: `receipts/hotel_10-13.pdf`)* |
+| **Total drive** | ~560 km / ~5h 45m |
+| **Highlight** | **Grohmann Knives** factory & Pictou, then a private hot-tub dome under the stars |
+| **Route** | [Open the full day in Google Maps →](https://www.google.com/maps/dir/Keltic+Lodge+at+the+Highlands%2C+Ingonish+Beach%2C+NS/Canso+Causeway+Visitor+Information+Centre%2C+Port+Hastings%2C+NS/Grohmann+Knives+Ltd%2C+Water+Street%2C+Pictou%2C+NS/Hector+Heritage+Quay%2C+Caladh+Avenue%2C+Pictou%2C+NS/3839+Nova+Scotia+331%2C+LaHave%2C+NS){:target="_blank"} |
 
 ---
 
-### 02:00 PM – 04:30 PM: Historic Pictou & The Grohmann Knife Factory
-*Tour Canada's most celebrated knifemaker, explore the Birthplace of New Scotland, and taste authentic Pictou County brown-sauce pizza.*
+## 🕘 The Day, Stop by Stop
 
-#### 1. Grohmann Knives Factory Tour & Retail Seconds Outlet
-- **Location**: 116 Water Street, Pictou, NS (45.6765° N, 62.7134° W). Free street parking along Water Street and adjacent municipal harbor lots.
-- **Effort & Timing**: 15 mins walking through the working factory floor + 35 mins examining blade craftsmanship, handle assembly, and browsing the retail seconds outlet.
-- **The Craft & Heritage**: Founded in the 1950s by Czech immigrant Rudolf Grohmann and Canadian government official Deane H. Russell. Together, they designed the world-famous **Grohmann #1 Original Canadian Belt Knife**, celebrated for its distinctive palm-swell rosewood handle and curved elliptical blade. The design was so revolutionary that it was showcased at New York's Museum of Modern Art (MoMA) and the Design Center in London.
-- **Military & Outdoor Pedigree**: Grohmann Knives have been standard issue for the Canadian Armed Forces (the famous #3 Boat Knife / Jump Knife) and remain the gold standard for wilderness survivalists, hunters, and chefs worldwide.
-- **Factory Tour & Seconds Room**: Visitors can take a free tour of the factory production floor on weekdays to observe craftsmen executing the 25+ meticulous hand operations: blade blanking, high-carbon stainless steel heat treatment, double hollow grinding, hafting with rosewood, water buffalo horn, stag horn, or resin micarta, and hand-buffing. The on-site factory outlet store sells first-quality cutlery as well as coveted **"factory seconds"**—knives with minor cosmetic imperfections offered at **30% to 50% discounts**.
-- **✈️ Get-It-Home Decision (knives can NEVER go in carry-on)**:
-  - **Option A (recommended) — Ship from the factory**: Grohmann is a long-running mail-order business and packs/ships knives worldwide; ask them to ship your purchase to Toronto directly — ~$15–25, domestic (no customs), arrives in a few business days. Avoids the WS811 UltraBasic checked-bag fee entirely.
-  - **Option B — Self-ship from Halifax**: sheath/tape blades, sturdy box, Canada Post Expedited Parcel with tracking + insurance (~$15–30).
-  - **Option C — Add a checked bag on WS811** via Manage Trips (~$35–50) and carry them home in baggage.
-- **Direct Guide**: [Grohmann Knives Official Portal](https://www.grohmannknives.com/)
+**🚗 Transit · 🥾 Activity · 🍽️ Meal · ⚡ Quick stop**
 
-#### 2. Hector Heritage Quay & Historic Pictou Waterfront
-- **Location**: 33 Caladh Avenue, Pictou, NS (45.6753° N, 62.7112° W — 3-min walk from Grohmann Knives).
-- **Effort & Timing**: 25 mins harbor boardwalk walking + 15 mins viewing the tall ship reconstruction site and interpretive kiosks.
-- **Significance**: Pictou is universally known as the **"Birthplace of New Scotland"**. In September 1773, the Dutch-built three-masted armed ship *Hector* landed here carrying 189 Scottish Highland settlers, igniting the massive wave of Gaelic immigration that shaped Nova Scotia's cultural identity.
-- **Direct Guide**: [Ship Hector Official Portal](https://www.shiphector.ca/) | [Town of Pictou Heritage](https://www.townofpictou.ca/)
-
-#### 3. Pictou County Specialty Treat Pitstop
-- While in Pictou, experience two hyper-local culinary institutions located right on Water Street:
-  - **Pictou County Pizza**: Pick up a slice or personal pie at *Acropole Pizza* (81 Water St) to taste the region's fiercely defended culinary secret—a thick, chewy crust drenched in a proprietary spicy brown sauce and covered in authentic Brother's pepperoni.
-  - **Mrs. MacGregor's Famous Scottish Shortbreads**: Pop into 41 Water Street to grab butter shortbread cookies voted best in Canada (Grand Prix New Product Award winner).
+| Time | Type | Stop | Drive | What to do — and what to know |
+|:---:|:---:|:---|:---:|:---|
+| **9:30–10:30AM** | 🚗 | **Check out of the Keltic Resort** | — | Official checkout is 11:00AM — load the car by ~10:00–10:30AM to protect the Grohmann factory visit. Morning coffee and final Ingonish views (a dawn **Middle Head** walk if the light is good). |
+| **10:30AM–2:00PM** | 🚗 | **Drive to Pictou** | ~300 km | South on the **Cabot Trail** through St. Ann's and Baddeck, then **NS-105 S / NS-104 E**, crossing the **Canso Causeway** back onto mainland Nova Scotia (~3h 30m incl. a short Port Hastings stop). |
+| **2:00–3:00PM** | 🥾 | **Grohmann Knives Factory & Outlet** | — | 116 Water St (45.6765° N, 62.7134° W). Free weekday factory-floor tour — blade blanking, heat treatment, hollow grinding, hand-buffing — plus the retail **"seconds" outlet at 30–50% off**. Home of the MoMA-recognized **#1 Original Canadian Belt Knife**. [Grohmann →](https://www.grohmannknives.com/) |
+| **3:00–3:45PM** | 🥾 | **Hector Heritage Quay** | 1 km | 33 Caladh Ave (3-min walk) — the tall-ship *Hector* reconstruction and interpretive kiosks at the **"Birthplace of New Scotland"** (1773 Highland landing). Harbour boardwalk stroll. [Ship Hector →](https://www.shiphector.ca/) · [Town of Pictou →](https://www.townofpictou.ca/) |
+| **3:45–4:30PM** | 🍽️ | **Pictou specialty treats** | — | Two Water Street institutions: **Acropole Pizza** (81 Water St) for a slice of fiercely defended Pictou County brown-sauce pizza, and **Mrs. MacGregor's** (41 Water St) for award-winning Scottish shortbread. |
+| **4:30–7:15PM** | 🚗 | **Scenic drive to LaHave (South Shore)** | 260 km | **NS-106 S → NS-102 S** past Truro and around Halifax, then **Hwy 103 S** down the South Shore to **LaHave** via Route 331 (~2h 45m). |
+| **7:15PM** | 🏨 | **Check in at The Lookout Dome One** | — | 3839 Highway 331, LaHave. Keys via **lockbox self check-in**. |
+| **7:30–10:30PM** | 🍽️ | **Private hot tub under the stars** | — | Unwind in your **private outdoor hot tub** overlooking the water after the long drive. Dinner nearby on the South Shore, or artisan provisions picked up in Bridgewater / Lunenburg. |
 
 ---
 
-### 04:30 PM – 07:15 PM: Scenic Drive from Pictou to LaHave (South Shore)
-- **04:30 PM – 07:15 PM**: Depart Pictou on NS-106 S to NS-102 S past Truro and around Halifax, then take **Hwy 103 S** down Nova Scotia's scenic South Shore to **LaHave** via Route 331 (~260 km, ~2h 45m).
-- **07:15 PM**: Arrive at **The Lookout Dome One** (3839 Highway 331, LaHave). Retrieve keys via lockbox self check-in.
+## 🍽️ Eat & Drink
+
+| Spot | Where | Type | Price | Why |
+|:---|:---|:---|:---|:---|
+| **Acropole Pizza** | Water St, Pictou | Pictou County pizza (brown sauce) | $–$$ ($12–$22) | The holy grail of the region's culinary obsession — thick crust, spiced brown sauce, Brother's pepperoni. |
+| **Mrs. MacGregor's Shortbreads** | Water St, Pictou | Award-winning Scottish shortbread & espresso | $ ($5–$15) | Canadian Grand Prix winner; pure creamery butter, perfect for the drive south. |
+| **The Bistro** | New Glasgow (15 min from Pictou) | Upscale continental, Atlantic seafood & local meats | $$–$$$ ($24–$42) | Acclaimed culinary gem with blackened scallops and braised lamb shank. |
+| **The Grand Banker Bar & Grill** | Lunenburg waterfront (~20 min) | Waterfront seafood, burgers & craft beer | $$–$$$ ($20–$36) | Views of the Bluenose II berth — a strong late-evening option. |
+| **The Knot Pub** | Lunenburg Old Town (~20 min) | Cozy maritime pub — chowder, fish & chips, pints | $$ ($16–$28) | A snug locals-first pub in a heritage building. |
+| **LaHave Bakery** | LaHave (2 min from the dome) | Artisan bakery, scones & espresso | $–$$ ($8–$18) | South Shore institution — sourdough and cheddar-dill scones for the morning ferry. |
 
 ---
 
-### 07:30 PM – 10:30 PM: Private Hot Tub Under the Stars & South Shore Dinner
-- Settle into your luxury geodesic dome and unwind after the drive in your **private outdoor hot tub** overlooking the water.
-- Enjoy dinner at a nearby South Shore restaurant or pick up artisan provisions from Bridgewater / Lunenburg.
+## 🎒 Field Notes
 
----
-
-## 🍽️ Dining & Restaurant Options
-
-1. **Acropole Pizza** *(Water St, Pictou)*  
-   - **Drive / Walk**: 1-min walk from Grohmann Knives (81 Water St)  
-   - **Food Type**: Authentic Pictou County Pizza (famous spicy brown sauce & Brother's pepperoni)  
-   - **Price**: $–$$ ($12–$22 CAD)  
-   - **Google Maps**: [Acropole Pizza Pictou](https://maps.google.com/?q=Acropole+Pizza+Pictou+NS)  
-   - **Why Recommended**: The holy grail of Pictou County's regional culinary obsession. Famous for its thick, savory brown sauce made from spiced root vegetables, house-made dough, and generous spicy pepperoni.
-
-2. **Mrs. MacGregor's Shortbreads & Pantry** *(Water St, Pictou)*  
-   - **Drive / Walk**: 2-min walk from Grohmann Knives (41 Water St)  
-   - **Food Type**: Award-winning Scottish shortbreads, artisan baked goods & espresso  
-   - **Price**: $ ($5–$15 CAD)  
-   - **Google Maps**: [Mrs MacGregors Shortbreads Pictou](https://maps.google.com/?q=Mrs+MacGregors+Shortbreads+Pictou+NS)  
-   - **Why Recommended**: Canadian Grand Prix New Product Award winner; handcrafted traditional Scottish shortbread made with pure creamery butter. The perfect takeaway treat for the drive south.
-
-3. **The Bistro** *(New Glasgow - 15 min from Pictou)*  
-   - **Drive / Walk**: 15-min drive from Pictou en route to NS-102  
-   - **Food Type**: Upscale continental bistro, fresh Atlantic seafood & local meats  
-   - **Price**: $$–$$$ ($24–$42 CAD)  
-   - **Google Maps**: [The Bistro New Glasgow](https://maps.google.com/?q=The+Bistro+New+Glasgow+NS)  
-   - **Why Recommended**: Highly acclaimed culinary gem in Pictou County featuring blackened sea scallops, braised lamb shank, and an exceptional wine list in a cozy heritage setting.
-
-4. **The Grand Banker Bar & Grill** *(Lunenburg Waterfront)*  
-   - **Drive / Walk**: ~20-min drive from The Lookout Dome  
-   - **Food Type**: Waterfront seafood, burgers & local craft beer  
-   - **Price**: $$–$$$ ($20–$36 CAD)  
-   - **Google Maps**: [The Grand Banker Lunenburg](https://maps.google.com/?q=The+Grand+Banker+Bar+and+Grill+Lunenburg)  
-   - **Why Recommended**: Waterfront pub with views of the Bluenose II berth — a strong late-evening option after checking into the dome.
-
-5. **The Knot Pub** *(Lunenburg Old Town)*  
-   - **Drive / Walk**: ~20-min drive from The Lookout Dome  
-   - **Food Type**: Cozy maritime pub — chowder, fish & chips, pints  
-   - **Price**: $$ ($16–$28 CAD)  
-   - **Google Maps**: [The Knot Pub Lunenburg](https://maps.google.com/?q=The+Knot+Pub+Lunenburg+NS)  
-   - **Why Recommended**: A snug, locals-first pub in a heritage building — good for a relaxed late bite and a pint.
-
-6. **LaHave Bakery** *(LaHave — 2 min from the dome)*  
-   - **Drive / Walk**: 2-min drive  
-   - **Food Type**: Artisan bakery, scones, espresso & light meals  
-   - **Price**: $–$$ ($8–$18 CAD)  
-   - **Google Maps**: [LaHave Bakery](https://maps.google.com/?q=LaHave+Bakery+NS)  
-   - **Why Recommended**: An institution on the South Shore — stock up on sourdough, cheddar-dill scones, and coffee for the morning before you ride the cable ferry to Lunenburg.
-
----
-
-## 🎒 Gear & Day Preparation
-- **⚠️ AIRLINE BAGGAGE WARNING (Grohmann Knives)**: Transport Canada and CATSA security regulations strictly **prohibit knives of any blade length in carry-on baggage**. If you purchase hunting knives, pocket knives, or kitchen cutlery at the Grohmann Knives factory outlet in Pictou, you **MUST pack them inside checked baggage** for your flight home from Halifax Stanfield (YHZ). Ensure you have booked at least one checked bag with your airline.
-- **Hot Tub & Dome Relaxation**: Bring swimwear and flip-flops for the outdoor private hot tub at The Lookout Dome in LaHave!
-- **Coastal Layers**: Bring a windproof jacket for walking along Pictou's harbourfront and the South Shore evening breeze.
+- **✈️ Airline baggage warning (Grohmann knives)**: CATSA/Transport Canada **prohibit knives of any blade length in carry-on**. If you buy at the factory outlet you **must** use checked baggage.
+    - **Option A (recommended) — ship from the factory**: Grohmann packs and ships worldwide; ask them to send your purchase to Toronto (~$15–25 domestic, no customs). Avoids the WS811 checked-bag fee entirely.
+    - **Option B — self-ship from Halifax**: sheath/tape blades, sturdy box, Canada Post Expedited Parcel with tracking + insurance (~$15–30).
+    - **Option C — add a checked bag** to WS811 via Manage Trips (~$35–50).
+- **Hot tub & dome**: bring swimwear and flip-flops for the outdoor private hot tub.
+- **Coastal layers**: windproof jacket for Pictou's harbourfront and the South Shore evening breeze.
