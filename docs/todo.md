@@ -3,7 +3,7 @@
 !!! info "📋 Booking Status: 🟢 FULLY BOOKED — 5 of 5 Nights Confirmed"
     **Locked Structure**: Arrive **Fri, Oct 9** (Moxy Halifax) · Bras d'Or Lake at **West Bay** (Oct 10) · Cape Breton (Chéticamp Oct 11 + Keltic Ingonish Oct 12) · South Shore dome at **LaHave** (Oct 13) · **Return flight Wed, Oct 14 evening — WS811 20:15 (booked)**  
     **Current Status**: 🟢 **BOTH FLIGHTS + RENTAL CAR + SKYLINE PARKING + ALL 5 HOTEL NIGHTS BOOKED (Moxy Halifax Oct 9, The Shoreline West Bay Oct 10, Chéticamp Suite Oct 11, Keltic Resort Oct 12, The Lookout Dome LaHave Oct 13)**!  
-    **Remaining Actions** (top priority): ① **Maritime Museum moved to the afternoon** — closed Fri evenings (see Day 0) · ② Change the rental-car drop-off to ~6:00 PM · ③ Decide how to get the Grohmann knives home (ship / self-ship / checked bag) · ④ Buy **daily** park admission (~$42) — skip the $145 Discovery Pass · ⑤ Reserve Keltic Thanksgiving dinner + confirm Cape Smokey gondola hours (last ride up 5:30PM) · ⑥ Set flight check-in alerts + download offline maps.
+    **Remaining Actions** (top priority): ① **Maritime Museum moved to the afternoon** — closed Fri evenings (see Day 0) · ② Change the rental-car drop-off to ~6:00 PM · ③ Decide how to get the Grohmann knives home (ship / self-ship / checked bag) · ④ Buy **daily** park admission (~$42) — skip the $145 Discovery Pass · ⑤ Reserve Keltic Thanksgiving dinner + confirm Cape Smokey gondola hours (last ride up 5:30PM) · ⑥ Set flight check-in alerts + download offline maps · ⑦ ❓ **Decide the Baddeck / Alexander Graham Bell NHS stop before Day 4** (Tue Oct 13 is the only pass through Baddeck — see [Day 4](day4_ingonish_to_lahave.md)).
 
 ---
 
@@ -92,8 +92,14 @@
   - [ ] Purchase tickets for a Saturday Oct 10 evening ceilidh (nearest venues: Judique, Mabou, Port Hawkesbury; Baddeck is ~1 h 15 m away) or a Sunday Oct 11 evening performance in Chéticamp. Headline concerts sell out within hours of launch.
 - [x] **Maritime Museum of the Atlantic (Fri Oct 9 — afternoon)**:
   - [x] **Fixed**: the museum **closes 4:30 PM on Fridays in October** (only Tuesdays stay open to 8:00 PM) — the old 6:45 PM "reservation" was invalid. Day 0 now visits in the afternoon (~1:45–4:00 PM), walk-in, no reservation needed. ~$11/adult.
-- [ ] **Grohmann Knives Factory Tour (Tue Oct 13)**:
+- [ ] **Grohmann Knives Factory Tour (Tue Oct 13 — arrive ~1:20 PM)**: ⚠️ *timing corrected Oct 9: the old 2:00 PM slot left no buffer against the ~3:00 PM factory-floor wind-down.*
   - [ ] Confirm factory floor operating hours for Tuesday afternoon (free self-guided / staff viewing runs until ~3:00 PM; showroom open until 5:00 PM). No advance booking required.
+- [ ] ❓ **OPEN DECISION — Baddeck / Alexander Graham Bell NHS (Tue Oct 13, Day 4)**:
+  - **Undecided.** Day 4 is the **only** day the route passes Baddeck, so this is the sole window for the museum. It sits 2 km off Hwy 105 Exit 9 — no added distance, but ~2 h 15 m of added time on a day with no slack.
+  - **Facts**: open 7 days **9:00 AM–5:00 PM** through Oct 30, 2026 · **$10.00 adult / $8.50 senior** (not covered by the Cape Breton park daily admission) · Parks Canada advises at least 2 hours · no booking needed.
+  - **Option A** — 8:00 AM rollout + museum: Grohmann **showroom only** (factory floor missed), dome ~8:15 PM.
+  - **Option B (default / recommended)** — 9:00 AM rollout, no museum: factory floor protected, dome ~7:30 PM; Baddeck becomes a 30–45 min waterfront leg-stretch.
+  - Full timelines for both options: [Day 4](day4_ingonish_to_lahave.md).
 - [ ] **Cape Smokey Gondola (Mon Oct 12)**:
   - [x] **Note**: from Oct 9 the gondola runs 10:00AM–6:00PM — **last ride up 5:30PM, last ride down 6:00PM**. Day 3 now slots it 4:45–6:00PM (skip if running late or foggy).
   - [ ] Check the weather forecast on Day 3 morning before purchasing (~$45/person); buy on-site only if the summit is clear.

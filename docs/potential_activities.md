@@ -45,6 +45,7 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Stats**: 2.7 km return | 60 m gain | 1.0 – 1.5 hours duration.
 - **Why It's Legendary**: (*Gaelic for "White Water"*). A peaceful, accessible river canyon walk beneath towering sugar maples and yellow birches leading to a dramatic 16-meter (50 ft) waterfall spilling down sheer granite cliffs.
 - **Logistics**: Free provincial park parking, picnic area, pit toilets.
+- **⚠️ Routing reality (checked Oct 9, 2026)**: the falls are **~15 km / 26 min each way off Baddeck**, so they are *not* on the Ingonish → Baddeck line (that leg is 87 km direct vs 113 km via the falls). Budget ~1 h round trip of driving on top of the 1–1.5 h walk — and it competes for the same slackless Day 4 window as the Bell museum.
 - **Direct Guide**: [Nova Scotia Parks Uisge Bàn Falls](https://parks.novascotia.ca/park/uisge-ban-falls)
 
 #### 5. Pollett's Cove Coastal Wilderness Trek <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION (Full-Day Wilderness)</span>
@@ -91,20 +92,22 @@ Use this vault to customize your trip, swap activities based on daily weather, o
 - **Details**: High-speed, 12-passenger rigid-hull inflatable Zodiac tours skimming beneath the towering Cabot Trail sea cliffs to spot pods of pilot whales, minke whales, finbacks, and dolphins.
 - **Direct Guide**: [Pleasant Bay Whale Cruises](https://www.whaleandsealcruise.com/)
 
-#### 12. Bras d'Or Lakes Sailing on the Schooner Amoeba <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION (Baddeck Water Experience)</span>
+#### 12. Bras d'Or Lakes Sailing on the Schooner Amoeba <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">🟡 TOP OPTION — ⚠️ VERIFY OPERATOR FIRST (link dead)</span>
 - **Location**: Baddeck Community Wharf.
 - **Details**: 2-hour classic sailing charter aboard a handcrafted wooden schooner across the UNESCO Bras d'Or Biosphere Reserve. Up-close viewing of Alexander Graham Bell’s *Beinn Bhreagh* estate and bald eagles diving for fish fed from the vessel.
-- **Direct Guide**: [Amoeba Sailing Tours](https://amoebasailingtours.com/)
+- **⚠️ Link status (checked Oct 9, 2026)**: `amoebasailingtours.com` **no longer serves this operator** — the domain has lapsed and now resolves to an unrelated gambling site. Whether the schooner still sails is **UNVERIFIED**; re-source before relying on it (Baddeck Visitor Information, or novascotia.com) and never book through the old link.
+- **Direct Guide**: ⚠️ removed — dead/hijacked domain (see above).
 
 ---
 
 ### Culture, Heritage & Single Malt Spirits
 
-#### 13. Alexander Graham Bell National Historic Site <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 OPTIONAL — CUT from Day 1 (Marine Drive)</span>
-- **Location**: Baddeck (Bras d'Or Lake).
+#### 13. Alexander Graham Bell National Historic Site <span style="background-color: #FFF3E0; color: #EF6C00; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #FF9800;">❓ OPEN DECISION — pencilled into Day 4 (Tue Oct 13)</span>
+- **Location**: Baddeck (Bras d'Or Lake) — 559 Chebucto St, 2 km off Hwy 105 Exit 9 (essentially on the Day 4 route, so **no added distance**).
 - **Details**: Expansive lakeside museum complex housing Bell's original laboratory artifacts, the HD-4 hydrofoil boat, tetrahedral kites, early airplanes (*Silver Dart*), and telephone prototypes.
-- **Status**: ❌ **Cut from Day 1** — with the Marine Drive scenic route locked, you won't reach Baddeck in time before its ~5 PM close. Revisit only as an optional Baddeck morning add-on if a day has slack.
-- **Direct Guide**: [Parks Canada Alexander Graham Bell NHS](https://parks.canada.ca/lhn-nhs/ns/grahambell)
+- **Status (as of Oct 9, 2026)**: ❌ **Cut from Day 1** — with the Marine Drive scenic route locked, you won't reach Baddeck in time before close. ❓ **Now pencilled into Day 4** as an unresolved decision: Day 4 is the **only** day the trip passes Baddeck. Adding the museum costs ~2 h 15 m on a day with no slack, so it trades away the Grohmann factory floor (Option A, 8 AM rollout) or gets skipped (Option B, the current default). Full timelines: [Day 4](day4_ingonish_to_lahave.md).
+- **Hours & fees (verified at parks.canada.ca, Oct 9, 2026)**: open **7 days, 9:00 AM–5:00 PM** through **Oct 30, 2026** — no seasonal-closure risk on Oct 13. **$10.00 adult / $8.50 senior**; not covered by the Cape Breton Highlands park daily admission. Parks Canada's own guidance: *"plan to spend at least two hours."*
+- **Direct Guide**: [Parks Canada Alexander Graham Bell NHS](https://parks.canada.ca/lhn-nhs/ns/grahambell) · [Hours](https://parks.canada.ca/lhn-nhs/ns/grahambell/visit/heures-hours)
 
 #### 14. The Gaelic College (Colaisde na Gàidhlig) <span style="background-color: #E1F5FE; color: #0277BD; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #03A9F4;">🔵 OPTIONAL — CUT from Day 4</span>
 - **Location**: St. Ann's (Cabot Trail).

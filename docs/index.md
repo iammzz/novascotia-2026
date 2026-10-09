@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
 | [**Day 1**](day1_halifax_to_west_bay.md) | **Sat, Oct 10** | **Marine Drive (Route 7, Eastern Shore)**: Pick up rental car 9 AM, Martinique Beach, Taylor Head coastal hike, Sherbrooke Village, Canso Causeway → lakeside base on the Bras d'Or Lake | West Bay (BOOKED) | ~380 km (~6h) | ⭐⭐ |
 | [**Day 2**](day2_western_cabot_trail_skyline.md) | **Sun, Oct 11** | Drive the **Margaree Valley**, explore **Chéticamp** Acadian culture & hike the **Skyline Trail at sunset (4 PM booked)** → sleep 20 min from the trailhead | Chéticamp (BOOKED) | ~170 km (~2.75h) | ⭐⭐⭐ |
 | [**Day 3**](day3_northern_eastern_cabot_trail.md) | **Mon, Oct 12** | Northern Highlands, Meat Cove Sea Cliffs, Neils Harbour, **Middle Head (or Franey) hike** & Cape Smokey — **night at the Keltic Resort Ingonish (BOOKED)** | Ingonish (Keltic BOOKED) | ~190 km (~3.2h) | ⭐⭐⭐⭐ |
-| [**Day 4**](day4_ingonish_to_lahave.md) | **Tue, Oct 13** | Check out Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → drive to the South Shore → **The Lookout Dome with private hot tub (BOOKED)** | LaHave (BOOKED) | ~560 km (~6h) | ⭐⭐ |
+| [**Day 4**](day4_ingonish_to_lahave.md) | **Tue, Oct 13** | Check out Keltic Ingonish → **Pictou Waterfront & Grohmann Knives Factory Tour** → drive to the South Shore → **The Lookout Dome with private hot tub (BOOKED)** · ❓ *open decision: Baddeck / Alexander Graham Bell NHS* | LaHave (BOOKED) | ~565 km (~7.5h) | ⭐⭐ |
 | [**Day 5**](day5_lahave_to_yhz.md) | **Wed, Oct 14** | 🌊 **LaHave Bakery & Cable Ferry → Lunenburg UNESCO Old Town → Mahone Bay → Peggy's Cove** & **evening return flight (WestJet WS811, 20:15 BOOKED)** | Return to Toronto | ~190 km (~3.5h) | ⭐⭐ |
 
 ---
